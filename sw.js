@@ -1,6 +1,6 @@
 /* Lớp Vui – service worker: giữ sẵn app và kho câu hỏi trong máy để chạy khi mất mạng.
    Có bản mới thì tải ngầm, app báo "Có bản Lớp Vui mới · Cập nhật"; thầy cô bấm thì mới đổi (không đổi giữa tiết học). */
-const VERSION = "lopvui-74a5efb21c95";
+const VERSION = "lopvui-acd83028cb0b";
 const FILES = ["./", "index.html", "manifest.webmanifest", "icon-192.png", "icon-512.png", "kho/index.json", "kho/ly10.txt"];
 self.addEventListener("install", e => e.waitUntil(caches.open(VERSION).then(c => c.addAll(FILES))));
 self.addEventListener("activate", e => e.waitUntil(

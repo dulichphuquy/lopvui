@@ -835,6 +835,10 @@ math{font-family:"Cambria Math","STIX Two Math","Latin Modern Math",serif;font-s
 @media (max-width:700px){.qe-grid{grid-template-columns:1fr}}
 #btnInstall{background:var(--accent);border-color:var(--accent);color:var(--accent-fg)}
 .fsnotice .row{gap:6px;flex-wrap:wrap}
+/* Sao lưu, khôi phục */
+.fsnotice.warnbig{border-color:var(--bad);background:color-mix(in srgb,var(--bad) 12%,var(--surface))}
+.bklist{display:flex;flex-direction:column;gap:6px;margin:6px 0;max-height:360px;overflow:auto}
+.bkrow{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;padding:8px 10px;border:1px solid var(--line);border-radius:10px;background:var(--bg)}
 
 </style>
 </head>
@@ -1029,6 +1033,13 @@ App.saveNow = () => { clearTimeout(saveT); saveT = 0; try { localStorage.setItem
 addEventListener("pagehide", () => saveT && App.saveNow());
 document.addEventListener("visibilitychange", () => { if (document.hidden && saveT) App.saveNow(); });
 App.exportData = () => JSON.stringify(S);
+/* Tải file sao lưu đầy đủ (dữ liệu + hình) để cất ra chỗ khác: ổ D:, USB, tài khoản Google cá nhân */
+App.fullBackup = async () => {
+  const images = {}; for (const st of S.sets) for (const id of App.img.idsIn(st.raw)) if (!images[id]) images[id] = await App.img.toDataURL(id);
+  if (S.prefs.bg && S.prefs.bg.img && !images[S.prefs.bg.img]) images[S.prefs.bg.img] = await App.img.toDataURL(S.prefs.bg.img);
+  S.lastFullBackup = Date.now(); delete S.backupSnooze; App.save();
+  App.download(new Blob([JSON.stringify({ format: "lopvui-backup", v: 1, data: S, images })], { type: "application/json" }), `lop-vui-sao-luu-${new Date().toISOString().slice(0, 10)}.lopvui`);
+};
 App.importData = txt => { const d = JSON.parse(txt); if (!d || !Array.isArray(d.classes) || !Array.isArray(d.sets)) throw new Error("Mã sao lưu không đúng định dạng."); Object.keys(S).forEach(k => delete S[k]); Object.assign(S, defaults(), d); App.save(); };
 
 /* ---------- Kho hình ảnh (IndexedDB, chạy offline, chứa được hàng trăm MB) ---------- */
@@ -2004,7 +2015,7 @@ async function flush() {
       S.fsNames[st.id] = fname;
     }
     for (const [id, f] of Object.entries(S.fsNames)) if (!S.sets.some(s => s.id === id)) { await sd.removeEntry(f).catch(() => { }); delete S.fsNames[id]; }
-    lastSaved = Date.now(); baseSave(); setState("on");
+    lastSaved = Date.now(); S.fsLastOk = lastSaved; baseSave(); setState("on");
   } catch (e) {
     console.error(e);
     if (e && (e.name === "NotAllowedError" || e.name === "SecurityError")) setState("need", "Trình duyệt cần thầy cô cho phép lại.");
@@ -2043,8 +2054,28 @@ async function loadFromFolder(d) {
 }
 async function keepLocal() { delete S.fresh; doneImg.clear(); setState("on"); S.savedAt = Date.now(); await flush(); }
 
+/* Các bản sao lưu trong DuLieu/sao-luu: bản đầu mỗi ngày + bản tự lưu ngay trước mỗi lần khôi phục */
+async function listBackups() {
+  if (!sub || state !== "on") return [];
+  const bk = await sub.getDirectoryHandle("sao-luu", { create: true }), out = [];
+  for await (const [name, fh] of bk.entries()) {
+    if (fh.kind !== "file" || !/\.json$/i.test(name)) continue;
+    try { const f = await fh.getFile(), d = JSON.parse(await f.text());
+      if (!d || !Array.isArray(d.classes)) continue;
+      out.push({ name, names: d.classes.map(c => c.name).slice(0, 4).join(", ") + (d.classes.length > 4 ? "…" : ""), before: name.startsWith("truoc-khoi-phuc"), savedAt: d.savedAt || f.lastModified, classes: d.classes.length, students: d.classes.reduce((a, c) => a + String(c.raw || "").split(/\r?\n/).filter(l => l.trim()).length, 0), sets: (d.sets || []).length, scores: d.classes.reduce((a, c) => a + Object.values(c.scores || {}).reduce((x, y) => x + y, 0), 0) });
+    } catch (e) { }
+  }
+  return out.sort((a, b) => b.savedAt - a.savedAt);
+}
+async function restoreBackup(name) {
+  const bk = await sub.getDirectoryHandle("sao-luu"), f = await (await bk.getFileHandle(name)).getFile(), txt = await f.text();
+  const stamp = new Date(Date.now() + 7 * 36e5).toISOString().slice(0, 16).replace("T", "-").replace(":", "h");
+  await writeFile(bk, `truoc-khoi-phuc-${stamp}.json`, JSON.stringify(S)); // giữ bản hiện tại để có thể quay lại
+  App.importData(txt); delete S.fresh; S.savedAt = Date.now(); doneImg.clear(); Object.keys(setSig).forEach(k => delete setSig[k]);
+  await flush();
+}
 App.fs = {
-  supported, schedule, flush, use, loadFromFolder, keepLocal,
+  supported, schedule, flush, use, loadFromFolder, keepLocal, listBackups, restoreBackup,
   get state() { return state; }, get folder() { return dir ? dir.name : ""; }, get lastSaved() { return lastSaved; }, get error() { return lastErr; },
   onChange: f => listeners.push(f),
   async choose() {
@@ -3478,6 +3509,21 @@ App.go = go;
 App.refreshIfIdle = () => { if (view === "home" || view === "bank") go(view); };
 
 /* ---------- Trang chính ---------- */
+const DAY = 864e5, ago = t => { const d = Math.floor((Date.now() - t) / DAY); return d <= 0 ? "hôm nay" : d + " ngày trước"; };
+/* Quá 1 ngày chưa lưu được ra thư mục → cảnh báo nổi bật (trước đây chỉ có chữ nhỏ trên thanh trên cùng) */
+function saveWarn() {
+  if (!App.fs.supported() || S.fresh || App.fs.state === "on" || App.fs.state === "conflict") return "";
+  if (S.fsLastOk && Date.now() - S.fsLastOk < DAY && App.fs.state === "need") return "";
+  const since = S.fsLastOk ? `Lần cuối lưu ra thư mục: <b>${ago(S.fsLastOk)}</b>.` : "Dữ liệu chưa từng được lưu ra thư mục.";
+  return `<div class="fsnotice warnbig"><span>⚠️ ${since} Hiện dữ liệu chỉ nằm trong trình duyệt: xóa lịch sử hoặc hỏng máy là mất. ${App.fs.state === "need" ? "Bấm để cho phép lưu tiếp vào thư mục <b>" + esc(App.fs.folder) + "</b>." : "Chọn thư mục LopVui trong Google Drive để app tự lưu."}</span><button class="btn small primary" id="hSaveWarn">${App.fs.state === "need" ? "Cho phép lưu tiếp" : "Chọn thư mục"}</button></div>`;
+}
+/* Mỗi 30 ngày nhắc tải file sao lưu đầy đủ để cất ra chỗ khác (không phụ thuộc tài khoản trường) */
+function monthlyWarn() {
+  if (S.fresh) return ""; const last = S.lastFullBackup || 0, snooze = S.backupSnooze || 0;
+  if (Date.now() - last < 30 * DAY || Date.now() - snooze < 7 * DAY) return "";
+  if (!S.lastFullBackup && Date.now() - (S.firstUse || (S.firstUse = Date.now(), App.save(), Date.now())) < 7 * DAY) return "";
+  return `<div class="fsnotice"><span>${last ? `Đã ${ago(last).replace(" trước", "")} chưa tải file sao lưu đầy đủ.` : "Thầy cô chưa tải file sao lưu đầy đủ lần nào."} Nên tải mỗi tháng một lần rồi cất ra <b>ổ D:, USB hoặc tài khoản Google cá nhân</b>, phòng khi mất tài khoản trường.</span><span class="row"><button class="btn small primary" id="hBackup">Tải file sao lưu</button><button class="btn small" id="hBackupLater">Để sau</button></span></div>`;
+}
 function home() {
   updateSubjCounts();
   const c = App.cls(), set = App.pickSetForSubject(), p = set ? App.parseSet(set.raw) : { nQ: 0, nPair: 0 }, subjName = App.SUBJECTS[S.subject]?.name || "Chung", mySets = App.setsOf(S.subject);
@@ -3486,6 +3532,7 @@ function home() {
   const hr = new Date().getHours(), greet = hr < 11 ? "Chào buổi sáng" : hr < 13 ? "Chào buổi trưa" : hr < 18 ? "Chào buổi chiều" : "Chào buổi tối";
   V().innerHTML = `<div class="wrap">
     ${S.fresh && /^https?:/.test(location.protocol) && App.fs.supported() && App.fs.state === "off" && !S.prefs.migrateSkip ? `<div class="fsnotice"><span>Thầy cô đã dùng Lớp Vui bằng file <b>LopVui.html</b> trên máy này? Chọn thư mục <b>LopVui</b> (ví dụ G:\\My Drive\\LopVui) để lấy lại lớp học, bộ câu hỏi và điểm, đồng thời bật tự lưu.</span><span class="row"><button class="btn small primary" id="hMigrate">Chọn thư mục</button><button class="btn small" id="hMigrateNo">Dùng mới</button></span></div>` : ""}
+    ${saveWarn()}${monthlyWarn()}
     ${App.fs.state === "need" ? `<div class="fsnotice"><span>Lớp Vui đang tự lưu vào thư mục <b>${esc(App.fs.folder)}</b>. Trình duyệt cần thầy cô cho phép lại sau mỗi lần mở app.</span><button class="btn small primary" id="hFsAllow">Cho phép lưu tiếp</button></div>` : ""}
     ${S.prefs.mascot !== false ? `<div class="hello">${App.mascot("hello", 104)}<div class="bubble"><b>${greet} thầy cô!</b> Mình là cá heo ${App.MASCOT_NAME}. Chọn lớp, chọn bộ câu hỏi, rồi mình cùng vào trò chơi nhé.</div></div>` : ""}
     <div class="section-title"><h2>Chuẩn bị tiết học</h2><span class="note">Chọn lớp và bộ câu hỏi một lần, mọi trò chơi đều dùng chung.</span></div>
@@ -3514,6 +3561,9 @@ function home() {
   $("hEditClass").onclick = () => go("classes");
   if ($("hFsAllow")) $("hFsAllow").onclick = () => fsAct(App.fs.reconnect());
   if ($("hMigrate")) $("hMigrate").onclick = () => fsAct(App.fs.choose());
+  if ($("hSaveWarn")) $("hSaveWarn").onclick = () => fsAct(App.fs.state === "need" ? App.fs.reconnect() : App.fs.choose());
+  if ($("hBackup")) $("hBackup").onclick = async () => { await App.fullBackup(); App.toast("Đã tải file sao lưu. Hãy cất file này ra ổ D:, USB hoặc tài khoản Google cá nhân."); home(); };
+  if ($("hBackupLater")) $("hBackupLater").onclick = () => { S.backupSnooze = Date.now(); App.save(); home(); };
   if ($("hMigrateNo")) $("hMigrateNo").onclick = () => { S.prefs.migrateSkip = true; delete S.fresh; App.save(); home(); };
   $("hEditSet").onclick = () => go("sets");
   $("hBank").onclick = () => go("bank");
@@ -4006,15 +4056,13 @@ function settings() {
   $("pLessFx").onchange = e => { S.prefs.lessFx = e.target.checked; document.documentElement.classList.toggle("lessfx", S.prefs.lessFx); App.save(); };
   $("pSpeak").onchange = e => { S.prefs.speak = e.target.checked; App.save(); App.say("Xin chào cả lớp"); };
   $("bCopy").onclick = () => copy(App.exportData(), "Đã sao chép mã sao lưu.");
-  $("bFile").onclick = async () => {
-    const images = {}; for (const st of S.sets) for (const id of App.img.idsIn(st.raw)) if (!images[id]) images[id] = await App.img.toDataURL(id);
-    App.download(new Blob([JSON.stringify({ format: "lopvui-backup", v: 1, data: S, images })], { type: "application/json" }), `lop-vui-sao-luu-${new Date().toISOString().slice(0, 10)}.lopvui`);
-  };
+  $("bFile").onclick = () => App.fullBackup();
   $("bOpen").onchange = async e => {
     const f = e.target.files[0]; e.target.value = ""; if (!f) return;
     try {
       const d = JSON.parse(await f.text());
       if (d.format === "lopvui-set") { const st = await App.docx.importSet(f); App.newSet(st.name, st.raw); App.toast(`Đã thêm bộ câu hỏi "${st.name}".`); return; }
+      if (d && Array.isArray(d.classes) && Array.isArray(d.sets)) { App.importData(JSON.stringify(d)); delete S.fresh; App.applySubject(); App.toast("Đã lấy dữ liệu từ file du-lieu.json."); go("home"); return; } // file trong DuLieu hoặc DuLieu/sao-luu
       if (d.format !== "lopvui-backup") throw new Error("File này không phải file sao lưu Lớp Vui.");
       for (const [id, url] of Object.entries(d.images || {})) if (url) await App.img.fromDataURL(id, url);
       App.importData(JSON.stringify(d.data)); App.applySubject(); App.toast("Đã khôi phục dữ liệu từ file."); go("home");
@@ -4131,8 +4179,8 @@ function showConflict(d) {
   const when = d.savedAt ? new Date(d.savedAt).toLocaleString("vi-VN") : "không rõ";
   const ov = document.createElement("div"); ov.className = "overlay"; ov.innerHTML = `<div class="result" style="text-align:left;animation:none;max-width:620px">
     <h2 style="font-size:22px">Thư mục đã có dữ liệu Lớp Vui</h2>
-    <p>Trong thư mục <b>${esc(App.fs.folder)}</b> có dữ liệu lưu lúc <b>${esc(when)}</b>: ${d.classes.length} lớp, ${(d.sets || []).length} bộ câu hỏi. Dữ liệu này mới hơn dữ liệu đang có trong trình duyệt.</p>
-    <p class="note">Thường gặp khi mở app trên máy khác, hoặc sau khi xóa lịch sử trình duyệt.</p>
+    <p>Trong thư mục <b>${esc(App.fs.folder)}</b> có dữ liệu lưu lúc <b>${esc(when)}</b>: ${d.classes.length} lớp, ${(d.sets || []).length} bộ câu hỏi. ${S.fresh ? "Lớp Vui ở trình duyệt này đang là dữ liệu mẫu, nên thầy cô thường chọn lấy dữ liệu trong thư mục." : "Dữ liệu này mới hơn dữ liệu đang có trong trình duyệt."}</p>
+    <p class="note">Thường gặp khi mở Lớp Vui ở địa chỉ mới, trên máy khác, hoặc sau khi xóa lịch sử trình duyệt.</p>
     <div class="row"><button class="btn primary" id="fcLoad">Dùng dữ liệu trong thư mục</button><button class="btn" id="fcKeep">Ghi đè bằng dữ liệu trên máy này</button></div></div>`;
   document.body.appendChild(ov);
   $("fcLoad").onclick = async () => { ov.remove(); await App.fs.loadFromFolder(d); App.applySubject(); App.toast("Đã lấy dữ liệu từ thư mục."); go("home"); };
@@ -4144,13 +4192,25 @@ function renderFsPanel() {
   const head = `<h3 style="font-size:17px">Tự lưu vào thư mục trên máy</h3>`;
   const tip = `<span class="note">Gợi ý: chọn thư mục <b>LopVui</b> trong Google Drive (ví dụ G:\\My Drive\\LopVui). App tạo thư mục con <b>DuLieu</b> gồm dữ liệu, hình, từng bộ câu hỏi (.lopvui) và bản sao lưu mỗi ngày. Google Drive sẽ tự đưa lên mạng.</span>`;
   if (st === "unsupported") el.innerHTML = head + `<span class="note">Tính năng này cần mở file <b>LopVui.html</b> trên máy tính bằng Chrome, Edge hoặc Cốc Cốc. Bản xem trên claude.ai và trình duyệt Firefox không dùng được.</span>`;
-  else if (st === "on") el.innerHTML = head + `<div class="fsrow ok"><b>Đang tự lưu</b> vào <b>${f}\\DuLieu</b>${App.fs.lastSaved ? ` · lần gần nhất ${hhmm(App.fs.lastSaved)}` : ""}</div><div class="row"><button class="btn small" id="fsNow">Lưu ngay</button><button class="btn small" id="fsPick">Đổi thư mục</button><button class="btn small danger" id="fsStop">Ngừng tự lưu</button></div>`;
+  else if (st === "on") el.innerHTML = head + `<div class="fsrow ok"><b>Đang tự lưu</b> vào <b>${f}\\DuLieu</b>${App.fs.lastSaved ? ` · lần gần nhất ${hhmm(App.fs.lastSaved)}` : ""}</div><div class="row"><button class="btn small" id="fsNow">Lưu ngay</button><button class="btn small" id="fsList">Khôi phục từ bản sao lưu…</button><button class="btn small" id="fsPick">Đổi thư mục</button><button class="btn small danger" id="fsStop">Ngừng tự lưu</button></div><div id="fsBackups"></div>`;
   else if (st === "need") el.innerHTML = head + `<div class="fsrow warn">Đã chọn thư mục <b>${f}</b>. Trình duyệt cần thầy cô cho phép lại sau mỗi lần mở app.</div><div class="row"><button class="btn small primary" id="fsAllow">Cho phép lưu tiếp</button><button class="btn small" id="fsPick">Đổi thư mục</button><button class="btn small danger" id="fsStop">Ngừng tự lưu</button></div>`;
   else if (st === "error") el.innerHTML = head + `<div class="fsrow bad">${esc(App.fs.error)}</div><div class="row"><button class="btn small primary" id="fsPick">Chọn lại thư mục</button><button class="btn small danger" id="fsStop">Ngừng tự lưu</button></div>`;
   else if (st === "conflict") el.innerHTML = head + `<div class="fsrow warn">Đang chờ thầy cô chọn dùng dữ liệu nào.</div>`;
   else el.innerHTML = head + `<span class="note">Dữ liệu hiện chỉ nằm trong trình duyệt: xóa lịch sử trình duyệt hoặc đổi trình duyệt có thể mất. Chọn một thư mục để app tự lưu mỗi khi có thay đổi.</span><div class="row"><button class="btn small primary" id="fsPick">Chọn thư mục lưu</button></div>` + tip;
   const on = (id, fn) => { const b = $(id); if (b) b.onclick = fn; };
   on("fsPick", () => fsAct(App.fs.choose()));
+  on("fsList", async () => {
+    const box = $("fsBackups"), list = await App.fs.listBackups();
+    if (!list.length) { box.innerHTML = `<span class="note">Chưa có bản sao lưu nào. App tạo một bản vào đầu mỗi ngày có dùng.</span>`; return; }
+    box.innerHTML = `<div class="label" style="margin-top:6px">Chọn bản muốn khôi phục (giữ 30 ngày gần nhất)</div><div class="bklist">${list.map(b => `<div class="bkrow"><div><b>${new Date(b.savedAt).toLocaleString("vi-VN")}</b>${b.before ? ` <span class="pill">bản tự lưu trước lần khôi phục</span>` : ""}<br><span class="note">${esc(b.names)}</span><br><span class="note">${b.classes} lớp · ${b.students} học sinh · ${b.sets} bộ câu hỏi · tổng điểm cộng ${b.scores}</span></div><button class="btn small" data-bk="${esc(b.name)}">Khôi phục</button></div>`).join("")}</div>
+      <span class="note">Trước khi khôi phục, app tự lưu dữ liệu hiện tại thành "bản tự lưu trước lần khôi phục" để có thể quay lại.</span>`;
+    box.querySelectorAll("[data-bk]").forEach(btn => btn.onclick = () => {
+      const row = btn.closest(".bkrow"); if (row.querySelector(".confirm")) return;
+      row.insertAdjacentHTML("beforeend", `<div class="confirm" style="flex-basis:100%">Thay toàn bộ dữ liệu hiện tại bằng bản này? <button class="btn small danger" data-y>Khôi phục</button><button class="btn small" data-n>Thôi</button></div>`);
+      row.querySelector("[data-n]").onclick = () => row.querySelector(".confirm").remove();
+      row.querySelector("[data-y]").onclick = async () => { try { await App.fs.restoreBackup(btn.dataset.bk); App.applySubject(); App.toast("Đã khôi phục. Bản trước đó được giữ trong danh sách để quay lại khi cần."); go("home"); } catch (e) { App.toast("Không khôi phục được: " + (e.message || e)); } };
+    });
+  });
   on("fsAllow", () => fsAct(App.fs.reconnect()));
   on("fsNow", async () => { await App.fs.flush(); App.toast("Đã lưu."); });
   on("fsStop", async () => { await App.fs.stop(); App.toast("Đã ngừng tự lưu. Các file đã lưu trong thư mục vẫn giữ nguyên."); });
@@ -4190,7 +4250,8 @@ App.start = () => {
   $("btnSettings").onclick = () => { present(false); go("settings"); };
   $("btnLook").onclick = () => { const k = Object.keys(App.LOOKS), n = k[(k.indexOf(App.look()) + 1) % k.length]; App.setLook(n); App.toast(`Giao diện: ${App.LOOKS[n].name}`); };
   $("saveChip").onclick = () => { if (App.fs.state === "need") fsAct(App.fs.reconnect()); else { present(false); go("settings"); } };
-  App.fs.onChange(() => { updateChip(); renderFsPanel(); });
+  let lastFs = App.fs.state;
+  App.fs.onChange(() => { updateChip(); renderFsPanel(); if (view === "home" && App.fs.state !== lastFs && !document.querySelector(".overlay")) home(); lastFs = App.fs.state; });
   App.fs.init().then(() => { updateChip(); if (App.fs.pendingConflict) { const d = App.fs.pendingConflict; App.fs.pendingConflict = null; showConflict(d); } if (view === "home") home(); });
   $("btnPresent").onclick = () => present(true);
   $("btnExit").onclick = () => present(false);
