@@ -1,0 +1,32 @@
+{
+  "name": "Lớp Vui – BẢN THỬ",
+  "short_name": "Lớp Vui THỬ",
+  "description": "Vòng quay gọi tên, chia nhóm, đố vui, lật thẻ và kho câu hỏi soạn sẵn theo SGK. Chạy được khi mất mạng.",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#070F1A",
+  "theme_color": "#0B1828",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "./?thu"
+}

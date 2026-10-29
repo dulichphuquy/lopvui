@@ -1,0 +1,1729 @@
+@goi ly10 | ly | 10 | Vật lí 10 | Kết nối tri thức với cuộc sống
+
+@chuong I | Mở đầu
+
+@bai 1 | Làm quen với vật lí
+Câu 1. [NB] Đối tượng nghiên cứu của vật lí là
+A. sự hình thành và phát triển của các loài sinh vật.
+*B. các dạng vận động của vật chất và năng lượng.
+C. cấu tạo và tính chất của các chất hóa học.
+D. sự phát triển của xã hội loài người.
+Lời giải
+Vật lí nghiên cứu các dạng vận động của vật chất (chất, trường) và năng lượng.
+
+Câu 2. [NB] Mục tiêu của việc học tập môn Vật lí là giúp học sinh
+A. chỉ ghi nhớ các công thức để giải bài tập.
+B. chỉ biết sử dụng các thiết bị điện trong gia đình.
+*C. hình thành, phát triển năng lực vật lí, biết vận dụng kiến thức vào thực tiễn.
+D. trở thành nhà khoa học nghiên cứu vật lí.
+
+Câu 3. [NB] Hai phương pháp nghiên cứu chủ yếu của vật lí là
+*A. phương pháp thực nghiệm và phương pháp lí thuyết.
+B. phương pháp quan sát và phương pháp điều tra xã hội.
+C. phương pháp thống kê và phương pháp phỏng vấn.
+D. phương pháp so sánh và phương pháp liệt kê.
+
+Câu 4. [NB] Phương pháp thực nghiệm dùng
+A. ngôn ngữ toán học để suy luận ra kết quả mới mà không cần thí nghiệm.
+*B. thí nghiệm để phát hiện kết quả mới giúp kiểm chứng, hoàn thiện, bổ sung hay bác bỏ giả thuyết.
+C. trí tưởng tượng để đưa ra các câu chuyện khoa học.
+D. ý kiến của số đông để kết luận về một hiện tượng.
+
+Câu 5. [NB] Phương pháp lí thuyết sử dụng chủ yếu
+A. các dụng cụ đo hiện đại.
+*B. ngôn ngữ toán học và suy luận lí thuyết để phát hiện kết quả mới.
+C. các phép đo lặp lại nhiều lần.
+D. các mô hình bằng gỗ hoặc nhựa.
+
+Câu 6. [NB] Nhà vật lí nào đã làm thí nghiệm ở tháp nghiêng Pisa để bác bỏ quan niệm "vật nặng rơi nhanh hơn vật nhẹ"?
+A. Newton.
+B. Einstein.
+*C. Galilei.
+D. Aristotle.
+
+Câu 7. [NB] Phát minh nào sau đây gắn liền với cuộc cách mạng công nghiệp lần thứ nhất?
+*A. Máy hơi nước.
+B. Máy tính điện tử.
+C. Mạng Internet.
+D. Trí tuệ nhân tạo.
+
+Câu 8. [NB] Cuộc cách mạng công nghiệp lần thứ hai gắn liền với
+A. máy hơi nước và cơ giới hóa sản xuất.
+*B. năng lượng điện và dây chuyền sản xuất hàng loạt.
+C. máy tính, điện tử và tự động hóa.
+D. trí tuệ nhân tạo, Internet vạn vật và dữ liệu lớn.
+
+Câu 9. [TH] Lĩnh vực nào sau đây thuộc phạm vi nghiên cứu của vật lí?
+A. Sự phân chia tế bào.
+B. Lịch sử hình thành các quốc gia.
+*C. Sự truyền ánh sáng qua lăng kính.
+D. Phản ứng giữa axit và bazơ tạo thành muối.
+
+Câu 10. [TH] Thứ tự các bước của phương pháp thực nghiệm là
+A. Thí nghiệm → Kết luận → Quan sát → Giả thuyết.
+*B. Quan sát, đặt câu hỏi → Đề xuất giả thuyết → Thí nghiệm kiểm tra → Kết luận.
+C. Kết luận → Giả thuyết → Quan sát → Thí nghiệm.
+D. Giả thuyết → Kết luận → Thí nghiệm → Quan sát.
+Lời giải
+Từ quan sát, đặt câu hỏi, nhà khoa học đề xuất giả thuyết, thiết kế thí nghiệm kiểm tra, rồi rút ra kết luận (giả thuyết đúng hay cần điều chỉnh).
+
+Câu 11. [TH] Khi kết quả thí nghiệm không phù hợp với giả thuyết đã đề ra thì người nghiên cứu cần
+A. sửa lại số liệu thí nghiệm cho khớp với giả thuyết.
+B. giữ nguyên giả thuyết và bỏ qua kết quả thí nghiệm.
+*C. điều chỉnh hoặc thay đổi giả thuyết, rồi tiếp tục kiểm tra bằng thí nghiệm.
+D. dừng nghiên cứu vì giả thuyết đã sai.
+
+Câu 12. [TH] Mô hình nào sau đây là mô hình toán học?
+A. Quả địa cầu bằng nhựa.
+B. Mô hình nguyên tử bằng các quả cầu và que nối.
+*C. Công thức $s = vt$ mô tả chuyển động thẳng đều.
+D. Bản vẽ hình dạng một chiếc xe đạp.
+
+Câu 13. [TH] Ứng dụng nào sau đây là ứng dụng của vật lí trong y học?
+A. Phân bón hóa học.
+*B. Chụp X-quang, chụp cộng hưởng từ (MRI).
+C. Giống lúa mới chịu mặn.
+D. Thuốc kháng sinh.
+
+Câu 14. [TH] Việc sử dụng tấm pin Mặt Trời để cung cấp điện cho gia đình là ứng dụng của vật lí trong lĩnh vực
+*A. năng lượng.
+B. thông tin liên lạc.
+C. nông nghiệp.
+D. y tế.
+
+Câu 15. [TH] Nhận định nào sau đây về vật lí là đúng?
+A. Vật lí chỉ có lợi, không gây ra ảnh hưởng xấu nào.
+*B. Các thành tựu vật lí mang lại nhiều lợi ích nhưng nếu sử dụng không đúng cách có thể gây hại cho con người và môi trường.
+C. Vật lí không liên quan đến các ngành khoa học khác.
+D. Vật lí chỉ nghiên cứu những hiện tượng xảy ra trong phòng thí nghiệm.
+
+Câu 16. [VD] Một học sinh thả cùng lúc, từ cùng độ cao, một tờ giấy phẳng và một tờ giấy giống hệt đã được vo tròn, thấy tờ giấy vo tròn chạm đất trước. Giả thuyết hợp lí nhất để kiểm tra là
+A. vật nặng hơn rơi nhanh hơn.
+*B. lực cản của không khí ảnh hưởng đến sự rơi của vật.
+C. tờ giấy vo tròn có khối lượng lớn hơn.
+D. Trái Đất hút tờ giấy vo tròn mạnh hơn.
+Lời giải
+Hai tờ giấy cùng khối lượng nhưng khác hình dạng nên khác nhau ở lực cản không khí. Đây là giả thuyết cần kiểm tra bằng thí nghiệm.
+
+Câu 17. [VD] Để kiểm tra giả thuyết "thời gian rơi của vật không phụ thuộc vào khối lượng khi bỏ qua sức cản không khí", cách làm phù hợp nhất là
+A. thả một hòn đá và một chiếc lông chim ngoài trời.
+*B. thả hai viên bi cùng kích thước nhưng khối lượng khác nhau từ cùng độ cao, đo thời gian rơi.
+C. hỏi ý kiến của nhiều bạn trong lớp.
+D. thả một viên bi từ nhiều độ cao khác nhau.
+Lời giải
+Cần giữ các yếu tố khác (kích thước, hình dạng, độ cao) như nhau và chỉ thay đổi khối lượng để thấy khối lượng có ảnh hưởng hay không.
+
+Câu 18. [VD] Một nhà máy nhiệt điện thải nhiều khói bụi gây ô nhiễm. Giải pháp phù hợp nhất dựa trên hiểu biết vật lí là
+A. tăng công suất nhà máy để sản xuất nhiều điện hơn.
+*B. phát triển các nguồn năng lượng sạch như điện gió, điện mặt trời để thay thế dần.
+C. cho người dân sống gần nhà máy chuyển đi nơi khác.
+D. ngừng sử dụng điện trong sinh hoạt.
+
+Câu 19. [TF] [TH] Về đối tượng và phương pháp nghiên cứu của vật lí:
+*A. Vật lí nghiên cứu các dạng vận động của vật chất và năng lượng.
+B. Phương pháp lí thuyết không cần dùng đến toán học.
+*C. Phương pháp thực nghiệm dùng thí nghiệm để kiểm chứng giả thuyết.
+D. Kết quả của phương pháp lí thuyết không cần kiểm chứng bằng thực nghiệm.
+Lời giải
+b) Sai: phương pháp lí thuyết dùng ngôn ngữ toán học. d) Sai: kết quả lí thuyết cần được thực nghiệm kiểm chứng.
+
+Câu 20. [TF] [TH] Về vai trò của vật lí đối với khoa học, công nghệ và kĩ thuật:
+*A. Máy hơi nước là thành tựu gắn với cuộc cách mạng công nghiệp lần thứ nhất.
+*B. Điện năng được sử dụng rộng rãi trong cuộc cách mạng công nghiệp lần thứ hai.
+C. Máy tính điện tử xuất hiện trong cuộc cách mạng công nghiệp lần thứ nhất.
+*D. Trí tuệ nhân tạo và Internet vạn vật gắn với cuộc cách mạng công nghiệp lần thứ tư.
+Lời giải
+c) Sai: máy tính điện tử, tự động hóa gắn với cuộc cách mạng công nghiệp lần thứ ba.
+
+Câu 21. [TF] [VD] Một nhóm học sinh muốn tìm hiểu xem độ dài dây treo của con lắc có ảnh hưởng đến thời gian con lắc thực hiện một lần đi và về (một dao động) hay không:
+*A. Đây là bài toán có thể nghiên cứu bằng phương pháp thực nghiệm.
+B. Khi làm thí nghiệm, nhóm nên đồng thời thay đổi cả độ dài dây và khối lượng quả nặng.
+*C. Nhóm cần đo thời gian thực hiện một dao động nhiều lần để giảm sai số.
+D. Chỉ cần làm thí nghiệm một lần là đủ để rút ra kết luận chắc chắn.
+Lời giải
+b) Sai: chỉ thay đổi một đại lượng (độ dài), giữ nguyên các đại lượng khác. d) Sai: cần lặp lại thí nghiệm nhiều lần.
+
+Câu 22. [TF] [TH] Về ảnh hưởng của vật lí đến đời sống và môi trường:
+*A. Các thiết bị điện tử giúp con người liên lạc nhanh chóng trên toàn thế giới.
+*B. Năng lượng hạt nhân có thể dùng để sản xuất điện nhưng cần kiểm soát an toàn phóng xạ.
+C. Mọi ứng dụng của vật lí đều không gây ảnh hưởng đến môi trường.
+*D. Rác thải điện tử nếu không được xử lí đúng cách có thể gây ô nhiễm môi trường.
+
+Câu 23. [NB] Cuộc cách mạng công nghiệp gắn với máy hơi nước là cuộc cách mạng công nghiệp lần thứ mấy?
+Trả lời: [[1]]
+
+Câu 24. [NB] Cuộc cách mạng công nghiệp gắn với việc sử dụng rộng rãi năng lượng điện là cuộc cách mạng công nghiệp lần thứ mấy?
+Trả lời: [[2]]
+
+Câu 25. [NB] Cuộc cách mạng công nghiệp gắn với máy tính, điện tử và tự động hóa là cuộc cách mạng công nghiệp lần thứ mấy?
+Trả lời: [[3]]
+
+Câu 26. [NB] Cuộc cách mạng công nghiệp gắn với trí tuệ nhân tạo, Internet vạn vật và dữ liệu lớn là cuộc cách mạng công nghiệp lần thứ mấy?
+Trả lời: [[4]]
+
+Câu 27. [TH] Các bước của phương pháp thực nghiệm gồm: (1) quan sát, đặt câu hỏi; (2) đề xuất giả thuyết; (3) thí nghiệm kiểm tra; (4) kết luận. Bước dùng để kiểm tra giả thuyết là bước thứ mấy?
+Trả lời: [[3]]
+
+Câu 28. [VD] Cho các ứng dụng: (1) chụp X-quang trong y tế; (2) pin Mặt Trời cung cấp điện; (3) phân bón hóa học; (4) điện thoại di động; (5) giống lúa mới chịu mặn. Có bao nhiêu ứng dụng chủ yếu dựa trên thành tựu của vật lí?
+Trả lời: [[3]]
+Lời giải
+Các ứng dụng (1), (2), (4) dựa trên thành tựu vật lí; (3) thuộc hóa học, (5) thuộc sinh học.
+
+@bai 2 | Các quy tắc an toàn trong phòng thực hành vật lí
+Câu 1. [NB] Kí hiệu "DC" hoặc "⎓" trên thiết bị điện cho biết
+*A. thiết bị dùng dòng điện một chiều.
+B. thiết bị dùng dòng điện xoay chiều.
+C. thiết bị phải được nối đất.
+D. thiết bị chịu được nhiệt độ cao.
+
+Câu 2. [NB] Kí hiệu "AC" hoặc dấu "~" trên thiết bị điện cho biết
+A. thiết bị dùng dòng điện một chiều.
+*B. thiết bị dùng dòng điện xoay chiều.
+C. thiết bị phải tránh ánh nắng.
+D. thiết bị dễ vỡ.
+
+Câu 3. [NB] Biển báo có dạng hình tam giác, nền vàng, viền đen là loại biển
+A. cấm.
+*B. cảnh báo nguy hiểm.
+C. chỉ dẫn.
+D. hiệu lệnh bắt buộc.
+
+Câu 4. [NB] Biển báo có dạng hình tròn, viền đỏ, có gạch chéo thường là loại biển
+*A. cấm thực hiện một hành động.
+B. cảnh báo nguy hiểm.
+C. chỉ dẫn lối thoát hiểm.
+D. thông tin về thiết bị.
+
+Câu 5. [NB] Việc làm nào sau đây đảm bảo an toàn khi sử dụng thiết bị điện trong phòng thực hành?
+A. Cắm phích điện vào ổ khi tay còn ướt.
+B. Tự ý tháo vỏ thiết bị đang có điện để quan sát.
+*C. Tắt công tắc nguồn trước khi lắp hoặc tháo mạch điện.
+D. Để dây điện chồng chéo trên mặt bàn.
+
+Câu 6. [TH] Trước khi tiến hành thí nghiệm, việc cần làm đầu tiên là
+A. bật ngay nguồn điện để kiểm tra thiết bị.
+*B. đọc kĩ hướng dẫn sử dụng thiết bị và quan sát các kí hiệu, chỉ dẫn trên thiết bị.
+C. thử tất cả các núm điều chỉnh ở mức lớn nhất.
+D. chạm tay vào các bộ phận để kiểm tra nhiệt độ.
+
+Câu 7. [TH] Hành động nào sau đây là KHÔNG an toàn trong phòng thực hành?
+A. Đeo kính bảo hộ khi làm thí nghiệm với nguồn sáng mạnh.
+B. Báo ngay cho giáo viên khi thiết bị có dấu hiệu bất thường.
+*C. Nhìn trực tiếp vào tia laser để kiểm tra nguồn sáng.
+D. Sắp xếp dụng cụ gọn gàng sau khi làm xong thí nghiệm.
+
+Câu 8. [TH] Khi phát hiện dây điện của thiết bị bị hở vỏ cách điện, học sinh cần
+A. tiếp tục sử dụng nhưng không chạm vào chỗ hở.
+B. dùng băng dính giấy quấn lại rồi dùng tiếp.
+*C. ngừng sử dụng, ngắt nguồn và báo cho giáo viên.
+D. dùng tay giữ chặt chỗ hở để dòng điện không thoát ra.
+
+Câu 9. [TH] Kí hiệu hình tam giác có hình ngọn lửa bên trong cảnh báo
+A. nơi có điện cao áp.
+*B. chất dễ cháy.
+C. bề mặt trơn trượt.
+D. khu vực có từ trường mạnh.
+
+Câu 10. [TH] Kí hiệu hình tam giác có tia sét bên trong cảnh báo
+*A. nguy hiểm về điện (điện cao áp).
+B. chất độc hại.
+C. bề mặt nóng.
+D. vật dễ vỡ.
+
+Câu 11. [VD] Trong giờ thực hành, một nhóm học sinh làm đổ nước lên bàn có ổ cắm điện đang cắm thiết bị. Việc cần làm trước tiên là
+A. dùng tay lau khô nước quanh ổ cắm.
+*B. ngắt cầu dao hoặc công tắc nguồn điện của bàn, sau đó báo giáo viên.
+C. tiếp tục làm thí nghiệm cho xong.
+D. rút phích cắm bằng tay ướt.
+
+Câu 12. [VD] Một học sinh muốn đo cường độ dòng điện bằng ampe kế nhưng không biết giá trị dòng điện khoảng bao nhiêu. Cách làm an toàn cho dụng cụ là
+A. chọn thang đo nhỏ nhất để đọc cho chính xác.
+*B. chọn thang đo lớn nhất trước, sau đó giảm dần đến thang đo phù hợp.
+C. mắc ampe kế song song với nguồn điện.
+D. không cần chọn thang đo.
+Lời giải
+Chọn thang đo lớn nhất trước để tránh dòng điện vượt quá giới hạn đo làm hỏng ampe kế.
+
+Câu 13. [TF] [NB] Về các kí hiệu trên thiết bị thí nghiệm:
+*A. Kí hiệu "DC" chỉ dòng điện một chiều.
+*B. Kí hiệu "AC" chỉ dòng điện xoay chiều.
+C. Biển báo hình tam giác nền vàng là biển cấm.
+*D. Dấu "+" chỉ cực dương của nguồn hoặc dụng cụ đo.
+Lời giải
+c) Sai: biển tam giác nền vàng là biển cảnh báo.
+
+Câu 14. [TF] [TH] Khi làm thí nghiệm với các thiết bị điện:
+*A. Cần tắt nguồn trước khi lắp hoặc tháo mạch điện.
+B. Có thể cắm dây nối vào nguồn khi chưa xác định rõ cực dương, cực âm.
+*C. Cần kiểm tra dây nối, vỏ cách điện trước khi sử dụng.
+D. Có thể để các vật dụng chứa nước gần ổ điện cho tiện thao tác.
+
+Câu 15. [TF] [TH] Về an toàn khi làm thí nghiệm với nguồn nhiệt và ánh sáng:
+A. Có thể dùng tay để thử độ nóng của bình đang đun.
+*B. Cần dùng kẹp hoặc găng tay cách nhiệt khi cầm vật nóng.
+C. Nhìn trực tiếp vào tia laser trong thời gian ngắn thì không gây hại.
+*D. Không để các chất dễ cháy gần nguồn nhiệt.
+
+Câu 16. [TF] [VD] Trong giờ thực hành, nhóm học sinh nhận thấy đồng hồ đo điện có mùi khét và bốc khói nhẹ:
+*A. Cần ngắt nguồn điện ngay lập tức.
+B. Nên mở vỏ đồng hồ để tìm nguyên nhân.
+*C. Cần báo cho giáo viên phụ trách phòng thực hành.
+D. Có thể tiếp tục đo nếu kim đồng hồ vẫn còn quay.
+
+@bai 3 | Thực hành tính sai số trong phép đo. Ghi kết quả đo
+Câu 1. [NB] Phép đo trực tiếp là phép đo
+*A. đọc giá trị của đại lượng cần đo trực tiếp trên dụng cụ đo.
+B. tính giá trị đại lượng cần đo thông qua công thức.
+C. luôn có sai số bằng không.
+D. chỉ dùng cho các đại lượng có đơn vị là mét.
+
+Câu 2. [NB] Phép đo nào sau đây là phép đo gián tiếp?
+A. Đo chiều dài cái bàn bằng thước.
+B. Đo khối lượng quả táo bằng cân.
+*C. Đo tốc độ của xe bằng cách đo quãng đường và thời gian rồi tính $v = s/t$.
+D. Đo thời gian bằng đồng hồ bấm giây.
+
+Câu 3. [NB] Sai số hệ thống là sai số
+*A. có tính quy luật, lặp lại ở mọi lần đo, thường do dụng cụ đo.
+B. xảy ra ngẫu nhiên, không có quy luật.
+C. do người đo đọc sai số liệu một lần.
+D. không thể khắc phục.
+
+Câu 4. [NB] Sai số ngẫu nhiên là sai số
+A. luôn làm kết quả đo lớn hơn giá trị thực.
+*B. có nguyên nhân không rõ ràng, làm kết quả các lần đo khác nhau.
+C. do kim của dụng cụ đo không chỉ đúng vạch số 0.
+D. có thể loại bỏ hoàn toàn bằng cách hiệu chỉnh dụng cụ.
+
+Câu 5. [NB] Sai số dụng cụ thường được lấy bằng
+A. hai lần độ chia nhỏ nhất của dụng cụ.
+*B. một nửa hoặc một độ chia nhỏ nhất của dụng cụ.
+C. giới hạn đo của dụng cụ.
+D. giá trị trung bình của các lần đo.
+
+Câu 6. [TH] Để giảm sai số ngẫu nhiên, người ta thường
+A. thay dụng cụ đo khác.
+*B. đo nhiều lần rồi lấy giá trị trung bình.
+C. chỉ đo một lần thật cẩn thận.
+D. làm tròn kết quả đo thật nhiều.
+
+Câu 7. [TH] Cách ghi kết quả đo đúng là
+A. $A = \overline{A}$.
+*B. $A = \overline{A} \pm \Delta A$.
+C. $A = \Delta A \pm \overline{A}$.
+D. $A = \overline{A} \cdot \Delta A$.
+
+Câu 8. [TH] Sai số tỉ đối của phép đo được tính bằng công thức
+A. $\delta A = \overline{A} \cdot \Delta A$.
+*B. $\delta A = \dfrac{\Delta A}{\overline{A}} \cdot 100\%$.
+C. $\delta A = \dfrac{\overline{A}}{\Delta A} \cdot 100\%$.
+D. $\delta A = \overline{A} - \Delta A$.
+
+Câu 9. [VD] Dùng thước có độ chia nhỏ nhất 1 mm đo chiều dài một chiếc bút. Nếu lấy sai số dụng cụ bằng nửa độ chia nhỏ nhất thì sai số dụng cụ là
+A. 1 mm.
+*B. 0,5 mm.
+C. 0,1 mm.
+D. 2 mm.
+
+Câu 10. [VD] Với phép đo gián tiếp $v = \dfrac{s}{t}$, sai số tỉ đối của $v$ được tính bằng
+A. $\delta v = \delta s - \delta t$.
+*B. $\delta v = \delta s + \delta t$.
+C. $\delta v = \delta s \cdot \delta t$.
+D. $\delta v = \dfrac{\delta s}{\delta t}$.
+Lời giải
+Với tích hoặc thương, sai số tỉ đối của kết quả bằng tổng các sai số tỉ đối của các thừa số.
+
+Câu 11. [TF] [TH] Về sai số của phép đo:
+*A. Mọi phép đo đều có sai số.
+B. Sai số hệ thống có thể giảm bằng cách đo nhiều lần rồi lấy trung bình.
+*C. Sai số tỉ đối càng nhỏ thì phép đo càng chính xác.
+D. Kết quả đo được ghi dưới dạng $A = \overline{A} - \Delta A$.
+Lời giải
+b) Sai: đo nhiều lần lấy trung bình làm giảm sai số ngẫu nhiên; sai số hệ thống cần hiệu chỉnh dụng cụ. d) Sai: ghi $A = \overline{A} \pm \Delta A$.
+
+Câu 12. [TF] [VD] Đo thời gian rơi của một viên bi 3 lần được kết quả: 0,404 s; 0,406 s; 0,405 s. Bỏ qua sai số dụng cụ.
+*A. Giá trị trung bình của thời gian rơi là 0,405 s.
+*B. Sai số tuyệt đối của lần đo thứ nhất là 0,001 s.
+C. Sai số tuyệt đối trung bình là 0,002 s.
+D. Kết quả đo được ghi là $t = (0,405 \pm 0,010)$ s.
+Lời giải
+$\overline{t} = (0,404 + 0,406 + 0,405)/3 = 0,405$ s. Các sai số tuyệt đối: 0,001; 0,001; 0 s → trung bình ≈ 0,0007 s ≈ 0,001 s. Kết quả $t = (0,405 \pm 0,001)$ s.
+
+Câu 13. [VD] Đo chiều dài một vật 3 lần được 20,1 cm; 20,3 cm; 20,2 cm. Giá trị trung bình của chiều dài là bao nhiêu cm?
+Trả lời: [[20,2]]
+Lời giải
+$\overline{l} = (20,1 + 20,3 + 20,2)/3 = 20,2$ cm.
+
+Câu 14. [VD] Kết quả đo chiều dài là $l = (50,0 \pm 0,5)$ cm. Sai số tỉ đối của phép đo bằng bao nhiêu phần trăm?
+Trả lời: [[1]]
+Lời giải
+$\delta l = 0,5/50,0 \cdot 100\% = 1\%$.
+
+Câu 15. [VD] Tốc độ được tính bằng $v = s/t$. Biết sai số tỉ đối của quãng đường là 1% và của thời gian là 2%. Sai số tỉ đối của tốc độ bằng bao nhiêu phần trăm?
+Trả lời: [[3]]
+Lời giải
+$\delta v = \delta s + \delta t = 1\% + 2\% = 3\%$.
+
+Câu 16. [VD] Một hình chữ nhật có chiều dài $a = (10,0 \pm 0,1)$ cm và chiều rộng $b = (5,0 \pm 0,1)$ cm. Sai số tỉ đối của diện tích $S = ab$ bằng bao nhiêu phần trăm?
+Trả lời: [[3]]
+Lời giải
+$\delta a = 0,1/10,0 = 1\%$; $\delta b = 0,1/5,0 = 2\%$; $\delta S = \delta a + \delta b = 3\%$.
+
+@chuong II | Động học
+
+@bai 4 | Độ dịch chuyển và quãng đường đi được
+Câu 1. [NB] Độ dịch chuyển là đại lượng
+*A. vectơ, cho biết độ dài và hướng của sự thay đổi vị trí của vật.
+B. vô hướng, cho biết độ dài quỹ đạo vật đã đi.
+C. vô hướng, luôn có giá trị dương.
+D. vectơ, luôn có độ lớn bằng quãng đường đi được.
+
+Câu 2. [NB] Quãng đường đi được là đại lượng
+A. vectơ, có hướng trùng với hướng chuyển động.
+*B. vô hướng, cho biết độ dài quỹ đạo mà vật đã đi.
+C. có thể nhận giá trị âm.
+D. luôn bằng không khi vật quay về vị trí ban đầu.
+
+Câu 3. [NB] Đơn vị của độ dịch chuyển trong hệ SI là
+A. km.
+*B. m.
+C. m/s.
+D. s.
+
+Câu 4. [NB] Hệ quy chiếu gồm
+A. vật làm gốc và đồng hồ.
+B. hệ tọa độ và mốc thời gian.
+*C. vật làm gốc, hệ tọa độ gắn với vật làm gốc, mốc thời gian và đồng hồ.
+D. quỹ đạo và vận tốc của vật.
+
+Câu 5. [NB] Khi vật chuyển động thẳng và không đổi chiều thì
+*A. độ lớn của độ dịch chuyển bằng quãng đường đi được.
+B. độ lớn của độ dịch chuyển lớn hơn quãng đường đi được.
+C. độ dịch chuyển bằng không.
+D. quãng đường đi được bằng không.
+
+Câu 6. [NB] Khi vật chuyển động thẳng trên trục Ox, độ dịch chuyển của vật
+A. luôn dương.
+B. luôn âm.
+*C. có thể dương, âm hoặc bằng không.
+D. luôn bằng quãng đường đi được.
+
+Câu 7. [NB] Để xác định vị trí của một vật chuyển động, ta cần
+*A. chọn vật làm gốc và hệ tọa độ gắn với vật làm gốc.
+B. biết khối lượng của vật.
+C. biết vận tốc của vật.
+D. biết thời gian chuyển động của vật.
+
+Câu 8. [NB] Độ dịch chuyển được biểu diễn bằng
+A. một đoạn thẳng không có hướng.
+*B. một mũi tên nối vị trí đầu với vị trí cuối của vật.
+C. đường cong quỹ đạo của vật.
+D. một điểm trên trục tọa độ.
+
+Câu 9. [TH] Một vật đi từ A đến B rồi quay về A. Kết luận nào sau đây đúng?
+*A. Độ dịch chuyển bằng 0, quãng đường đi được bằng 2AB.
+B. Độ dịch chuyển bằng 2AB, quãng đường đi được bằng 0.
+C. Độ dịch chuyển và quãng đường đều bằng AB.
+D. Độ dịch chuyển và quãng đường đều bằng 0.
+
+Câu 10. [TH] Trường hợp nào sau đây độ lớn độ dịch chuyển bằng quãng đường đi được?
+A. Một người chạy một vòng quanh sân vận động.
+*B. Một ô tô chạy thẳng trên đường cao tốc, không đổi chiều.
+C. Một con lắc đồng hồ dao động qua lại.
+D. Một người đi từ nhà đến trường rồi quay về nhà.
+
+Câu 11. [TH] Nhận xét nào sau đây luôn đúng?
+A. Độ lớn độ dịch chuyển luôn lớn hơn quãng đường đi được.
+*B. Độ lớn độ dịch chuyển nhỏ hơn hoặc bằng quãng đường đi được.
+C. Độ lớn độ dịch chuyển luôn bằng quãng đường đi được.
+D. Quãng đường đi được luôn nhỏ hơn độ lớn độ dịch chuyển.
+
+Câu 12. [TH] Một vật chuyển động trên trục Ox từ vị trí $x_1 = 2$ m đến vị trí $x_2 = 8$ m. Độ dịch chuyển của vật là
+A. 10 m.
+*B. 6 m.
+C. −6 m.
+D. 4 m.
+
+Câu 13. [TH] Một vật chuyển động trên trục Ox từ vị trí $x_1 = 10$ m đến vị trí $x_2 = 4$ m. Độ dịch chuyển của vật là
+A. 6 m.
+B. 14 m.
+*C. −6 m.
+D. −14 m.
+Lời giải
+$d = x_2 - x_1 = 4 - 10 = -6$ m. Dấu âm cho biết vật dịch chuyển ngược chiều dương của trục Ox.
+
+Câu 14. [TH] Một người chạy đúng một vòng quanh sân có chu vi 400 m và về đúng vị trí xuất phát. Độ dịch chuyển và quãng đường của người đó lần lượt là
+*A. 0 và 400 m.
+B. 400 m và 0.
+C. 400 m và 400 m.
+D. 0 và 0.
+
+Câu 15. [VD] Một người đi bộ 3 km theo hướng Đông, sau đó đi tiếp 4 km theo hướng Bắc. Độ lớn độ dịch chuyển của người đó là
+A. 7 km.
+*B. 5 km.
+C. 1 km.
+D. 12 km.
+Lời giải
+Hai đoạn vuông góc nên $d = \sqrt{3^2 + 4^2} = 5$ km.
+
+Câu 16. [VD] Một người đi bộ 3 km theo hướng Đông rồi đi tiếp 4 km theo hướng Bắc. Hướng của độ dịch chuyển là
+*A. lệch khoảng 53° so với hướng Đông, về phía Bắc.
+B. lệch khoảng 37° so với hướng Đông, về phía Bắc.
+C. hướng Bắc.
+D. hướng Đông.
+Lời giải
+$\tan\theta = 4/3$ ⇒ $\theta \approx 53°$ so với hướng Đông, về phía Bắc.
+
+Câu 17. [VD] Một xe đi thẳng 6 km theo hướng Đông, sau đó quay đầu đi 2 km theo hướng Tây. Quãng đường đi được và độ dịch chuyển của xe lần lượt là
+A. 8 km và 8 km theo hướng Đông.
+*B. 8 km và 4 km theo hướng Đông.
+C. 4 km và 8 km theo hướng Đông.
+D. 6 km và 2 km theo hướng Tây.
+
+Câu 18. [VD] Một học sinh bơi từ đầu này đến đầu kia của bể bơi dài 50 m rồi bơi trở về vị trí xuất phát. Quãng đường đi được và độ dịch chuyển của học sinh lần lượt là
+*A. 100 m và 0.
+B. 50 m và 50 m.
+C. 100 m và 100 m.
+D. 0 và 100 m.
+
+Câu 19. [TF] [TH] Về độ dịch chuyển và quãng đường đi được:
+*A. Độ dịch chuyển là đại lượng vectơ.
+B. Quãng đường đi được có thể nhận giá trị âm.
+C. Độ lớn độ dịch chuyển luôn lớn hơn hoặc bằng quãng đường đi được.
+*D. Khi vật chuyển động thẳng không đổi chiều, độ lớn độ dịch chuyển bằng quãng đường đi được.
+
+Câu 20. [TF] [VD] Một người đi bộ 400 m theo hướng Đông rồi đi tiếp 300 m theo hướng Bắc.
+*A. Quãng đường người đó đi được là 700 m.
+*B. Độ lớn độ dịch chuyển là 500 m.
+C. Độ lớn độ dịch chuyển bằng quãng đường đi được.
+*D. Hướng của độ dịch chuyển lệch khoảng 37° so với hướng Đông, về phía Bắc.
+Lời giải
+$d = \sqrt{400^2 + 300^2} = 500$ m; $\tan\theta = 300/400$ ⇒ $\theta \approx 37°$.
+
+Câu 21. [TF] [VD] Một vật chuyển động trên trục Ox, đi từ vị trí $x = 5$ m đến vị trí $x = -3$ m rồi quay lại vị trí $x = 1$ m.
+*A. Độ dịch chuyển của vật là −4 m.
+*B. Quãng đường vật đi được là 12 m.
+C. Độ dịch chuyển của vật có giá trị dương.
+*D. Độ lớn độ dịch chuyển nhỏ hơn quãng đường đi được.
+Lời giải
+$d = 1 - 5 = -4$ m; $s = 8 + 4 = 12$ m.
+
+Câu 22. [TF] [TH] Về hệ quy chiếu và vị trí của vật:
+*A. Hệ quy chiếu gồm vật làm gốc, hệ tọa độ gắn với vật làm gốc, mốc thời gian và đồng hồ.
+*B. Khi chọn vật làm gốc khác nhau, vị trí của cùng một vật có thể được mô tả khác nhau.
+C. Muốn xác định vị trí của vật chỉ cần biết thời gian chuyển động.
+D. Vật làm gốc phải là vật đứng yên tuyệt đối.
+
+Câu 23. [TH] Một vật chuyển động trên trục Ox từ vị trí $x = 2$ m đến vị trí $x = 9$ m. Độ dịch chuyển của vật là bao nhiêu mét?
+Trả lời: [[7]]
+
+Câu 24. [TH] Một vật chuyển động trên trục Ox từ vị trí $x = 12$ m về vị trí $x = 5$ m. Độ dịch chuyển của vật là bao nhiêu mét?
+Trả lời: [[-7]]
+
+Câu 25. [VD] Một người đi 6 km theo hướng Đông, sau đó đi 8 km theo hướng Bắc. Độ lớn độ dịch chuyển của người đó là bao nhiêu km?
+Trả lời: [[10]]
+Lời giải
+$d = \sqrt{6^2 + 8^2} = 10$ km.
+
+Câu 26. [VD] Một người đi 6 km theo hướng Đông rồi đi tiếp 8 km theo hướng Bắc. Quãng đường người đó đi được là bao nhiêu km?
+Trả lời: [[14]]
+
+Câu 27. [VD] Một vận động viên chạy 2,5 vòng quanh sân có chu vi 400 m. Quãng đường vận động viên chạy được là bao nhiêu mét?
+Trả lời: [[1000]]
+
+Câu 28. [VD] Một xe đi thẳng 5 km theo hướng Bắc rồi quay đầu đi 2 km theo hướng Nam. Độ lớn độ dịch chuyển của xe là bao nhiêu km?
+Trả lời: [[3]]
+
+@bai 5 | Tốc độ và vận tốc
+Câu 1. [NB] Tốc độ trung bình được tính bằng
+*A. thương số giữa quãng đường đi được và thời gian đi hết quãng đường đó.
+B. thương số giữa độ dịch chuyển và thời gian.
+C. tích của quãng đường và thời gian.
+D. hiệu của vận tốc cuối và vận tốc đầu.
+
+Câu 2. [NB] Vận tốc trung bình được tính bằng
+A. thương số giữa quãng đường đi được và thời gian.
+*B. thương số giữa độ dịch chuyển và thời gian thực hiện độ dịch chuyển đó.
+C. tích của độ dịch chuyển và thời gian.
+D. tổng của tốc độ đầu và tốc độ cuối chia đôi.
+
+Câu 3. [NB] Đơn vị của tốc độ trong hệ SI là
+A. km/h.
+*B. m/s.
+C. m/s².
+D. m.
+
+Câu 4. [NB] Tốc độ tức thời là
+*A. tốc độ của vật tại một thời điểm xác định.
+B. tốc độ trung bình trên cả quãng đường.
+C. tốc độ lớn nhất của vật.
+D. tốc độ nhỏ nhất của vật.
+
+Câu 5. [NB] Số chỉ của tốc kế trên xe máy cho biết
+A. tốc độ trung bình của xe trên cả quãng đường.
+*B. tốc độ tức thời của xe.
+C. vận tốc trung bình của xe.
+D. quãng đường xe đã đi.
+
+Câu 6. [NB] Vận tốc là đại lượng
+*A. vectơ, có hướng là hướng của độ dịch chuyển.
+B. vô hướng, luôn dương.
+C. vô hướng, có thể âm.
+D. vectơ, luôn ngược hướng chuyển động.
+
+Câu 7. [NB] Công thức cộng vận tốc là
+*A. $\vec{v}_{13} = \vec{v}_{12} + \vec{v}_{23}$.
+B. $\vec{v}_{13} = \vec{v}_{12} - \vec{v}_{23}$.
+C. $\vec{v}_{12} = \vec{v}_{13} + \vec{v}_{23}$.
+D. $\vec{v}_{13} = \vec{v}_{12} \cdot \vec{v}_{23}$.
+
+Câu 8. [NB] Đổi 1 m/s sang km/h được
+A. 1 km/h.
+B. 0,36 km/h.
+*C. 3,6 km/h.
+D. 36 km/h.
+
+Câu 9. [TH] Một ô tô chuyển động với tốc độ 72 km/h. Tốc độ này bằng
+A. 7,2 m/s.
+*B. 20 m/s.
+C. 259,2 m/s.
+D. 2 m/s.
+
+Câu 10. [TH] Khi vật chuyển động thẳng và không đổi chiều thì
+*A. tốc độ trung bình bằng độ lớn của vận tốc trung bình.
+B. tốc độ trung bình lớn hơn độ lớn của vận tốc trung bình.
+C. vận tốc trung bình bằng 0.
+D. tốc độ trung bình bằng 0.
+
+Câu 11. [TH] Một người chạy đúng một vòng sân và trở về vị trí xuất phát. Nhận xét nào sau đây đúng?
+A. Vận tốc trung bình và tốc độ trung bình đều bằng 0.
+*B. Vận tốc trung bình bằng 0, tốc độ trung bình khác 0.
+C. Vận tốc trung bình khác 0, tốc độ trung bình bằng 0.
+D. Vận tốc trung bình bằng tốc độ trung bình.
+
+Câu 12. [TH] Một thuyền chạy xuôi dòng. Vận tốc của thuyền đối với bờ bằng
+*A. vận tốc của thuyền đối với nước cộng vận tốc của nước đối với bờ.
+B. vận tốc của thuyền đối với nước trừ vận tốc của nước đối với bờ.
+C. vận tốc của nước đối với bờ.
+D. vận tốc của thuyền đối với nước.
+
+Câu 13. [TH] Hai ô tô chạy cùng chiều trên đường thẳng với tốc độ lần lượt 60 km/h và 40 km/h. Độ lớn vận tốc của xe thứ nhất đối với xe thứ hai là
+*A. 20 km/h.
+B. 100 km/h.
+C. 50 km/h.
+D. 2400 km/h.
+
+Câu 14. [TH] Hai ô tô chạy ngược chiều trên đường thẳng với tốc độ lần lượt 60 km/h và 40 km/h. Độ lớn vận tốc của xe thứ nhất đối với xe thứ hai là
+A. 20 km/h.
+*B. 100 km/h.
+C. 50 km/h.
+D. 1,5 km/h.
+
+Câu 15. [VD] Một ô tô đi được 120 km trong 2,5 giờ. Tốc độ trung bình của ô tô là
+A. 300 km/h.
+*B. 48 km/h.
+C. 60 km/h.
+D. 40 km/h.
+
+Câu 16. [VD] Một xe đi nửa đầu quãng đường với tốc độ 40 km/h, nửa sau với tốc độ 60 km/h. Tốc độ trung bình của xe trên cả quãng đường là
+A. 50 km/h.
+*B. 48 km/h.
+C. 45 km/h.
+D. 52 km/h.
+Lời giải
+$v_{tb} = \dfrac{2v_1v_2}{v_1 + v_2} = \dfrac{2 \cdot 40 \cdot 60}{100} = 48$ km/h. Lưu ý: không lấy trung bình cộng hai tốc độ.
+
+Câu 17. [VD] Một chiếc thuyền có vận tốc 4 m/s đối với nước, mũi thuyền luôn hướng vuông góc với bờ; nước chảy với vận tốc 3 m/s đối với bờ. Độ lớn vận tốc của thuyền đối với bờ là
+A. 7 m/s.
+B. 1 m/s.
+*C. 5 m/s.
+D. 12 m/s.
+Lời giải
+Hai vận tốc vuông góc nên $v = \sqrt{4^2 + 3^2} = 5$ m/s.
+
+Câu 18. [VD] Một người đi từ A đến B cách nhau 3 km rồi quay về A, tổng thời gian là 1 giờ. Tốc độ trung bình và vận tốc trung bình của người đó lần lượt là
+*A. 6 km/h và 0.
+B. 3 km/h và 3 km/h.
+C. 0 và 6 km/h.
+D. 6 km/h và 6 km/h.
+
+Câu 19. [TF] [TH] Về tốc độ và vận tốc:
+*A. Tốc độ trung bình là đại lượng vô hướng.
+*B. Vận tốc trung bình có hướng của độ dịch chuyển.
+C. Tốc độ trung bình luôn bằng độ lớn của vận tốc trung bình.
+D. Số chỉ trên tốc kế của xe là tốc độ trung bình.
+
+Câu 20. [TF] [VD] Một ca nô có vận tốc 18 km/h đối với nước, nước chảy với vận tốc 2 km/h đối với bờ.
+*A. Khi xuôi dòng, vận tốc của ca nô đối với bờ là 20 km/h.
+*B. Khi ngược dòng, vận tốc của ca nô đối với bờ là 16 km/h.
+*C. Thời gian ca nô xuôi dòng hết 40 km là 2 giờ.
+D. Thời gian ca nô ngược dòng hết 40 km là 2 giờ.
+Lời giải
+Ngược dòng: $t = 40/16 = 2,5$ giờ.
+
+Câu 21. [TF] [VD] Một xe chạy thẳng, không đổi chiều: 1 giờ đầu với tốc độ 30 km/h, 2 giờ sau với tốc độ 60 km/h.
+*A. Quãng đường xe đi được là 150 km.
+*B. Tốc độ trung bình của xe là 50 km/h.
+C. Tốc độ trung bình của xe là 45 km/h.
+*D. Độ lớn độ dịch chuyển của xe bằng quãng đường đi được.
+Lời giải
+$s = 30 + 120 = 150$ km; $v_{tb} = 150/3 = 50$ km/h.
+
+Câu 22. [TF] [TH] Hai ô tô chạy cùng chiều trên một đường thẳng với tốc độ 50 km/h và 70 km/h.
+*A. Vận tốc của xe thứ hai đối với xe thứ nhất có độ lớn 20 km/h.
+B. Người ngồi trên xe thứ nhất thấy xe thứ hai đứng yên.
+*C. Nếu hai xe chạy ngược chiều thì vận tốc của xe này đối với xe kia có độ lớn 120 km/h.
+*D. Vận tốc có tính tương đối, phụ thuộc vào hệ quy chiếu.
+
+Câu 23. [TH] Đổi tốc độ 54 km/h sang đơn vị m/s.
+Trả lời: [[15]]
+
+Câu 24. [TH] Đổi tốc độ 10 m/s sang đơn vị km/h.
+Trả lời: [[36]]
+
+Câu 25. [VD] Một ô tô đi được 150 km trong 3 giờ. Tốc độ trung bình của ô tô là bao nhiêu km/h?
+Trả lời: [[50]]
+
+Câu 26. [VD] Một xe đi nửa đầu quãng đường với tốc độ 30 km/h và nửa sau với tốc độ 60 km/h. Tốc độ trung bình của xe trên cả quãng đường là bao nhiêu km/h?
+Trả lời: [[40]]
+Lời giải
+$v_{tb} = \dfrac{2 \cdot 30 \cdot 60}{30 + 60} = 40$ km/h.
+
+Câu 27. [VD] Một người bơi theo hướng vuông góc với bờ với vận tốc 0,8 m/s đối với nước, nước chảy với vận tốc 0,6 m/s. Tốc độ của người đó đối với bờ là bao nhiêu m/s?
+Trả lời: [[1]]
+
+Câu 28. [VD] Một thuyền có vận tốc 12 km/h đối với nước, nước chảy với vận tốc 3 km/h. Thời gian thuyền đi ngược dòng hết 18 km là bao nhiêu giờ?
+Trả lời: [[2]]
+Lời giải
+Ngược dòng: $v = 12 - 3 = 9$ km/h; $t = 18/9 = 2$ giờ.
+
+@bai 6 | Thực hành: Đo tốc độ của vật chuyển động
+Câu 1. [NB] Để đo tốc độ trung bình của một vật, cần đo
+*A. quãng đường đi được và thời gian đi hết quãng đường đó.
+B. khối lượng và thời gian chuyển động.
+C. quãng đường và khối lượng của vật.
+D. lực tác dụng và thời gian chuyển động.
+
+Câu 2. [NB] Dụng cụ thường dùng để đo thời gian chính xác trong phòng thí nghiệm vật lí là
+A. đồng hồ treo tường.
+*B. đồng hồ đo thời gian hiện số kết hợp với cổng quang điện.
+C. nhiệt kế.
+D. lực kế.
+
+Câu 3. [NB] Cổng quang điện gửi tín hiệu đến đồng hồ đo thời gian khi
+*A. vật đi qua làm chắn chùm tia sáng (hồng ngoại) chiếu tới bộ phận thu.
+B. vật chạm vào cổng.
+C. vật dừng lại trước cổng.
+D. có âm thanh phát ra từ vật.
+
+Câu 4. [NB] Dùng đồng hồ bấm giây bằng tay để đo thời gian thường có sai số lớn chủ yếu do
+A. đồng hồ chạy không đều.
+*B. thời gian phản xạ của người bấm đồng hồ.
+C. vật chuyển động quá chậm.
+D. ánh sáng trong phòng quá mạnh.
+
+Câu 5. [TH] Để đo tốc độ tức thời của viên bi khi đi qua một điểm, người ta đo thời gian $t$ viên bi (đường kính $d$ nhỏ) chắn cổng quang điện và tính
+*A. $v \approx \dfrac{d}{t}$.
+B. $v = d \cdot t$.
+C. $v = \dfrac{t}{d}$.
+D. $v = d + t$.
+
+Câu 6. [TH] Khi đo tốc độ tức thời bằng cổng quang điện, bề rộng vật chắn sáng càng nhỏ thì
+*A. thời gian chắn càng ngắn, tốc độ đo được càng gần tốc độ tức thời.
+B. thời gian chắn càng dài, kết quả càng chính xác.
+C. kết quả không phụ thuộc bề rộng vật chắn sáng.
+D. đồng hồ không đo được thời gian.
+
+Câu 7. [TH] Để đo tốc độ trung bình của viên bi khi lăn từ điểm A đến điểm B, ta nên
+*A. đặt hai cổng quang điện tại A và B, đo thời gian giữa hai lần viên bi chắn sáng.
+B. đặt một cổng quang điện ở giữa AB.
+C. chỉ cần đo khoảng cách AB.
+D. đo đường kính viên bi.
+
+Câu 8. [TH] Kết quả đo tốc độ được ghi đúng dạng là
+A. $v = \overline{v}$.
+*B. $v = \overline{v} \pm \Delta v$.
+C. $v = \Delta v$.
+D. $v = \overline{v} \cdot \Delta v$.
+
+Câu 9. [VD] Một viên bi có đường kính 2,0 cm đi qua cổng quang điện, thời gian chắn sáng đo được là 0,040 s. Tốc độ của viên bi khi đi qua cổng là
+*A. 0,50 m/s.
+B. 0,80 m/s.
+C. 5,0 m/s.
+D. 0,02 m/s.
+Lời giải
+$v = d/t = 0,020/0,040 = 0,50$ m/s.
+
+Câu 10. [VD] Một xe trượt đi được quãng đường 50 cm trong 0,25 s. Tốc độ trung bình của xe là
+A. 0,5 m/s.
+*B. 2 m/s.
+C. 12,5 m/s.
+D. 0,125 m/s.
+
+Câu 11. [TF] [TH] Về phép đo tốc độ trong phòng thí nghiệm:
+*A. Dùng cổng quang điện đo thời gian chính xác hơn bấm đồng hồ bằng tay.
+*B. Tốc độ tức thời được tính gần đúng bằng $d/t$ với $d$ là bề rộng vật chắn sáng nhỏ.
+*C. Sai số tỉ đối của tốc độ bằng tổng sai số tỉ đối của quãng đường và thời gian.
+D. Dùng thước có độ chia nhỏ nhất càng lớn thì sai số càng nhỏ.
+
+Câu 12. [TF] [VD] Đo thời gian một xe đi hết quãng đường 0,800 m ba lần được: 0,50 s; 0,52 s; 0,51 s.
+*A. Thời gian trung bình là 0,51 s.
+*B. Tốc độ trung bình của xe xấp xỉ 1,57 m/s.
+C. Tốc độ trung bình của xe xấp xỉ 0,64 m/s.
+*D. Đo nhiều lần rồi lấy trung bình giúp giảm sai số ngẫu nhiên.
+Lời giải
+$\overline{t} = 0,51$ s; $v = 0,800/0,51 \approx 1,57$ m/s.
+
+Câu 13. [VD] Một viên bi có đường kính 1,5 cm chắn cổng quang điện trong thời gian 0,030 s. Tốc độ của viên bi là bao nhiêu m/s?
+Trả lời: [[0,5]]
+
+Câu 14. [VD] Một xe đi được quãng đường 1,2 m trong 0,8 s. Tốc độ trung bình của xe là bao nhiêu m/s?
+Trả lời: [[1,5]]
+
+Câu 15. [VD] Đo tốc độ theo công thức $v = s/t$ với sai số tỉ đối của quãng đường là 0,5% và của thời gian là 1,5%. Sai số tỉ đối của tốc độ là bao nhiêu phần trăm?
+Trả lời: [[2]]
+
+Câu 16. [VD] Tấm chắn sáng có bề rộng 10 mm đi qua cổng quang điện trong thời gian 0,025 s. Tốc độ của tấm chắn là bao nhiêu m/s?
+Trả lời: [[0,4]]
+
+@bai 7 | Đồ thị độ dịch chuyển – thời gian
+Câu 1. [NB] Đồ thị độ dịch chuyển – thời gian của chuyển động thẳng đều có dạng
+*A. đường thẳng.
+B. đường parabol.
+C. đường tròn.
+D. đường hypebol.
+
+Câu 2. [NB] Độ dốc (hệ số góc) của đồ thị độ dịch chuyển – thời gian cho biết
+A. quãng đường đi được.
+*B. vận tốc của vật.
+C. gia tốc của vật.
+D. thời gian chuyển động.
+
+Câu 3. [NB] Đồ thị độ dịch chuyển – thời gian là đoạn thẳng song song với trục thời gian thì vật
+*A. đứng yên.
+B. chuyển động thẳng đều theo chiều dương.
+C. chuyển động thẳng đều theo chiều âm.
+D. chuyển động nhanh dần.
+
+Câu 4. [NB] Trong đồ thị độ dịch chuyển – thời gian, trục hoành biểu diễn
+A. độ dịch chuyển.
+*B. thời gian.
+C. vận tốc.
+D. quãng đường.
+
+Câu 5. [NB] Đồ thị độ dịch chuyển – thời gian là đường thẳng dốc xuống (độ dốc âm) thì vật
+A. đứng yên.
+B. chuyển động theo chiều dương.
+*C. chuyển động theo chiều âm.
+D. chuyển động nhanh dần.
+
+Câu 6. [NB] Từ đồ thị độ dịch chuyển – thời gian của chuyển động thẳng đều, vận tốc được tính bằng
+*A. $v = \dfrac{\Delta d}{\Delta t}$.
+B. $v = \Delta d \cdot \Delta t$.
+C. $v = \dfrac{\Delta t}{\Delta d}$.
+D. $v = \Delta d + \Delta t$.
+
+Câu 7. [NB] Đồ thị độ dịch chuyển – thời gian của một vật là đường cong thì
+A. vật đứng yên.
+B. vận tốc của vật không đổi.
+*C. vận tốc của vật thay đổi.
+D. vật chuyển động thẳng đều.
+
+Câu 8. [NB] Đồ thị độ dịch chuyển – thời gian của chuyển động thẳng đều đi qua gốc tọa độ khi
+*A. tại thời điểm $t = 0$ vật ở gốc tọa độ.
+B. vật đứng yên.
+C. vận tốc của vật bằng 0.
+D. vật chuyển động theo chiều âm.
+
+Câu 9. [TH] Hai vật chuyển động thẳng đều có đồ thị độ dịch chuyển – thời gian là hai đường thẳng. Đường dốc hơn ứng với vật có
+*A. tốc độ lớn hơn.
+B. tốc độ nhỏ hơn.
+C. quãng đường ngắn hơn.
+D. thời gian chuyển động dài hơn.
+
+Câu 10. [TH] Theo đồ thị độ dịch chuyển – thời gian, từ $t = 0$ đến $t = 4$ s độ dịch chuyển tăng đều từ 0 đến 20 m. Vận tốc của vật trong khoảng thời gian này là
+A. 80 m/s.
+*B. 5 m/s.
+C. 0,2 m/s.
+D. 20 m/s.
+
+Câu 11. [TH] Trên đồ thị độ dịch chuyển – thời gian, đoạn từ $t = 4$ s đến $t = 6$ s nằm ngang. Trong khoảng thời gian này vật
+*A. đứng yên 2 s.
+B. chuyển động với vận tốc 2 m/s.
+C. chuyển động ngược chiều.
+D. chuyển động nhanh dần.
+
+Câu 12. [TH] Từ $t = 6$ s đến $t = 10$ s, độ dịch chuyển của vật giảm đều từ 20 m về 0. Vận tốc của vật trong khoảng thời gian này là
+A. 5 m/s.
+*B. −5 m/s.
+C. 2 m/s.
+D. −2 m/s.
+
+Câu 13. [TH] Một vật chuyển động thẳng đều với vận tốc −2 m/s. Đồ thị độ dịch chuyển – thời gian của vật là
+A. đường thẳng nằm ngang.
+B. đường thẳng dốc lên.
+*C. đường thẳng dốc xuống.
+D. đường cong.
+
+Câu 14. [TH] Một vật đi từ gốc tọa độ ra xa 20 m rồi quay trở về gốc tọa độ trong 10 s. Vận tốc trung bình và tốc độ trung bình của vật lần lượt là
+*A. 0 và 4 m/s.
+B. 4 m/s và 0.
+C. 2 m/s và 4 m/s.
+D. 4 m/s và 4 m/s.
+
+Câu 15. [VD] Một vật chuyển động thẳng đều. Tại $t = 2$ s độ dịch chuyển là 6 m, tại $t = 5$ s độ dịch chuyển là 15 m. Vận tốc của vật là
+A. 5 m/s.
+*B. 3 m/s.
+C. 7 m/s.
+D. 2 m/s.
+
+Câu 16. [VD] Một vật chuyển động thẳng đều với vận tốc 3 m/s, tại $t = 0$ vật ở gốc tọa độ. Độ dịch chuyển của vật tại $t = 8$ s là
+A. 21 m.
+*B. 24 m.
+C. 11 m.
+D. 32 m.
+
+Câu 17. [VD] Hai xe chuyển động thẳng đều trên cùng một đường thẳng, độ dịch chuyển theo thời gian là $d_A = 10t$ và $d_B = 100 - 15t$ ($d$ tính bằng m, $t$ tính bằng s). Hai xe gặp nhau tại thời điểm
+A. $t = 10$ s.
+*B. $t = 4$ s.
+C. $t = 20$ s.
+D. $t = 6,7$ s.
+Lời giải
+Gặp nhau khi $10t = 100 - 15t$ ⇒ $t = 4$ s.
+
+Câu 18. [VD] Hai xe chuyển động thẳng đều có $d_A = 10t$ và $d_B = 100 - 15t$ ($d$ tính bằng m, $t$ tính bằng s). Vị trí hai xe gặp nhau cách gốc tọa độ
+*A. 40 m.
+B. 60 m.
+C. 100 m.
+D. 25 m.
+
+Câu 19. [TF] [TH] Về đồ thị độ dịch chuyển – thời gian:
+*A. Đồ thị là đường thẳng thì vận tốc của vật không đổi.
+*B. Đồ thị càng dốc thì tốc độ của vật càng lớn.
+C. Đồ thị nằm ngang thì vật có tốc độ lớn nhất.
+*D. Độ dốc âm cho biết vật chuyển động ngược chiều dương.
+
+Câu 20. [TF] [VD] Độ dịch chuyển của một vật: tại $t = 0$ là 0; $t = 2$ s là 8 m; $t = 4$ s là 16 m; $t = 6$ s là 16 m (đồ thị gồm các đoạn thẳng).
+*A. Từ 0 đến 4 s vật chuyển động thẳng đều với vận tốc 4 m/s.
+*B. Từ 4 s đến 6 s vật đứng yên.
+*C. Tốc độ trung bình từ 0 đến 6 s xấp xỉ 2,67 m/s.
+D. Quãng đường vật đi được từ 0 đến 6 s là 32 m.
+Lời giải
+$s = 16$ m; $v_{tb} = 16/6 \approx 2,67$ m/s.
+
+Câu 21. [TF] [VD] Hai vật chuyển động thẳng đều có $d_A = 5t$ và $d_B = 30 - 5t$ ($d$ tính bằng m, $t$ tính bằng s).
+*A. Hai vật gặp nhau tại thời điểm $t = 3$ s.
+*B. Vị trí gặp nhau cách gốc tọa độ 15 m.
+C. Hai vật chuyển động cùng chiều.
+*D. Hai vật có tốc độ bằng nhau.
+
+Câu 22. [TF] [TH] Từ đồ thị độ dịch chuyển – thời gian của một vật, ta có thể xác định:
+*A. Vận tốc của vật.
+*B. Vị trí của vật tại mỗi thời điểm.
+C. Khối lượng của vật.
+*D. Nếu đồ thị đi qua gốc tọa độ thì lúc $t = 0$ vật ở gốc tọa độ.
+
+Câu 23. [TH] Đồ thị độ dịch chuyển – thời gian cho thấy độ dịch chuyển tăng đều từ 0 đến 30 m trong 6 s. Vận tốc của vật là bao nhiêu m/s?
+Trả lời: [[5]]
+
+Câu 24. [TH] Độ dịch chuyển của một vật giảm đều từ 40 m xuống 10 m trong 5 s. Vận tốc của vật là bao nhiêu m/s?
+Trả lời: [[-6]]
+
+Câu 25. [VD] Một vật chuyển động thẳng đều, tại $t = 1$ s độ dịch chuyển là 4 m, tại $t = 3$ s độ dịch chuyển là 10 m. Vận tốc của vật là bao nhiêu m/s?
+Trả lời: [[3]]
+
+Câu 26. [VD] Một vật chuyển động thẳng đều, tại $t = 1$ s độ dịch chuyển là 4 m, tại $t = 3$ s độ dịch chuyển là 10 m. Độ dịch chuyển của vật tại thời điểm $t = 0$ là bao nhiêu mét?
+Trả lời: [[1]]
+Lời giải
+$d_0 = 4 - 3 \cdot 1 = 1$ m.
+
+Câu 27. [VD] Hai xe có $d_A = 10t$ và $d_B = 120 - 20t$ ($d$ tính bằng m, $t$ tính bằng s). Hai xe gặp nhau tại thời điểm bao nhiêu giây?
+Trả lời: [[4]]
+
+Câu 28. [VD] Hai xe có $d_A = 10t$ và $d_B = 120 - 20t$ ($d$ tính bằng m, $t$ tính bằng s). Vị trí hai xe gặp nhau cách gốc tọa độ bao nhiêu mét?
+Trả lời: [[40]]
+
+@bai 8 | Chuyển động biến đổi. Gia tốc
+Câu 1. [NB] Gia tốc là đại lượng đặc trưng cho
+A. độ nhanh hay chậm của chuyển động.
+*B. sự thay đổi nhanh hay chậm của vận tốc.
+C. quãng đường vật đi được trong một giây.
+D. vị trí của vật.
+
+Câu 2. [NB] Công thức tính gia tốc là
+*A. $a = \dfrac{\Delta v}{\Delta t}$.
+B. $a = \Delta v \cdot \Delta t$.
+C. $a = \dfrac{\Delta t}{\Delta v}$.
+D. $a = \dfrac{d}{t}$.
+
+Câu 3. [NB] Đơn vị của gia tốc trong hệ SI là
+A. m/s.
+*B. m/s².
+C. m²/s.
+D. km/h.
+
+Câu 4. [NB] Gia tốc là đại lượng
+*A. vectơ.
+B. vô hướng, luôn dương.
+C. vô hướng, luôn âm.
+D. không có đơn vị.
+
+Câu 5. [NB] Chuyển động biến đổi là chuyển động có
+A. vận tốc không đổi.
+*B. vận tốc thay đổi.
+C. quỹ đạo là đường thẳng.
+D. quãng đường không đổi.
+
+Câu 6. [NB] Vật chuyển động thẳng nhanh dần khi
+*A. gia tốc cùng chiều với vận tốc.
+B. gia tốc ngược chiều với vận tốc.
+C. gia tốc bằng 0.
+D. vận tốc bằng 0.
+
+Câu 7. [NB] Vật chuyển động thẳng chậm dần khi
+A. gia tốc cùng chiều với vận tốc.
+*B. gia tốc ngược chiều với vận tốc.
+C. gia tốc bằng 0.
+D. vận tốc không đổi.
+
+Câu 8. [NB] Vật chuyển động thẳng đều có gia tốc
+*A. bằng 0.
+B. dương.
+C. âm.
+D. thay đổi liên tục.
+
+Câu 9. [TH] Một xe tăng tốc từ trạng thái nghỉ đến 20 m/s trong 10 s. Gia tốc trung bình của xe là
+A. 200 m/s².
+*B. 2 m/s².
+C. 0,5 m/s².
+D. 20 m/s².
+
+Câu 10. [TH] Một xe đang chạy với vận tốc 15 m/s thì hãm phanh, dừng lại sau 5 s. Chọn chiều dương là chiều chuyển động. Gia tốc của xe là
+A. 3 m/s².
+*B. −3 m/s².
+C. 75 m/s².
+D. −75 m/s².
+
+Câu 11. [TH] Chọn chiều dương là chiều chuyển động. Khi xe chuyển động thẳng chậm dần thì
+A. $a > 0$.
+*B. $a < 0$.
+C. $a = 0$.
+D. $v < 0$.
+
+Câu 12. [TH] Gia tốc của một vật chuyển động thẳng nhanh dần là 2 m/s². Điều này có nghĩa là
+*A. mỗi giây vận tốc của vật tăng thêm 2 m/s.
+B. mỗi giây vật đi được 2 m.
+C. vận tốc của vật luôn bằng 2 m/s.
+D. mỗi giây vận tốc của vật giảm 2 m/s.
+
+Câu 13. [TH] Một xe tăng tốc từ 36 km/h lên 54 km/h trong 10 s. Gia tốc của xe là
+*A. 0,5 m/s².
+B. 1,8 m/s².
+C. 5 m/s².
+D. 18 m/s².
+Lời giải
+36 km/h = 10 m/s; 54 km/h = 15 m/s; $a = (15 - 10)/10 = 0,5$ m/s².
+
+Câu 14. [TH] Một vật chuyển động thẳng có vận tốc $v = -5$ m/s và gia tốc $a = -2$ m/s². Vật chuyển động
+*A. nhanh dần.
+B. chậm dần.
+C. thẳng đều.
+D. đứng yên.
+Lời giải
+$a$ và $v$ cùng dấu (cùng chiều) nên vật chuyển động nhanh dần.
+
+Câu 15. [VD] Một xe đang chạy với vận tốc 5 m/s thì tăng tốc với gia tốc 0,5 m/s². Sau 10 s vận tốc của xe là
+A. 5,5 m/s.
+*B. 10 m/s.
+C. 15 m/s.
+D. 55 m/s.
+
+Câu 16. [VD] Một đoàn tàu đang chạy với tốc độ 72 km/h thì hãm phanh, chuyển động chậm dần với gia tốc có độ lớn 0,5 m/s². Thời gian từ lúc hãm phanh đến khi dừng là
+A. 144 s.
+*B. 40 s.
+C. 10 s.
+D. 36 s.
+
+Câu 17. [VD] Một xe máy tăng tốc từ trạng thái nghỉ lên 54 km/h trong 6 s. Gia tốc của xe là
+A. 9 m/s².
+*B. 2,5 m/s².
+C. 0,4 m/s².
+D. 15 m/s².
+
+Câu 18. [VD] Một ô tô chuyển động thẳng, giảm vận tốc từ 20 m/s xuống 10 m/s trong 4 s. Chọn chiều dương là chiều chuyển động. Gia tốc của ô tô là
+A. 2,5 m/s².
+*B. −2,5 m/s².
+C. −7,5 m/s².
+D. 5 m/s².
+
+Câu 19. [TF] [TH] Về gia tốc:
+*A. Gia tốc là đại lượng vectơ.
+B. Gia tốc dương thì vật luôn chuyển động nhanh dần.
+*C. Vật chuyển động thẳng đều có gia tốc bằng 0.
+*D. Đơn vị của gia tốc là m/s².
+Lời giải
+b) Sai: vật nhanh dần khi $a$ cùng chiều $v$; nếu $v < 0$ mà $a > 0$ thì vật chậm dần.
+
+Câu 20. [TF] [VD] Một ô tô tăng tốc đều từ trạng thái nghỉ lên 30 m/s trong 12 s.
+*A. Gia tốc của ô tô là 2,5 m/s².
+*B. Sau 6 s kể từ lúc tăng tốc, vận tốc của ô tô là 15 m/s.
+*C. Ô tô chuyển động nhanh dần.
+D. Gia tốc của ô tô là 0,4 m/s².
+
+Câu 21. [TF] [VD] Vận tốc của một vật chuyển động thẳng: tại $t = 0$ là 20 m/s; $t = 2$ s là 16 m/s; $t = 4$ s là 12 m/s (gia tốc không đổi).
+*A. Gia tốc của vật là −2 m/s².
+*B. Vật chuyển động chậm dần.
+*C. Vật dừng lại tại thời điểm $t = 10$ s.
+D. Tại $t = 4$ s vận tốc của vật là 8 m/s.
+
+Câu 22. [TF] [TH] Về chuyển động biến đổi:
+*A. Chuyển động biến đổi là chuyển động có vận tốc thay đổi theo thời gian.
+*B. Ô tô chuyển động thẳng, tốc kế chỉ một giá trị không đổi thì gia tốc bằng 0.
+C. Gia tốc lớn có nghĩa là vận tốc của vật lớn.
+D. Vật có vận tốc bằng 0 thì gia tốc luôn bằng 0.
+Lời giải
+c) Sai: gia tốc lớn nghĩa là vận tốc thay đổi nhanh. d) Sai: ví dụ xe vừa khởi hành, tại $t = 0$ có $v = 0$ nhưng gia tốc khác 0.
+
+Câu 23. [TH] Một vật tăng tốc từ trạng thái nghỉ đến 12 m/s trong 4 s. Gia tốc của vật là bao nhiêu m/s²?
+Trả lời: [[3]]
+
+Câu 24. [TH] Một xe đang chạy 10 m/s thì hãm phanh, dừng lại sau 2 s. Chọn chiều dương là chiều chuyển động. Gia tốc của xe là bao nhiêu m/s²?
+Trả lời: [[-5]]
+
+Câu 25. [VD] Một xe tăng tốc từ 18 km/h lên 54 km/h trong 5 s. Gia tốc của xe là bao nhiêu m/s²?
+Trả lời: [[2]]
+Lời giải
+18 km/h = 5 m/s; 54 km/h = 15 m/s; $a = (15 - 5)/5 = 2$ m/s².
+
+Câu 26. [VD] Một vật có vận tốc 2 m/s, tăng tốc với gia tốc 1,5 m/s². Vận tốc của vật sau 4 s là bao nhiêu m/s?
+Trả lời: [[8]]
+
+Câu 27. [VD] Một xe đang chạy 25 m/s thì hãm phanh với gia tốc −5 m/s². Sau bao nhiêu giây thì xe dừng lại?
+Trả lời: [[5]]
+
+Câu 28. [VD] Một xe giảm tốc từ 72 km/h đến khi dừng hẳn trong 8 s. Chọn chiều dương là chiều chuyển động. Gia tốc của xe là bao nhiêu m/s²?
+Trả lời: [[-2,5]]
+
+@bai 9 | Chuyển động thẳng biến đổi đều
+Câu 1. [NB] Chuyển động thẳng biến đổi đều là chuyển động thẳng có
+*A. gia tốc không đổi.
+B. vận tốc không đổi.
+C. gia tốc bằng 0.
+D. quãng đường không đổi theo thời gian.
+
+Câu 2. [NB] Công thức vận tốc của chuyển động thẳng biến đổi đều là
+*A. $v = v_0 + at$.
+B. $v = v_0 + at^2$.
+C. $v = at^2/2$.
+D. $v = d/t$.
+
+Câu 3. [NB] Công thức độ dịch chuyển của chuyển động thẳng biến đổi đều là
+A. $d = v_0 + at$.
+*B. $d = v_0t + \dfrac{1}{2}at^2$.
+C. $d = v_0t + at^2$.
+D. $d = \dfrac{1}{2}v_0t^2$.
+
+Câu 4. [NB] Hệ thức liên hệ giữa vận tốc, gia tốc và độ dịch chuyển là
+*A. $v^2 - v_0^2 = 2ad$.
+B. $v^2 + v_0^2 = 2ad$.
+C. $v - v_0 = 2ad$.
+D. $v^2 - v_0^2 = ad$.
+
+Câu 5. [NB] Đồ thị vận tốc – thời gian của chuyển động thẳng biến đổi đều là
+*A. đường thẳng.
+B. đường parabol.
+C. đường tròn.
+D. đường hypebol.
+
+Câu 6. [NB] Độ dịch chuyển của vật trong chuyển động thẳng biến đổi đều có thể xác định bằng
+A. độ dốc của đồ thị vận tốc – thời gian.
+*B. diện tích giới hạn bởi đồ thị vận tốc – thời gian và trục thời gian.
+C. tung độ của đồ thị vận tốc – thời gian.
+D. hoành độ của đồ thị vận tốc – thời gian.
+
+Câu 7. [NB] Độ dốc của đồ thị vận tốc – thời gian cho biết
+A. độ dịch chuyển.
+B. quãng đường.
+*C. gia tốc.
+D. thời gian.
+
+Câu 8. [NB] Trong chuyển động thẳng nhanh dần đều thì
+*A. $a$ và $v$ cùng dấu.
+B. $a$ và $v$ trái dấu.
+C. $a = 0$.
+D. $v$ không đổi.
+
+Câu 9. [TH] Một vật có vận tốc ban đầu 5 m/s, chuyển động nhanh dần đều với gia tốc 2 m/s². Vận tốc của vật sau 3 s là
+A. 6 m/s.
+*B. 11 m/s.
+C. 10 m/s.
+D. 15 m/s.
+
+Câu 10. [TH] Một vật bắt đầu chuyển động từ trạng thái nghỉ, nhanh dần đều với gia tốc 2 m/s². Độ dịch chuyển của vật sau 5 s là
+A. 10 m.
+*B. 25 m.
+C. 50 m.
+D. 5 m.
+
+Câu 11. [TH] Đồ thị vận tốc – thời gian là đường thẳng đi từ 10 m/s (tại $t = 0$) xuống 0 (tại $t = 5$ s). Gia tốc của vật là
+A. 2 m/s².
+*B. −2 m/s².
+C. 50 m/s².
+D. −0,5 m/s².
+
+Câu 12. [TH] Vận tốc của một vật tăng đều từ 0 lên 10 m/s trong 4 s. Độ dịch chuyển của vật trong 4 s đó là
+A. 40 m.
+*B. 20 m.
+C. 10 m.
+D. 2,5 m.
+Lời giải
+Diện tích tam giác dưới đồ thị $v - t$: $d = \dfrac{1}{2} \cdot 4 \cdot 10 = 20$ m.
+
+Câu 13. [TH] Một vật bắt đầu chuyển động nhanh dần đều từ trạng thái nghỉ. Độ dịch chuyển của vật tỉ lệ thuận với
+A. thời gian $t$.
+*B. bình phương thời gian $t^2$.
+C. căn bậc hai của thời gian.
+D. nghịch đảo của thời gian.
+
+Câu 14. [TH] Một ô tô đang chạy với vận tốc 20 m/s thì hãm phanh với gia tốc −4 m/s². Ô tô dừng lại sau
+*A. 5 s.
+B. 4 s.
+C. 80 s.
+D. 16 s.
+
+Câu 15. [VD] Một ô tô đang chạy với vận tốc 20 m/s thì hãm phanh, chuyển động chậm dần đều với gia tốc −4 m/s². Quãng đường ô tô đi được từ lúc hãm phanh đến khi dừng là
+A. 100 m.
+*B. 50 m.
+C. 25 m.
+D. 80 m.
+Lời giải
+$d = \dfrac{0 - 20^2}{2 \cdot (-4)} = 50$ m.
+
+Câu 16. [VD] Một xe tăng vận tốc từ 10 m/s lên 20 m/s trên đoạn đường 75 m. Gia tốc của xe là
+*A. 2 m/s².
+B. 4 m/s².
+C. 1 m/s².
+D. 0,13 m/s².
+Lời giải
+$a = \dfrac{v^2 - v_0^2}{2d} = \dfrac{400 - 100}{150} = 2$ m/s².
+
+Câu 17. [VD] Một vật bắt đầu chuyển động nhanh dần đều từ trạng thái nghỉ với gia tốc 1 m/s². Quãng đường vật đi được trong giây thứ 5 là
+A. 12,5 m.
+*B. 4,5 m.
+C. 5 m.
+D. 8 m.
+Lời giải
+$d_5 - d_4 = \dfrac{1}{2} \cdot 1 \cdot (25 - 16) = 4,5$ m.
+
+Câu 18. [VD] Một xe đang chạy với vận tốc 36 km/h thì tăng tốc với gia tốc 0,5 m/s² trong 20 s. Quãng đường xe đi được trong 20 s đó là
+A. 200 m.
+*B. 300 m.
+C. 100 m.
+D. 400 m.
+Lời giải
+$v_0 = 10$ m/s; $d = 10 \cdot 20 + \dfrac{1}{2} \cdot 0,5 \cdot 20^2 = 300$ m.
+
+Câu 19. [TF] [TH] Về chuyển động thẳng biến đổi đều:
+*A. Gia tốc của vật không đổi theo thời gian.
+*B. Đồ thị vận tốc – thời gian là đường thẳng.
+C. Đồ thị độ dịch chuyển – thời gian là đường thẳng.
+*D. Diện tích dưới đồ thị vận tốc – thời gian bằng độ dịch chuyển.
+Lời giải
+c) Sai: đồ thị độ dịch chuyển – thời gian là một phần đường parabol.
+
+Câu 20. [TF] [VD] Một xe bắt đầu chuyển động nhanh dần đều từ trạng thái nghỉ với gia tốc 2 m/s².
+*A. Sau 4 s, vận tốc của xe là 8 m/s.
+*B. Quãng đường xe đi được trong 4 s đầu là 16 m.
+C. Quãng đường xe đi được trong 4 s đầu là 32 m.
+*D. Tốc độ trung bình của xe trong 4 s đầu là 4 m/s.
+
+Câu 21. [TF] [VD] Một ô tô đang chạy với tốc độ 72 km/h thì hãm phanh, chuyển động chậm dần đều và dừng lại sau khi đi thêm 50 m.
+*A. Vận tốc ban đầu của ô tô là 20 m/s.
+*B. Gia tốc của ô tô có độ lớn 4 m/s².
+C. Thời gian hãm phanh là 10 s.
+*D. Sau 2 s kể từ lúc hãm phanh, vận tốc của ô tô là 12 m/s.
+Lời giải
+$a = -\dfrac{20^2}{2 \cdot 50} = -4$ m/s²; $t = 20/4 = 5$ s; $v(2) = 20 - 4 \cdot 2 = 12$ m/s.
+
+Câu 22. [TF] [VD] Đồ thị vận tốc – thời gian của một xe: từ 0 đến 4 s vận tốc tăng đều từ 0 lên 8 m/s; từ 4 s đến 10 s vận tốc không đổi 8 m/s; từ 10 s đến 14 s vận tốc giảm đều về 0.
+*A. Gia tốc của xe trong 4 s đầu là 2 m/s².
+*B. Từ 4 s đến 10 s xe chuyển động thẳng đều.
+*C. Gia tốc của xe trong 4 s cuối là −2 m/s².
+D. Tổng quãng đường xe đi được là 112 m.
+Lời giải
+$s = 16 + 48 + 16 = 80$ m (tổng diện tích dưới đồ thị).
+
+Câu 23. [TH] Một vật có vận tốc ban đầu 4 m/s, chuyển động nhanh dần đều với gia tốc 3 m/s². Vận tốc của vật sau 2 s là bao nhiêu m/s?
+Trả lời: [[10]]
+
+Câu 24. [TH] Một vật bắt đầu chuyển động từ trạng thái nghỉ với gia tốc 4 m/s². Độ dịch chuyển của vật sau 3 s là bao nhiêu mét?
+Trả lời: [[18]]
+
+Câu 25. [VD] Một xe đang chạy 12 m/s thì hãm phanh với gia tốc −3 m/s². Sau bao nhiêu giây thì xe dừng?
+Trả lời: [[4]]
+
+Câu 26. [VD] Một xe đang chạy 12 m/s thì hãm phanh, chuyển động chậm dần đều với gia tốc −3 m/s². Quãng đường xe đi được từ lúc hãm phanh đến khi dừng là bao nhiêu mét?
+Trả lời: [[24]]
+Lời giải
+$d = \dfrac{0 - 12^2}{2 \cdot (-3)} = 24$ m.
+
+Câu 27. [VD] Một xe bắt đầu chuyển động nhanh dần đều từ trạng thái nghỉ, đạt vận tốc 20 m/s sau khi đi được 100 m. Gia tốc của xe là bao nhiêu m/s²?
+Trả lời: [[2]]
+
+Câu 28. [VD] Một vật có vận tốc ban đầu 5 m/s, chuyển động nhanh dần đều với gia tốc 2 m/s². Vận tốc của vật khi đi được 24 m là bao nhiêu m/s?
+Trả lời: [[11]]
+Lời giải
+$v = \sqrt{v_0^2 + 2ad} = \sqrt{25 + 96} = 11$ m/s.
+
+@bai 10 | Sự rơi tự do
+Câu 1. [NB] Sự rơi tự do là sự rơi của vật
+*A. chỉ dưới tác dụng của trọng lực.
+B. dưới tác dụng của lực cản không khí.
+C. trong nước.
+D. khi được ném lên cao.
+
+Câu 2. [NB] Chuyển động rơi tự do là chuyển động
+A. thẳng đều.
+*B. thẳng nhanh dần đều.
+C. thẳng chậm dần đều.
+D. tròn đều.
+
+Câu 3. [NB] Phương và chiều của chuyển động rơi tự do là
+*A. phương thẳng đứng, chiều từ trên xuống dưới.
+B. phương nằm ngang, chiều từ trái sang phải.
+C. phương thẳng đứng, chiều từ dưới lên trên.
+D. phương xiên góc 45°.
+
+Câu 4. [NB] Gia tốc rơi tự do ở gần mặt đất có giá trị xấp xỉ
+A. 1 m/s².
+*B. 9,8 m/s².
+C. 98 m/s².
+D. 0,98 m/s².
+
+Câu 5. [NB] Vận tốc của vật rơi tự do (thả không vận tốc đầu) tại thời điểm $t$ là
+*A. $v = gt$.
+B. $v = gt^2$.
+C. $v = \dfrac{1}{2}gt^2$.
+D. $v = g/t$.
+
+Câu 6. [NB] Quãng đường vật rơi tự do (thả không vận tốc đầu) đi được sau thời gian $t$ là
+A. $s = gt$.
+*B. $s = \dfrac{1}{2}gt^2$.
+C. $s = gt^2$.
+D. $s = 2gt^2$.
+
+Câu 7. [NB] Ở cùng một nơi trên Trái Đất, mọi vật rơi tự do đều có
+*A. cùng gia tốc.
+B. cùng khối lượng.
+C. cùng vận tốc ban đầu khác 0.
+D. cùng thời gian rơi dù ở độ cao khác nhau.
+
+Câu 8. [NB] Trong không khí, chuyển động của vật nào sau đây có thể coi là rơi tự do?
+A. Chiếc lá rơi.
+B. Tờ giấy rơi.
+*C. Viên sỏi nhỏ được thả rơi.
+D. Chiếc lông chim rơi.
+
+Câu 9. [TH] Trong ống thủy tinh (ống Newton) đã hút hết không khí, thả cùng lúc một chiếc lông chim và một viên bi chì thì
+A. viên bi rơi nhanh hơn.
+B. lông chim rơi nhanh hơn.
+*C. cả hai rơi nhanh như nhau.
+D. lông chim lơ lửng không rơi.
+
+Câu 10. [TH] Trong không khí, chiếc lá rơi chậm hơn hòn đá vì
+A. hòn đá nặng hơn nên gia tốc rơi tự do lớn hơn.
+*B. lực cản của không khí tác dụng lên chiếc lá đáng kể so với trọng lực của nó.
+C. chiếc lá không chịu tác dụng của trọng lực.
+D. Trái Đất chỉ hút các vật nặng.
+
+Câu 11. [TH] Gia tốc rơi tự do phụ thuộc vào
+*A. vĩ độ địa lí và độ cao so với mặt đất.
+B. khối lượng của vật.
+C. hình dạng của vật.
+D. màu sắc của vật.
+
+Câu 12. [TH] Một vật được thả rơi tự do tại nơi có $g = 9,8$ m/s². Vận tốc của vật sau 2 s là
+A. 9,8 m/s.
+*B. 19,6 m/s.
+C. 39,2 m/s.
+D. 4,9 m/s.
+
+Câu 13. [TH] Một vật được thả rơi tự do tại nơi có $g = 9,8$ m/s². Quãng đường vật rơi được sau 3 s là
+A. 29,4 m.
+*B. 44,1 m.
+C. 88,2 m.
+D. 14,7 m.
+
+Câu 14. [TH] Nhà bác học được cho là đã làm thí nghiệm thả các vật từ tháp nghiêng Pisa để nghiên cứu sự rơi là
+A. Newton.
+*B. Galilei.
+C. Aristotle.
+D. Einstein.
+
+Câu 15. [VD] Một vật được thả rơi tự do từ độ cao 20 m tại nơi có $g = 10$ m/s². Thời gian rơi của vật là
+A. 4 s.
+*B. 2 s.
+C. 1 s.
+D. 20 s.
+
+Câu 16. [VD] Một vật được thả rơi tự do từ độ cao 20 m tại nơi có $g = 10$ m/s². Vận tốc của vật khi chạm đất là
+A. 10 m/s.
+*B. 20 m/s.
+C. 40 m/s.
+D. 200 m/s.
+
+Câu 17. [VD] Một vật rơi tự do tại nơi có $g = 10$ m/s². Quãng đường vật rơi được trong giây thứ 3 là
+A. 45 m.
+*B. 25 m.
+C. 20 m.
+D. 15 m.
+Lời giải
+$s_3 - s_2 = \dfrac{1}{2} \cdot 10 \cdot (9 - 4) = 25$ m.
+
+Câu 18. [VD] Một vật rơi tự do chạm đất với vận tốc 30 m/s tại nơi có $g = 10$ m/s². Độ cao ban đầu của vật là
+*A. 45 m.
+B. 90 m.
+C. 30 m.
+D. 150 m.
+Lời giải
+$h = \dfrac{v^2}{2g} = \dfrac{900}{20} = 45$ m.
+
+Câu 19. [TF] [TH] Về sự rơi tự do:
+*A. Rơi tự do là chuyển động thẳng nhanh dần đều.
+*B. Vật rơi tự do theo phương thẳng đứng, chiều từ trên xuống.
+C. Trong chân không, vật nặng rơi nhanh hơn vật nhẹ.
+*D. Gia tốc rơi tự do phụ thuộc vào vĩ độ địa lí.
+
+Câu 20. [TF] [VD] Một vật được thả rơi tự do từ độ cao 80 m tại nơi có $g = 10$ m/s².
+*A. Thời gian rơi của vật là 4 s.
+*B. Vận tốc của vật khi chạm đất là 40 m/s.
+*C. Trong giây đầu tiên vật rơi được 5 m.
+D. Trong giây cuối cùng vật rơi được 25 m.
+Lời giải
+Giây cuối: $80 - \dfrac{1}{2} \cdot 10 \cdot 3^2 = 35$ m.
+
+Câu 21. [TF] [VD] Một vật được thả rơi tự do từ độ cao 19,6 m tại nơi có $g = 9,8$ m/s².
+*A. Thời gian rơi của vật là 2 s.
+*B. Vận tốc của vật khi chạm đất là 19,6 m/s.
+*C. Sau 1 s, vật còn cách mặt đất 14,7 m.
+D. Tốc độ trung bình của vật trong cả quá trình rơi là 19,6 m/s.
+Lời giải
+Sau 1 s vật rơi được 4,9 m, còn cách đất $19,6 - 4,9 = 14,7$ m. Tốc độ trung bình $= 19,6/2 = 9,8$ m/s.
+
+Câu 22. [TF] [TH] Thí nghiệm với ống Newton:
+*A. Khi trong ống có không khí, lông chim rơi chậm hơn viên bi.
+*B. Khi đã hút hết không khí, lông chim và viên bi rơi nhanh như nhau.
+C. Thí nghiệm chứng tỏ gia tốc rơi tự do phụ thuộc vào khối lượng của vật.
+*D. Lực cản của không khí là nguyên nhân làm các vật rơi nhanh chậm khác nhau.
+
+Câu 23. [TH] Một vật rơi tự do tại nơi có $g = 10$ m/s². Vận tốc của vật sau 3 s là bao nhiêu m/s?
+Trả lời: [[30]]
+
+Câu 24. [TH] Một vật rơi tự do tại nơi có $g = 10$ m/s². Quãng đường vật rơi được sau 2 s là bao nhiêu mét?
+Trả lời: [[20]]
+
+Câu 25. [VD] Một vật được thả rơi tự do từ độ cao 45 m tại nơi có $g = 10$ m/s². Thời gian rơi của vật là bao nhiêu giây?
+Trả lời: [[3]]
+
+Câu 26. [VD] Một vật rơi tự do tại nơi có $g = 9,8$ m/s². Quãng đường vật rơi được sau 2 s là bao nhiêu mét?
+Trả lời: [[19,6]]
+
+Câu 27. [VD] Một vật được thả rơi tự do từ độ cao 125 m tại nơi có $g = 10$ m/s². Vận tốc của vật khi chạm đất là bao nhiêu m/s?
+Trả lời: [[50]]
+
+Câu 28. [VD] Một vật rơi tự do tại nơi có $g = 10$ m/s². Quãng đường vật rơi được trong giây thứ 4 là bao nhiêu mét?
+Trả lời: [[35]]
+Lời giải
+$s_4 - s_3 = \dfrac{1}{2} \cdot 10 \cdot (16 - 9) = 35$ m.
+
+@bai 11 | Thực hành: Đo gia tốc rơi tự do
+Câu 1. [NB] Dụng cụ nào sau đây KHÔNG cần dùng trong thí nghiệm đo gia tốc rơi tự do bằng cổng quang điện?
+A. Viên bi thép.
+B. Nam châm điện.
+C. Cổng quang điện và đồng hồ đo thời gian hiện số.
+*D. Lực kế.
+
+Câu 2. [NB] Trong thí nghiệm đo gia tốc rơi tự do, nam châm điện dùng để
+*A. giữ viên bi và thả viên bi đúng lúc đồng hồ bắt đầu đo thời gian.
+B. hút viên bi rơi nhanh hơn.
+C. đo thời gian rơi của viên bi.
+D. đo quãng đường rơi của viên bi.
+
+Câu 3. [NB] Viên bi được thả rơi không vận tốc đầu, rơi được quãng đường $s$ trong thời gian $t$. Gia tốc rơi tự do được tính bằng
+*A. $g = \dfrac{2s}{t^2}$.
+B. $g = \dfrac{s}{t^2}$.
+C. $g = \dfrac{s}{2t^2}$.
+D. $g = \dfrac{2s}{t}$.
+
+Câu 4. [TH] Thí nghiệm dùng viên bi thép nhỏ, nặng mà không dùng quả bóng bàn vì
+*A. lực cản của không khí lên viên bi không đáng kể so với trọng lực của nó.
+B. viên bi thép có gia tốc rơi tự do lớn hơn.
+C. quả bóng bàn không bị Trái Đất hút.
+D. viên bi thép rơi chậm hơn nên dễ đo.
+
+Câu 5. [TH] Khi vẽ đồ thị quãng đường $s$ theo bình phương thời gian $t^2$ trong thí nghiệm rơi tự do, ta được
+*A. đường thẳng đi qua gốc tọa độ, hệ số góc bằng $g/2$.
+B. đường parabol.
+C. đường thẳng nằm ngang.
+D. đường thẳng đi qua gốc tọa độ, hệ số góc bằng $2g$.
+
+Câu 6. [TH] Để giảm sai số khi đo gia tốc rơi tự do, cần
+A. chỉ đo một lần ở một quãng đường.
+*B. đo nhiều lần ở các quãng đường khác nhau rồi xử lí số liệu.
+C. dùng viên bi càng nhẹ càng tốt.
+D. bấm đồng hồ bằng tay thật nhanh.
+
+Câu 7. [TH] Để viên bi rơi không vận tốc đầu đúng lúc đồng hồ bắt đầu đếm, người ta
+*A. ngắt điện nam châm để thả viên bi.
+B. dùng tay ném viên bi xuống.
+C. đẩy nhẹ viên bi theo phương ngang.
+D. thả viên bi từ trên cao xuống mà không cần giá đỡ.
+
+Câu 8. [VD] Viên bi rơi không vận tốc đầu được quãng đường 0,500 m trong thời gian 0,320 s. Gia tốc rơi tự do đo được xấp xỉ
+*A. 9,77 m/s².
+B. 9,81 m/s².
+C. 3,13 m/s².
+D. 4,88 m/s².
+Lời giải
+$g = \dfrac{2 \cdot 0,500}{0,320^2} \approx 9,77$ m/s².
+
+Câu 9. [VD] Viên bi rơi không vận tốc đầu được quãng đường 0,800 m trong thời gian 0,404 s. Gia tốc rơi tự do đo được xấp xỉ
+A. 9,77 m/s².
+*B. 9,80 m/s².
+C. 3,96 m/s².
+D. 4,90 m/s².
+
+Câu 10. [VD] Đồ thị quãng đường $s$ theo $t^2$ là đường thẳng qua gốc tọa độ có hệ số góc 4,9 m/s². Gia tốc rơi tự do đo được là
+A. 4,9 m/s².
+*B. 9,8 m/s².
+C. 2,45 m/s².
+D. 19,6 m/s².
+
+Câu 11. [TF] [TH] Về thí nghiệm đo gia tốc rơi tự do:
+*A. Dùng cổng quang điện giúp đo thời gian rơi chính xác.
+*B. Viên bi rơi không vận tốc đầu nên $s = \dfrac{1}{2}gt^2$.
+C. Dùng vật càng nhẹ, xốp thì kết quả càng chính xác.
+*D. Quãng đường rơi được đo bằng thước.
+
+Câu 12. [TF] [VD] Viên bi rơi không vận tốc đầu được quãng đường 0,600 m, thời gian rơi trung bình đo được là 0,350 s.
+*A. Gia tốc rơi tự do đo được xấp xỉ 9,80 m/s².
+*B. Sai số tỉ đối của $g$ bằng $\delta s + 2\delta t$.
+*C. Nếu thời gian đo được lớn hơn thời gian thực thì giá trị $g$ tính được nhỏ hơn giá trị thực.
+D. Ở mọi nơi trên Trái Đất, gia tốc rơi tự do đều có cùng một giá trị.
+Lời giải
+$g = 2 \cdot 0,600/0,350^2 \approx 9,80$ m/s². Vì $g = 2s/t^2$ nên $\delta g = \delta s + 2\delta t$.
+
+Câu 13. [VD] Viên bi rơi không vận tốc đầu được quãng đường 0,45 m trong 0,30 s. Gia tốc rơi tự do đo được là bao nhiêu m/s²?
+Trả lời: [[10]]
+
+Câu 14. [VD] Viên bi rơi không vận tốc đầu được quãng đường 0,98 m trong 0,447 s. Gia tốc rơi tự do đo được là bao nhiêu m/s²? (Làm tròn đến hai chữ số thập phân.)
+Trả lời: [[9,81]]
+
+Câu 15. [VD] Trong phép đo $g = 2s/t^2$, sai số tỉ đối của quãng đường là 0,2% và của thời gian là 0,5%. Sai số tỉ đối của $g$ là bao nhiêu phần trăm?
+Trả lời: [[1,2]]
+Lời giải
+$\delta g = \delta s + 2\delta t = 0,2\% + 2 \cdot 0,5\% = 1,2\%$.
+
+Câu 16. [VD] Đồ thị $s$ theo $t^2$ trong thí nghiệm rơi tự do là đường thẳng qua gốc tọa độ có hệ số góc 4,89 m/s². Gia tốc rơi tự do đo được là bao nhiêu m/s²?
+Trả lời: [[9,78]]
+Lời giải
+$s = \dfrac{1}{2}gt^2$ nên hệ số góc bằng $g/2$; $g = 2 \cdot 4,89 = 9,78$ m/s².
+
+@bai 12 | Chuyển động ném
+Câu 1. [NB] Chuyển động ném ngang có thể phân tích thành
+*A. chuyển động thẳng đều theo phương ngang và rơi tự do theo phương thẳng đứng.
+B. chuyển động thẳng đều theo cả hai phương.
+C. rơi tự do theo phương ngang và thẳng đều theo phương thẳng đứng.
+D. chuyển động tròn đều.
+
+Câu 2. [NB] Thời gian rơi của vật ném ngang từ độ cao $h$ là
+*A. $t = \sqrt{\dfrac{2h}{g}}$.
+B. $t = \dfrac{2h}{g}$.
+C. $t = \sqrt{\dfrac{h}{2g}}$.
+D. $t = \sqrt{2gh}$.
+
+Câu 3. [NB] Tầm xa của vật ném ngang với vận tốc $v_0$ từ độ cao $h$ là
+*A. $L = v_0\sqrt{\dfrac{2h}{g}}$.
+B. $L = v_0\dfrac{2h}{g}$.
+C. $L = \sqrt{\dfrac{2h}{g}}$.
+D. $L = v_0^2\sqrt{\dfrac{2h}{g}}$.
+
+Câu 4. [NB] Quỹ đạo của vật ném ngang (bỏ qua sức cản không khí) là
+A. đường thẳng.
+*B. một nhánh parabol.
+C. đường tròn.
+D. đường hypebol.
+
+Câu 5. [NB] Thời gian rơi của vật ném ngang phụ thuộc vào
+*A. độ cao nơi ném.
+B. vận tốc ban đầu.
+C. khối lượng của vật.
+D. cả vận tốc ban đầu và khối lượng.
+
+Câu 6. [NB] Vật được ném xiên với vận tốc $v_0$ hợp với phương ngang góc $\alpha$. Thành phần vận tốc theo phương ngang là
+*A. $v_0\cos\alpha$.
+B. $v_0\sin\alpha$.
+C. $v_0\tan\alpha$.
+D. $v_0$.
+
+Câu 7. [NB] Tầm xa của vật ném xiên (điểm ném và điểm rơi cùng độ cao) là
+*A. $L = \dfrac{v_0^2\sin 2\alpha}{g}$.
+B. $L = \dfrac{v_0^2\sin^2\alpha}{2g}$.
+C. $L = \dfrac{v_0\sin\alpha}{g}$.
+D. $L = \dfrac{v_0^2\cos\alpha}{g}$.
+
+Câu 8. [NB] Ném xiên một vật từ mặt đất với vận tốc ban đầu cho trước, bỏ qua sức cản không khí. Tầm xa lớn nhất khi góc ném bằng
+A. 30°.
+*B. 45°.
+C. 60°.
+D. 90°.
+
+Câu 9. [TH] Từ cùng một độ cao, cùng lúc ném ngang vật A và thả rơi tự do vật B. Bỏ qua sức cản không khí thì
+A. vật A chạm đất trước.
+B. vật B chạm đất trước.
+*C. hai vật chạm đất cùng lúc.
+D. vật A không chạm đất.
+
+Câu 10. [TH] Trong chuyển động ném ngang (bỏ qua sức cản), vận tốc theo phương ngang
+*A. không đổi.
+B. tăng dần.
+C. giảm dần.
+D. bằng 0.
+
+Câu 11. [TH] Ném ngang một vật từ cùng độ cao, nếu vận tốc ban đầu tăng gấp đôi thì tầm xa
+A. không đổi.
+*B. tăng gấp đôi.
+C. tăng gấp bốn.
+D. giảm một nửa.
+
+Câu 12. [TH] Ở điểm cao nhất của quỹ đạo vật ném xiên, vận tốc của vật
+A. bằng 0.
+*B. chỉ còn thành phần theo phương ngang.
+C. chỉ còn thành phần theo phương thẳng đứng.
+D. có độ lớn bằng vận tốc ban đầu.
+
+Câu 13. [TH] Ném xiên hai vật từ mặt đất với cùng vận tốc ban đầu, góc ném lần lượt 30° và 60°. Bỏ qua sức cản không khí, tầm xa của hai vật
+*A. bằng nhau.
+B. vật ném góc 30° xa hơn.
+C. vật ném góc 60° xa hơn.
+D. tỉ lệ 1 : 2.
+
+Câu 14. [TH] Ném ngang một vật. Nếu độ cao tăng gấp 4 lần thì thời gian rơi
+A. tăng gấp 4.
+*B. tăng gấp 2.
+C. không đổi.
+D. tăng gấp 16.
+
+Câu 15. [VD] Một vật được ném ngang từ độ cao 45 m, lấy $g = 10$ m/s². Thời gian rơi của vật là
+A. 4,5 s.
+*B. 3 s.
+C. 9 s.
+D. 2 s.
+
+Câu 16. [VD] Một vật được ném ngang từ độ cao 45 m với vận tốc ban đầu 20 m/s, lấy $g = 10$ m/s². Tầm xa của vật là
+A. 20 m.
+B. 45 m.
+*C. 60 m.
+D. 90 m.
+
+Câu 17. [VD] Một vật được ném xiên từ mặt đất với vận tốc 20 m/s, góc ném 45°, lấy $g = 10$ m/s². Tầm xa của vật là
+A. 20 m.
+*B. 40 m.
+C. 10 m.
+D. 80 m.
+Lời giải
+$L = \dfrac{20^2 \cdot \sin 90°}{10} = 40$ m.
+
+Câu 18. [VD] Một vật được ném xiên từ mặt đất với vận tốc 20 m/s, góc ném 45°, lấy $g = 10$ m/s². Độ cao cực đại vật đạt được là
+*A. 10 m.
+B. 20 m.
+C. 40 m.
+D. 5 m.
+Lời giải
+$H = \dfrac{v_0^2\sin^2\alpha}{2g} = \dfrac{400 \cdot 0,5}{20} = 10$ m.
+
+Câu 19. [TF] [TH] Về chuyển động ném ngang (bỏ qua sức cản):
+*A. Theo phương ngang vật chuyển động thẳng đều.
+*B. Theo phương thẳng đứng vật rơi tự do.
+C. Thời gian rơi phụ thuộc vào vận tốc ném ban đầu.
+*D. Quỹ đạo là một nhánh parabol.
+
+Câu 20. [TF] [VD] Một vật được ném ngang từ độ cao 80 m với vận tốc 15 m/s, lấy $g = 10$ m/s².
+*A. Thời gian rơi của vật là 4 s.
+*B. Tầm xa của vật là 60 m.
+*C. Thành phần vận tốc theo phương thẳng đứng khi chạm đất là 40 m/s.
+D. Tốc độ của vật khi chạm đất là 55 m/s.
+Lời giải
+Tốc độ chạm đất $v = \sqrt{15^2 + 40^2} \approx 42,7$ m/s.
+
+Câu 21. [TF] [VD] Một vật được ném xiên từ mặt đất với vận tốc 10 m/s, góc ném 30°, lấy $g = 10$ m/s².
+*A. Thành phần vận tốc ban đầu theo phương ngang xấp xỉ 8,66 m/s.
+*B. Thành phần vận tốc ban đầu theo phương thẳng đứng là 5 m/s.
+*C. Thời gian vật bay trong không khí là 1 s.
+D. Tầm xa của vật là 10 m.
+Lời giải
+$t = 2 \cdot 5/10 = 1$ s; $L = 8,66 \cdot 1 \approx 8,66$ m.
+
+Câu 22. [TF] [TH] Ném xiên các vật với cùng vận tốc ban đầu từ mặt đất (bỏ qua sức cản):
+*A. Góc ném 45° cho tầm xa lớn nhất.
+*B. Góc ném 30° và 60° cho tầm xa bằng nhau.
+*C. Vật ném với góc 60° lên cao hơn vật ném với góc 30°.
+D. Góc ném 90° cho tầm xa lớn nhất.
+
+Câu 23. [TH] Một vật được ném ngang từ độ cao 20 m, lấy $g = 10$ m/s². Thời gian rơi của vật là bao nhiêu giây?
+Trả lời: [[2]]
+
+Câu 24. [VD] Một vật được ném ngang từ độ cao 20 m với vận tốc 10 m/s, lấy $g = 10$ m/s². Tầm xa của vật là bao nhiêu mét?
+Trả lời: [[20]]
+
+Câu 25. [VD] Một vật được ném ngang từ độ cao 5 m, rơi cách chân điểm ném 8 m theo phương ngang, lấy $g = 10$ m/s². Vận tốc ném ban đầu là bao nhiêu m/s?
+Trả lời: [[8]]
+Lời giải
+$t = \sqrt{2 \cdot 5/10} = 1$ s; $v_0 = L/t = 8$ m/s.
+
+Câu 26. [VD] Một vật được ném xiên từ mặt đất với vận tốc 20 m/s, góc ném 30°, lấy $g = 10$ m/s². Tầm xa của vật là bao nhiêu mét? (Làm tròn đến một chữ số thập phân.)
+Trả lời: [[34,6]]
+Lời giải
+$L = \dfrac{20^2 \cdot \sin 60°}{10} \approx 34,6$ m.
+
+Câu 27. [VD] Một vật được ném xiên từ mặt đất với vận tốc 20 m/s, góc ném 30°, lấy $g = 10$ m/s². Độ cao cực đại của vật là bao nhiêu mét?
+Trả lời: [[5]]
+Lời giải
+$H = \dfrac{20^2 \cdot \sin^2 30°}{2 \cdot 10} = 5$ m.
+
+Câu 28. [VD] Một vật được ném ngang từ độ cao 45 m với vận tốc 40 m/s, lấy $g = 10$ m/s². Tốc độ của vật khi chạm đất là bao nhiêu m/s?
+Trả lời: [[50]]
+Lời giải
+$v_y = gt = 10 \cdot 3 = 30$ m/s; $v = \sqrt{40^2 + 30^2} = 50$ m/s.
+
+@chuong III | Động lực học
+@bai 13 | Tổng hợp và phân tích lực. Cân bằng lực
+@bai 14 | Định luật 1 Newton
+@bai 15 | Định luật 2 Newton
+@bai 16 | Định luật 3 Newton
+@bai 17 | Trọng lực và lực căng
+@bai 18 | Lực ma sát
+@bai 19 | Lực cản và lực nâng
+@bai 20 | Một số ví dụ về cách giải các bài toán thuộc phần động lực học
+@bai 21 | Moment lực. Cân bằng của vật rắn
+@bai 22 | Thực hành: Tổng hợp lực
+
+@chuong IV | Năng lượng, công, công suất
+@bai 23 | Năng lượng. Công cơ học
+@bai 24 | Công suất
+@bai 25 | Động năng, thế năng
+@bai 26 | Cơ năng và định luật bảo toàn cơ năng
+@bai 27 | Hiệu suất
+
+@chuong V | Động lượng
+@bai 28 | Động lượng
+@bai 29 | Định luật bảo toàn động lượng
+@bai 30 | Thực hành: Xác định động lượng của vật trước và sau va chạm
+
+@chuong VI | Chuyển động tròn
+@bai 31 | Động học của chuyển động tròn đều
+@bai 32 | Lực hướng tâm và gia tốc hướng tâm
+
+@chuong VII | Biến dạng của vật rắn. Áp suất chất lỏng
+@bai 33 | Biến dạng của vật rắn
+@bai 34 | Khối lượng riêng. Áp suất chất lỏng
