@@ -840,6 +840,12 @@ math{font-family:"Cambria Math","STIX Two Math","Latin Modern Math",serif;font-s
 .bklist{display:flex;flex-direction:column;gap:6px;margin:6px 0;max-height:360px;overflow:auto}
 .bkrow{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;padding:8px 10px;border:1px solid var(--line);border-radius:10px;background:var(--bg)}
 
+/* Dải "BẢN THỬ" (chỉ có ở …/lopvui/thu/) */
+.thubar{position:sticky;top:0;z-index:60;display:flex;flex-wrap:wrap;align-items:center;gap:6px 14px;padding:6px 16px;
+  background:#C2410C;color:#fff;font-size:14px;line-height:1.35;box-shadow:0 2px 6px rgba(0,0,0,.25)}
+.thubar b{letter-spacing:.06em}
+.thubar .btn{margin-left:auto;background:#fff;color:#7C2D12;border-color:#fff}
+
 </style>
 </head>
 <body>
@@ -868,6 +874,7 @@ math{font-family:"Cambria Math","STIX Two Math","Latin Modern Math",serif;font-s
    ========================================================= */
 "use strict";
 const App = window.App = { games: {}, order: [] };
+App.VERSION = "1.1"; App.BUILD = "0e59d76"; App.RELEASED = true; App.WEB = true;
 
 /* ---------- Tiện ích ---------- */
 App.$ = id => document.getElementById(id);
@@ -1009,9 +1016,17 @@ function defaults() {
 }
 
 /* ---------- Kho dữ liệu ---------- */
-const KEY = "lopvui.v1";
+/* Bản thử (…/lopvui/thu/) cùng "nhà" với bản chính trong trình duyệt, nên dùng NGĂN RIÊNG:
+   khóa "lopvui-thu.v1", kho hình "lopvui-thu-img", không nối thư mục LopVui (xem fsync.js).
+   Lần đầu mở: chép một bản sao dữ liệu của bản chính để thử trên dữ liệu thật mà không đụng bản thật. */
+const KEY_CHINH = "lopvui.v1";
+const KEY = App.THU ? "lopvui-thu.v1" : KEY_CHINH;
+const banSaoChinh = () => { try { const d = JSON.parse(localStorage.getItem(KEY_CHINH)); return d && Array.isArray(d.classes) && d.classes.length ? d : null; } catch (e) { return null; } };
 let S = null;
 try { S = JSON.parse(localStorage.getItem(KEY)); } catch (e) { S = null; }
+if (App.THU && (!S || !Array.isArray(S.classes) || !S.classes.length)) {
+  const d = banSaoChinh(); if (d) { S = d; delete S.fresh; S.thuCopied = Date.now(); }
+}
 if (!S || !Array.isArray(S.classes) || !S.classes.length) {
   S = defaults(); S.fresh = true;
   // Nhận lại dữ liệu từ bản Vòng Quay Gọi Tên cũ nếu có
@@ -1026,6 +1041,13 @@ if (!S || !Array.isArray(S.classes) || !S.classes.length) {
 S = Object.assign(defaults(), S);
 S.prefs = Object.assign({ ...App.SETTINGS_DEFAULT }, S.prefs);
 App.S = S;
+/* Bản thử: bỏ dữ liệu đang thử, lấy lại bản sao mới nhất của bản chính (bản chính không bị đụng tới) */
+App.thuLayLai = () => {
+  if (!App.THU) return false; const d = banSaoChinh(); if (!d) return false;
+  delete d.fresh; d.thuCopied = Date.now(); clearTimeout(saveT); saveT = 0;
+  try { localStorage.setItem(KEY, JSON.stringify(d)); } catch (e) { return false; }
+  location.reload(); return true;
+};
 let saveT;
 App.save = () => { clearTimeout(saveT); saveT = setTimeout(App.saveNow, 200); };
 App.saveNow = () => { clearTimeout(saveT); saveT = 0; try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e) { } };
@@ -1038,17 +1060,20 @@ App.fullBackup = async () => {
   const images = {}; for (const st of S.sets) for (const id of App.img.idsIn(st.raw)) if (!images[id]) images[id] = await App.img.toDataURL(id);
   if (S.prefs.bg && S.prefs.bg.img && !images[S.prefs.bg.img]) images[S.prefs.bg.img] = await App.img.toDataURL(S.prefs.bg.img);
   S.lastFullBackup = Date.now(); delete S.backupSnooze; App.save();
-  App.download(new Blob([JSON.stringify({ format: "lopvui-backup", v: 1, data: S, images })], { type: "application/json" }), `lop-vui-sao-luu-${new Date().toISOString().slice(0, 10)}.lopvui`);
+  App.download(new Blob([JSON.stringify({ format: "lopvui-backup", v: 1, data: S, images })], { type: "application/json" }), `lop-vui-sao-luu-${App.THU ? "BAN-THU-" : ""}${new Date().toISOString().slice(0, 10)}.lopvui`);
 };
 App.importData = txt => { const d = JSON.parse(txt); if (!d || !Array.isArray(d.classes) || !Array.isArray(d.sets)) throw new Error("Mã sao lưu không đúng định dạng."); Object.keys(S).forEach(k => delete S[k]); Object.assign(S, defaults(), d); App.save(); };
 
 /* ---------- Kho hình ảnh (IndexedDB, chạy offline, chứa được hàng trăm MB) ---------- */
 App.img = (() => {
-  const urls = new Map(), meta = new Map(); let db = null;
-  const open = () => new Promise(res => {
-    try { const r = indexedDB.open("lopvui-img", 1); r.onupgradeneeded = () => r.result.createObjectStore("img"); r.onsuccess = () => { db = r.result; res(); }; r.onerror = () => res(); }
-    catch (e) { res(); }
+  const urls = new Map(), meta = new Map(); let db = null, dbChinh = null;
+  const moDb = ten => new Promise(res => {
+    try { const r = indexedDB.open(ten, 1); r.onupgradeneeded = () => r.result.createObjectStore("img"); r.onsuccess = () => res(r.result); r.onerror = () => res(null); }
+    catch (e) { res(null); }
   });
+  // Bản thử: ghi vào kho hình riêng; hình của bản chính chỉ ĐỌC (để bộ câu hỏi chép sang vẫn hiện hình)
+  const open = async () => { db = await moDb(App.THU ? "lopvui-thu-img" : "lopvui-img"); if (App.THU) dbChinh = await moDb("lopvui-img"); };
+  const docHet = d => new Promise(res => { if (!d) return res(); try { const t = d.transaction("img"), r = t.objectStore("img").openCursor(); r.onsuccess = () => { const cur = r.result; if (!cur) return res(); const v = cur.value; if (!urls.has(cur.key) && v && v.blob) { urls.set(cur.key, URL.createObjectURL(v.blob)); meta.set(cur.key, { w: v.w, h: v.h, type: v.blob.type }); } cur.continue(); }; r.onerror = () => res(); } catch (e) { res(); } });
   const tx = (mode, fn) => new Promise(res => { if (!db) return res(null); try { const t = db.transaction("img", mode), st = t.objectStore("img"); const r = fn(st); t.oncomplete = () => res(r && r.result); t.onerror = () => res(null); } catch (e) { res(null); } });
   const hash = async bytes => { let h1 = 0x811c9dc5, h2 = 0x01000193; for (let i = 0; i < bytes.length; i++) { h1 = Math.imul(h1 ^ bytes[i], 16777619); h2 = Math.imul(h2 + bytes[i], 2246822507); } return (h1 >>> 0).toString(36) + (h2 >>> 0).toString(36) + bytes.length.toString(36); };
   const dims = blob => new Promise(res => { const u = URL.createObjectURL(blob), im = new Image(); im.onload = () => { res({ w: im.naturalWidth, h: im.naturalHeight, im, u }); }; im.onerror = () => res(null); im.src = u; });
@@ -1067,6 +1092,7 @@ App.img = (() => {
     async init() {
       await open(); if (!db) return;
       await new Promise(res => { try { const t = db.transaction("img"), r = t.objectStore("img").openCursor(); r.onsuccess = () => { const cur = r.result; if (!cur) return res(); const v = cur.value; urls.set(cur.key, URL.createObjectURL(v.blob)); meta.set(cur.key, { w: v.w, h: v.h, type: v.blob.type }); cur.continue(); }; r.onerror = () => res(); } catch (e) { res(); } });
+      if (dbChinh) await docHet(dbChinh);
     },
     url: id => urls.get(id),
     meta: id => meta.get(id),
@@ -1083,7 +1109,11 @@ App.img = (() => {
       if (urls.has(id)) return id; const d = await dims(blob); if (!d) return null; URL.revokeObjectURL(d.u);
       urls.set(id, URL.createObjectURL(blob)); meta.set(id, { w: d.w, h: d.h, type: blob.type }); await tx("readwrite", st => st.put({ blob, w: d.w, h: d.h }, id)); return id;
     },
-    async blob(id) { return tx("readonly", st => st.get(id)).then(v => v ? v.blob : null); },
+    async blob(id) {
+      const v = await tx("readonly", st => st.get(id)); if (v) return v.blob;
+      if (!dbChinh) return null;  // bản thử: tìm tiếp trong kho hình bản chính (chỉ đọc)
+      return new Promise(res => { try { const q = dbChinh.transaction("img").objectStore("img").get(id); q.onsuccess = () => res(q.result ? q.result.blob : null); q.onerror = () => res(null); } catch (e) { res(null); } });
+    },
     async toDataURL(id) { const b = await this.blob(id); if (!b) return null; return new Promise(r => { const f = new FileReader(); f.onload = () => r(f.result); f.readAsDataURL(b); }); },
     async fromDataURL(id, dataUrl) { if (urls.has(id)) return id; const b = await (await fetch(dataUrl)).blob(); const nid = await this.put(b); if (nid !== id) { urls.set(id, urls.get(nid)); meta.set(id, meta.get(nid)); await tx("readwrite", st => st.put({ blob: b, w: meta.get(nid).w, h: meta.get(nid).h }, id)); } return id; },
     idsIn: text => [...String(text || "").matchAll(/!\[[^\]]*\]\(img:([\w-]+)\)/g)].map(m => m[1])
@@ -1958,7 +1988,8 @@ const S = App.S;
 let dir = null, sub = null, state = "off", lastSaved = 0, timer = 0, writing = false, pending = false, lastErr = "";
 const doneImg = new Set(), setSig = {};
 const listeners = [];
-const supported = () => typeof window.showDirectoryPicker === "function" && window.self === window.top;
+// Bản thử KHÔNG BAO GIỜ nối thư mục LopVui (tránh ghi đè dữ liệu thật): coi như máy không hỗ trợ
+const supported = () => !App.THU && typeof window.showDirectoryPicker === "function" && window.self === window.top;
 
 /* --- lưu "tay cầm" thư mục để lần sau mở app không phải chọn lại --- */
 const idb = (mode, fn) => new Promise(res => {
@@ -2079,6 +2110,7 @@ App.fs = {
   get state() { return state; }, get folder() { return dir ? dir.name : ""; }, get lastSaved() { return lastSaved; }, get error() { return lastErr; },
   onChange: f => listeners.push(f),
   async choose() {
+    if (!supported()) throw new Error(App.THU ? "Bản thử không lưu ra thư mục (để không đụng dữ liệu thật)." : "Trình duyệt này không hỗ trợ lưu vào thư mục.");
     const h = await window.showDirectoryPicker({ id: "lopvui", mode: "readwrite", startIn: "documents" });
     return use(h);
   },
@@ -2187,7 +2219,6 @@ App.wireBgPicker = (root, rerender) => {
 };
 })();
 
-App.WEB = true;
 /* ===== src/bank.js ===== */
 /* =========================================================
    KHO CÂU HỎI SOẠN SẴN theo SGK Kết nối tri thức (chương trình GDPT 2018), lớp 10–12.
@@ -3863,7 +3894,7 @@ function sets() {
     App.download(blob, `${set.name.replace(/[\\/:*?"<>|]/g, "")}.docx`);
     if (skipped) setTimeout(() => App.toast(`${skipped} cặp ghép hoặc câu hỏi mở không có trong chuẩn OLM nên không được xuất.`), 3400);
   };
-  $("sExpSet").onclick = async () => { const set = App.set(); App.download(await App.docx.exportSet(set), `${set.name.replace(/[\\/:*?"<>|]/g, "")}.lopvui`); };
+  $("sExpSet").onclick = async () => { const set = App.set(); App.download(await App.docx.exportSet(set), `${set.name.replace(/[\\/:*?"<>|]/g, "")}${App.THU ? " (ban thu)" : ""}.lopvui`); };
   $("sOpenSet").onchange = async e => {
     const f = e.target.files[0]; e.target.value = ""; if (!f) return;
     try { const d = await App.docx.importSet(f); App.newSet(d.name, d.raw); App.set().subject = d.subject || S.subject; App.touchSet(App.set()); S.subject = App.set().subject; App.save(); App.applySubject(); sets(); App.toast(`Đã mở bộ "${d.name}" (môn ${App.SUBJECTS[S.subject].name}).`); }
@@ -4035,6 +4066,7 @@ function settings() {
     </div>
     <div class="panel" id="lookPanel"></div>
     <div class="panel"><h3 style="font-size:17px">Hình nền</h3><div id="bgPanel"></div></div>
+    <p class="note" id="verLine">Lớp Vui ${App.THU ? "BẢN THỬ " : ""}bản ${esc(App.VERSION || "?")}${App.RELEASED ? "" : " (chưa phát hành)"} · mã ${esc(App.BUILD || "?")}</p>
     <div class="panel" id="fsPanel"></div>
     <div class="panel">
       <h3 style="font-size:17px">Sao lưu và chuyển máy</h3>
@@ -4191,7 +4223,8 @@ function renderFsPanel() {
   const st = App.fs.state, f = esc(App.fs.folder);
   const head = `<h3 style="font-size:17px">Tự lưu vào thư mục trên máy</h3>`;
   const tip = `<span class="note">Gợi ý: chọn thư mục <b>LopVui</b> trong Google Drive (ví dụ G:\\My Drive\\LopVui). App tạo thư mục con <b>DuLieu</b> gồm dữ liệu, hình, từng bộ câu hỏi (.lopvui) và bản sao lưu mỗi ngày. Google Drive sẽ tự đưa lên mạng.</span>`;
-  if (st === "unsupported") el.innerHTML = head + `<span class="note">Tính năng này cần mở file <b>LopVui.html</b> trên máy tính bằng Chrome, Edge hoặc Cốc Cốc. Bản xem trên claude.ai và trình duyệt Firefox không dùng được.</span>`;
+  if (st === "unsupported" && App.THU) el.innerHTML = head + `<span class="note">Đây là <b>BẢN THỬ</b>: không lưu ra thư mục LopVui để không bao giờ đụng dữ liệu thật. Dữ liệu thử nằm riêng trong trình duyệt này.</span>`;
+  else if (st === "unsupported") el.innerHTML = head + `<span class="note">Tính năng này cần mở file <b>LopVui.html</b> trên máy tính bằng Chrome, Edge hoặc Cốc Cốc. Bản xem trên claude.ai và trình duyệt Firefox không dùng được.</span>`;
   else if (st === "on") el.innerHTML = head + `<div class="fsrow ok"><b>Đang tự lưu</b> vào <b>${f}\\DuLieu</b>${App.fs.lastSaved ? ` · lần gần nhất ${hhmm(App.fs.lastSaved)}` : ""}</div><div class="row"><button class="btn small" id="fsNow">Lưu ngay</button><button class="btn small" id="fsList">Khôi phục từ bản sao lưu…</button><button class="btn small" id="fsPick">Đổi thư mục</button><button class="btn small danger" id="fsStop">Ngừng tự lưu</button></div><div id="fsBackups"></div>`;
   else if (st === "need") el.innerHTML = head + `<div class="fsrow warn">Đã chọn thư mục <b>${f}</b>. Trình duyệt cần thầy cô cho phép lại sau mỗi lần mở app.</div><div class="row"><button class="btn small primary" id="fsAllow">Cho phép lưu tiếp</button><button class="btn small" id="fsPick">Đổi thư mục</button><button class="btn small danger" id="fsStop">Ngừng tự lưu</button></div>`;
   else if (st === "error") el.innerHTML = head + `<div class="fsrow bad">${esc(App.fs.error)}</div><div class="row"><button class="btn small primary" id="fsPick">Chọn lại thư mục</button><button class="btn small danger" id="fsStop">Ngừng tự lưu</button></div>`;
@@ -4241,7 +4274,17 @@ function setupWebApp() {
   let reloading = false;
   navigator.serviceWorker.addEventListener("controllerchange", () => { if (reloading) return; reloading = true; App.saveNow(); location.reload(); });
 }
+/* Bản thử: dải màu cam trên cùng, luôn hiện, để không nhầm với bản chính khi đứng lớp */
+function thuBar() {
+  if (!App.THU || $("thuBar")) return;
+  const d = document.createElement("div"); d.id = "thuBar"; d.className = "thubar"; d.setAttribute("role", "note");
+  const luc = S.thuCopied ? new Date(S.thuCopied).toLocaleString("vi-VN", { hour: "2-digit", minute: "2-digit", day: "2-digit", month: "2-digit" }) : "";
+  d.innerHTML = `<b>BẢN THỬ ${esc(App.VERSION || "")}</b><span>Dữ liệu riêng${luc ? ` (bản sao từ bản chính lúc ${esc(luc)})` : ""} – sửa thoải mái, bản chính không bị ảnh hưởng.</span><button class="btn small" id="thuLayLai">Lấy lại dữ liệu từ bản chính</button>`;
+  document.body.prepend(d);
+  $("thuLayLai").onclick = () => { if (!App.thuLayLai()) App.toast("Trình duyệt này chưa có dữ liệu của bản chính."); };
+}
 App.start = () => {
+  thuBar();
   setupWebApp();
   App.bank.init();
   document.documentElement.classList.toggle("lessfx", !!S.prefs.lessFx);
