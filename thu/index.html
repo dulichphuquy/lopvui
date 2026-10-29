@@ -978,7 +978,7 @@ math{font-family:"Cambria Math","STIX Two Math","Latin Modern Math",serif;font-s
    ========================================================= */
 "use strict";
 const App = window.App = { games: {}, order: [] };
-App.VERSION = "1.4"; App.BUILD = "42d20ac"; App.RELEASED = false; App.WEB = true; App.THU = true;
+App.VERSION = "1.4"; App.BUILD = "873f6fe"; App.RELEASED = false; App.WEB = true; App.THU = true;
 
 /* ---------- Tiện ích ---------- */
 App.$ = id => document.getElementById(id);
@@ -4553,7 +4553,9 @@ function game(id) {
    Cùng một nội dung này được dùng lại ở trang Hướng dẫn chung và bản PDF (viết một lần, không lệch nhau). */
 function helpInner(g) {
   const h = g.help;
-  return `<ol class="helplist">${h.steps.map(s => `<li>${App.html(s)}</li>`).join("")}</ol>
+  // (h.steps||[]) …: phòng khi một trò ở Chặng 2 khai `help` nhưng quên điền `steps` — trang Hướng dẫn
+  // vẽ gộp mọi trò cùng lúc, thiếu một trò sẽ vỡ cả trang nếu không có dòng phòng hờ này.
+  return `<ol class="helplist">${(h.steps || []).map(s => `<li>${App.html(s)}</li>`).join("")}</ol>
     ${h.shortcuts && h.shortcuts.length ? `<div class="kbdrow">${h.shortcuts.map(s => `<span class="kbd">${esc(s.k)}</span><span class="kbdd">${esc(s.d)}</span>`).join("")}</div>` : ""}
     ${h.tips && h.tips.length ? `<ul class="helptips">${h.tips.map(t => `<li>${App.html(t)}</li>`).join("")}</ul>` : ""}`;
 }
@@ -4572,7 +4574,9 @@ function openHelp(g) {
   </div>`;
   document.body.appendChild(ov);
   const close = () => { ov.remove(); removeEventListener("keydown", onKey, true); closeHelp = null; };
-  const onKey = e => { if (e.key === "Escape") { e.preventDefault(); e.stopPropagation(); close(); } };
+  // Chặn MỌI phím lan xuống trò chơi/phím tắt chung trong lúc bảng này đang mở (không chỉ Esc) —
+  // tránh Space/P/M lỡ tay khi đang đọc hướng dẫn làm trò tự chạy (vd Vòng quay tự quay) phía sau bảng.
+  const onKey = e => { e.stopPropagation(); if (e.key === "Escape") { e.preventDefault(); close(); } };
   ov.addEventListener("click", e => { if (e.target === ov) close(); });
   $("gHelpX").onclick = close;
   $("gHelpFull").onclick = e => { e.preventDefault(); close(); go("guide", g.id); };
