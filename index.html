@@ -154,6 +154,7 @@ details.help pre{background:var(--bg);border:1px solid var(--line);border-radius
   animation:rays 14s linear infinite;pointer-events:none;z-index:0;opacity:.8}
 .result>*{position:relative;z-index:1}
 @keyframes rays{to{transform:rotate(360deg)}}
+.result.yen::before{display:none}  /* khung hỏi/thông báo: không có tia sáng sau chữ */
 .who-label{font-size:13px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--accent)}
 .who{font-family:var(--f-display);font-weight:700;font-size:clamp(34px,7vw,70px);line-height:1.1;text-wrap:balance}
 .who span{display:inline-block;animation:letter .55s cubic-bezier(.2,1.6,.4,1) both}
@@ -500,6 +501,7 @@ math{font-family:"Cambria Math","STIX Two Math","Latin Modern Math",serif;font-s
 
 /* ===== Danh sách bộ câu hỏi ===== */
 .manage{grid-template-columns:280px minmax(0,1fr)}
+@media (max-width:900px){.manage{grid-template-columns:1fr}}  /* màn hẹp: xếp một cột (dòng trên ghi đè quy tắc chung nên phải nhắc lại) */
 .setside{display:flex;flex-direction:column;gap:10px;min-width:0;position:sticky;top:12px}
 .setside>.btn{width:100%}
 .setlist{display:flex;flex-direction:column;gap:6px}
@@ -874,7 +876,7 @@ math{font-family:"Cambria Math","STIX Two Math","Latin Modern Math",serif;font-s
    ========================================================= */
 "use strict";
 const App = window.App = { games: {}, order: [] };
-App.VERSION = "1.1"; App.BUILD = "0e59d76"; App.RELEASED = true; App.WEB = true;
+App.VERSION = "1.2"; App.BUILD = "9691ab8"; App.RELEASED = true; App.WEB = true;
 
 /* ---------- Tiện ích ---------- */
 App.$ = id => document.getElementById(id);
@@ -4209,7 +4211,7 @@ async function fsAct(p) {
 }
 function showConflict(d) {
   const when = d.savedAt ? new Date(d.savedAt).toLocaleString("vi-VN") : "không rõ";
-  const ov = document.createElement("div"); ov.className = "overlay"; ov.innerHTML = `<div class="result" style="text-align:left;animation:none;max-width:620px">
+  const ov = document.createElement("div"); ov.className = "overlay"; ov.innerHTML = `<div class="result yen" style="text-align:left;animation:none;max-width:620px">
     <h2 style="font-size:22px">Thư mục đã có dữ liệu Lớp Vui</h2>
     <p>Trong thư mục <b>${esc(App.fs.folder)}</b> có dữ liệu lưu lúc <b>${esc(when)}</b>: ${d.classes.length} lớp, ${(d.sets || []).length} bộ câu hỏi. ${S.fresh ? "Lớp Vui ở trình duyệt này đang là dữ liệu mẫu, nên thầy cô thường chọn lấy dữ liệu trong thư mục." : "Dữ liệu này mới hơn dữ liệu đang có trong trình duyệt."}</p>
     <p class="note">Thường gặp khi mở Lớp Vui ở địa chỉ mới, trên máy khác, hoặc sau khi xóa lịch sử trình duyệt.</p>
