@@ -918,6 +918,36 @@ math{font-family:"Cambria Math","STIX Two Math","Latin Modern Math",serif;font-s
 .result.hasq.answered .wtfrow{font-size:calc(var(--fit,1)*clamp(15px,1.7vw,19px))}
 .result.hasq .wopt{font-size:calc(var(--fit,1)*clamp(16px,min(2.2vw,3vh),24px))}
 
+/* ===== Mục 3.12: Hướng dẫn sử dụng trong app (nút "?" + trang Hướng dẫn + in PDF) ===== */
+.btn.sq{width:32px;height:32px;padding:0;display:grid;place-items:center;font-family:var(--f-display);font-weight:700;flex:none}
+.helpbox{max-width:460px;text-align:left}
+.helplist{margin:0;padding-left:20px;font-size:14px;line-height:1.6}
+.helplist li{margin-bottom:6px}
+.helplist:last-child{margin-bottom:0}
+.kbdrow{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center;font-size:13px;margin:4px 0}
+.kbdrow .kbdd{color:var(--muted);margin-right:8px}
+.helptips{margin:4px 0 0;padding-left:20px;font-size:13px;color:var(--muted);line-height:1.55}
+.helptips li{margin-bottom:3px}
+
+.guidebody{display:grid;grid-template-columns:200px minmax(0,1fr);gap:22px;align-items:start}
+@media (max-width:820px){.guidebody{grid-template-columns:1fr}}
+.guidenav{position:sticky;top:12px;display:flex;flex-direction:column;gap:2px;min-width:0}
+.guidenav a{padding:7px 10px;border-radius:8px;color:var(--muted);font-size:13.5px;font-weight:600;text-decoration:none}
+.guidenav a:hover{background:var(--surface-2);color:var(--fg)}
+@media (max-width:820px){.guidenav{position:static;flex-direction:row;flex-wrap:wrap;border-bottom:1px solid var(--line);padding-bottom:10px}}
+.guidecontent{display:flex;flex-direction:column;gap:26px;min-width:0}
+.guidecontent section{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:18px 20px;scroll-margin-top:12px}
+.guidecontent h3{font-family:var(--f-display);font-size:17px;margin:0 0 10px}
+
+@media print{
+  body *{visibility:hidden}
+  .guide,.guide *{visibility:visible}
+  .guide{position:absolute;left:0;top:0;width:100%;padding:0}
+  .guide .section-title .btn,.guide .guidenav{display:none}
+  .guidecontent{gap:14px}
+  .guidecontent section{border:0;padding:0 0 10px;break-inside:avoid}
+}
+
 </style>
 </head>
 <body>
@@ -930,6 +960,7 @@ math{font-family:"Cambria Math","STIX Two Math","Latin Modern Math",serif;font-s
       <button class="iconbtn savechip" id="saveChip" hidden></button>
       <button class="iconbtn primary" id="btnInstall" hidden>⬇ Cài vào máy</button>
       <button class="iconbtn lookbtn" id="btnLook" title="Đổi giao diện" aria-label="Đổi giao diện"><i aria-hidden="true"></i><span>Giao diện</span></button>
+      <button class="iconbtn" id="btnGuide">Hướng dẫn</button>
       <button class="iconbtn" id="btnSettings">Cài đặt</button>
     </div>
   </header>
@@ -946,7 +977,7 @@ math{font-family:"Cambria Math","STIX Two Math","Latin Modern Math",serif;font-s
    ========================================================= */
 "use strict";
 const App = window.App = { games: {}, order: [] };
-App.VERSION = "1.3"; App.BUILD = "e30f589"; App.RELEASED = true; App.WEB = true;
+App.VERSION = "1.4"; App.BUILD = "873f6fe"; App.RELEASED = true; App.WEB = true;
 
 /* ---------- Tiện ích ---------- */
 App.$ = id => document.getElementById(id);
@@ -1586,6 +1617,9 @@ App.fx = {
      id, name, blurb, art (svg), uses: "class" | "questions",
      ready() -> chuỗi lý do nếu chưa chơi được, hoặc "" nếu sẵn sàng,
      settings: [{key,label,type:"seg"|"range"|"toggle"|"text",options,min,max,step,unit,default,advanced,note}],
+     help: {steps:[chuỗi…], shortcuts:[{k,d}…], tips:[chuỗi…]}  -- tùy chọn; có thì hiện nút "?" trên thanh của trò.
+       Viết MỘT LẦN ở đây, dùng lại cho cả nút "?", trang Hướng dẫn chung và bản in PDF (mục 3.12) — sửa trò ở
+       đâu thì hướng dẫn cập nhật ở đó, không lệch. Trò nào chưa có help thì trang Hướng dẫn tự báo "đang soạn".
      mount(el, ctx), unmount(), onKey(e) -> true nếu đã xử lý, onSetting(key) -> true nếu tự cập nhật được
    })
 */
@@ -2561,6 +2595,29 @@ const G = {
     { key: "qShuffle", label: "Trộn thứ tự đáp án A, B, C, D", type: "toggle", default: false, advanced: true, note: "Đáp án đánh dấu # trong bộ câu hỏi giữ nguyên vị trí." },
     { key: "nameMode", label: "Tên hiện trên vòng", type: "seg", options: { auto: "Tự động", given: "Chỉ tên", full: "Họ và tên" }, default: "auto", advanced: true, note: "Tự động: lớp đông chỉ hiện tên gọi (Nguyễn Văn An → An); trùng tên thì thêm tên đệm." }
   ],
+  help: {
+    steps: [
+      "Chọn lớp ở Trang chính (có thể bấm \"Bạn này vắng?\" để bỏ bớt trước khi quay).",
+      "Bấm vào vòng, hoặc nhấn phím Space, để quay.",
+      "Bảng hiện tên bạn trúng — chấm \"✓ Đúng +1\" hoặc \"✗ Chưa đúng\".",
+      "Bật \"Kèm câu hỏi\" ở Tùy chỉnh để hỏi luôn bạn vừa trúng; đáp án và lời giải hiện ở thẻ riêng bên dưới câu hỏi.",
+      "Cần giới hạn thời gian trả lời: bấm \"Bấm giờ\" (15/30/60 giây) hoặc bật \"Đồng hồ trả lời tự chạy\" trong Tùy chỉnh.",
+      "Không muốn gọi trùng bạn vừa trúng: tích \"Bỏ tên này khỏi vòng\" (phím X) trước khi đóng bảng.",
+      "Bấm \"Quay tiếp\" hoặc Space để gọi bạn kế tiếp; hết cả lớp thì vòng tự đầy lại."
+    ],
+    shortcuts: [
+      { k: "Space", d: "Quay / quay tiếp" },
+      { k: "P", d: "Trình chiếu toàn màn hình" },
+      { k: "M", d: "Tắt/bật âm thanh" },
+      { k: "X", d: "Bật/tắt bỏ tên khỏi vòng" },
+      { k: "R", d: "Đọc lại (khi có bật giọng đọc)" }
+    ],
+    tips: [
+      "Bật \"Chế độ hồi hộp\" ở Tùy chỉnh để kim bò chậm qua vài tên trước khi dừng, tăng kịch tính.",
+      "Giọng đọc chọn giọng và tốc độ ở Cài đặt chung; Vòng quay có cài đặt riêng Tắt / Chỉ đọc tên / Đọc cả câu hỏi trong Tùy chỉnh.",
+      "Trả lời ngắn dạng số hiện 4 ô như phiếu thi 2025; đáp án chữ dùng ô nhập thường."
+    ]
+  },
   onSetting(k) { if (k === "nameMode") draw(); if (k === "voice" && cfg.voice === "off") stopReading(); return true; },
   redraw() { fit(); fitPopup(); },
   mount(root, c) {
@@ -3797,6 +3854,7 @@ function renderSubjects() {
 /* ---------- Điều hướng ---------- */
 function go(v, gameId) {
   if (current) { try { current.unmount && current.unmount(); } catch (e) { console.error(e); } current = null; }
+  if (closeHelp) closeHelp();
   App.hush();
   view = v; V().scrollTop = 0;
   $("btnPresent").hidden = v !== "game";
@@ -3806,6 +3864,7 @@ function go(v, gameId) {
   else if (v === "sets") sets();
   else if (v === "bank") bank();
   else if (v === "settings") settings();
+  else if (v === "guide") guide(gameId);
   else if (v === "game") game(gameId);
 }
 App.go = go;
@@ -4401,6 +4460,77 @@ function settings() {
   };
 }
 
+/* ---------- Trang Hướng dẫn chung ----------
+   3 tầng theo bản đặc tả: nút "?" trên từng trò (helpInner, ở trên) + trang này + bản PDF (in trang này).
+   Nội dung từng trò lấy thẳng từ App.games[id].help — viết một lần ở chat của trò đó, không lệch ở đây. */
+const GUIDE_SECTIONS = [
+  { id: "bat-dau", label: "Bắt đầu nhanh" },
+  { id: "dia-chi", label: "Link chính · link thử · cài vào máy" },
+  { id: "luu", label: "Lưu & sao lưu" },
+  { id: "su-co", label: "Xử lý sự cố" },
+];
+function guideStart() {
+  return `<h3>Bắt đầu nhanh</h3>
+    <ol class="helplist">
+      <li>Chọn <b>lớp</b> và <b>bộ câu hỏi</b> ở Trang chính — chọn một lần, mọi trò chơi dùng chung.</li>
+      <li>Bấm vào một trò trong mục "Trò chơi" để vào chơi.</li>
+      <li>Bấm <b>Trình chiếu</b> (hoặc phím <span class="kbd">P</span>) để phóng to toàn màn hình cho máy chiếu.</li>
+      <li>Mỗi trò có nút <b>?</b> ở góc trên để xem lại các bước và phím tắt bất cứ lúc nào.</li>
+      <li>Hình nền, giọng đọc, âm lượng chỉnh ở <b>Cài đặt</b> hoặc trong <b>Tùy chỉnh</b> của từng trò.</li>
+    </ol>`;
+}
+function guideDiaChi() {
+  return `<h3>Link chính · link thử · cài vào máy</h3>
+    <ul class="helplist">
+      <li><b>Link chính</b> (dùng để dạy): dulichphuquy.github.io/lopvui/ — chỉ đổi khi có bản mới được duyệt.</li>
+      <li><b>Link thử</b> (…/lopvui/thu/, dải cam "BẢN THỬ"): nơi thử bản sắp ra, dữ liệu riêng, không ảnh hưởng dữ liệu thật.</li>
+      <li><b>Cài vào máy</b>: bấm "⬇ Cài vào máy" khi trình duyệt hiện nút đó (góc trên) — có biểu tượng riêng trên màn hình, mở lên chạy được cả khi mất mạng.</li>
+      <li>Đã cài vào máy mà vẫn đang dùng bản cũ: bấm "Cập nhật" khi app báo có bản mới, hoặc đóng hẳn rồi mở lại app.</li>
+    </ul>`;
+}
+function guideLuu() {
+  return `<h3>Lưu &amp; sao lưu</h3>
+    <ul class="helplist">
+      <li>App tự lưu ngay trong trình duyệt mỗi khi có thay đổi — không cần bấm lưu tay.</li>
+      <li>Chọn thư mục (ví dụ Google Drive của trường) ở Cài đặt để app tự lưu thêm một bản ra đó; mất máy hoặc xóa lịch sử trình duyệt vẫn còn dữ liệu.</li>
+      <li>Mỗi tháng app nhắc tải một file sao lưu đầy đủ — nên cất ra ổ D:, USB hoặc Google cá nhân (quy tắc 3 bản, 2 nơi, 1 bản ngoài tài khoản trường).</li>
+      <li>Lỡ xóa nhầm lớp, bộ câu hỏi: Cài đặt → "Khôi phục từ bản sao lưu…", chọn đúng ngày giờ trước khi xảy ra sự cố.</li>
+    </ul>`;
+}
+function guideSuCo() {
+  return `<h3>Xử lý sự cố</h3>
+    <ul class="helplist">
+      <li><b>Lỡ xóa/sửa nhầm:</b> Cài đặt → "Khôi phục từ bản sao lưu…" → chọn bản trước lúc xảy ra sự cố.</li>
+      <li><b>Đổi máy, cài lại Windows, xóa lịch sử trình duyệt:</b> mở lại trang web, chọn đúng thư mục đã lưu trước đó → bấm "Dùng dữ liệu trong thư mục" (không bấm "Ghi đè").</li>
+      <li><b>Trang web không mở được (mất mạng, GitHub lỗi):</b> dùng app đã cài vào máy, hoặc mở file LopVui.html đã lưu sẵn — chạy đầy đủ không cần mạng.</li>
+      <li><b>App báo "Chưa lưu ra thư mục":</b> bấm "Cho phép lưu tiếp"; nếu không thấy thư mục, kiểm tra Google Drive cho máy tính còn đang chạy.</li>
+      <li>Các tình huống khác và cách gỡ chi tiết hơn: xem tệp KHOI-PHUC.txt (để sẵn trong thư mục LopVui, in ra được).</li>
+    </ul>`;
+}
+function guide(focusId) {
+  V().innerHTML = `<div class="wrap guide">
+    <div class="section-title"><h2>Hướng dẫn</h2>
+      <span class="row"><button class="btn small" id="gdPdf">⬇ Tải hướng dẫn (PDF)</button><button class="btn small" id="back">← Trang chính</button></span></div>
+    <div class="guidebody">
+      <nav class="guidenav" id="gdNav" aria-label="Mục hướng dẫn">
+        ${GUIDE_SECTIONS.map(s => `<a href="#gd-${s.id}">${esc(s.label)}</a>`).join("")}
+        ${App.order.map(id => `<a href="#gd-g-${id}">${esc(App.games[id].name)}</a>`).join("")}
+      </nav>
+      <div class="guidecontent" id="gdContent">
+        <section id="gd-bat-dau">${guideStart()}</section>
+        <section id="gd-dia-chi">${guideDiaChi()}</section>
+        <section id="gd-luu">${guideLuu()}</section>
+        <section id="gd-su-co">${guideSuCo()}</section>
+        ${App.order.map(id => { const g = App.games[id]; return `<section id="gd-g-${id}"><h3>${esc(g.name)}</h3>
+          ${g.help ? helpInner(g) : `<p class="note">Hướng dẫn chi tiết cho trò này đang được soạn, sẽ có trong bản cập nhật sau.</p>`}</section>`; }).join("")}
+      </div>
+    </div></div>`;
+  $("back").onclick = () => go("home");
+  $("gdPdf").onclick = () => print();
+  $("gdNav").onclick = e => { const a = e.target.closest("a"); if (!a) return; e.preventDefault(); const t = $(a.getAttribute("href").slice(1)); if (t) t.scrollIntoView({ behavior: App.reduce ? "auto" : "smooth", block: "start" }); };
+  if (focusId) { const t = $("gd-g-" + focusId); if (t) setTimeout(() => t.scrollIntoView({ block: "start" }), 50); }
+}
+
 /* ---------- Màn chơi ---------- */
 function game(id) {
   const g = App.games[id], cfg = App.cfg(id);
@@ -4408,12 +4538,49 @@ function game(id) {
   V().innerHTML = `<div class="gameview">
     <div class="gamebar"><button class="btn small" id="gBack">← Trang chính</button>
       <span class="title">${esc(g.name)}</span><span class="ctx">${esc(g.uses === "class" ? App.cls().name : App.set().name)}</span>
-      <span class="sp"></span><button class="btn small" id="gDrawer" aria-pressed="${drawerOpen}">Tùy chỉnh</button></div>
+      <span class="sp"></span><button class="btn small" id="gDrawer" aria-pressed="${drawerOpen}">Tùy chỉnh</button>${g.help ? `<button class="btn small sq" id="gHelp" title="Hướng dẫn nhanh" aria-label="Hướng dẫn nhanh">?</button>` : ""}</div>
     <div class="gamebody"><div class="stage" id="stage"></div><aside class="drawer" id="drawer" ${drawerOpen ? "" : "hidden"}></aside></div></div>`;
   $("gBack").onclick = () => { present(false); go("home"); };
   $("gDrawer").onclick = () => { drawerOpen = !drawerOpen; $("drawer").hidden = !drawerOpen; $("gDrawer").setAttribute("aria-pressed", drawerOpen); setTimeout(() => current && current.redraw && current.redraw(), 30); };
+  if ($("gHelp")) $("gHelp").onclick = () => openHelp(g);
   renderDrawer(g, cfg);
   mountGame(g);
+}
+
+/* ---------- Hướng dẫn nhanh (nút "?" trên mỗi trò) ----------
+   Dùng chung cho mọi trò: trò nào có thuộc tính help = {steps, shortcuts, tips} thì có nút "?".
+   Cùng một nội dung này được dùng lại ở trang Hướng dẫn chung và bản PDF (viết một lần, không lệch nhau). */
+function helpInner(g) {
+  const h = g.help;
+  // (h.steps||[]) …: phòng khi một trò ở Chặng 2 khai `help` nhưng quên điền `steps` — trang Hướng dẫn
+  // vẽ gộp mọi trò cùng lúc, thiếu một trò sẽ vỡ cả trang nếu không có dòng phòng hờ này.
+  return `<ol class="helplist">${(h.steps || []).map(s => `<li>${App.html(s)}</li>`).join("")}</ol>
+    ${h.shortcuts && h.shortcuts.length ? `<div class="kbdrow">${h.shortcuts.map(s => `<span class="kbd">${esc(s.k)}</span><span class="kbdd">${esc(s.d)}</span>`).join("")}</div>` : ""}
+    ${h.tips && h.tips.length ? `<ul class="helptips">${h.tips.map(t => `<li>${App.html(t)}</li>`).join("")}</ul>` : ""}`;
+}
+let closeHelp = null;  // đang mở thì go() gọi hàm này để đóng gọn, không để lại overlay/phím tắt mồ côi khi chuyển màn
+function openHelp(g) {
+  if (!g.help) return;
+  if (closeHelp) closeHelp();
+  const ov = document.createElement("div"); ov.className = "overlay"; ov.id = "gHelpOv";
+  ov.innerHTML = `<div class="result yen helpbox" role="dialog" aria-modal="true" aria-labelledby="gHelpT">
+    <div class="row" style="justify-content:space-between;align-items:center">
+      <h2 id="gHelpT" style="font-size:19px;margin:0">❓ Hướng dẫn nhanh · ${esc(g.name)}</h2>
+      <button class="btn small" id="gHelpX">Đóng</button>
+    </div>
+    ${helpInner(g)}
+    <span class="note">Xem đầy đủ cho mọi trò ở <a href="#" id="gHelpFull">trang Hướng dẫn</a>.</span>
+  </div>`;
+  document.body.appendChild(ov);
+  const close = () => { ov.remove(); removeEventListener("keydown", onKey, true); closeHelp = null; };
+  // Chặn MỌI phím lan xuống trò chơi/phím tắt chung trong lúc bảng này đang mở (không chỉ Esc) —
+  // tránh Space/P/M lỡ tay khi đang đọc hướng dẫn làm trò tự chạy (vd Vòng quay tự quay) phía sau bảng.
+  const onKey = e => { e.stopPropagation(); if (e.key === "Escape") { e.preventDefault(); close(); } };
+  ov.addEventListener("click", e => { if (e.target === ov) close(); });
+  $("gHelpX").onclick = close;
+  $("gHelpFull").onclick = e => { e.preventDefault(); close(); go("guide", g.id); };
+  addEventListener("keydown", onKey, true);
+  closeHelp = close;
 }
 function mountGame(g) {
   if (current && current.unmount) current.unmount();
@@ -4583,6 +4750,7 @@ App.start = () => {
   document.documentElement.classList.toggle("lessfx", !!S.prefs.lessFx);
   renderSubjects(); App.applySubject(); App.loadVoices(); updateSubjCounts();
   $("brand").onclick = () => { present(false); go("home"); };
+  $("btnGuide").onclick = () => { present(false); go("guide"); };
   $("btnSettings").onclick = () => { present(false); go("settings"); };
   $("btnLook").onclick = () => { const k = Object.keys(App.LOOKS), n = k[(k.indexOf(App.look()) + 1) % k.length]; App.setLook(n); App.toast(`Giao diện: ${App.LOOKS[n].name}`); };
   $("saveChip").onclick = () => { if (App.fs.state === "need") fsAct(App.fs.reconnect()); else { present(false); go("settings"); } };
