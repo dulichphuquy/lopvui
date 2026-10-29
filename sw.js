@@ -1,7 +1,7 @@
 /* Lớp Vui – service worker: giữ sẵn app và kho câu hỏi trong máy để chạy khi mất mạng.
    Có bản mới thì tải ngầm, app báo "Có bản Lớp Vui mới · Cập nhật"; thầy cô bấm thì mới đổi (không đổi giữa tiết học). */
 const PREFIX = "lopvui-";            // "lopvui-" bản chính, "lopvui-thu-" bản thử
-const VERSION = PREFIX + "6ea5f4583b70";
+const VERSION = PREFIX + "08a0051fb2f9";
 // Bản chính không đụng vào bản thử nằm trong thư mục con thu/ (và ngược lại: bản thử có bộ nhớ riêng)
 const THU = new URL("thu/", self.registration.scope).pathname;
 const cuaMinh = k => k.startsWith(PREFIX) && (PREFIX === "lopvui-thu-" || !k.startsWith("lopvui-thu-"));
