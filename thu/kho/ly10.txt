@@ -1960,6 +1960,283 @@ Lời giải
 Lực thứ ba cân bằng với hợp lực của hai lực kia: $F_3 = \sqrt{15^2 + 20^2} = 25$ N.
 
 @bai 14 | Định luật 1 Newton
+Câu 1. [NB] Nếu một vật không chịu tác dụng của lực nào hoặc chịu tác dụng của các lực có hợp lực bằng 0 thì vật
+A. chuyển động nhanh dần đều theo hướng chuyển động ban đầu của vật.
+B. chuyển động chậm dần đều rồi dừng lại sau một khoảng thời gian.
+C. chuyển động tròn đều quanh vị trí ban đầu của nó.
+*D. giữ nguyên trạng thái đứng yên hoặc chuyển động thẳng đều.
+Lời giải
+Đây là nội dung của định luật 1 Newton.
+
+Câu 2. [NB] Quán tính là tính chất của mọi vật có xu hướng
+*A. giữ nguyên trạng thái chuyển động hiện có của mình.
+B. tự tăng dần tốc độ của mình theo thời gian chuyển động.
+C. tự quay trở về vị trí ban đầu sau khi chịu lực tác dụng.
+D. chuyển động ngược chiều với lực tác dụng lên vật.
+Lời giải
+Quán tính là tính chất giữ nguyên vận tốc (trạng thái chuyển động) hiện có của vật.
+
+Câu 3. [NB] Đại lượng đặc trưng cho mức quán tính của vật là
+A. thể tích.
+B. tốc độ.
+*C. khối lượng.
+D. kích thước hình học.
+Lời giải
+Khối lượng càng lớn thì mức quán tính càng lớn, vật càng khó thay đổi vận tốc.
+
+Câu 4. [NB] Theo Galilei và Newton, lực là nguyên nhân làm
+A. duy trì chuyển động thẳng đều của vật.
+*B. thay đổi trạng thái chuyển động của vật.
+C. xuất hiện quán tính của vật khi chuyển động.
+D. thay đổi khối lượng và thể tích của vật.
+Lời giải
+Lực không duy trì chuyển động mà làm thay đổi vận tốc, tức là thay đổi trạng thái chuyển động của vật.
+
+Câu 5. [TH] Hiện tượng nào sau đây KHÔNG liên quan đến quán tính?
+A. Người đang chạy bị vấp thì ngã chúi về phía trước.
+B. Bụi bay ra khỏi tấm thảm khi ta đập mạnh vào thảm.
+C. Nước văng ra khỏi bàn tay ướt khi ta vẩy mạnh rồi dừng tay đột ngột.
+*D. Quả táo chín rụng khỏi cành rồi rơi xuống đất.
+Lời giải
+Quả táo rơi do tác dụng của trọng lực. Các hiện tượng còn lại đều do vật có quán tính, giữ nguyên trạng thái chuyển động cũ khi vật khác dừng đột ngột.
+
+Câu 6. [NB] Định luật 1 Newton còn được gọi là định luật
+*A. quán tính.
+B. vạn vật hấp dẫn.
+C. bảo toàn năng lượng.
+D. Hooke.
+Lời giải
+Định luật 1 Newton thể hiện tính chất quán tính của vật nên còn gọi là định luật quán tính.
+
+Câu 7. [NB] Trong thí nghiệm hai máng nghiêng đối nhau của Galilei, nếu máng thứ hai được đặt nằm ngang và nhẵn tuyệt đối thì viên bi
+A. dừng lại ngay khi đến chân của máng nghiêng.
+*B. chuyển động mãi với vận tốc không đổi.
+C. chuyển động chậm dần rồi dừng lại.
+D. chuyển động nhanh dần đều.
+Lời giải
+Khi không có ma sát, không có lực nào làm thay đổi vận tốc của bi nên bi chuyển động mãi với vận tốc không đổi.
+
+Câu 8. [NB] Trong các vật sau, vật có mức quán tính lớn nhất là
+A. quả trứng gà 60 g.
+B. cục tẩy nhỏ 15 g.
+*C. quyển sách 0,4 kg.
+D. cái cốc nhựa 250 g.
+Lời giải
+Đổi về cùng đơn vị: 60 g; 15 g; 400 g; 250 g. Quyển sách có khối lượng lớn nhất nên có quán tính lớn nhất.
+
+Câu 9. [TH] Xe buýt đang chạy thẳng đều thì rẽ phải đột ngột. Hành khách trên xe có xu hướng bị nghiêng sang
+*A. bên trái, do quán tính giữ nguyên hướng chuyển động ban đầu.
+B. bên phải, do xe kéo hành khách sang phía bên phải theo hướng rẽ.
+C. phía trước, do xe thường giảm tốc khi vào khúc cua.
+D. phía sau, do xe thường tăng tốc khi ra khỏi khúc cua.
+Lời giải
+Người có quán tính nên giữ hướng chuyển động cũ, còn xe đổi hướng sang phải, nên so với xe người nghiêng về bên trái.
+
+Câu 10. [TH] Đặt tờ giấy dưới một cốc nước rồi giật nhanh tờ giấy theo phương ngang, cốc gần như đứng yên tại chỗ. Nguyên nhân chủ yếu là
+A. cốc nặng hơn tờ giấy rất nhiều nên lực kéo của tay không đủ để làm cốc chuyển động.
+B. lực ma sát giữa cốc và tờ giấy bằng 0.
+*C. cốc có quán tính nên có xu hướng giữ nguyên trạng thái đứng yên.
+D. tờ giấy bị giật quá nhanh nên không có lực nào tác dụng lên cốc.
+Lời giải
+Giật nhanh thì lực tác dụng lên cốc rất ngắn, cốc có quán tính nên chưa kịp thay đổi trạng thái đứng yên.
+
+Câu 11. [TH] Phát biểu nào sau đây phù hợp với định luật 1 Newton?
+A. Muốn duy trì chuyển động của vật thì phải có hợp lực khác 0 tác dụng liên tục lên vật theo chiều chuyển động.
+*B. Vật đang chuyển động mà các lực tác dụng lên nó cân bằng thì vẫn chuyển động thẳng đều.
+C. Vật đang đứng yên thì chắc chắn không có lực nào tác dụng lên vật.
+D. Vật không chịu lực nào tác dụng thì phải đứng yên.
+Lời giải
+Vật đang đứng yên vẫn có thể chịu các lực cân bằng; vật không chịu lực nào thì giữ nguyên vận tốc (có thể đang chuyển động thẳng đều).
+
+Câu 12. [TH] Muốn tra chặt đầu búa vào cán, người ta gõ mạnh đầu dưới của cán búa xuống nền. Khi cán búa dừng lại đột ngột thì đầu búa
+A. bị đẩy ngược lên trên vì có phản lực của nền tác dụng lên đầu búa.
+B. dừng lại cùng cán và dính chặt nhờ trọng lực.
+C. chuyển động chậm dần vì lực cản của không khí.
+*D. tiếp tục chuyển động xuống do quán tính nên bị siết chặt vào cán.
+Lời giải
+Cán dừng đột ngột, đầu búa có quán tính nên tiếp tục đi xuống và bị siết chặt vào cán.
+
+Câu 13. [TH] Hai vật có khối lượng $m_1 < m_2$. Nhận xét nào sau đây đúng?
+A. Vật 1 có quán tính lớn hơn vì dễ chuyển động hơn.
+B. Hai vật có quán tính bằng nhau vì cùng chịu tác dụng của trọng lực.
+*C. Vật 2 có quán tính lớn hơn nên khó thay đổi vận tốc hơn vật 1.
+D. Quán tính của vật chỉ phụ thuộc vào vận tốc của vật.
+Lời giải
+Khối lượng càng lớn thì quán tính càng lớn, vật càng khó thay đổi vận tốc.
+
+Câu 14. [TH] Một quyển sách nằm yên trên mặt bàn nằm ngang, chịu tác dụng của trọng lực $\vec{P}$ và phản lực $\vec{N}$ của mặt bàn. Phát biểu nào sau đây đúng?
+*A. $\vec{P}$ và $\vec{N}$ cân bằng nên sách giữ nguyên trạng thái đứng yên.
+B. $\vec{P}$ lớn hơn $\vec{N}$ nên sách bị ép chặt xuống mặt bàn và đứng yên.
+C. $\vec{N}$ lớn hơn $\vec{P}$ nên sách được giữ lại trên mặt bàn.
+D. Không có lực nào tác dụng lên sách vì sách đứng yên.
+Lời giải
+Sách đứng yên nên hợp lực bằng 0: trọng lực $\vec{P}$ và phản lực $\vec{N}$ cân bằng nhau.
+
+Câu 15. [TH] Một tàu vũ trụ ở rất xa mọi thiên thể, đã tắt động cơ nhưng vẫn đang chuyển động. Tàu sẽ
+A. chuyển động chậm dần rồi dừng lại.
+*B. chuyển động thẳng đều theo hướng sẵn có.
+C. chuyển động nhanh dần theo hướng sẵn có.
+D. chuyển động tròn quanh vị trí tắt động cơ.
+Lời giải
+Tàu không chịu lực nào đáng kể nên theo định luật 1 Newton nó giữ nguyên vận tốc.
+
+Câu 16. [VD] Người ta kéo một thùng hàng trượt thẳng đều trên sàn nằm ngang bằng lực kéo nằm ngang có độ lớn 80 N. Lực ma sát của sàn tác dụng lên thùng có độ lớn
+A. nhỏ hơn 80 N.
+B. lớn hơn 80 N.
+C. bằng 0.
+*D. bằng 80 N.
+Lời giải
+Thùng chuyển động thẳng đều nên hợp lực bằng 0: lực ma sát cân bằng với lực kéo, có độ lớn 80 N.
+
+Câu 17. [VD] Treo một quả nặng bằng sợi dây (1) buộc vào giá, rồi buộc thêm sợi dây (2) vào phía dưới quả nặng. Kéo mạnh và đột ngột sợi dây (2) xuống thì
+A. dây (1) đứt trước vì ngoài lực kéo còn phải chịu thêm trọng lượng của quả nặng.
+*B. dây (2) đứt trước vì quả nặng có quán tính nên chưa kịp chuyển động xuống.
+C. hai dây đứt cùng lúc vì lực căng của hai dây bằng nhau.
+D. không dây nào đứt vì quả nặng đang đứng yên.
+Lời giải
+Kéo đột ngột thì thời gian tác dụng rất ngắn, quả nặng nhờ quán tính chưa kịp dịch chuyển nên dây (2) bị căng đột ngột và đứt trước.
+
+Câu 18. [VD] Quả bóng lăn trên sàn nằm ngang rồi dừng dần. Giải thích đúng theo định luật 1 Newton là
+*A. có lực ma sát (lực cản) tác dụng lên bóng làm thay đổi vận tốc của bóng.
+B. mọi vật tự nhiên đều có xu hướng trở về trạng thái đứng yên sau một thời gian.
+C. không còn lực nào duy trì chuyển động của bóng nữa.
+D. quán tính của bóng giảm dần theo thời gian.
+Lời giải
+Chuyển động không cần lực để duy trì. Bóng dừng dần vì lực ma sát và lực cản không khí làm thay đổi vận tốc của nó.
+
+Câu 19. [VD] Một người ngồi trên toa tàu đang chạy thẳng đều tung một quả bóng thẳng đứng lên cao (so với toa tàu), bỏ qua lực cản không khí. Quả bóng sẽ rơi
+A. về phía sau người đó một đoạn vì trong lúc bóng bay thì tàu vẫn chạy tiến về phía trước.
+B. về phía trước người đó vì bóng được tàu kéo theo.
+*C. đúng vào tay người đó vì bóng giữ nguyên vận tốc ngang bằng vận tốc tàu.
+D. sang một bên người đó vì tàu đang chuyển động thẳng đều.
+Lời giải
+Theo phương ngang không có lực tác dụng nên quả bóng giữ vận tốc bằng vận tốc tàu. Do đó so với toa tàu, quả bóng chỉ lên xuống theo phương thẳng đứng và rơi lại đúng vào tay người đó.
+
+Câu 20. [VD] Một người khối lượng 60 kg đứng trên sàn thang máy đang đi lên với tốc độ không đổi. Lấy $g = 10$ m/s². Lực của sàn thang máy tác dụng lên người có độ lớn
+A. 60 N.
+B. 120 N.
+C. 1200 N.
+*D. 600 N.
+Lời giải
+Thang máy chuyển động thẳng đều nên người cân bằng: $N = P = mg = 60 \cdot 10 = 600$ N.
+
+Câu 21. [VD] Xe máy chạy thẳng đều trên đường nằm ngang. Phát biểu nào sau đây đúng?
+*A. Lực kéo của động cơ cân bằng với tổng các lực cản tác dụng lên xe.
+B. Lực kéo của động cơ phải lớn hơn tổng các lực cản thì xe mới không dừng lại.
+C. Không có lực nào tác dụng lên xe vì xe chuyển động thẳng đều.
+D. Lực kéo của động cơ nhỏ hơn tổng các lực cản vì xe chạy nhờ quán tính.
+Lời giải
+Xe chạy thẳng đều thì hợp lực bằng 0, nên lực kéo cân bằng với tổng các lực cản.
+
+Câu 22. [VD] Một máy bay đang bay ngang thẳng đều. Lực đẩy của động cơ là $6 \cdot 10^4$ N, trọng lực và lực nâng cùng có độ lớn $3 \cdot 10^5$ N. Lực cản của không khí tác dụng lên máy bay có độ lớn
+A. $3 \cdot 10^5$ N.
+B. $2,4 \cdot 10^5$ N.
+*C. $6 \cdot 10^4$ N.
+D. $3,6 \cdot 10^5$ N.
+Lời giải
+Máy bay chuyển động thẳng đều nên theo phương ngang lực cản cân bằng với lực đẩy: $F_c = 6 \cdot 10^4$ N.
+
+Câu 23. [TF] [TH] Về quán tính và định luật 1 Newton:
+*A. Khi hợp lực tác dụng lên vật bằng 0 thì vận tốc của vật không thay đổi.
+*B. Vật đang đứng yên cũng có quán tính.
+C. Vật không chịu lực nào tác dụng thì nhất thiết phải đứng yên.
+D. Quán tính là một lực giữ cho vật tiếp tục chuyển động.
+Lời giải
+Vật không chịu lực nào thì giữ nguyên vận tốc (đứng yên hoặc chuyển động thẳng đều). Quán tính là tính chất của mọi vật, không phải là một lực.
+
+Câu 24. [TF] [TH] Về quan niệm lực và chuyển động:
+*A. Theo Aristotle, muốn duy trì chuyển động của vật cần có lực tác dụng liên tục lên vật.
+*B. Theo Galilei, nếu bỏ qua ma sát thì vật chuyển động trên mặt phẳng ngang sẽ chuyển động mãi.
+*C. Định luật 1 Newton cho thấy chuyển động thẳng đều không cần hợp lực khác 0 để duy trì.
+D. Lực ma sát là nguyên nhân duy trì chuyển động của vật.
+Lời giải
+Lực ma sát là lực cản, làm vật chuyển động chậm dần chứ không duy trì chuyển động.
+
+Câu 25. [TF] [TH] Vận động viên chạy nước rút qua vạch đích và không dừng lại ngay mà chạy thêm một đoạn nữa:
+*A. Vận động viên chạy thêm một đoạn do quán tính.
+B. Quán tính của vận động viên lớn hơn khi chạy nhanh hơn.
+C. Nếu bỏ qua mọi lực cản thì vận động viên sẽ dừng lại sau một thời gian.
+D. Quán tính chỉ xuất hiện khi vận động viên chạy với tốc độ lớn.
+Lời giải
+Quán tính phụ thuộc khối lượng, không phụ thuộc tốc độ và có ở mọi vật. Nếu không có lực cản thì vật giữ nguyên vận tốc chứ không tự dừng lại.
+
+Câu 26. [TF] [VD] Vật khối lượng 5 kg chuyển động thẳng đều với vận tốc 3 m/s trên mặt phẳng ngang nhờ lực kéo nằm ngang có độ lớn 15 N, lấy $g = 10$ m/s².
+*A. Hợp lực tác dụng lên vật bằng 0.
+*B. Lực ma sát tác dụng lên vật có độ lớn 15 N.
+*C. Thành phần vuông góc với mặt phẳng của lực do mặt phẳng tác dụng lên vật (phản lực pháp tuyến) có độ lớn 50 N.
+*D. Sau 4 s vật đi được quãng đường 12 m.
+Lời giải
+Vật chuyển động thẳng đều nên hợp lực bằng 0. Theo phương ngang: $F_{ms} = F = 15$ N. Theo phương thẳng đứng: $N = P = mg = 50$ N. Quãng đường $s = vt = 3 \cdot 4 = 12$ m.
+
+Câu 27. [TF] [VD] Một vật khối lượng 3 kg được treo vào đầu một sợi dây, lấy $g = 10$ m/s². Vật được kéo lên thẳng đều.
+*A. Lực căng của dây có độ lớn 30 N.
+*B. Nếu vật đi xuống thẳng đều thì lực căng của dây vẫn có độ lớn 30 N.
+C. Nếu vật đi lên thẳng đều với vận tốc lớn hơn thì lực căng của dây lớn hơn 30 N.
+D. Dây không tác dụng lực lên vật vì vật chuyển động thẳng đều.
+Lời giải
+Chuyển động thẳng đều (lên hay xuống, nhanh hay chậm) thì hợp lực bằng 0 nên $T = P = 30$ N. Độ lớn lực căng không phụ thuộc vào vận tốc.
+
+Câu 28. [TF] [VD] Một viên bi lăn với vận tốc 0,5 m/s trên mặt phẳng ngang nhẵn tuyệt đối (bỏ qua mọi lực cản).
+*A. Vận tốc của viên bi được giữ nguyên.
+*B. Sau 6 s viên bi đi được quãng đường 3 m.
+*C. Hợp lực tác dụng lên viên bi bằng 0.
+D. Nếu vận tốc ban đầu tăng gấp đôi thì sau 6 s viên bi vẫn đi được 3 m.
+Lời giải
+Trọng lực cân bằng với phản lực nên hợp lực bằng 0, bi chuyển động thẳng đều: $s = vt = 0,5 \cdot 6 = 3$ m. Nếu vận tốc gấp đôi thì $s = 1 \cdot 6 = 6$ m.
+
+Câu 29. [TF] [VD] Ô tô khối lượng 1,5 tấn chạy thẳng đều trên đường nằm ngang, tổng lực cản tác dụng lên xe là 900 N, lấy $g = 10$ m/s².
+*A. Lực kéo của động cơ có độ lớn 900 N.
+B. Phản lực của mặt đường có độ lớn 900 N.
+C. Hợp lực tác dụng lên xe có độ lớn 900 N.
+D. Nếu tắt máy, xe tiếp tục chuyển động thẳng đều vì có quán tính.
+Lời giải
+Xe chạy thẳng đều nên hợp lực bằng 0 và lực kéo bằng lực cản: 900 N. Phản lực $N = P = 1500 \cdot 10 = 15000$ N. Khi tắt máy, lực cản làm xe chậm dần.
+
+Câu 30. [TH] Hai đội kéo co, sợi dây đứng yên không dịch chuyển. Đội A kéo dây với lực 800 N. Tính độ lớn lực kéo của đội B (theo đơn vị N, bỏ qua khối lượng dây).
+Trả lời: [[800]]
+Lời giải
+Dây đứng yên nên hợp lực tác dụng lên dây bằng 0, lực kéo của đội B bằng 800 N.
+
+Câu 31. [TH] Treo một vật vào lực kế, vật đứng yên và lực kế chỉ 24 N. Lấy $g = 10$ m/s². Tính khối lượng của vật (theo đơn vị kg).
+Trả lời: [[2,4]]
+Lời giải
+Vật đứng yên nên lực căng (số chỉ lực kế) cân bằng với trọng lực: $mg = 24$, suy ra $m = \dfrac{24}{10} = 2,4$ kg.
+
+Câu 32. [TH] Một vật chuyển động thẳng đều trên mặt phẳng ngang dưới tác dụng của ba lực cùng phương: lực $\vec{F}_1$ có độ lớn 10 N hướng sang phải, lực $\vec{F}_2$ có độ lớn 6 N hướng sang trái và lực $\vec{F}_3$. Tính độ lớn của lực $\vec{F}_3$ (theo đơn vị N).
+Trả lời: [[4]]
+Lời giải
+Vật chuyển động thẳng đều nên hợp lực bằng 0. Lực $\vec{F}_3$ hướng sang trái và $F_3 = F_1 - F_2 = 10 - 6 = 4$ N.
+
+Câu 33. [VD] Vật khối lượng 10 kg trượt thẳng đều xuống mặt phẳng nghiêng góc 30° so với phương ngang, lấy $g = 10$ m/s². Tính độ lớn lực ma sát tác dụng lên vật (theo đơn vị N).
+Trả lời: [[50]]
+Lời giải
+Vật chuyển động thẳng đều nên theo phương song song với mặt phẳng nghiêng: $F_{ms} = P\sin 30° = 100 \cdot 0,5 = 50$ N.
+
+Câu 34. [VD] Một đoàn tàu gồm đầu máy và 5 toa giống nhau chạy thẳng đều. Lực cản tác dụng lên mỗi toa là 2 kN, lực cản tác dụng lên đầu máy là 4 kN. Tính độ lớn lực kéo của đầu máy (theo đơn vị kN).
+Trả lời: [[14]]
+Lời giải
+Chuyển động thẳng đều nên lực kéo bằng tổng các lực cản: $F = 5 \cdot 2 + 4 = 14$ kN.
+
+Câu 35. [VD] Hành khách trên toa tàu đang chạy thẳng đều với tốc độ 18 m/s thả rơi một viên bi từ độ cao 1,25 m so với sàn toa, lấy $g = 10$ m/s², bỏ qua lực cản không khí. Tính quãng đường viên bi đi được theo phương ngang so với mặt đất cho đến khi chạm sàn (theo đơn vị m).
+Trả lời: [[9]]
+Lời giải
+Thời gian rơi $t = \sqrt{\dfrac{2h}{g}} = \sqrt{\dfrac{2 \cdot 1,25}{10}} = 0,5$ s. Theo phương ngang viên bi giữ vận tốc 18 m/s nên $s = 18 \cdot 0,5 = 9$ m.
+
+Câu 36. [VD] Một chất điểm chuyển động thẳng đều dưới tác dụng của bốn lực đồng phẳng: $\vec{F}_1$ có độ lớn 10 N hướng Đông, $\vec{F}_2$ có độ lớn 6 N hướng Bắc, $\vec{F}_3$ có độ lớn 10 N hướng Tây và $\vec{F}_4$. Tính độ lớn của lực $\vec{F}_4$ (theo đơn vị N).
+Trả lời: [[6]]
+Lời giải
+Hợp lực bằng 0. Hai lực $\vec{F}_1$ và $\vec{F}_3$ cân bằng nhau nên $\vec{F}_4$ phải cân bằng với $\vec{F}_2$, suy ra $F_4 = 6$ N.
+
+Câu 37. [VD] Thùng hàng khối lượng 30 kg được kéo trượt thẳng đều trên sàn nằm ngang bằng dây chếch lên phía trên, hợp với phương ngang góc 37°, lực căng dây là 100 N. Lấy $g = 10$ m/s², $\sin 37° = 0,6$. Tính độ lớn phản lực pháp tuyến của sàn tác dụng lên thùng (theo đơn vị N).
+Trả lời: [[240]]
+Lời giải
+Theo phương thẳng đứng: $N + T\sin 37° = P$, suy ra $N = 300 - 100 \cdot 0,6 = 240$ N.
+
+Câu 38. [VD] Một khí cầu có tổng khối lượng 600 kg bay lên thẳng đều. Lực đẩy của không khí tác dụng lên khí cầu hướng lên và có độ lớn 6200 N. Lấy $g = 10$ m/s². Tính độ lớn lực cản của không khí tác dụng lên khí cầu (theo đơn vị N).
+Trả lời: [[200]]
+Lời giải
+Khí cầu chuyển động thẳng đều nên hợp lực bằng 0: $F_{đẩy} = P + F_{cản}$, suy ra $F_{cản} = 6200 - 600 \cdot 10 = 200$ N.
+
 @bai 15 | Định luật 2 Newton
 @bai 16 | Định luật 3 Newton
 @bai 17 | Trọng lực và lực căng

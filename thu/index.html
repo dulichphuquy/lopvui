@@ -983,7 +983,7 @@ math{font-family:"Cambria Math","STIX Two Math","Latin Modern Math",serif;font-s
    ========================================================= */
 "use strict";
 const App = window.App = { games: {}, order: [] };
-App.VERSION = "1.6"; App.BUILD = "7099f90"; App.RELEASED = false; App.WEB = true; App.THU = true;
+App.VERSION = "1.6"; App.BUILD = "0efb67e"; App.RELEASED = false; App.WEB = true; App.THU = true;
 
 /* ---------- Tiện ích ---------- */
 App.$ = id => document.getElementById(id);
@@ -4462,13 +4462,13 @@ function renderVoicePanel() {
   const L = App.voiceList, cur = App.voice, r = String(+S.prefs.rate || 1);
   P.innerHTML = `<h3 style="font-size:17px">Giọng đọc</h3>
     ${L.length ? `<div class="field"><label class="label" for="pVoice">Giọng</label><select id="pVoice"><option value="">Tự động (giọng hay nhất đang có)</option>${L.map(v => `<option value="${esc(v.name)}" ${S.prefs.voiceName === v.name ? "selected" : ""}>${esc(App.voiceLabel(v))}</option>`).join("")}</select>
-      <span class="note" id="pVoiceNow">Đang dùng: ${cur ? esc(App.voiceLabel(cur)) : "chưa có"}. Tự động ưu tiên Nam Minh → Hoài My (trình duyệt Edge, cần mạng) → An (không cần mạng). Mất mạng giữa chừng thì tự đọc bằng giọng trong máy.</span></div>
+      <span class="note" id="pVoiceNow">Đang dùng: ${cur ? esc(App.voiceLabel(cur)) : "chưa có"}. Tự động ưu tiên Nam Minh → Hoài My (trình duyệt Edge, cần mạng) → Google Tiếng Việt (trình duyệt Chrome, cần mạng) → An (không cần mạng). Nếu thấy giọng chưa rõ, chọn thử từng giọng trong danh sách rồi bấm Nghe thử. Mất mạng giữa chừng thì tự đọc bằng giọng trong máy.</span></div>
     <div class="field"><span class="label">Tốc độ đọc</span><div class="seg" id="pRate">${Object.entries(RATES).map(([k, l]) => `<button data-v="${k}" aria-pressed="${k === r}">${l}</button>`).join("")}</div></div>
     <div class="row"><button class="btn small" id="pTry">🔊 Nghe thử</button></div>`
-    : `<span class="note">Máy này chưa có giọng đọc tiếng Việt. Cách 1: mở Lớp Vui bằng trình duyệt Edge (có giọng Nam Minh, Hoài My, cần mạng). Cách 2 (không cần mạng): Windows → Cài đặt → Thời gian và ngôn ngữ → Giọng nói, thêm Tiếng Việt.</span>`}
+    : `<span class="note">Máy này chưa có giọng đọc tiếng Việt. Cách 1: mở Lớp Vui bằng trình duyệt Edge (có giọng Nam Minh, Hoài My, cần mạng) hoặc Chrome có mạng (giọng Google Tiếng Việt). Cách 2 (không cần mạng): Windows → Cài đặt → Thời gian và ngôn ngữ → Giọng nói, thêm Tiếng Việt.</span>`}
     <div class="field"><label class="switch"><input type="checkbox" id="pSpeak" ${S.prefs.speak ? "checked" : ""}> Đọc to tên người được gọi ở Đố vui, Lật thẻ, Chia nhóm</label>
       <span class="note">Vòng quay có cài đặt đọc riêng (Tắt / Chỉ đọc tên / Đọc cả câu hỏi) trong nút Tùy chỉnh của trò.</span></div>`;
-  const tryV = () => App.speakSeq([{ t: "Xin mời…", pause: 350 }, { t: "bạn Nguyễn Văn An!", pause: 300 }, { t: App.speechText("Vận tốc 20 m/s, gia tốc $g = 10$ m/s².") }]);
+  const tryV = () => App.speakSeq([{ t: "Xin mời…", pause: 350 }, { t: "bạn Nguyễn Văn An!", pause: 300 }, { t: App.speechText("Vận tốc 20 m/s, gia tốc $g = 10$ m/s². Thời gian rơi $t = \\sqrt{\\dfrac{2h}{g}}$.") }]);
   if ($("pVoice")) $("pVoice").onchange = e => { S.prefs.voiceName = e.target.value; App.save(); App.loadVoices(); renderVoicePanel(); tryV(); };
   if ($("pRate")) $("pRate").onclick = e => { const b = e.target.closest("button"); if (!b) return; S.prefs.rate = +b.dataset.v; App.save(); $("pRate").querySelectorAll("button").forEach(x => x.setAttribute("aria-pressed", x === b)); tryV(); };
   if ($("pTry")) $("pTry").onclick = tryV;
