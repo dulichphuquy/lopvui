@@ -983,7 +983,7 @@ math{font-family:"Cambria Math","STIX Two Math","Latin Modern Math",serif;font-s
    ========================================================= */
 "use strict";
 const App = window.App = { games: {}, order: [] };
-App.VERSION = "1.6"; App.BUILD = "0efb67e"; App.RELEASED = false; App.WEB = true; App.THU = true;
+App.VERSION = "1.6"; App.BUILD = "01810a6"; App.RELEASED = false; App.WEB = true; App.THU = true;
 
 /* ---------- Tiện ích ---------- */
 App.$ = id => document.getElementById(id);
@@ -1533,9 +1533,17 @@ function mathStructure(t) {
   }
   return t;
 }
+/* Tách chữ cái dính nhau trong công thức để giọng đọc không hiểu nhầm: "2h" → "2 h" (không thành "2 giờ"), "mgh" → "m g h".
+   Giữ nguyên lệnh (\\sqrt…), chữ trong \\text{…}, chỉ số dưới (_{tb}) và tên hàm (sin, cos…). */
+const KEEPW = /^(sin|cos|tan|cot|ln|log|max|min|lg)$/;
+const splitLetters = t => t.replace(/(\\(?:text|mathrm|mathbf|operatorname)\s*\{[^{}]*\}|\\[A-Za-z]+|_\s*\{[^{}]*\}|_\s*\w)|(\d?)([A-Za-z]+)/g,
+  (m, keep, d, w) => keep ? keep : KEEPW.test(w) ? m : (d ? d + " " : "") + w.split("").join(" "));
+/* Cách gọi chữ cái của giáo viên (thầy An chốt 05/11/2026): h → "hát", g → "gờ". */
+const LETTERW = { h: "hát", H: "hát", g: "gờ", G: "gờ" };
 App.mathSpeech = tex => {
   let t = String(tex || "").trim();
   if (t.length > 160 || /\\(int|sum|prod|lim|begin|matrix|underline|binom|iint|oint|partial|nabla)/.test(t)) return null;
+  t = splitLetters(t);
   t = t.replace(/\\%/g, " phần trăm ").replace(/\{,\}/g, ",").replace(/\\[,;!: ]|~/g, " ").replace(/\\left|\\right/g, "").replace(/\\(text|mathrm|mathbf|operatorname)\s*\{([^{}]*)\}/g, (m, c, w, off, all) => UNIT_MAP[w.trim()] && /\d\s*$/.test(all.slice(0, off)) ? " " + UNIT_MAP[w.trim()] + " " : " " + w + " ");
   t = t.replace(/\\(vec|overrightarrow)\s*\{([^{}]*)\}/g, " vectơ $2 ").replace(/\\(vec)\s+(\w)/g, " vectơ $2 ");
   t = t.replace(/\^\s*\{?\\circ\}?/g, " độ ").replace(/°/g, " độ ");
@@ -1547,6 +1555,7 @@ App.mathSpeech = tex => {
   t = t.replace(/(^|[=(\[,<>]|\\pm)\s*-\s*/g, "$1 âm ");
   t = t.replace(/\s*=\s*/g, " bằng ").replace(/\s*\+\s*/g, " cộng ").replace(/(\S)\s*\*\s*/g, "$1 nhân ")
     .replace(/(\w|\))\s*-\s*/g, "$1 trừ ").replace(/^\s*-\s*/, "âm ").replace(/\s*\/\s*/g, " chia ").replace(/\s*<\s*/g, " nhỏ hơn ").replace(/\s*>\s*/g, " lớn hơn ");
+  t = t.replace(/(^|[\s(,])([hHgG])(?=[\s),]|$)/g, (m, a, c) => a + LETTERW[c]);
   return t.replace(/\s+/g, " ").replace(/,(\s*,)+/g, ",").replace(/^\s*,\s*|\s*,\s*$/g, "").trim(); // không đổi đơn vị trong công thức: "2 g t" là gia tốc g, không phải gam
 };
 const UNITS = [["kg/m³", "ki lô gam trên mét khối"], ["g/cm³", "gam trên xen ti mét khối"], ["N/m", "niu tơn trên mét"], ["J/kg", "jun trên ki lô gam"], ["W/m²", "oát trên mét vuông"], ["m/s²", "mét trên giây bình phương"], ["m/s^2", "mét trên giây bình phương"], ["m/s2", "mét trên giây bình phương"], ["km/h", "ki lô mét trên giờ"], ["m/s", "mét trên giây"], ["cm/s", "xen ti mét trên giây"], ["rad/s", "ra đi an trên giây"],
