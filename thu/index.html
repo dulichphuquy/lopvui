@@ -983,7 +983,7 @@ math{font-family:"Cambria Math","STIX Two Math","Latin Modern Math",serif;font-s
    ========================================================= */
 "use strict";
 const App = window.App = { games: {}, order: [] };
-App.VERSION = "1.7"; App.BUILD = "c9c3674"; App.RELEASED = false; App.WEB = true; App.THU = true;
+App.VERSION = "1.7"; App.BUILD = "15a8a30"; App.RELEASED = false; App.WEB = true; App.THU = true;
 
 /* ---------- Tiện ích ---------- */
 App.$ = id => document.getElementById(id);
@@ -4064,6 +4064,7 @@ const G = {
       { k: "V", d: "Xem đáp án (chỉ thầy cô)" },
       { k: "R", d: "Đọc lại câu hỏi" },
       { k: "L", d: "Khóa hàng (không ai giành)" },
+      { k: "Z", d: "Hoàn tác bước chấm vừa rồi" },
       { k: "Esc", d: "Bỏ chọn hàng / đóng bảng" }
     ],
     tips: [
@@ -4101,6 +4102,7 @@ const G = {
       if (k === "escape") { cancelRow(); return true; }
     }
     if (st.phase === "steal" && k === "l") { lockRow(); return true; }
+    if (k === "z") { undo(); return true; }
     return false;
   }
 };
@@ -4337,7 +4339,7 @@ function chooseTeam(i) {
   else if (st.phase === "steal" && !st.tried.includes(i)) takeOver(i);
 }
 function addScore(i, d) {
-  teams[i].score += d;
+  teams[i].score += d; if (st && st.log) st.log.push([i, d]);
   if (useGroups) { const L = App.lastGroups(); if (L && L.groups[i]) { L.groups[i].score = (L.groups[i].score || 0) + d; App.save(); } }
   renderTeams(); const b = $("ocTeams") && $("ocTeams").querySelector(`[data-i="${i}"]`); if (b && !App.reduce) b.animate([{ transform: "scale(1)" }, { transform: "scale(1.08)" }, { transform: "scale(1)" }], { duration: 400 });
 }
@@ -4353,8 +4355,19 @@ function cancelRow() {
   if (!st || st.phase !== "ask" || st.tried.length) return;
   stopTimer(); stopReading(); st.sel = -1; st.phase = "pick"; paintRows(); renderTeams(); renderPanel();
 }
+/* Hoàn tác 1 bước: chụp lại trạng thái trước khi chấm / khóa hàng để thầy cô sửa khi bấm nhầm */
+function snap() { st.undo = { rows: st.rows.map(r => [r.s, r.team]), turn: st.turn, sel: st.sel, ans: st.ans, phase: st.phase, tried: st.tried.slice(), showAns: st.showAns }; st.log = []; }
+function undo() {
+  if (!st || !st.undo || !["pick", "ask", "steal"].includes(st.phase)) return;
+  const u = st.undo, log = st.log || []; st.undo = null; st.log = null; stopTimer(); stopReading();
+  log.reverse().forEach(([i, d]) => addScore(i, -d));
+  st.rows.forEach((r, i) => { r.s = u.rows[i][0]; r.team = u.rows[i][1]; });
+  Object.assign(st, { turn: u.turn, sel: u.sel, ans: u.ans, phase: u.phase, tried: u.tried, showAns: u.showAns });
+  App.sound.soft(); paintRows(); renderTeams(); renderPanel(); App.toast("Đã hoàn tác bước vừa rồi.");
+}
 function judge(ok) {
   if (!st || st.phase !== "ask") return;
+  snap();
   const r = st.sel, t = st.ans; stopTimer(); stopReading();
   if (ok) {
     st.rows[r].s = "done"; st.rows[r].team = t; addScore(t, +cfg.points);
@@ -4367,7 +4380,7 @@ function judge(ok) {
   else lockRow();
 }
 function takeOver(i) { st.ans = i; st.phase = "ask"; st.timerWas = false; st.started = false; stopTimer(); renderTeams(); renderPanel(); if (cfg.answerTime > 0) startTimer(cfg.answerTime); App.sound.tick("pop"); }
-function lockRow() { const r = st.sel; st.rows[r].s = "lock"; App.sound.soft(); next(); paintRows(); }
+function lockRow() { if (st.phase === "steal") snap(); const r = st.sel; st.rows[r].s = "lock"; App.sound.soft(); next(); paintRows(); }
 function next() { st.sel = -1; st.phase = "pick"; st.turn = (st.turn + 1) % teams.length; st.tried = []; renderTeams(); renderPanel(); }
 
 /* ---- đoán từ khóa ---- */
@@ -4441,6 +4454,7 @@ function renderPanel() {
     P.innerHTML = `<div class="oc-h">Kết thúc</div><div class="oc-q" id="ocQ">Từ khóa: <b>${esc(st.kw || st.kwN)}</b></div>${st.msg ? `<div class="oc-note">${esc(st.msg)}</div>` : ""}<div class="oc-btns"><button class="oc-b" id="ocAgain2">↻ Chơi lại</button></div>`;
     $("ocAgain2").onclick = () => { stopReading(); intro(); };
   }
+  if (st.undo && ["pick", "ask", "steal"].includes(st.phase)) { const b = document.createElement("button"); b.className = "oc-b sm"; b.id = "ocUndo"; b.innerHTML = "↶ Hoàn tác bước vừa rồi <span class=\"hk\">(Z)</span>"; b.onclick = undo; P.appendChild(b); }
   fitText();
 }
 
