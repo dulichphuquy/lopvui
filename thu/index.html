@@ -183,6 +183,8 @@ details.help pre{background:var(--bg);border:1px solid var(--line);border-radius
 .stage-head{display:flex;gap:16px;align-items:center;flex-wrap:wrap;justify-content:center;text-align:center}
 .stage-head .nm{font-family:var(--f-display);font-weight:600;font-size:22px}
 .stats{color:var(--muted);font-size:14px;font-variant-numeric:tabular-nums}
+.wqstat{padding:3px 12px;border-radius:999px;background:color-mix(in srgb,var(--surface) 70%,transparent);border:1px solid var(--line,rgba(127,127,127,.35));font-weight:600;color:var(--fg)}
+.wqstat.out{color:var(--no2);border-color:var(--no2)}
 .wheel-wrap{position:relative;width:min(70vh,100%);max-width:820px;aspect-ratio:1;flex:none}
 .wheel-wrap canvas{width:100%;height:100%;display:block;cursor:pointer;touch-action:manipulation}
 .pointer{position:absolute;right:-8px;top:50%;transform:translateY(-50%) rotate(90deg);width:34px;height:42px;filter:drop-shadow(-3px 0 4px rgba(0,0,0,.25));pointer-events:none;transform-origin:50% 50%}
@@ -554,7 +556,10 @@ math{font-family:"Cambria Math","STIX Two Math","Latin Modern Math",serif;font-s
 .toolbar{padding-bottom:12px;border-bottom:1px solid var(--line)}
 .toolbar .btn{cursor:pointer}
 .tsep{width:1px;height:22px;background:var(--line);margin:0 4px}
-.esaved{margin-left:auto}
+.esaved{margin-left:auto;font-size:15px;font-weight:700;color:var(--ok2)}
+.qe-dirty{color:var(--no2);font-weight:700;font-size:14px}
+.qedit.isdirty .qe-save{box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 35%,transparent)}
+.qe-ask{margin:6px 0}
 @media (max-width:900px){.ehead{grid-template-columns:1fr 1fr}.ename{grid-column:1/-1}.esaved{margin-left:0;width:100%}}
 
 /* ===== Vòng quay: bảng chúc mừng 2 nút, phím tắt chỉ hiện trên máy tính, bố cục điện thoại ===== */
@@ -978,7 +983,7 @@ math{font-family:"Cambria Math","STIX Two Math","Latin Modern Math",serif;font-s
    ========================================================= */
 "use strict";
 const App = window.App = { games: {}, order: [] };
-App.VERSION = "1.4"; App.BUILD = "873f6fe"; App.RELEASED = false; App.WEB = true; App.THU = true;
+App.VERSION = "1.5"; App.BUILD = "0ffd9f2"; App.RELEASED = false; App.WEB = true; App.THU = true;
 
 /* ---------- Tiện ích ---------- */
 App.$ = id => document.getElementById(id);
@@ -2624,7 +2629,7 @@ const G = {
   mount(root, c) {
     el = root; cfg = c.cfg; alive = true; rot = 0; winner = null; shrink = null;
     el.innerHTML = `<div class="wheel-stage">
-      <div class="stage-head"><span class="nm">${esc(App.cls().name)}</span><span class="stats" id="wStats"></span>
+      <div class="stage-head"><span class="nm">${esc(App.cls().name)}</span><span class="stats" id="wStats"></span><span class="stats wqstat" id="wQstat" hidden></span>
         <span class="row sh-btns"><button class="btn small" id="wRestore">↺ Đưa cả lớp trở lại</button><button class="btn small" id="wBoard">Bảng điểm</button></span></div>
       <div class="wheel-wrap"><canvas id="wCv" role="button" tabindex="0" aria-label="Bấm để quay"></canvas>
         <svg class="pointer" id="wPtr" viewBox="0 0 34 42" aria-hidden="true"><path d="M17 41 L2 6 Q17 -2 32 6 Z" fill="var(--fg)"/><circle cx="17" cy="12" r="4" fill="var(--bg)"/></svg></div>
@@ -2699,6 +2704,21 @@ function stats() {
   const c = cls(), all = App.students(c).length, pres = App.present(c).length, left = pool().length;
   $("wStats").textContent = `${all} học sinh · ${all - pres} vắng · ${pres - left} đã gọi · còn ${left} trên vòng`;
   $("wRestore").disabled = !(c.picked || []).length;
+  qStats();
+}
+/* Chip "đã dùng 7/28 · còn 21": số câu của bộ đang chọn đã rút / tổng (không tính câu thầy cô đã ẩn) */
+function qCount() {
+  const set = App.set(); if (!set) return null;
+  const qs = App.parseSet(set.raw).items.filter(x => KIND[x.type]); if (!qs.length) return null;
+  const used = new Set(set.used || []), n = qs.filter(q => used.has(q.q)).length;
+  return { used: n, total: qs.length, left: qs.length - n };
+}
+function qStats() {
+  const b = $("wQstat"); if (!b) return;
+  const k = cfg.askQ ? qCount() : null; b.hidden = !k; if (!k) return;
+  b.textContent = `Câu hỏi: đã dùng ${k.used}/${k.total} · còn ${k.left}`;
+  b.classList.toggle("out", k.left === 0);
+  b.title = k.left === 0 ? "Đã dùng hết câu. Lần quay tới sẽ bắt đầu lại từ đầu." : "";
 }
 function labels(names) {
   const mode = cfg.nameMode === "auto" ? (names.length > 14 ? "given" : "full") : cfg.nameMode;
@@ -2766,6 +2786,7 @@ const idxAt = (r, n) => Math.floor((((TOP - r) % TAU + TAU) % TAU) / (TAU / n)) 
 function spin() {
   if (spinning || !$("wOv").hidden) return;
   const c = cls();
+  qStats();
   if (!pool().length && App.present(c).length && (c.picked || []).length) { c.picked = []; App.save(); App.toast("Cả lớp đã được gọi. Vòng quay đã đầy lại."); stats(); }
   const names = pool(), n = names.length;
   if (!n) return App.toast("Không còn học sinh nào để gọi. Kiểm tra danh sách hoặc điểm danh.");
@@ -2811,8 +2832,8 @@ function perm(n, fixed) {
 function pickQuestion(exclude) {
   const set = App.set(), parsed = App.parseSet(set.raw), qs = parsed.items.filter(x => KIND[x.type]); if (!qs.length) return null;
   set.used = set.used || []; let avail = qs.filter(q => !set.used.includes(q.q) && q.q !== exclude);
-  if (!avail.length) { set.used = exclude ? [exclude] : []; avail = qs.filter(q => q.q !== exclude); if (!avail.length) return null; App.toast("Đã dùng hết câu hỏi trong bộ. Bắt đầu lại từ đầu."); }
-  const q = avail[App.rnd(avail.length)]; set.used.push(q.q); App.save();
+  if (!avail.length) { set.used = exclude ? [exclude] : []; avail = qs.filter(q => q.q !== exclude); if (!avail.length) return null; App.toast(`Đã dùng hết ${qs.length} câu trong bộ. Bắt đầu lại từ đầu.`); }
+  const q = avail[App.rnd(avail.length)]; set.used.push(q.q); App.save(); qStats();
   const passage = q.cluster ? (parsed.clusters[q.cluster] || {}).passage || "" : "";
   const a = { q, passage, kind: q.type, tries: 0, done: false, max: q.type === "mc" ? (+cfg.qTries || 1) : 1, picks: [] };
   if (q.type === "mc") { const o = perm(q.options.length, q.fixed); a.opts = o.map(i => q.options[i]); a.correct = o.indexOf(q.correct); }
@@ -2953,7 +2974,7 @@ function swapQuestion() {
   const a = qa; if (!a || a.done) return;
   const set = App.set(), n = qa.q.q; const nq = pickQuestion(n);
   if (!nq) return App.toast("Bộ câu hỏi chỉ có một câu, không đổi được.");
-  set.used = (set.used || []).filter(x => x !== n); App.save(); // trả câu cũ về kho
+  set.used = (set.used || []).filter(x => x !== n); App.save(); qStats(); // trả câu cũ về kho
   stopReading(); qa = nq; setGrade(null); renderQuestion(); App.sound.flip(); stopTimer(); $("wTimer").textContent = "";
   if (cfg.voice === "full" && App.voice) { waitTimer = current; speak(qParts()); }
   else if (cfg.answerTime > 0) startTimer(cfg.answerTime);
@@ -3854,6 +3875,7 @@ function renderSubjects() {
 
 /* ---------- Điều hướng ---------- */
 function go(v, gameId) {
+  if (App.guardUnsaved && App.guardUnsaved()) return;
   if (current) { try { current.unmount && current.unmount(); } catch (e) { console.error(e); } current = null; }
   if (closeHelp) closeHelp();
   App.hush();
@@ -4136,7 +4158,7 @@ function sets() {
     $("sPlay").disabled = !p.nQ;
     $("sPlay").title = p.nQ ? "Mở trò Đố vui với bộ câu hỏi này" : "Bộ này chưa có câu hỏi";
   };
-  const savedNote = () => { const x = App.set(); $("sSaved").textContent = x && x.updatedAt ? "Đã lưu " + new Date(x.updatedAt).toLocaleTimeString("vi-VN", { hour: "2-digit", minute: "2-digit" }) : ""; };
+  const savedNote = () => { const x = App.set(); $("sSaved").textContent = x && x.updatedAt ? "✓ Đã lưu " + new Date(x.updatedAt).toLocaleTimeString("vi-VN", { hour: "2-digit", minute: "2-digit" }) : ""; };
   const fill = () => {
     list();
     const empty = !hasCur(); $("sEditor").hidden = empty; $("sEmpty").hidden = !empty;
@@ -4319,6 +4341,7 @@ function bank() {
     $("bkRepClr").onclick = () => { S.bankReports = []; App.save(); reports(); list(); };
   };
   side(); list(); reports();
+  $("bkBody").addEventListener("click", e => { const b = [...$("bkBody").querySelectorAll(".qedit")].find(x => x._dirty && x._dirty()); if (b && !e.target.closest(".qedit")) { e.stopPropagation(); e.preventDefault(); App.guardUnsaved(); } }, true);
   $("bkBody").querySelector(".bk-grades").onclick = e => { const b = e.target.closest("[data-g]"); if (!b || b.disabled) return; sel.grade = +b.dataset.g; sel.lessons = []; App.save(); bank(); };
   $("bkBody").querySelectorAll("[data-f]").forEach(b => b.onclick = () => { bankF[b.dataset.f] = !bankF[b.dataset.f]; b.setAttribute("aria-pressed", bankF[b.dataset.f]); list(); });
   $("bkShowHid").onchange = e => { bankF.showHidden = e.target.checked; list(); };
@@ -4327,16 +4350,19 @@ function bank() {
     if (add) { const ls = App.bank.lesson(add.dataset.l); qEditor(add.closest(".bk-lt"), TPL.tn, true, raw => App.bank.addMine(ls.id, raw), () => { side(); list(); App.toast("Đã thêm câu vào " + `Bài ${ls.no}`); }); return; }
     const art = e.target.closest(".bkq"); if (!art) return; const key = art.dataset.key, q = chosen().find(x => x.key === key); if (!q) return;
     if (e.target.closest(".bk-edit")) { qEditor(art, q.raw, false, raw => q.mine ? App.bank.updateMine(q.lesson.id, q.mid, raw) : App.bank.saveEdit(key, raw), () => { list(); App.toast(q.mine ? "Đã lưu câu." : "Đã lưu bản sửa. Câu gốc vẫn được giữ để khôi phục khi cần."); }); }
-    else if (e.target.closest(".bk-reset")) { App.bank.resetEdit(key); list(); App.toast("Đã dùng lại câu gốc trong kho."); }
+    else if (e.target.closest(".bk-reset")) { const prev = S.bankEdits[key]; App.bank.resetEdit(key); list(); App.toast("Đã dùng lại câu gốc trong kho.", { label: "Hoàn tác", fn: () => { S.bankEdits[key] = prev; App.save(); list(); App.toast("Đã trả lại bản sửa của thầy cô."); } }); }
     else if (e.target.closest(".bk-del")) { const h = art.querySelector(".bk-head"); if (art.querySelector(".confirm")) return; h.insertAdjacentHTML("afterend", `<div class="confirm">Xóa câu này của thầy cô? <button class="btn small danger" data-y>Xóa</button><button class="btn small" data-n>Thôi</button></div>`);
       art.querySelector("[data-y]").onclick = ev => { ev.stopPropagation(); App.bank.delMine(q.lesson.id, q.mid); side(); list(); }; art.querySelector("[data-n]").onclick = ev => { ev.stopPropagation(); art.querySelector(".confirm").remove(); }; }
-    else if (e.target.closest(".bk-hide")) { App.bank.setHidden(key, !App.bank.hidden(key)); list(); }
+    else if (e.target.closest(".bk-hide")) { const was = App.bank.hidden(key); App.bank.setHidden(key, !was); list(); App.toast(was ? "Đã hiện lại câu." : "Đã ẩn câu, sẽ không vào trò chơi.", { label: "Hoàn tác", fn: () => { App.bank.setHidden(key, was); list(); } }); }
     else if (e.target.closest(".bk-report")) reportForm(art.querySelector(".bk-head"), key, q.item.q, () => { list(); reports(); });
   };
   $("bkUse").onclick = () => { const st = App.bank.useInGames(subj, pool(), titleFor()); App.toast(`Đã chọn "${st.name}" cho trò chơi.`); go("home"); };
   $("bkQuick").onclick = () => { const qs = App.bank.quick(pool(), 10); const st = App.bank.useInGames(subj, qs, `Ôn nhanh ${qs.length} câu · ${titleFor()}`); App.toast(`Đã trộn ${qs.length} câu ôn nhanh. Chọn trò chơi để bắt đầu.`); go("home"); };
   $("bkCopy").onclick = () => { const t = titleFor(); App.newSet(t, App.bank.toRaw(pool(), t)); App.set().subject = subj; App.touchSet(App.set()); App.save(); App.toast("Đã chép sang bộ của tôi. Thầy cô sửa thoải mái, kho gốc không đổi."); go("sets"); };
 }
+/* Câu đang sửa dở (đã gõ, chưa bấm Lưu): chặn mọi cách rời đi, hỏi Lưu hay Bỏ */
+App.guardUnsaved = () => { const b = [...document.querySelectorAll(".qedit")].find(x => x._dirty && x._dirty()); if (!b) return false; b._ask(); b.scrollIntoView({ block: "center" }); App.toast("Câu đang sửa chưa lưu. Chọn Lưu hoặc Bỏ thay đổi."); return true; };
+addEventListener("beforeunload", e => { if ([...document.querySelectorAll(".qedit")].some(x => x._dirty && x._dirty())) { e.preventDefault(); e.returnValue = ""; } });
 /* Soạn một câu trong Kho: ô chữ theo quy ước OLM + xem trước trực tiếp + kiểm tra khi lưu */
 const TPL = {
   tn: "Câu 1. [TH] Nội dung câu hỏi?\nA. Phương án A\n*B. Phương án đúng (có dấu * phía trước)\nC. Phương án C\nD. Phương án D\nLời giải\nGiải thích ngắn (có thể bỏ).",
@@ -4349,7 +4375,7 @@ function qEditor(anchor, raw, isNew, save, done) {
   box.innerHTML = `${isNew ? `<div class="row qe-tpl"><span class="lbl">Mẫu:</span><button class="pill" data-t="tn">Trắc nghiệm</button><button class="pill" data-t="ds">Đúng/Sai 4 ý</button><button class="pill" data-t="tln">Trả lời ngắn</button></div>` : ""}
     <div class="qe-grid"><textarea class="code qe-raw" spellcheck="false" aria-label="Nội dung câu hỏi"></textarea><div class="qe-prev" aria-live="polite"></div></div>
     <div class="qe-msg note"></div>
-    <div class="row"><button class="btn primary qe-save">${isNew ? "Thêm câu" : "Lưu"}</button><button class="btn qe-cancel">Hủy</button><span class="note">Mức độ: [NB] [TH] [VD] · đáp án đúng có dấu * · công thức $...$ · hình: dán ảnh (Ctrl+V)</span></div>`;
+    <div class="row"><button class="btn primary qe-save">${isNew ? "Thêm câu" : "Lưu"}</button><button class="btn qe-cancel">Hủy</button><span class="qe-dirty" hidden>● Chưa lưu</span><span class="note">Mức độ: [NB] [TH] [VD] · đáp án đúng có dấu * · công thức $...$ · hình: dán ảnh (Ctrl+V)</span></div>`;
   anchor.insertAdjacentElement("afterend", box);
   const ta = box.querySelector(".qe-raw"), pv = box.querySelector(".qe-prev"), msg = box.querySelector(".qe-msg");
   const show = () => { const v = App.bank.validate(ta.value); msg.textContent = v.ok ? "" : v.msg; msg.classList.toggle("bad", !v.ok);
@@ -4357,10 +4383,17 @@ function qEditor(anchor, raw, isNew, save, done) {
     pv.innerHTML = `<div class="bk-q">${App.html(it.q)}</div>` + (it.type === "tf4" ? `<ol type="a" class="bk-opts">${it.statements.map((s, i) => `<li><b class="${it.truth[i] ? "tt" : "ff"}">${it.truth[i] ? "Đ" : "S"}</b> ${App.html(s)}</li>`).join("")}</ol>`
       : it.options ? `<ol type="A" class="bk-opts">${it.options.map((o, i) => `<li class="${i === it.correct ? "ok" : ""}">${App.html(o)}</li>`).join("")}</ol>` : it.type === "short" ? `<div class="bk-ans">→ ${App.html(it.answer)}</div>` : ""); };
   ta.value = raw; show(); ta.focus();
-  ta.oninput = show; ta.onkeydown = e => e.stopPropagation();
+  const raw0 = ta.value, dirty = () => ta.value !== raw0, dirtyEl = box.querySelector(".qe-dirty"), saveBtn = box.querySelector(".qe-save");
+  const mark = () => { dirtyEl.hidden = !dirty(); box.classList.toggle("isdirty", dirty()); };
+  const ask = () => { if (box.querySelector(".qe-ask")) return; const c = document.createElement("div"); c.className = "confirm qe-ask";
+    c.innerHTML = `Câu đang sửa chưa lưu. <button class="btn small primary" data-s>Lưu</button><button class="btn small danger" data-d>Bỏ thay đổi</button><button class="btn small" data-k>Tiếp tục sửa</button>`;
+    box.querySelector(".qe-msg").insertAdjacentElement("afterend", c);
+    c.querySelector("[data-s]").onclick = () => { c.remove(); saveBtn.click(); }; c.querySelector("[data-d]").onclick = () => box.remove(); c.querySelector("[data-k]").onclick = () => { c.remove(); ta.focus(); }; };
+  box._dirty = dirty; box._ask = ask;
+  ta.oninput = () => { show(); mark(); }; ta.onkeydown = e => e.stopPropagation();
   ta.addEventListener("paste", async e => { const f = [...(e.clipboardData?.files || [])].find(x => /^image\//.test(x.type)); if (!f) return; e.preventDefault(); const id = await App.img.put(f); if (id) { const a = ta.selectionStart; ta.value = ta.value.slice(0, a) + `![](img:${id})` + ta.value.slice(a); show(); } });
-  box.querySelectorAll("[data-t]").forEach(b => b.onclick = () => { ta.value = TPL[b.dataset.t]; show(); ta.focus(); });
-  box.querySelector(".qe-cancel").onclick = () => box.remove();
+  box.querySelectorAll("[data-t]").forEach(b => b.onclick = () => { ta.value = TPL[b.dataset.t]; show(); mark(); ta.focus(); });
+  box.querySelector(".qe-cancel").onclick = () => dirty() ? ask() : box.remove();
   box.querySelector(".qe-save").onclick = () => { const r = save(ta.value); if (!r.ok) { msg.textContent = r.msg; msg.classList.add("bad"); return; } box.remove(); done && done(); };
 }
 /* Ô báo lỗi dùng chung (Kho, Vòng quay, Đố vui) */
