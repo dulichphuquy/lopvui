@@ -1698,6 +1698,267 @@ $v_y = gt = 10 \cdot 3 = 30$ m/s; $v = \sqrt{40^2 + 30^2} = 50$ m/s.
 
 @chuong III | Động lực học
 @bai 13 | Tổng hợp và phân tích lực. Cân bằng lực
+Câu 1. [NB] Lực là đại lượng
+A. vô hướng, chỉ có độ lớn.
+*B. vectơ, đặc trưng bởi điểm đặt, phương, chiều và độ lớn.
+C. vô hướng, chỉ có phương và chiều.
+D. vectơ, chỉ có điểm đặt và độ lớn.
+
+Câu 2. [NB] Đơn vị đo lực trong hệ SI là
+A. kilôgam (kg).
+B. jun (J).
+*C. niutơn (N).
+D. oát (W).
+
+Câu 3. [NB] Hợp lực của các lực đồng thời tác dụng lên một vật là lực
+*A. thay thế các lực ấy và có cùng tác dụng.
+B. có độ lớn bằng tổng độ lớn của các lực thành phần trong mọi trường hợp.
+C. có độ lớn lớn hơn độ lớn của mỗi lực thành phần trong mọi trường hợp.
+D. cùng phương, cùng chiều với lực có độ lớn lớn nhất trong các lực ấy.
+
+Câu 4. [NB] Để tổng hợp hai lực đồng quy, ta dùng quy tắc
+A. cộng đại số độ lớn của hai lực.
+B. đòn bẩy.
+C. hình thang.
+*D. hình bình hành.
+
+Câu 5. [NB] Hai lực cân bằng là hai lực
+A. cùng giá, cùng chiều, cùng độ lớn, đặt vào hai vật khác nhau.
+B. khác giá, ngược chiều, cùng độ lớn, cùng đặt vào một vật.
+*C. cùng giá, ngược chiều, cùng độ lớn, cùng đặt vào một vật.
+D. cùng giá, ngược chiều, khác độ lớn, cùng đặt vào một vật.
+
+Câu 6. [NB] Một vật ở trạng thái cân bằng khi
+*A. hợp lực tác dụng lên vật bằng 0.
+B. chỉ có một lực tác dụng lên vật.
+C. các lực tác dụng lên vật cùng chiều với nhau.
+D. vận tốc của vật luôn bằng 0.
+
+Câu 7. [NB] Phân tích lực là phép
+A. thay thế hai lực bằng một lực có tác dụng giống hệt hai lực ấy.
+*B. thay thế một lực bằng các lực thành phần có tác dụng giống hệt lực ấy.
+C. làm cho hai lực trở nên cân bằng nhau.
+D. đo độ lớn của lực bằng lực kế.
+
+Câu 8. [NB] Lực $\vec{F}$ hợp với trục Ox một góc nhọn $\alpha$. Thành phần của lực $\vec{F}$ theo trục Ox có độ lớn là
+A. $F\sin\alpha$.
+B. $F\tan\alpha$.
+C. $\dfrac{F}{\cos\alpha}$.
+*D. $F\cos\alpha$.
+
+Câu 9. [TH] Hai lực cùng phương, ngược chiều, có độ lớn 10 N và 4 N cùng tác dụng lên một vật. Hợp lực có độ lớn là
+A. 14 N.
+B. 10,8 N.
+*C. 6 N.
+D. 40 N.
+Lời giải
+Hai lực ngược chiều: $F = |F_1 - F_2| = |10 - 4| = 6$ N.
+
+Câu 10. [TH] Hai lực đồng quy vuông góc với nhau, có độ lớn 6 N và 8 N. Hợp lực có độ lớn là
+*A. 10 N.
+B. 14 N.
+C. 2 N.
+D. 48 N.
+Lời giải
+$F = \sqrt{6^2 + 8^2} = 10$ N.
+
+Câu 11. [TH] Hai lực đồng quy có độ lớn 3 N và 5 N. Hợp lực của hai lực này không thể có độ lớn bằng
+A. 2 N.
+*B. 9 N.
+C. 4 N.
+D. 8 N.
+Lời giải
+Hợp lực thỏa $|F_1 - F_2| \le F \le F_1 + F_2$, tức là từ 2 N đến 8 N. Giá trị 9 N nằm ngoài khoảng này.
+
+Câu 12. [TH] Quyển sách nằm yên trên mặt bàn nằm ngang. Cặp lực cân bằng tác dụng lên quyển sách là
+A. lực quyển sách nén lên mặt bàn và phản lực của mặt bàn tác dụng lên quyển sách.
+B. trọng lực của quyển sách và lực quyển sách nén lên mặt bàn.
+C. trọng lực của quyển sách và trọng lực của mặt bàn.
+*D. trọng lực của quyển sách và phản lực của mặt bàn tác dụng lên quyển sách.
+Lời giải
+Hai lực cân bằng phải cùng đặt vào một vật. Lực quyển sách nén lên mặt bàn đặt vào mặt bàn, không đặt vào quyển sách.
+
+Câu 13. [TH] Vật có trọng lực $\vec{P}$ đặt trên mặt phẳng nghiêng góc $\alpha$ so với phương ngang. Phân tích $\vec{P}$ theo hai phương song song và vuông góc với mặt phẳng nghiêng, thành phần song song với mặt phẳng nghiêng có độ lớn là
+*A. $P\sin\alpha$.
+B. $P\cos\alpha$.
+C. $P\tan\alpha$.
+D. $P$.
+Lời giải
+Thành phần song song làm vật có xu hướng trượt xuống: $P_x = P\sin\alpha$. Thành phần vuông góc: $P_y = P\cos\alpha$.
+
+Câu 14. [TH] Một chất điểm cân bằng dưới tác dụng của ba lực đồng phẳng, đồng quy $\vec{F}_1$, $\vec{F}_2$, $\vec{F}_3$. Hợp lực của $\vec{F}_1$ và $\vec{F}_2$
+A. cùng phương, cùng chiều với $\vec{F}_3$.
+B. vuông góc với $\vec{F}_3$.
+*C. cùng phương, ngược chiều và cùng độ lớn với $\vec{F}_3$.
+D. có độ lớn bằng tổng độ lớn của $\vec{F}_1$ và $\vec{F}_2$.
+Lời giải
+Chất điểm cân bằng nên $\vec{F}_1 + \vec{F}_2 + \vec{F}_3 = \vec{0}$, suy ra hợp lực của $\vec{F}_1$ và $\vec{F}_2$ bằng $-\vec{F}_3$.
+
+Câu 15. [TH] Giữ nguyên độ lớn của hai lực đồng quy và tăng dần góc giữa chúng từ 0° đến 180°. Độ lớn hợp lực của hai lực này
+A. tăng dần từ $|F_1 - F_2|$ đến $F_1 + F_2$.
+*B. giảm dần từ $F_1 + F_2$ đến $|F_1 - F_2|$.
+C. không đổi.
+D. giảm dần từ $F_1 + F_2$ đến 0 trong mọi trường hợp.
+Lời giải
+$F = \sqrt{F_1^2 + F_2^2 + 2F_1F_2\cos\alpha}$ giảm khi $\alpha$ tăng từ 0° đến 180°: từ $F_1 + F_2$ xuống $|F_1 - F_2|$. Hợp lực chỉ bằng 0 khi $F_1 = F_2$.
+
+Câu 16. [VD] Hai lực đồng quy có độ lớn bằng nhau và bằng 10 N, hợp với nhau góc 120°. Hợp lực của hai lực này có độ lớn là
+*A. 10 N.
+B. 20 N.
+C. 17,3 N.
+D. 0.
+Lời giải
+$F^2 = F_1^2 + F_2^2 + 2F_1F_2\cos 120° = 100 + 100 - 100 = 100$, nên $F = 10$ N.
+
+Câu 17. [VD] Một lực có độ lớn 50 N được phân tích thành hai thành phần vuông góc với nhau. Biết một thành phần có độ lớn 30 N, thành phần còn lại có độ lớn là
+A. 20 N.
+B. 58,3 N.
+*C. 40 N.
+D. 80 N.
+Lời giải
+$F_2 = \sqrt{50^2 - 30^2} = 40$ N.
+
+Câu 18. [TH] Một người kéo thùng hàng bằng lực 20 N, hợp với phương ngang góc 30°. Thành phần của lực kéo theo phương ngang có độ lớn là
+A. 10 N.
+*B. 17,3 N.
+C. 20 N.
+D. 23,1 N.
+Lời giải
+$F_x = F\cos 30° = 20 \cdot 0,866 \approx 17,3$ N.
+
+Câu 19. [VD] Vật khối lượng 2 kg đặt trên mặt phẳng nghiêng nhẵn góc 30° so với phương ngang, lấy $g = 10$ m/s². Thành phần của trọng lực song song với mặt phẳng nghiêng có độ lớn là
+A. 17,3 N.
+B. 20 N.
+C. 5 N.
+*D. 10 N.
+Lời giải
+$P = mg = 20$ N; $P_x = P\sin 30° = 20 \cdot 0,5 = 10$ N.
+
+Câu 20. [VD] Ba lực đồng phẳng, cùng điểm đặt, cùng độ lớn 10 N, từng đôi một hợp với nhau góc 120°. Hợp lực của ba lực này có độ lớn là
+*A. 0.
+B. 10 N.
+C. 20 N.
+D. 30 N.
+Lời giải
+Hợp lực của hai lực đầu có độ lớn 10 N, cùng giá và ngược chiều với lực thứ ba, nên hợp lực của cả ba lực bằng 0.
+
+Câu 21. [VD] Hai lực đồng quy có độ lớn 30 N và 40 N, hợp lực của chúng có độ lớn 50 N. Góc giữa hai lực là
+A. 0°.
+B. 60°.
+*C. 90°.
+D. 180°.
+Lời giải
+$50^2 = 30^2 + 40^2$ nên $\cos\alpha = 0$, hai lực vuông góc với nhau.
+
+Câu 22. [VD] Vật khối lượng 5 kg được giữ đứng yên trên mặt phẳng nghiêng nhẵn góc 30° so với phương ngang bằng một sợi dây song song với mặt phẳng nghiêng, lấy $g = 10$ m/s². Lực căng của sợi dây có độ lớn là
+A. 50 N.
+B. 43,3 N.
+C. 5 N.
+*D. 25 N.
+Lời giải
+Vật cân bằng nên $T = P\sin 30° = 50 \cdot 0,5 = 25$ N.
+
+Câu 23. [TF] [TH] Về lực và hợp lực:
+*A. Lực là đại lượng vectơ.
+B. Hợp lực của hai lực đồng quy luôn có độ lớn bằng tổng độ lớn của hai lực đó.
+*C. Hợp lực thay thế các lực thành phần và có tác dụng giống hệt các lực ấy.
+D. Hai lực có độ lớn bằng nhau thì hợp lực của chúng luôn bằng 0.
+Lời giải
+Độ lớn hợp lực nằm trong khoảng $|F_1 - F_2| \le F \le F_1 + F_2$. Hợp lực bằng 0 chỉ khi hai lực cùng giá, ngược chiều và cùng độ lớn.
+
+Câu 24. [TF] [TH] Về trạng thái cân bằng của một vật:
+*A. Vật cân bằng khi hợp lực tác dụng lên vật bằng 0.
+*B. Vật chuyển động thẳng đều là vật ở trạng thái cân bằng.
+*C. Hai lực cân bằng có cùng giá, ngược chiều và cùng độ lớn.
+D. Hai lực cân bằng có thể đặt vào hai vật khác nhau.
+Lời giải
+Hai lực cân bằng phải cùng đặt vào một vật.
+
+Câu 25. [TF] [VD] Hai lực đồng quy có độ lớn 6 N và 8 N.
+*A. Nếu hai lực cùng phương, cùng chiều thì hợp lực có độ lớn 14 N.
+*B. Nếu hai lực cùng phương, ngược chiều thì hợp lực có độ lớn 2 N.
+*C. Nếu hai lực vuông góc với nhau thì hợp lực có độ lớn 10 N.
+*D. Hợp lực của hai lực này không thể có độ lớn nhỏ hơn 2 N.
+Lời giải
+Độ lớn hợp lực nằm trong khoảng từ $|6 - 8| = 2$ N đến $6 + 8 = 14$ N.
+
+Câu 26. [TF] [TH] Một ô tô chuyển động thẳng đều trên đoạn đường nằm ngang:
+*A. Ô tô ở trạng thái cân bằng.
+B. Lực kéo của động cơ lớn hơn tổng các lực cản tác dụng lên ô tô.
+C. Hợp lực tác dụng lên ô tô khác 0 và cùng chiều chuyển động.
+D. Trọng lực và lực kéo của động cơ là hai lực cân bằng.
+Lời giải
+Ô tô chuyển động thẳng đều nên hợp lực bằng 0: lực kéo cân bằng với tổng các lực cản, trọng lực cân bằng với phản lực của mặt đường.
+
+Câu 27. [TF] [VD] Một chiếc đèn khối lượng 2 kg được treo vào trần nhà bằng một sợi dây thẳng đứng, lấy $g = 10$ m/s².
+*A. Đèn cân bằng dưới tác dụng của trọng lực và lực căng dây.
+*B. Lực căng của dây có độ lớn 20 N.
+C. Trọng lực của đèn có độ lớn 2 N.
+D. Nếu đèn chuyển động thẳng đều đi lên thì lực căng dây lớn hơn 20 N.
+Lời giải
+$P = mg = 20$ N. Đèn cân bằng nên $T = P = 20$ N, kể cả khi đèn chuyển động thẳng đều (hợp lực vẫn bằng 0).
+
+Câu 28. [TF] [VD] Vật khối lượng 4 kg đặt trên mặt phẳng nghiêng nhẵn góc 37° so với phương ngang, lấy $g = 10$ m/s², $\sin 37° = 0,6$, $\cos 37° = 0,8$.
+*A. Thành phần của trọng lực song song với mặt phẳng nghiêng có độ lớn 24 N.
+*B. Thành phần của trọng lực vuông góc với mặt phẳng nghiêng có độ lớn 32 N.
+*C. Khi tăng góc nghiêng trong khoảng từ 0° đến 90°, thành phần của trọng lực song song với mặt phẳng nghiêng tăng.
+D. Thành phần của trọng lực vuông góc với mặt phẳng nghiêng làm vật trượt xuống.
+Lời giải
+$P = mg = 40$ N; $P_x = 40 \cdot 0,6 = 24$ N; $P_y = 40 \cdot 0,8 = 32$ N. Thành phần song song $P_x = P\sin\alpha$ làm vật trượt xuống và tăng khi $\alpha$ tăng; thành phần vuông góc được cân bằng bởi phản lực của mặt phẳng nghiêng.
+
+Câu 29. [TF] [VD] Hai lực đồng quy có cùng độ lớn 20 N, hợp với nhau góc $\alpha$.
+*A. Khi $\alpha = 0°$, hợp lực có độ lớn 40 N.
+*B. Khi $\alpha = 90°$, hợp lực có độ lớn xấp xỉ 28,3 N.
+*C. Khi $\alpha = 60°$, hợp lực có độ lớn xấp xỉ 34,6 N.
+D. Khi $\alpha = 180°$, hợp lực có độ lớn 40 N.
+Lời giải
+Với hai lực cùng độ lớn: $F = 2 \cdot 20 \cdot \cos\dfrac{\alpha}{2}$. Khi $\alpha = 0°$: 40 N; $\alpha = 90°$: $20\sqrt{2} \approx 28,3$ N; $\alpha = 60°$: $20\sqrt{3} \approx 34,6$ N; $\alpha = 180°$: 0.
+
+Câu 30. [TH] Hai lực đồng quy vuông góc với nhau, có độ lớn 9 N và 12 N. Tính độ lớn hợp lực của hai lực này (theo đơn vị N).
+Trả lời: [[15]]
+Lời giải
+$F = \sqrt{9^2 + 12^2} = 15$ N.
+
+Câu 31. [TH] Ba lực cùng phương, cùng điểm đặt cùng tác dụng lên một vật: hai lực 10 N và 15 N cùng chiều, lực thứ ba 20 N ngược chiều với hai lực kia. Tính độ lớn hợp lực của ba lực (theo đơn vị N).
+Trả lời: [[5]]
+Lời giải
+$F = 10 + 15 - 20 = 5$ N.
+
+Câu 32. [TH] Lực $\vec{F}$ có độ lớn 40 N, hợp với trục Ox góc 60°. Tính độ lớn thành phần của $\vec{F}$ theo trục Ox (theo đơn vị N).
+Trả lời: [[20]]
+Lời giải
+$F_x = F\cos 60° = 40 \cdot 0,5 = 20$ N.
+
+Câu 33. [VD] Hai lực đồng quy có cùng độ lớn 12 N, hợp với nhau góc 60°. Tính độ lớn hợp lực (theo đơn vị N, làm tròn đến một chữ số thập phân).
+Trả lời: [[20,8]]
+Lời giải
+$F = 2 \cdot 12 \cdot \cos 30° = 12\sqrt{3} \approx 20,8$ N.
+
+Câu 34. [VD] Vật có trọng lực 60 N đặt trên mặt phẳng nghiêng góc 30° so với phương ngang. Tính độ lớn thành phần của trọng lực vuông góc với mặt phẳng nghiêng (theo đơn vị N, làm tròn đến hàng đơn vị).
+Trả lời: [[52]]
+Lời giải
+$P_y = P\cos 30° = 60 \cdot 0,866 \approx 52$ N.
+
+Câu 35. [VD] Vật khối lượng 8 kg được treo đứng yên bằng hai sợi dây giống nhau, đối xứng qua phương thẳng đứng; mỗi dây hợp với phương thẳng đứng góc 30°. Lấy $g = 10$ m/s². Tính lực căng của mỗi dây (theo đơn vị N, làm tròn đến một chữ số thập phân).
+Trả lời: [[46,2]]
+Lời giải
+$P = mg = 80$ N. Cân bằng theo phương thẳng đứng: $2T\cos 30° = P$, suy ra $T = \dfrac{80}{2 \cdot 0,866} \approx 46,2$ N.
+
+Câu 36. [VD] Hợp lực của hai lực đồng quy vuông góc với nhau có độ lớn 20 N. Biết một trong hai lực có độ lớn 12 N. Tính độ lớn của lực còn lại (theo đơn vị N).
+Trả lời: [[16]]
+Lời giải
+$F_2 = \sqrt{20^2 - 12^2} = 16$ N.
+
+Câu 37. [VD] Lực $\vec{F}$ hợp với trục Ox góc 30°, thành phần của $\vec{F}$ theo trục Oy có độ lớn 25 N. Tính độ lớn của $\vec{F}$ (theo đơn vị N).
+Trả lời: [[50]]
+Lời giải
+$F_y = F\sin 30°$ nên $F = \dfrac{25}{0,5} = 50$ N.
+
+Câu 38. [VD] Một chất điểm cân bằng dưới tác dụng của ba lực đồng phẳng, đồng quy. Hai trong ba lực vuông góc với nhau và có độ lớn 15 N và 20 N. Tính độ lớn của lực còn lại (theo đơn vị N).
+Trả lời: [[25]]
+Lời giải
+Lực thứ ba cân bằng với hợp lực của hai lực kia: $F_3 = \sqrt{15^2 + 20^2} = 25$ N.
+
 @bai 14 | Định luật 1 Newton
 @bai 15 | Định luật 2 Newton
 @bai 16 | Định luật 3 Newton
