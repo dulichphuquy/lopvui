@@ -982,7 +982,7 @@ math{font-family:"Cambria Math","STIX Two Math","Latin Modern Math",serif;font-s
    ========================================================= */
 "use strict";
 const App = window.App = { games: {}, order: [] };
-App.VERSION = "1.5"; App.BUILD = "ebef895"; App.RELEASED = true; App.WEB = true;
+App.VERSION = "1.6"; App.BUILD = "8eaa3db"; App.RELEASED = true; App.WEB = true;
 
 /* ---------- Tiện ích ---------- */
 App.$ = id => document.getElementById(id);
@@ -1390,14 +1390,15 @@ App.rollName = (pool, final, show, done, delay = 0) => {
 };
 
 /* ---------- Âm thanh tự tạo (không cần file, chạy offline) ---------- */
-let AC, master, noiseBuf;
+let AC, master, noiseBuf, duck = 1; /* duck: hạ tiếng hiệu ứng khi đang đọc để giọng đọc rõ */
+App.duck = on => { duck = on ? .22 : 1; if (master && AC) master.gain.setTargetAtTime(S.prefs.volume / 100 * duck, AC.currentTime, .08); };
 App.ac = () => {
   if (!AC) { try { AC = new (window.AudioContext || window.webkitAudioContext)(); master = AC.createGain(); master.connect(AC.destination); } catch (e) { } }
-  if (AC && master) master.gain.value = S.prefs.volume / 100;
+  if (AC && master) master.gain.value = S.prefs.volume / 100 * duck;
   if (AC && AC.state === "suspended") AC.resume();
   return AC;
 };
-App.setVolume = v => { S.prefs.volume = +v; if (master) master.gain.value = S.prefs.volume / 100; App.save(); };
+App.setVolume = v => { S.prefs.volume = +v; if (master) master.gain.value = S.prefs.volume / 100 * duck; App.save(); };
 const noise = a => { if (!noiseBuf) { noiseBuf = a.createBuffer(1, a.sampleRate * .5, a.sampleRate); const d = noiseBuf.getChannelData(0); for (let i = 0; i < d.length; i++) d[i] = Math.random() * 2 - 1; } return noiseBuf; };
 const env = (g, t, peak, att, dec) => { g.gain.setValueAtTime(0.0001, t); g.gain.linearRampToValueAtTime(peak, t + att); g.gain.exponentialRampToValueAtTime(0.0001, t + att + dec); };
 const ok = () => S.prefs.volume > 0 && App.ac();
@@ -1490,23 +1491,72 @@ const localVoice = () => App.voiceList.find(v => v.localService !== false && !ba
 const GREEK = { alpha: "an pha", beta: "bê ta", gamma: "gam ma", delta: "đen ta", Delta: "đen ta", omega: "ô mê ga", Omega: "ô mê ga", pi: "pi", lambda: "lam đa", theta: "tê ta", varphi: "phi", phi: "phi", mu: "muy", rho: "rô", sigma: "xích ma", tau: "tô", varepsilon: "ép xi lon", epsilon: "ép xi lon", eta: "ê ta", nu: "nuy" };
 const MATHWORD = { cdot: " nhân ", times: " nhân ", div: " chia ", approx: " xấp xỉ ", pm: " cộng trừ ", le: " nhỏ hơn hoặc bằng ", leq: " nhỏ hơn hoặc bằng ", ge: " lớn hơn hoặc bằng ", geq: " lớn hơn hoặc bằng ", ne: " khác ", neq: " khác ", Rightarrow: " suy ra ", to: " tới ", infty: " vô cùng ", sin: " sin ", cos: " cốt ", tan: " tang ", cot: " cô tang ", ln: " lốc nê pe ", log: " lốc ", circ: " độ ", "%": " phần trăm " };
 const SUPW = { 2: " bình phương", 3: " lập phương" };
+/* Đọc cấu trúc công thức (bản 2): phân số, căn, gạch ngang trên đầu, lồng nhau được.
+   Quy ước (thầy duyệt 05/11): căn → "căn bậc hai của …" (không thêm "hết căn"); ½ → "một phần hai"; chữ trên chữ → "A trên B";
+   tử/mẫu có cộng trừ → "…, tất cả chia cho …"; sau căn/phân số còn nhân thêm → "…, tất cả nhân cho …". */
+const SUBW = { tb: "trung bình", max: "cực đại", min: "cực tiểu", ms: "ma sát", ht: "hướng tâm", dh: "đàn hồi" };
+const NTH = { 2: "hai", 3: "ba", 4: "bốn", 5: "năm" };
+const grp = (t, i) => { // lấy nhóm {…} (khớp ngoặc) hoặc một ký tự / một lệnh tại vị trí i
+  while (t[i] === " ") i++;
+  if (i >= t.length) return null;
+  if (t[i] === "{") { let d = 0; for (let j = i; j < t.length; j++) { if (t[j] === "{") d++; else if (t[j] === "}" && --d === 0) return { src: t.slice(i + 1, j), end: j + 1 }; } return null; }
+  if (t[i] === "\\") { const m = /^\\[A-Za-z]+/.exec(t.slice(i)); if (m) return { src: m[0], end: i + m[0].length }; }
+  return { src: t[i], end: i + 1 };
+};
+const topLevel = s => { let d = 0, u = ""; for (const ch of s) { if (ch === "{") d++; else if (ch === "}") d--; else if (d === 0) u += ch; } return u; };
+const isNum = s => /^\s*[\d.,]+\s*$/.test(s);
+const isComplex = s => /\\(?:d|t)?frac|\\sqrt/.test(s) || /\\pm/.test(topLevel(s)) || /[+\-*]|\\cdot|\\times/.test(topLevel(s).replace(/^\s*-/, ""));
+function mathStructure(t) {
+  const re = /\\(?:d|t)?frac(?![A-Za-z])|\\sqrt(?![A-Za-z])|\\overline(?![A-Za-z])|\\bar(?![A-Za-z])/;
+  for (let m, guard = 0; (m = re.exec(t)); guard++) {
+    if (guard > 40) return null;
+    const cmd = m[0]; let i = m.index + cmd.length, out, numeric = false;
+    if (/frac$/.test(cmd)) {
+      const a = grp(t, i), b = a && grp(t, a.end); if (!a || !b) return null;
+      const A = App.mathSpeech(a.src), B = App.mathSpeech(b.src); if (A == null || B == null) return null;
+      const cA = isComplex(a.src), cB = isComplex(b.src); numeric = isNum(a.src) && isNum(b.src);
+      out = numeric ? `${A} phần ${B}` : !cA && !cB ? `${A} trên ${B}` : !cA ? `${A} chia cho ${B}, tất cả\u0001` : `${A}, tất cả chia cho ${B}${cB ? ", tất cả" : ""}\u0001`; i = b.end;
+    } else if (cmd === "\\sqrt") {
+      let n = 2; const o = /^\s*\[(\d)\]/.exec(t.slice(i)); if (o) { n = +o[1]; i += o[0].length; }
+      const a = grp(t, i); if (!a) return null; const A = App.mathSpeech(a.src); if (A == null) return null;
+      out = `căn bậc ${NTH[n] || n} của ${A}`; i = a.end;
+    } else {
+      const a = grp(t, i); if (!a) return null; const A = App.mathSpeech(a.src); if (A == null) return null;
+      out = `${A} trung bình`; i = a.end;
+    }
+    const rest = t.slice(i), mul = /^\s*(\\cdot|\\times|\*)\s*/.exec(rest);
+    const simple = numeric || cmd.includes("overline") || cmd === "\\bar";
+    if (mul) { out += simple ? " nhân " : ", tất cả nhân cho "; i += mul[0].length; }
+    else if (!simple && !/^\s*phần trăm/.test(rest) && /^\s*(?:[A-Za-z0-9(]|\\(?:d|t)?frac|\\sqrt|\\(?:vec|Delta|delta|alpha|beta|gamma|omega|pi|theta|mu|rho|lambda|sigma|tau|varphi|phi)\b)/.test(rest)) out += ", tất cả nhân cho ";
+    t = t.slice(0, m.index) + " " + out + " " + t.slice(i);
+  }
+  return t;
+}
+/* Tách chữ cái dính nhau trong công thức để giọng đọc không hiểu nhầm: "2h" → "2 h" (không thành "2 giờ"), "mgh" → "m g h".
+   Giữ nguyên lệnh (\\sqrt…), chữ trong \\text{…}, chỉ số dưới (_{tb}) và tên hàm (sin, cos…). */
+const KEEPW = /^(sin|cos|tan|cot|ln|log|max|min|lg)$/;
+const MUNIT = /(\d\s*)(km\/h|m\/s\^\{?2\}?|m\/s²|m\/s|kg|km|cm|mm|kJ|kW|kPa|Hz|Pa)(?![A-Za-z])/g; // đơn vị nhiều chữ gõ thẳng sau số
+const splitLetters = t => t.replace(MUNIT, (m, d, u) => d + "\\text{" + u.replace(/\^\{?2\}?/, "^2") + "}").replace(/(\\(?:text|mathrm|mathbf|operatorname)\s*\{[^{}]*\}|\\[A-Za-z]+|_\s*\{[^{}]*\}|_\s*\w)|(\d?)([A-Za-z]+)/g,
+  (m, keep, d, w) => keep ? keep : KEEPW.test(w) ? m : (d ? d + " " : "") + w.split("").join(" "));
+/* Cách gọi chữ cái của giáo viên (thầy An chốt 05/11/2026): h → "hát", g → "gờ". */
+const LETTERW = { h: "hát", H: "hát", g: "gờ", G: "gờ" };
 App.mathSpeech = tex => {
   let t = String(tex || "").trim();
-  if (t.length > 80 || /\\(int|sum|prod|lim|begin|matrix|overline|underline|binom|iint|oint|partial|nabla)/.test(t)) return null;
-  t = t.replace(/\\%/g, " phần trăm ").replace(/\{,\}/g, ",").replace(/\\[,;!: ]|~/g, " ").replace(/\\left|\\right/g, "").replace(/\\(text|mathrm|mathbf|operatorname)\s*\{([^{}]*)\}/g, (m, c, w, off, all) => UNIT_MAP[w.trim()] && /\d\s*$/.test(all.slice(0, off)) ? " " + UNIT_MAP[w.trim()] + " " : " " + w + " ");
+  if (t.length > 160 || /\\(int|sum|prod|lim|begin|matrix|underline|binom|iint|oint|partial|nabla)/.test(t)) return null;
+  t = splitLetters(t);
+  t = t.replace(/\\%/g, " phần trăm ").replace(/\{,\}/g, ",").replace(/\\[,;!: ]|~/g, " ").replace(/\\left|\\right/g, "").replace(/\\(text|mathrm|mathbf|operatorname)\s*\{([^{}]*)\}/g, (m, c, w, off, all) => UNIT_MAP[w.trim()] && (/\d\s*$/.test(all.slice(0, off)) || w.trim().length > 1) ? " " + UNIT_MAP[w.trim()] + " " : " " + w + " ");
   t = t.replace(/\\(vec|overrightarrow)\s*\{([^{}]*)\}/g, " vectơ $2 ").replace(/\\(vec)\s+(\w)/g, " vectơ $2 ");
   t = t.replace(/\^\s*\{?\\circ\}?/g, " độ ").replace(/°/g, " độ ");
-  for (let k = 0; k < 2 && /\\frac/.test(t); k++) t = t.replace(/\\[dt]?frac\s*\{([^{}]*)\}\s*\{([^{}]*)\}/g, " $1 phần $2 ");
-  t = t.replace(/\\sqrt\s*\{([^{}]*)\}/g, " căn của $1 ").replace(/\\sqrt\s*(\w)/g, " căn $1 ");
-  if (/\\frac|\\sqrt/.test(t)) return null; // lồng nhiều tầng
+  t = mathStructure(t); if (t == null) return null;
   t = t.replace(/\^\s*\{([^{}]*)\}|\^\s*(\w)/g, (m, a, b) => { const e = (a || b).trim(); return SUPW[e] || ` mũ ${e} `; });
-  t = t.replace(/_\s*\{([^{}]*)\}|_\s*(\w)/g, (m, a, b) => " " + (a || b) + " ");
+  t = t.replace(/_\s*\{([^{}]*)\}|_\s*(\w)/g, (m, a, b) => " " + (SUBW[(a || b).trim()] || (a || b)) + " ");
   t = t.replace(/\\([A-Za-z]+)/g, (m, w) => GREEK[w] ? " " + GREEK[w] + " " : MATHWORD[w] != null ? MATHWORD[w] : "\u0000");
   if (t.includes("\u0000") || /[{}\\^_]/.test(t)) return null;
-  t = t.replace(/(^|[=(\[,<>]|\\pm)\s*-\s*/g, "$1 âm ");
+  t = t.replace(/\u0001\s*-\s*/g, ", trừ ").replace(/\u0001/g, ",").replace(/(^|[=(\[,<>]|\\pm)\s*-\s*/g, "$1 âm ");
   t = t.replace(/\s*=\s*/g, " bằng ").replace(/\s*\+\s*/g, " cộng ").replace(/(\S)\s*\*\s*/g, "$1 nhân ")
     .replace(/(\w|\))\s*-\s*/g, "$1 trừ ").replace(/^\s*-\s*/, "âm ").replace(/\s*\/\s*/g, " chia ").replace(/\s*<\s*/g, " nhỏ hơn ").replace(/\s*>\s*/g, " lớn hơn ");
-  return t.replace(/\s+/g, " ").trim(); // không đổi đơn vị trong công thức: "2 g t" là gia tốc g, không phải gam
+  t = t.replace(/(^|[\s(,])([hHgG])(?=[\s),]|$)/g, (m, a, c) => a + LETTERW[c]);
+  return t.replace(/\s+/g, " ").replace(/,(\s*,)+/g, ",").replace(/^\s*,\s*|\s*,\s*$/g, "").trim(); // không đổi đơn vị trong công thức: "2 g t" là gia tốc g, không phải gam
 };
 const UNITS = [["kg/m³", "ki lô gam trên mét khối"], ["g/cm³", "gam trên xen ti mét khối"], ["N/m", "niu tơn trên mét"], ["J/kg", "jun trên ki lô gam"], ["W/m²", "oát trên mét vuông"], ["m/s²", "mét trên giây bình phương"], ["m/s^2", "mét trên giây bình phương"], ["m/s2", "mét trên giây bình phương"], ["km/h", "ki lô mét trên giờ"], ["m/s", "mét trên giây"], ["cm/s", "xen ti mét trên giây"], ["rad/s", "ra đi an trên giây"],
   ["kWh", "ki lô oát giờ"], ["km²", "ki lô mét vuông"], ["m²", "mét vuông"], ["cm²", "xen ti mét vuông"], ["m³", "mét khối"], ["cm³", "xen ti mét khối"], ["km", "ki lô mét"], ["cm", "xen ti mét"], ["mm", "mi li mét"], ["kg", "ki lô gam"], ["kJ", "ki lô jun"], ["kW", "ki lô oát"], ["kPa", "ki lô pát xcan"],
@@ -1541,9 +1591,9 @@ App.speakSeq = (parts, opt = {}) => {
     const bits = t.match(/[^.!?;]+[.!?;]*\s*/g) || [t]; let cur = "";
     const chunks = []; bits.forEach(b => { if (cur && (cur + b).length > 180) { chunks.push(cur); cur = ""; } cur += b; }); if (cur.trim()) chunks.push(cur);
     chunks.forEach((c, k) => list.push({ t: c.trim(), pause: k === chunks.length - 1 ? p.pause : 120, on: k === 0 ? p.on : null })); });
-  const done = why => { if (id !== seqId) return; seqId++; clearInterval(dog); opt.onEnd && opt.onEnd(why); };
+  const done = why => { if (id !== seqId) return; App.duck(false); seqId++; clearInterval(dog); opt.onEnd && opt.onEnd(why); };
   let dog = 0;
-  if (!App.voice || !list.length) { setTimeout(() => opt.onEnd && opt.onEnd("novoice"), 0); return { stop() { }, id }; }
+  if (!App.voice || !list.length) { App.duck(false); setTimeout(() => opt.onEnd && opt.onEnd("novoice"), 0); return { stop() { }, id }; }
   const play = (i, v) => {
     if (id !== seqId) return; if (i >= list.length) return done("end");
     const p = list[i], u = new SpeechSynthesisUtterance(p.t); let started = false, ended = false, quietSince = 0;
@@ -1557,7 +1607,7 @@ App.speakSeq = (parts, opt = {}) => {
       if (lv) { App.voice = lv; opt.onSwitch && opt.onSwitch(lv); setTimeout(() => play(i, lv), 60); } else done("error");
     };
     const cap = 6000 + p.t.length * 110 / u.rate;
-    u.onstart = () => { started = true; if (v.localService === false) netOk = true; p.on && p.on(); };
+    u.onstart = () => { started = true; App.duck(true); if (v.localService === false) netOk = true; p.on && p.on(); };
     u.onend = next;
     u.onerror = e => { if (e && (e.error === "interrupted" || e.error === "canceled")) return; started ? next() : fallback(); };
     const t0 = performance.now();
@@ -1575,7 +1625,7 @@ App.speakSeq = (parts, opt = {}) => {
   return { stop() { if (id === seqId) { try { speechSynthesis.cancel(); } catch (e) { } done("stop"); } }, id };
 };
 App.say = text => { if (!S.prefs.speak) return; App.speakSeq([{ t: App.speechText(text) }]); };
-App.hush = () => { seqId++; try { speechSynthesis.cancel(); } catch (e) { } };
+App.hush = () => { seqId++; App.duck(false); try { speechSynthesis.cancel(); } catch (e) { } };
 
 /* ---------- Hiệu ứng chúc mừng ---------- */
 let fx, fc, parts = [], fxRAF = 0, fxEnd = 0;
@@ -4421,13 +4471,13 @@ function renderVoicePanel() {
   const L = App.voiceList, cur = App.voice, r = String(+S.prefs.rate || 1);
   P.innerHTML = `<h3 style="font-size:17px">Giọng đọc</h3>
     ${L.length ? `<div class="field"><label class="label" for="pVoice">Giọng</label><select id="pVoice"><option value="">Tự động (giọng hay nhất đang có)</option>${L.map(v => `<option value="${esc(v.name)}" ${S.prefs.voiceName === v.name ? "selected" : ""}>${esc(App.voiceLabel(v))}</option>`).join("")}</select>
-      <span class="note" id="pVoiceNow">Đang dùng: ${cur ? esc(App.voiceLabel(cur)) : "chưa có"}. Tự động ưu tiên Nam Minh → Hoài My (trình duyệt Edge, cần mạng) → An (không cần mạng). Mất mạng giữa chừng thì tự đọc bằng giọng trong máy.</span></div>
+      <span class="note" id="pVoiceNow">Đang dùng: ${cur ? esc(App.voiceLabel(cur)) : "chưa có"}. Tự động ưu tiên Nam Minh → Hoài My (trình duyệt Edge, cần mạng) → Google Tiếng Việt (trình duyệt Chrome, cần mạng) → An (không cần mạng). Nếu thấy giọng chưa rõ, chọn thử từng giọng trong danh sách rồi bấm Nghe thử. Mất mạng giữa chừng thì tự đọc bằng giọng trong máy.</span></div>
     <div class="field"><span class="label">Tốc độ đọc</span><div class="seg" id="pRate">${Object.entries(RATES).map(([k, l]) => `<button data-v="${k}" aria-pressed="${k === r}">${l}</button>`).join("")}</div></div>
     <div class="row"><button class="btn small" id="pTry">🔊 Nghe thử</button></div>`
-    : `<span class="note">Máy này chưa có giọng đọc tiếng Việt. Cách 1: mở Lớp Vui bằng trình duyệt Edge (có giọng Nam Minh, Hoài My, cần mạng). Cách 2 (không cần mạng): Windows → Cài đặt → Thời gian và ngôn ngữ → Giọng nói, thêm Tiếng Việt.</span>`}
+    : `<span class="note">Máy này chưa có giọng đọc tiếng Việt. Cách 1: mở Lớp Vui bằng trình duyệt Edge (có giọng Nam Minh, Hoài My, cần mạng) hoặc Chrome có mạng (giọng Google Tiếng Việt). Cách 2 (không cần mạng): Windows → Cài đặt → Thời gian và ngôn ngữ → Giọng nói, thêm Tiếng Việt.</span>`}
     <div class="field"><label class="switch"><input type="checkbox" id="pSpeak" ${S.prefs.speak ? "checked" : ""}> Đọc to tên người được gọi ở Đố vui, Lật thẻ, Chia nhóm</label>
       <span class="note">Vòng quay có cài đặt đọc riêng (Tắt / Chỉ đọc tên / Đọc cả câu hỏi) trong nút Tùy chỉnh của trò.</span></div>`;
-  const tryV = () => App.speakSeq([{ t: "Xin mời…", pause: 350 }, { t: "bạn Nguyễn Văn An!", pause: 300 }, { t: App.speechText("Vận tốc 20 m/s, gia tốc $g = 10$ m/s².") }]);
+  const tryV = () => App.speakSeq([{ t: "Xin mời…", pause: 350 }, { t: "bạn Nguyễn Văn An!", pause: 300 }, { t: App.speechText("Vận tốc 20 m/s, gia tốc $g = 10$ m/s². Thời gian rơi $t = \\sqrt{\\dfrac{2h}{g}}$.") }]);
   if ($("pVoice")) $("pVoice").onchange = e => { S.prefs.voiceName = e.target.value; App.save(); App.loadVoices(); renderVoicePanel(); tryV(); };
   if ($("pRate")) $("pRate").onclick = e => { const b = e.target.closest("button"); if (!b) return; S.prefs.rate = +b.dataset.v; App.save(); $("pRate").querySelectorAll("button").forEach(x => x.setAttribute("aria-pressed", x === b)); tryV(); };
   if ($("pTry")) $("pTry").onclick = tryV;
