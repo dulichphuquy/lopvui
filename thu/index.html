@@ -983,7 +983,7 @@ math{font-family:"Cambria Math","STIX Two Math","Latin Modern Math",serif;font-s
    ========================================================= */
 "use strict";
 const App = window.App = { games: {}, order: [] };
-App.VERSION = "1.7"; App.BUILD = "15a8a30"; App.RELEASED = false; App.WEB = true; App.THU = true;
+App.VERSION = "1.7"; App.BUILD = "9b723d6"; App.RELEASED = false; App.WEB = true; App.THU = true;
 
 /* ---------- Tiện ích ---------- */
 App.$ = id => document.getElementById(id);
@@ -3933,10 +3933,10 @@ function candidates(raw) {
   const p = App.parseSet(raw), ok = [], skipped = [];
   p.items.forEach(it => {
     if (it.type !== "short") return;
-    const a = String(it.answer || "").trim(), n = norm(a);
+    const parts = String(it.answer || "").split("|").map(x => x.trim()).filter(Boolean), a = parts[0] || "", alts = parts.slice(1), n = norm(a);
     if (!a || /\d/.test(a) || n.length < 2) { if (a) skipped.push({ q: it.q, a, why: "đáp án là số hoặc quá ngắn" }); return; }
     if (n.length > MAXLEN) { skipped.push({ q: it.q, a, why: `dài hơn ${MAXLEN} chữ cái` }); return; }
-    ok.push({ q: it.q, a, n, exp: it.explain || "" });
+    ok.push({ q: it.q, a, n, alts, exp: it.explain || "" });
   });
   return { ok, skipped };
 }
@@ -3969,7 +3969,7 @@ function plan(raw, kwText, shuffle) {
     if (!best || w < best.w) best = { w, ch, left };
   }
   out.K = best.left; out.W = best.w;
-  out.rows = rows.map((r, i) => ({ q: r.c.q, a: r.c.a, n: r.c.n, p: best.ch[i], x: best.left - best.ch[i], exp: r.c.exp }));
+  out.rows = rows.map((r, i) => ({ q: r.c.q, a: r.c.a, alts: r.c.alts, n: r.c.n, p: best.ch[i], x: best.left - best.ch[i], exp: r.c.exp }));
   out.ok = true; return out;
 }
 
@@ -4039,6 +4039,8 @@ const G = {
     { key: "points", label: "Điểm mỗi hàng trả lời đúng", type: "seg", num: true, options: { 10: "10", 20: "20" }, default: 10, note: "Đoán từ khóa đúng được 20 + điểm hàng × số hàng chưa mở (mở càng ít, đoán đúng càng nhiều điểm)." },
     { key: "answerTime", label: "Đồng hồ trả lời", type: "seg", num: true, options: { 0: "Không", 10: "10 giây", 15: "15 giây", 30: "30 giây" }, default: 15, note: "Khi bật giọng đọc, đồng hồ chờ máy đọc xong mới chạy. Bấm Space để chạy ngay." },
     { key: "voice", label: "Giọng đọc", type: "seg", options: { off: "Tắt", full: "Đọc câu hỏi" }, default: () => S.prefs.speak ? "full" : "off", note: "Chọn giọng và tốc độ ở Cài đặt chung." },
+    { key: "typeAns", label: "Gõ đáp án (máy tự so khớp)", type: "toggle", default: false, note: "Bật: có ô gõ đáp án của đội, gõ đúng máy tự cộng điểm và mở hàng. Gõ không khớp thì máy hỏi lại thầy cô có tính đúng không (không tự tính sai). Đáp án nào chấp nhận nhiều cách thì viết [[Nhà giáo|Giáo viên]]; chữ đầu là đáp án chuẩn hiện trên lưới." },
+    { key: "typeAccent", label: "So khớp đáp án gõ", type: "seg", options: { off: "Bỏ qua dấu và hoa thường", on: "Phải đúng dấu" }, default: "off" },
     { key: "steal", label: "Tổ trả lời sai thì tổ khác được giành quyền", type: "toggle", default: true },
     { key: "win", label: "Âm thanh chúc mừng", type: "seg", options: App.WINS, default: "fanfare", advanced: true },
     { key: "fx", label: "Hiệu ứng chúc mừng", type: "seg", options: App.FXS, default: "both", advanced: true },
@@ -4070,11 +4072,12 @@ const G = {
     tips: [
       "Chữ trong ô viết không dấu, câu hỏi và đáp án vẫn có dấu như bình thường.",
       "Phòng nhiều ánh sáng: Tùy chỉnh → Giao diện bảng → Giấy sáng.",
+      "Muốn máy tự chấm: Tùy chỉnh → bật \"Gõ đáp án\". Gõ đúng thì tự cộng điểm; gõ không khớp thì máy hỏi lại thầy cô. Khi đang gõ trong ô thì các phím tắt tạm không dùng, hãy bấm nút trên màn hình.",
       "Muốn dùng câu hỏi có sẵn: hàng ngang lấy từ các câu trả lời ngắn dạng chữ (Tiếng Anh, Văn, Sử…); câu trả lời bằng số không dùng được.",
       "Bộ ô chữ lưu cùng bộ câu hỏi nên có trong sao lưu và gửi được bằng tệp .lopvui cho đồng nghiệp."
     ]
   },
-  onSetting(k) { if (k === "look") { applyLook(); return true; } if (k === "teamCount" || k === "useGroups") { if (st) { App.toast("Số tổ / nhóm mới áp dụng từ ván sau (bấm Chơi lại)."); return true; } return false; } return true; },
+  onSetting(k) { if (k === "look") { applyLook(); return true; } if (k === "typeAns" || k === "typeAccent") { if (st) { st.mismatch = false; if (!cfg.typeAns) st.typed = ""; if (["ask", "steal", "pick"].includes(st.phase)) { paintRows(); if (st.phase === "ask") renderPanel(); } } return true; } if (k === "teamCount" || k === "useGroups") { if (st) { App.toast("Số tổ / nhóm mới áp dụng từ ván sau (bấm Chơi lại)."); return true; } return false; } return true; },
   redraw() { fit(); },
   mount(root, c) { el = root; cfg = c.cfg; alive = true; st = null; showKey = false; ensureStyle(); ro && ro.disconnect(); ro = new ResizeObserver(() => fit()); ro.observe(el); intro(); },
   unmount() { alive = false; clearTimeout(introT); ro && ro.disconnect(); stopTimer(); stopReading(); App.hush && App.hush(); st = null; },
@@ -4096,10 +4099,10 @@ const G = {
     if (k === "k") { openGuess(); return true; }
     if (st.phase === "ask") {
       if (k === "đ" || k === "d") { judge(true); return true; } if (k === "s") { judge(false); return true; }
-      if (k === " ") { if (cfg.answerTime > 0 && !timerId) { waitStart = false; stopReading(); startTimer(cfg.answerTime); } return true; }
+      if (k === " ") { if (cfg.answerTime > 0 && !timerId && !st.mismatch) { waitStart = false; stopReading(); startTimer(cfg.answerTime); } return true; }
       if (k === "v") { st.showAns = !st.showAns; renderPanel(); return true; }
       if (k === "r") { readQ(); return true; }
-      if (k === "escape") { cancelRow(); return true; }
+      if (k === "escape") { if (cfg.typeAns && st.typed) { st.typed = ""; st.mismatch = false; paintRows(); renderPanel(); return true; } cancelRow(); return true; }
     }
     if (st.phase === "steal" && k === "l") { lockRow(); return true; }
     if (k === "z") { undo(); return true; }
@@ -4175,12 +4178,15 @@ function ensureStyle() {
 .oc-b.sm{padding:6px 10px;font-size:14px}
 .oc-steal{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
 .oc-note{font-size:14px;color:var(--mut)}
+.oc-type{display:flex;gap:8px}.oc .oc-type input[type=text]{flex:1;min-width:0;padding:9px 12px;border-radius:10px;border:2px solid var(--line);background:var(--bg);color:var(--fg);font:600 18px var(--f-body)}
+.oc-mis{border:2px solid var(--no);border-radius:12px;padding:10px;display:flex;flex-direction:column;gap:8px;font-size:15px}.oc-mis[hidden],.oc-jb[hidden]{display:none}.oc-jb{display:contents}
+.oc-t.typ{background:transparent;color:var(--sel);border-style:dashed}
 .oc .hk{font-size:12px;opacity:.8;font-weight:600}
 .oc-intro{flex:1;min-height:0;overflow:auto;display:flex;flex-direction:column;gap:14px;max-width:980px;margin:0 auto;width:100%}
 .oc-intro h2{font:700 clamp(24px,3vw,36px) var(--f-display);margin:0}
 .oc-intro .box{background:var(--card);border:2px solid var(--line);border-radius:14px;padding:14px;display:flex;flex-direction:column;gap:10px}
 .oc-intro label{font:700 14px var(--f-display);color:var(--mut)}
-.oc-intro input[type=text]{width:100%;padding:10px 12px;border-radius:10px;border:2px solid var(--line);background:var(--bg);color:var(--fg);font:600 18px var(--f-body)}
+.oc .oc-intro input[type=text]{width:100%;padding:10px 12px;border-radius:10px;border:2px solid var(--line);background:var(--bg);color:var(--fg);font:600 18px var(--f-body)}
 .oc-keyrow{display:flex;gap:6px;flex-wrap:wrap}
 .oc-keyrow .oc-t{--c:40px}
 .oc-warn{color:var(--no);font-weight:600}
@@ -4276,7 +4282,7 @@ function startGame() {
   useGroups = !!cfg.useGroups && !!App.lastGroups();
   teams = App.makeTeams(cfg.teamCount, useGroups);
   st = { plan: p, rows: p.rows.map(r => ({ ...r, s: "hide", team: -1 })), K: p.K, W: p.W, kwN: p.kwN, kw: m.kw, msg: m.msg,
-    phase: "pick", turn: 0, sel: -1, ans: 0, tried: [], banned: new Set(), showAns: false, back: null, tLeft: 0, timerWas: false };
+    phase: "pick", turn: 0, sel: -1, ans: 0, tried: [], banned: new Set(), showAns: false, typed: "", mismatch: false, back: null, tLeft: 0, timerWas: false };
   el.innerHTML = rootOpen(`<div class="oc-main">
     <div class="oc-gridwrap" id="ocGridWrap"><div class="oc-grid" id="ocGrid"></div></div>
     <aside class="oc-side"><div class="oc-teams" id="ocTeams"></div><div class="oc-panel" id="ocPanel"></div>
@@ -4309,10 +4315,28 @@ function paintRows(revealIdx, all) {
     const num = row.querySelector(".oc-num"); num.disabled = !(st.phase === "pick" && r.s === "hide"); num.textContent = r.s === "lock" ? "🔒" : (r.s === "done" ? "✓" : i + 1);
     row.querySelectorAll(".oc-t").forEach(t => {
       const k = +t.dataset.k, was = t.classList.contains("on");
-      if (show) { t.textContent = r.n[k]; if (!was) { t.classList.add("on"); if (!App.reduce) { t.classList.add("fx"); t.style.setProperty("--d", (k * 70) + "ms"); } } }
-      else if (was) { t.classList.remove("on", "fx"); t.textContent = ""; }
+      if (show) { t.classList.remove("typ"); t.textContent = r.n[k]; if (!was) { t.classList.add("on"); if (!App.reduce) { t.classList.add("fx"); t.style.setProperty("--d", (k * 70) + "ms"); } } }
+      else if (was) { t.classList.remove("on", "fx", "typ"); t.textContent = ""; }
+      else { t.classList.remove("typ"); t.textContent = ""; }
     });
   });
+  paintTyping();
+}
+/* chữ đội đang gõ hiện mờ vào các ô của hàng đang chọn (chỉ để xem; hàng chỉ mở khi đúng) */
+function paintTyping() {
+  const g = $("ocGrid"); if (!g || !st || st.sel < 0 || st.phase !== "ask" || !cfg.typeAns) return;
+  const L = [...norm(st.typed || "")];
+  g.children[st.sel].querySelectorAll(".oc-t").forEach(t => { if (t.classList.contains("on")) return; const c = L[+t.dataset.k] || ""; t.textContent = c; t.classList.toggle("typ", !!c); });
+}
+/* so khớp đáp án gõ */
+function sameAns(v, row) {
+  const flat = x => String(x).normalize("NFC").toLowerCase().replace(/\s+/g, " ").replace(/^[^\p{L}\p{N}]+|[^\p{L}\p{N}]+$/gu, "").trim();
+  if (!flat(v)) return false; const list = [row.a].concat(row.alts || []);
+  return list.some(x => cfg.typeAccent === "on" ? flat(x) === flat(v) : (norm(x) === norm(v) && norm(v) !== ""));
+}
+function checkTyped() {
+  if (!st || st.phase !== "ask") return; const v = (st.typed || "").trim(); if (!v) return;
+  if (sameAns(v, st.rows[st.sel])) judge(true); else { st.mismatch = true; st.started = true; stopTimer(); stopReading(); renderPanel(); }
 }
 function fit() {
   if (!alive || !st || !$("ocGridWrap")) return;
@@ -4335,7 +4359,7 @@ function renderTeams() {
 function chooseTeam(i) {
   if (!st || i >= teams.length) return;
   if (st.phase === "pick") { st.turn = i; renderTeams(); renderPanel(); App.sound.tick("pop"); }
-  else if (st.phase === "ask" && !st.tried.length) { st.ans = i; renderTeams(); renderPanel(); App.sound.tick("pop"); }
+  else if (st.phase === "ask" && !st.tried.length) { st.ans = i; st.mismatch = false; renderTeams(); renderPanel(); App.sound.tick("pop"); }
   else if (st.phase === "steal" && !st.tried.includes(i)) takeOver(i);
 }
 function addScore(i, d) {
@@ -4348,18 +4372,18 @@ function addScore(i, d) {
 const left = () => st.rows.filter(r => r.s === "hide").length;
 function pickRow(i) {
   if (!st || st.phase !== "pick" || st.rows[i].s !== "hide") return;
-  st.sel = i; st.ans = st.turn; st.tried = []; st.phase = "ask"; st.showAns = false; st.timerWas = false; st.started = false;
+  st.sel = i; st.ans = st.turn; st.tried = []; st.phase = "ask"; st.showAns = false; st.timerWas = false; st.started = false; st.typed = ""; st.mismatch = false;
   App.sound.flip(); paintRows(); renderTeams(); renderPanel(); readQ(true);
 }
 function cancelRow() {
   if (!st || st.phase !== "ask" || st.tried.length) return;
-  stopTimer(); stopReading(); st.sel = -1; st.phase = "pick"; paintRows(); renderTeams(); renderPanel();
+  stopTimer(); stopReading(); st.sel = -1; st.phase = "pick"; st.typed = ""; st.mismatch = false; paintRows(); renderTeams(); renderPanel();
 }
 /* Hoàn tác 1 bước: chụp lại trạng thái trước khi chấm / khóa hàng để thầy cô sửa khi bấm nhầm */
 function snap() { st.undo = { rows: st.rows.map(r => [r.s, r.team]), turn: st.turn, sel: st.sel, ans: st.ans, phase: st.phase, tried: st.tried.slice(), showAns: st.showAns }; st.log = []; }
 function undo() {
   if (!st || !st.undo || !["pick", "ask", "steal"].includes(st.phase)) return;
-  const u = st.undo, log = st.log || []; st.undo = null; st.log = null; stopTimer(); stopReading();
+  const u = st.undo, log = st.log || []; st.undo = null; st.log = null; st.typed = ""; st.mismatch = false; stopTimer(); stopReading();
   log.reverse().forEach(([i, d]) => addScore(i, -d));
   st.rows.forEach((r, i) => { r.s = u.rows[i][0]; r.team = u.rows[i][1]; });
   Object.assign(st, { turn: u.turn, sel: u.sel, ans: u.ans, phase: u.phase, tried: u.tried, showAns: u.showAns });
@@ -4368,18 +4392,19 @@ function undo() {
 function judge(ok) {
   if (!st || st.phase !== "ask") return;
   snap();
-  const r = st.sel, t = st.ans; stopTimer(); stopReading();
+  const r = st.sel, t = st.ans; stopTimer(); stopReading(); st.typed = ""; st.mismatch = false;
   if (ok) {
     st.rows[r].s = "done"; st.rows[r].team = t; addScore(t, +cfg.points);
     App.sound.right(); next(); paintRows(); if (!App.reduce && cfg.fx !== "off") App.fx.burst(innerWidth * .35, innerHeight * .5, 40);
     return;
   }
   App.sound.wrong(); st.tried.push(t);
+  paintRows();
   const rest = teams.map((_, i) => i).filter(i => !st.tried.includes(i));
   if (cfg.steal && rest.length) { st.phase = "steal"; renderTeams(); renderPanel(); }
   else lockRow();
 }
-function takeOver(i) { st.ans = i; st.phase = "ask"; st.timerWas = false; st.started = false; stopTimer(); renderTeams(); renderPanel(); if (cfg.answerTime > 0) startTimer(cfg.answerTime); App.sound.tick("pop"); }
+function takeOver(i) { st.ans = i; st.phase = "ask"; st.timerWas = false; st.started = false; st.typed = ""; st.mismatch = false; stopTimer(); paintRows(); renderTeams(); renderPanel(); if (cfg.answerTime > 0) startTimer(cfg.answerTime); App.sound.tick("pop"); }
 function lockRow() { if (st.phase === "steal") snap(); const r = st.sel; st.rows[r].s = "lock"; App.sound.soft(); next(); paintRows(); }
 function next() { st.sel = -1; st.phase = "pick"; st.turn = (st.turn + 1) % teams.length; st.tried = []; renderTeams(); renderPanel(); }
 
@@ -4442,12 +4467,22 @@ function renderPanel() {
       ${stealing ? `<div class="oc-note">Tổ nào giành quyền trả lời? Bấm tổ (hoặc Shift + số).</div><div class="oc-steal">${teams.map((t, i) => st.tried.includes(i) ? "" : `<button class="oc-team" style="--tc:${t.color}" data-s="${i}"><span class="nm">${esc(t.name)}</span><span class="hk">⇧${i + 1}</span></button>`).join("")}</div>
         <div class="oc-btns"><button class="oc-b" id="ocNoSteal">🔒 Không ai giành – khóa hàng</button></div>`
       : `<div class="oc-timer" id="ocTimer" aria-live="off"></div>
+        ${cfg.typeAns ? `<div class="oc-type"><input type="text" id="ocType" autocomplete="off" maxlength="60" placeholder="Gõ đáp án của ${esc(teams[st.ans].name)} rồi bấm Enter" aria-label="Đáp án của đội"><button class="oc-b ok sm" id="ocCheck">Kiểm tra ↵</button></div>
+          <div class="oc-mis" id="ocMis"${st.mismatch ? "" : " hidden"}><div>Chưa khớp đáp án chuẩn. Đội gõ: <b>«${esc(st.typed)}»</b>. Thầy cô có tính đúng không?</div><div class="oc-btns"><button class="oc-b ok sm" id="ocMisYes">✓ Tính đúng (hiện đáp án chuẩn)</button><button class="oc-b no sm" id="ocMisNo">✗ Sai</button><button class="oc-b sm" id="ocMisRe">Gõ lại</button></div></div>` : ""}
         ${st.showAns ? `<div class="oc-ans">Đáp án: ${esc(r.a)}</div>` : ""}
-        <div class="oc-btns"><button class="oc-b ok" id="ocYes">✓ Đúng <span class="hk">(Đ)</span></button><button class="oc-b no" id="ocNo">✗ Sai <span class="hk">(S)</span></button>
+        <div class="oc-btns"><div class="oc-jb" id="ocJb"${cfg.typeAns && st.mismatch ? " hidden" : ""}><button class="oc-b ok" id="ocYes">✓ Đúng <span class="hk">(Đ)</span></button><button class="oc-b no" id="ocNo">✗ Sai <span class="hk">(S)</span></button></div>
         <button class="oc-b sm" id="ocShow">${st.showAns ? "Ẩn đáp án" : "👁 Đáp án (V)"}</button>${App.voice && cfg.voice === "full" ? `<button class="oc-b sm" id="ocRead">🔊 Đọc lại (R)</button>` : ""}${st.tried.length ? "" : `<button class="oc-b sm" id="ocBack">← Chọn hàng khác (Esc)</button>`}</div>`}`;
     P.querySelectorAll("[data-s]").forEach(b => b.onclick = () => takeOver(+b.dataset.s));
     const bind = (id, f) => { const b = $(id); if (b) b.onclick = f; };
     bind("ocNoSteal", lockRow); bind("ocYes", () => judge(true)); bind("ocNo", () => judge(false));
+    if (cfg.typeAns && !stealing) {
+      const inp = $("ocType"), mis = $("ocMis"); inp.value = st.typed || "";
+      inp.oninput = e => { st.typed = e.target.value; if (st.mismatch) { st.mismatch = false; mis.hidden = true; $("ocJb").hidden = false; } paintTyping(); };
+      inp.onkeydown = e => { if (e.key === "Enter") { e.preventDefault(); checkTyped(); } };
+      bind("ocCheck", checkTyped); bind("ocMisYes", () => judge(true)); bind("ocMisNo", () => judge(false));
+      bind("ocMisRe", () => { st.mismatch = false; mis.hidden = true; $("ocJb").hidden = false; inp.focus(); inp.select(); });
+      if (!st.mismatch) inp.focus();
+    }
     bind("ocShow", () => { st.showAns = !st.showAns; renderPanel(); }); bind("ocRead", () => readQ()); bind("ocBack", cancelRow);
     if (!stealing && (timerId || tDone)) { /* vẽ lại bảng khi đồng hồ đang chạy / đã hết giờ: giữ nguyên hiển thị */ const t = $("ocTimer"); if (t) { if (tDone) { t.classList.add("done"); t.textContent = "Hết giờ"; } else t.textContent = Math.max(0, Math.ceil((tEnd - performance.now()) / 1000)) + "s"; } }
   } else if (st.phase === "end") {
