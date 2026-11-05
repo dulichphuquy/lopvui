@@ -983,7 +983,7 @@ math{font-family:"Cambria Math","STIX Two Math","Latin Modern Math",serif;font-s
    ========================================================= */
 "use strict";
 const App = window.App = { games: {}, order: [] };
-App.VERSION = "1.7"; App.BUILD = "9eafabb"; App.RELEASED = false; App.WEB = true; App.THU = true;
+App.VERSION = "1.7"; App.BUILD = "90601c9"; App.RELEASED = false; App.WEB = true; App.THU = true;
 
 /* ---------- Tiện ích ---------- */
 App.$ = id => document.getElementById(id);
@@ -4061,7 +4061,8 @@ const G = {
       { k: "Đ", d: "Chấm Đúng" },
       { k: "S", d: "Chấm Sai" },
       { k: "K", d: "Đoán từ khóa" },
-      { k: "⇧ + 1–8", d: "Chọn / giành tổ" },
+      { k: "1–8 (khi giành quyền / đoán từ khóa)", d: "Chọn tổ giành quyền hoặc tổ đoán" },
+      { k: "⇧ + 1–8", d: "Đổi tổ đang trả lời" },
       { k: "Space", d: "Chạy đồng hồ ngay" },
       { k: "V", d: "Xem đáp án (chỉ thầy cô)" },
       { k: "R", d: "Đọc lại câu hỏi" },
@@ -4089,12 +4090,12 @@ const G = {
     if (ov) {
       if (k === "escape" && st.phase === "guess") { guessCancel(); return true; }
       if (k === "escape" && st.phase === "end") { $("ocOv").hidden = true; return true; }
-      if (st.phase === "guess" && e.shiftKey && /^(Digit|Numpad)[1-9]$/.test(e.code)) { const b = $("ocOvBox").querySelector(`[data-g="${+e.code.slice(-1) - 1}"]`); if (b) { b.click(); return true; } }
+      if (st.phase === "guess" && /^(Digit|Numpad)[1-9]$/.test(e.code)) { const b = $("ocOvBox").querySelector(`[data-g="${+e.code.slice(-1) - 1}"]`); if (b) { b.click(); return true; } }
       return false;
     }
     if (/^(Digit|Numpad)[1-9]$/.test(e.code)) {
       const d = +e.code.slice(-1) - 1;
-      if (e.shiftKey) { chooseTeam(d); return true; }
+      if (e.shiftKey || st.phase === "steal") { chooseTeam(d); return true; }
       if (st.phase === "pick" && d < st.rows.length) { pickRow(d); return true; } return false;
     }
     if (k === "k") { openGuess(); return true; }
@@ -4426,18 +4427,21 @@ function judge(ok) {
 }
 function takeOver(i) { st.ans = i; st.phase = "ask"; st.timerWas = false; st.started = false; st.typed = ""; st.mismatch = false; stopTimer(); paintRows(); renderTeams(); renderPanel(); if (cfg.answerTime > 0) startTimer(cfg.answerTime); App.sound.tick("pop"); }
 function lockRow() { if (st.phase === "steal") snap(); const r = st.sel; st.rows[r].s = "lock"; App.sound.soft(); next(); paintRows(); }
-function next() { st.sel = -1; st.phase = "pick"; st.turn = (st.turn + 1) % teams.length; st.tried = []; renderTeams(); renderPanel(); }
+function next() {
+  st.sel = -1; st.phase = "pick"; st.turn = (st.turn + 1) % teams.length; st.tried = []; renderTeams(); renderPanel();
+  if (!left()) setTimeout(() => { if (alive && st && st.phase === "pick" && !left()) openGuess(); }, 1300);   // mở hết các hàng: tự mời đoán / công bố từ khóa
+}
 
 /* ---- đoán từ khóa ---- */
 function openGuess() {
   if (!st || st.phase === "end" || st.phase === "guess" || st.phase === "intro") return;
-  st.back = st.phase; st.tLeft = pauseTimer(); st.phase = "guess"; stopReading(); guessMenu();
+  st.back = st.phase; st.tLeft = pauseTimer(); st.phase = "guess"; stopReading(); App.sound.tick("pop"); setTimeout(() => App.sound.tick("pop"), 140); guessMenu();
 }
 function guessMenu() {
   const hidden = st.rows.filter(r => r.s !== "done").length, pts = 20 + (+cfg.points) * hidden, can = teams.map((_, i) => i).filter(i => !st.banned.has(i));
   const box = $("ocOvBox"); $("ocOv").hidden = false;
   box.innerHTML = `<h2>🔑 Đoán từ khóa</h2><div class="oc-note">Đoán đúng ngay bây giờ được <b>${pts}</b> điểm (còn ${hidden} hàng chưa mở).</div>
-    ${can.length ? `<div class="oc-steal">${can.map(i => `<button class="oc-team" style="--tc:${teams[i].color}" data-g="${i}"><span class="nm">${esc(teams[i].name)}</span><span class="hk">⇧${i + 1}</span></button>`).join("")}</div><div class="oc-note">Chọn tổ đang đoán.</div>` : `<div class="oc-warn">Tất cả các tổ đã hết quyền đoán.</div>`}
+    ${can.length ? `<div class="oc-steal">${can.map(i => `<button class="oc-team" style="--tc:${teams[i].color}" data-g="${i}"><span class="nm">${esc(teams[i].name)}</span><span class="hk">${i + 1}</span></button>`).join("")}</div><div class="oc-note">Chọn tổ đang đoán (bấm tổ hoặc phím số).</div>` : `<div class="oc-warn">Tất cả các tổ đã hết quyền đoán.</div>`}
     <div class="oc-btns"><button class="oc-b" id="ocGX">← Quay lại</button><button class="oc-b" id="ocGEnd">🏁 Công bố từ khóa (kết thúc)</button></div>`;
   box.querySelectorAll("[data-g]").forEach(b => b.onclick = () => guessJudge(+b.dataset.g, pts));
   $("ocGX").onclick = guessCancel; $("ocGEnd").onclick = () => finish(-1, 0);
@@ -4484,7 +4488,7 @@ function renderPanel() {
     const r = st.rows[st.sel], stealing = st.phase === "steal";
     P.innerHTML = `<div class="oc-h">Hàng <b>${st.sel + 1}</b> · ${r.n.length} chữ cái · ${stealing ? `<span class="oc-warn">${tn(st.ans)} chưa đúng</span>` : `${tn(st.ans)} trả lời`}</div>
       <div class="oc-q" id="ocQ">${App.html(r.q)}</div>
-      ${stealing ? `<div class="oc-note">Tổ nào giành quyền trả lời? Bấm tổ (hoặc Shift + số).</div><div class="oc-steal">${teams.map((t, i) => st.tried.includes(i) ? "" : `<button class="oc-team" style="--tc:${t.color}" data-s="${i}"><span class="nm">${esc(t.name)}</span><span class="hk">⇧${i + 1}</span></button>`).join("")}</div>
+      ${stealing ? `<div class="oc-note">Tổ nào giành quyền trả lời? Bấm tổ hoặc bấm số của tổ (1–8).</div><div class="oc-steal">${teams.map((t, i) => st.tried.includes(i) ? "" : `<button class="oc-team" style="--tc:${t.color}" data-s="${i}"><span class="nm">${esc(t.name)}</span><span class="hk">${i + 1}</span></button>`).join("")}</div>
         <div class="oc-btns"><button class="oc-b" id="ocNoSteal">🔒 Không ai giành – khóa hàng</button></div>`
       : `<div class="oc-timer" id="ocTimer" aria-live="off"></div>
         ${cfg.typeAns ? `<div class="oc-type"><input type="text" id="ocType" autocomplete="off" maxlength="60" placeholder="Gõ đáp án của ${esc(teams[st.ans].name)} rồi bấm Enter" aria-label="Đáp án của đội"><button class="oc-b ok sm" id="ocCheck">Kiểm tra ↵</button></div>
