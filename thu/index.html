@@ -983,7 +983,7 @@ math{font-family:"Cambria Math","STIX Two Math","Latin Modern Math",serif;font-s
    ========================================================= */
 "use strict";
 const App = window.App = { games: {}, order: [] };
-App.VERSION = "1.6"; App.BUILD = "01810a6"; App.RELEASED = false; App.WEB = true; App.THU = true;
+App.VERSION = "1.7"; App.BUILD = "c9c3674"; App.RELEASED = false; App.WEB = true; App.THU = true;
 
 /* ---------- Tiện ích ---------- */
 App.$ = id => document.getElementById(id);
@@ -1506,7 +1506,7 @@ const grp = (t, i) => { // lấy nhóm {…} (khớp ngoặc) hoặc một ký t
 };
 const topLevel = s => { let d = 0, u = ""; for (const ch of s) { if (ch === "{") d++; else if (ch === "}") d--; else if (d === 0) u += ch; } return u; };
 const isNum = s => /^\s*[\d.,]+\s*$/.test(s);
-const isComplex = s => /\\(?:d|t)?frac|\\sqrt/.test(s) || /\\pm/.test(topLevel(s)) || /[+\-]/.test(topLevel(s).replace(/^\s*-/, ""));
+const isComplex = s => /\\(?:d|t)?frac|\\sqrt/.test(s) || /\\pm/.test(topLevel(s)) || /[+\-*]|\\cdot|\\times/.test(topLevel(s).replace(/^\s*-/, ""));
 function mathStructure(t) {
   const re = /\\(?:d|t)?frac(?![A-Za-z])|\\sqrt(?![A-Za-z])|\\overline(?![A-Za-z])|\\bar(?![A-Za-z])/;
   for (let m, guard = 0; (m = re.exec(t)); guard++) {
@@ -1516,7 +1516,7 @@ function mathStructure(t) {
       const a = grp(t, i), b = a && grp(t, a.end); if (!a || !b) return null;
       const A = App.mathSpeech(a.src), B = App.mathSpeech(b.src); if (A == null || B == null) return null;
       const cA = isComplex(a.src), cB = isComplex(b.src); numeric = isNum(a.src) && isNum(b.src);
-      out = numeric ? `${A} phần ${B}` : !cA && !cB ? `${A} trên ${B}` : !cA ? `${A} chia cho ${B}, tất cả,` : `${A}, tất cả chia cho ${B}${cB ? ", tất cả" : ""},`; i = b.end;
+      out = numeric ? `${A} phần ${B}` : !cA && !cB ? `${A} trên ${B}` : !cA ? `${A} chia cho ${B}, tất cả\u0001` : `${A}, tất cả chia cho ${B}${cB ? ", tất cả" : ""}\u0001`; i = b.end;
     } else if (cmd === "\\sqrt") {
       let n = 2; const o = /^\s*\[(\d)\]/.exec(t.slice(i)); if (o) { n = +o[1]; i += o[0].length; }
       const a = grp(t, i); if (!a) return null; const A = App.mathSpeech(a.src); if (A == null) return null;
@@ -1528,7 +1528,7 @@ function mathStructure(t) {
     const rest = t.slice(i), mul = /^\s*(\\cdot|\\times|\*)\s*/.exec(rest);
     const simple = numeric || cmd.includes("overline") || cmd === "\\bar";
     if (mul) { out += simple ? " nhân " : ", tất cả nhân cho "; i += mul[0].length; }
-    else if (!simple && /^\s*(?:[A-Za-z0-9]|\\(?:vec|Delta|delta|alpha|beta|gamma|omega|pi|theta|mu|rho|lambda|sigma|tau|varphi|phi)\b)/.test(rest)) out += ", tất cả nhân cho ";
+    else if (!simple && !/^\s*phần trăm/.test(rest) && /^\s*(?:[A-Za-z0-9(]|\\(?:d|t)?frac|\\sqrt|\\(?:vec|Delta|delta|alpha|beta|gamma|omega|pi|theta|mu|rho|lambda|sigma|tau|varphi|phi)\b)/.test(rest)) out += ", tất cả nhân cho ";
     t = t.slice(0, m.index) + " " + out + " " + t.slice(i);
   }
   return t;
@@ -1536,7 +1536,8 @@ function mathStructure(t) {
 /* Tách chữ cái dính nhau trong công thức để giọng đọc không hiểu nhầm: "2h" → "2 h" (không thành "2 giờ"), "mgh" → "m g h".
    Giữ nguyên lệnh (\\sqrt…), chữ trong \\text{…}, chỉ số dưới (_{tb}) và tên hàm (sin, cos…). */
 const KEEPW = /^(sin|cos|tan|cot|ln|log|max|min|lg)$/;
-const splitLetters = t => t.replace(/(\\(?:text|mathrm|mathbf|operatorname)\s*\{[^{}]*\}|\\[A-Za-z]+|_\s*\{[^{}]*\}|_\s*\w)|(\d?)([A-Za-z]+)/g,
+const MUNIT = /(\d\s*)(km\/h|m\/s\^\{?2\}?|m\/s²|m\/s|kg|km|cm|mm|kJ|kW|kPa|Hz|Pa)(?![A-Za-z])/g; // đơn vị nhiều chữ gõ thẳng sau số
+const splitLetters = t => t.replace(MUNIT, (m, d, u) => d + "\\text{" + u.replace(/\^\{?2\}?/, "^2") + "}").replace(/(\\(?:text|mathrm|mathbf|operatorname)\s*\{[^{}]*\}|\\[A-Za-z]+|_\s*\{[^{}]*\}|_\s*\w)|(\d?)([A-Za-z]+)/g,
   (m, keep, d, w) => keep ? keep : KEEPW.test(w) ? m : (d ? d + " " : "") + w.split("").join(" "));
 /* Cách gọi chữ cái của giáo viên (thầy An chốt 05/11/2026): h → "hát", g → "gờ". */
 const LETTERW = { h: "hát", H: "hát", g: "gờ", G: "gờ" };
@@ -1544,7 +1545,7 @@ App.mathSpeech = tex => {
   let t = String(tex || "").trim();
   if (t.length > 160 || /\\(int|sum|prod|lim|begin|matrix|underline|binom|iint|oint|partial|nabla)/.test(t)) return null;
   t = splitLetters(t);
-  t = t.replace(/\\%/g, " phần trăm ").replace(/\{,\}/g, ",").replace(/\\[,;!: ]|~/g, " ").replace(/\\left|\\right/g, "").replace(/\\(text|mathrm|mathbf|operatorname)\s*\{([^{}]*)\}/g, (m, c, w, off, all) => UNIT_MAP[w.trim()] && /\d\s*$/.test(all.slice(0, off)) ? " " + UNIT_MAP[w.trim()] + " " : " " + w + " ");
+  t = t.replace(/\\%/g, " phần trăm ").replace(/\{,\}/g, ",").replace(/\\[,;!: ]|~/g, " ").replace(/\\left|\\right/g, "").replace(/\\(text|mathrm|mathbf|operatorname)\s*\{([^{}]*)\}/g, (m, c, w, off, all) => UNIT_MAP[w.trim()] && (/\d\s*$/.test(all.slice(0, off)) || w.trim().length > 1) ? " " + UNIT_MAP[w.trim()] + " " : " " + w + " ");
   t = t.replace(/\\(vec|overrightarrow)\s*\{([^{}]*)\}/g, " vectơ $2 ").replace(/\\(vec)\s+(\w)/g, " vectơ $2 ");
   t = t.replace(/\^\s*\{?\\circ\}?/g, " độ ").replace(/°/g, " độ ");
   t = mathStructure(t); if (t == null) return null;
@@ -1552,7 +1553,7 @@ App.mathSpeech = tex => {
   t = t.replace(/_\s*\{([^{}]*)\}|_\s*(\w)/g, (m, a, b) => " " + (SUBW[(a || b).trim()] || (a || b)) + " ");
   t = t.replace(/\\([A-Za-z]+)/g, (m, w) => GREEK[w] ? " " + GREEK[w] + " " : MATHWORD[w] != null ? MATHWORD[w] : "\u0000");
   if (t.includes("\u0000") || /[{}\\^_]/.test(t)) return null;
-  t = t.replace(/(^|[=(\[,<>]|\\pm)\s*-\s*/g, "$1 âm ");
+  t = t.replace(/\u0001\s*-\s*/g, ", trừ ").replace(/\u0001/g, ",").replace(/(^|[=(\[,<>]|\\pm)\s*-\s*/g, "$1 âm ");
   t = t.replace(/\s*=\s*/g, " bằng ").replace(/\s*\+\s*/g, " cộng ").replace(/(\S)\s*\*\s*/g, "$1 nhân ")
     .replace(/(\w|\))\s*-\s*/g, "$1 trừ ").replace(/^\s*-\s*/, "âm ").replace(/\s*\/\s*/g, " chia ").replace(/\s*<\s*/g, " nhỏ hơn ").replace(/\s*>\s*/g, " lớn hơn ");
   t = t.replace(/(^|[\s(,])([hHgG])(?=[\s),]|$)/g, (m, a, c) => a + LETTERW[c]);
@@ -1593,7 +1594,7 @@ App.speakSeq = (parts, opt = {}) => {
     chunks.forEach((c, k) => list.push({ t: c.trim(), pause: k === chunks.length - 1 ? p.pause : 120, on: k === 0 ? p.on : null })); });
   const done = why => { if (id !== seqId) return; App.duck(false); seqId++; clearInterval(dog); opt.onEnd && opt.onEnd(why); };
   let dog = 0;
-  if (!App.voice || !list.length) { setTimeout(() => opt.onEnd && opt.onEnd("novoice"), 0); return { stop() { }, id }; }
+  if (!App.voice || !list.length) { App.duck(false); setTimeout(() => opt.onEnd && opt.onEnd("novoice"), 0); return { stop() { }, id }; }
   const play = (i, v) => {
     if (id !== seqId) return; if (i >= list.length) return done("end");
     const p = list[i], u = new SpeechSynthesisUtterance(p.t); let started = false, ended = false, quietSince = 0;
@@ -3887,6 +3888,588 @@ function markFc(k) {
   if (known.size === deck.length) { App.sound.win("fanfare"); App.fx.celebrate(cfg.fx); App.toast("Đã thuộc toàn bộ thẻ trong bộ này!"); }
   navFc(1);
 }
+App.registerGame(G);
+})();
+
+/* ===== games/okchu.js ===== */
+/* Trò chơi: Ô CHỮ BÍ MẬT (kiểu "Vượt chướng ngại vật" của Olympia)
+   Học từ: Đường lên đỉnh Olympia (hàng ngang + từ khóa dọc, giành quyền, đoán từ khóa càng sớm càng nhiều điểm),
+   Wordwall Crossword / Baamboozle (soạn nhanh từ danh sách), Gimkit/Blooket (điểm và lượt theo đội).
+   Khác với Wordwall: lưới tự xếp từ bộ câu hỏi, có giọng đọc cả lớp nghe, 4 tổ chấm điểm một tay, chạy không cần mạng.
+   Dữ liệu: dùng chung "bộ câu hỏi" – mỗi hàng ngang là một câu trả lời ngắn dạng chữ:
+       # Tiêu đề
+       # Từ khóa: THẦY CÔ
+       # Thông điệp: Cảm ơn thầy cô!
+       Câu 1. Câu hỏi … [[Đáp án]]
+   Hai dòng "# Từ khóa", "# Thông điệp" nằm ngay dưới tiêu đề; phần soạn đề và tệp .lopvui giữ nguyên chúng. */
+(function () {
+"use strict";
+const { $, esc, S } = App;
+const MAXLEN = 14, KMIN = 4, KMAX = 9;
+
+/* ================= Phần thuần (không đụng giao diện) ================= */
+const norm = s => String(s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[đĐ]/g, "D").toUpperCase().replace(/[^A-Z0-9]/g, "");
+
+function parseMeta(raw) {
+  let kw = "", msg = "";
+  for (const l of String(raw || "").split(/\r?\n/)) {
+    const s = l.trim().normalize("NFC"); if (!s) continue; if (!s.startsWith("#")) break; let m;
+    if ((m = s.match(/^#+\s*từ\s*khóa\s*:\s*(.*)$/i))) kw = m[1].trim();
+    else if ((m = s.match(/^#+\s*thông\s*điệp\s*:\s*(.*)$/i))) msg = m[1].trim();
+  }
+  return { kw, msg };
+}
+function setMeta(raw, label, val) {
+  const lines = String(raw || "").split(/\r?\n/), re = new RegExp("^#+\\s*" + label + "\\s*:", "i"), line = val ? `# ${label}: ${val}` : null;
+  const i = lines.findIndex(l => re.test(l.trim().normalize("NFC")));
+  if (i >= 0) { if (line) lines[i] = line; else lines.splice(i, 1); return lines.join("\n"); }
+  if (!line) return String(raw || "");
+  let at = 0; while (at < lines.length && lines[at].trim().startsWith("#")) at++;
+  if (at === 0) { lines.unshift("# Ô chữ bí mật"); at = 1; }
+  lines.splice(at, 0, line); return lines.join("\n");
+}
+/* Các câu trả lời ngắn dạng CHỮ của bộ → hàng ngang có thể dùng */
+function candidates(raw) {
+  const p = App.parseSet(raw), ok = [], skipped = [];
+  p.items.forEach(it => {
+    if (it.type !== "short") return;
+    const a = String(it.answer || "").trim(), n = norm(a);
+    if (!a || /\d/.test(a) || n.length < 2) { if (a) skipped.push({ q: it.q, a, why: "đáp án là số hoặc quá ngắn" }); return; }
+    if (n.length > MAXLEN) { skipped.push({ q: it.q, a, why: `dài hơn ${MAXLEN} chữ cái` }); return; }
+    ok.push({ q: it.q, a, n, exp: it.explain || "" });
+  });
+  return { ok, skipped };
+}
+/* Xếp lưới: mỗi chữ của từ khóa ↔ một hàng chứa chữ đó; các hàng thẳng cột theo cột từ khóa, lưới hẹp nhất có thể */
+function plan(raw, kwText, shuffle) {
+  const kwN = norm(kwText), L = [...kwN], n = L.length, { ok: cands, skipped } = candidates(raw);
+  const out = { ok: false, rows: [], K: 0, W: 0, kwN, n, missing: [], skipped, nCand: cands.length, msg: "" };
+  if (n < KMIN || n > KMAX) { out.msg = n ? `Từ khóa cần ${KMIN}–${KMAX} chữ cái (đang có ${n}).` : "Chưa có từ khóa."; return out; }
+  if (cands.length < n) { out.msg = `Bộ câu hỏi mới có ${cands.length} câu trả lời ngắn dạng chữ, từ khóa cần ${n} hàng.`; return out; }
+  const idx = cands.map((_, i) => i); let pick;
+  if (!shuffle && cands.length === n && cands.every((c, i) => c.n.includes(L[i]))) pick = idx.slice(); // đúng thứ tự thầy cô soạn
+  else {
+    const order = shuffle ? App.shuffle(idx.slice()) : idx, owner = new Array(cands.length).fill(-1), got = new Array(n).fill(-1);
+    const tryL = (li, seen) => { for (const ci of order) { if (seen.has(ci) || !cands[ci].n.includes(L[li])) continue; seen.add(ci); if (owner[ci] < 0 || tryL(owner[ci], seen)) { owner[ci] = li; got[li] = ci; return true; } } return false; };
+    for (let li = 0; li < n; li++) if (!tryL(li, new Set())) out.missing.push(li);
+    if (out.missing.length) { out.msg = "Chưa có hàng nào chứa chữ " + out.missing.map(li => `"${L[li]}" (chữ thứ ${li + 1})`).join(", ") + "."; return out; }
+    pick = got;
+  }
+  if (pick.length !== n) return out;
+  const rows = pick.map((ci, i) => ({ c: cands[ci], occ: [...cands[ci].n].map((ch, k) => ch === L[i] ? k : -1).filter(k => k >= 0) }));
+  const maxP = Math.max(...rows.flatMap(r => r.occ)); let best = null;
+  for (let Lm = 0; Lm <= maxP; Lm++) {
+    const ch = []; let right = 0, left = 0, fail = false;
+    for (const r of rows) {
+      const opts = r.occ.filter(p => p <= Lm); if (!opts.length) { fail = true; break; }
+      let bp = null, br = 1e9; for (const p of opts) { const rr = r.c.n.length - p - 1; if (rr < br || (rr === br && shuffle && Math.random() < .5)) { br = rr; bp = p; } }
+      ch.push(bp); right = Math.max(right, br); left = Math.max(left, bp);
+    }
+    if (fail) continue; const w = left + 1 + right;
+    if (!best || w < best.w) best = { w, ch, left };
+  }
+  out.K = best.left; out.W = best.w;
+  out.rows = rows.map((r, i) => ({ q: r.c.q, a: r.c.a, n: r.c.n, p: best.ch[i], x: best.left - best.ch[i], exp: r.c.exp }));
+  out.ok = true; return out;
+}
+
+/* ================= Mẫu có sẵn (tự soạn; thầy cô sửa trên bản sao, mẫu gốc luôn còn) ================= */
+const TEMPLATES = [
+  { id: "triAn", name: "Tri ân thầy cô 20/11", desc: "6 hàng · khối nào cũng chơi được",
+    raw: `# Tri ân thầy cô 20/11
+# Từ khóa: THẦY CÔ
+# Thông điệp: Cảm ơn thầy cô đã dạy dỗ chúng em!
+Câu 1. Tục ngữ có câu: "Không ... đố mày làm nên". Điền từ còn thiếu. [[Thầy]]
+Câu 2. Ngày 20 tháng 11 hằng năm là ngày ... Việt Nam. Điền hai từ còn thiếu. [[Nhà giáo]]
+Câu 3. Thầy cô dùng vật gì màu trắng để viết lên bảng đen? [[Phấn]]
+Câu 4. Thầy cô có nhiệm vụ ... chữ, ... người. Điền một từ giống nhau cho cả hai chỗ trống. [[Dạy]]
+Câu 5. Học trò luôn ghi nhớ "... ơn" dạy dỗ của thầy cô. Điền từ còn thiếu. [[Công]]
+Câu 6. Thầy cô thường được ví như người gì chở khách sang sông? [[Người lái đò]]
+` },
+  { id: "noiQuy", name: "Nội quy lớp học", desc: "6 hàng · dùng cho tiết sinh hoạt đầu tuần",
+    raw: `# Nội quy lớp học
+# Từ khóa: NỘI QUY
+# Thông điệp: Giữ nội quy, trường lớp thêm vui!
+Câu 1. Khi đến trường, học sinh phải mặc đúng ... theo quy định. [[Đồng phục]]
+Câu 2. Em không được đi học ..., tức là đến sau giờ vào lớp. [[Muộn]]
+Câu 3. Học sinh không được dùng ... trong giờ học khi chưa được thầy cô cho phép. [[Điện thoại]]
+Câu 4. Khi kiểm tra, học sinh không được ... cóp bài của bạn. [[Quay]]
+Câu 5. Mỗi ngày, tổ được phân công ... nhật lớp (quét lớp, lau bảng). [[Trực]]
+Câu 6. Khi bị đau ốm ở trường, em đến phòng nào để được sơ cứu? [[Y tế]]
+` },
+  { id: "atgt", name: "An toàn giao thông", desc: "6 hàng · phù hợp học sinh THPT đi xe đạp điện, xe máy",
+    raw: `# An toàn giao thông
+# Từ khóa: AN TOÀN
+# Thông điệp: Đi đúng luật, về đến nhà an toàn!
+Câu 1. Trong ba màu đèn giao thông, màu nào báo hiệu được phép đi? [[Xanh]]
+Câu 2. Người tham gia giao thông bằng đôi chân gọi là người đi gì? [[Người đi bộ]]
+Câu 3. Bộ ba đèn xanh, vàng, đỏ ở ngã tư gọi là đèn ... giao thông. Điền hai từ còn thiếu. [[Tín hiệu]]
+Câu 4. Người đi xe máy phải đội mũ ... để bảo vệ đầu khi xảy ra tai nạn. [[Bảo hiểm]]
+Câu 5. Phần đường lát gạch hai bên đường, dành riêng cho người đi bộ, gọi là gì? [[Vỉa hè]]
+Câu 6. Uống rượu bia rồi lái xe là vi phạm quy định về ... độ cồn. [[Nồng]]
+` },
+  { id: "bienDao", name: "Biển đảo quê em", desc: "6 hàng · chủ đề biển đảo Việt Nam",
+    raw: `# Biển đảo quê em
+# Từ khóa: PHÚ QUÝ
+# Thông điệp: Phú Quý quê em, đảo xanh giữa biển khơi!
+Câu 1. Dụng cụ nổi giúp người không bị chìm khi rơi xuống nước (áo hoặc vòng cứu sinh) gọi là gì? [[Phao]]
+Câu 2. Tôm, cá, mực, ghẹ… là các loại ... sản. Điền từ còn thiếu. [[Hải]]
+Câu 3. Thuyền ngày xưa nhờ gió đẩy qua tấm vải lớn. Tấm vải đó gọi là gì? [[Buồm]]
+Câu 4. Hoàng Sa và Trường Sa là hai ... đảo của Việt Nam. Điền từ còn thiếu. [[Quần]]
+Câu 5. Nước biển lên xuống hằng ngày gọi là thủy ... Điền từ còn thiếu. [[Triều]]
+Câu 6. Thành ngữ: "Biển ... sóng lặng" chỉ cảnh bình yên. Điền từ còn thiếu. [[Yên]]
+` }
+];
+
+/* ================= Trạng thái ================= */
+let el, cfg, alive = false, st = null, teams = null, useGroups = false, curPlan = null, showKey = false, ro = null;
+let reading = null, waitStart = false, timerId = 0, tEnd = 0;
+const setNow = () => App.set();
+const kwText = () => parseMeta(setNow().raw).kw, msgText = () => parseMeta(setNow().raw).msg;
+
+const G = {
+  id: "okchu", name: "Ô chữ bí mật", uses: "questions",
+  blurb: "Kiểu Olympia: mở từng hàng ngang để lộ từ khóa dọc, 4 tổ giành điểm, máy đọc câu hỏi cho cả lớp.",
+  art: `<svg viewBox="0 0 120 100">${[1, 0, 2, 1].map((o, i) => [0, 1, 2, 3, 4].map(c => { const k = c + o === 3; return `<rect x="${8 + (c + o) * 18}" y="${10 + i * 22}" width="16" height="16" rx="3" fill="${k ? "var(--a3)" : "var(--surface)"}" stroke="${k ? "var(--a3)" : "var(--fg)"}" stroke-width="2"/>`; }).join("")).join("")}</svg>`,
+  ready() { return ""; },
+  settings: [
+    { key: "look", label: "Giao diện bảng", type: "seg", options: { den: "Bảng đèn (tối)", giay: "Giấy sáng (phòng sáng)" }, default: "den", note: "Giấy sáng: nền trắng, viền đậm, tương phản cao cho phòng nhiều ánh sáng hoặc máy chiếu yếu." },
+    { key: "teamCount", label: "Số tổ chơi (khi chưa chia nhóm)", type: "range", min: 2, max: 8, default: 4 },
+    { key: "useGroups", label: "Dùng nhóm vừa chia làm tổ, cộng dồn vào điểm nhóm", type: "toggle", default: true },
+    { key: "points", label: "Điểm mỗi hàng trả lời đúng", type: "seg", num: true, options: { 10: "10", 20: "20" }, default: 10, note: "Đoán từ khóa đúng được 20 + điểm hàng × số hàng chưa mở (mở càng ít, đoán đúng càng nhiều điểm)." },
+    { key: "answerTime", label: "Đồng hồ trả lời", type: "seg", num: true, options: { 0: "Không", 10: "10 giây", 15: "15 giây", 30: "30 giây" }, default: 15, note: "Khi bật giọng đọc, đồng hồ chờ máy đọc xong mới chạy. Bấm Space để chạy ngay." },
+    { key: "voice", label: "Giọng đọc", type: "seg", options: { off: "Tắt", full: "Đọc câu hỏi" }, default: () => S.prefs.speak ? "full" : "off", note: "Chọn giọng và tốc độ ở Cài đặt chung." },
+    { key: "steal", label: "Tổ trả lời sai thì tổ khác được giành quyền", type: "toggle", default: true },
+    { key: "win", label: "Âm thanh chúc mừng", type: "seg", options: App.WINS, default: "fanfare", advanced: true },
+    { key: "fx", label: "Hiệu ứng chúc mừng", type: "seg", options: App.FXS, default: "both", advanced: true },
+    { key: "tickMode", label: "Âm đếm giờ", type: "seg", options: App.TICKMODES, default: "each", advanced: true },
+    { key: "clockVol", label: "Âm lượng tiếng đồng hồ", type: "seg", options: App.CLOCKVOLS, default: "mid", advanced: true }
+  ],
+  help: {
+    steps: [
+      "Chọn bộ câu hỏi ở Trang chính (hoặc bấm \"Dùng mẫu này\" ngay trong trò: Tri ân thầy cô, Nội quy, An toàn giao thông, Biển đảo).",
+      "Mỗi hàng ngang là một câu trả lời ngắn dạng chữ trong bộ; gõ <b>từ khóa</b> (4–9 chữ cái) và <b>thông điệp</b> ở màn đầu, máy tự xếp lưới. Chưa vừa ý thì bấm \"Xếp lại\".",
+      "Bấm \"Bắt đầu\". Các tổ lần lượt chọn một hàng: bấm số 1–9 hoặc bấm số bên trái hàng. Máy đọc câu hỏi rồi đồng hồ chạy.",
+      "Thầy cô bấm \"✓ Đúng\" (lật các ô, tổ được điểm) hoặc \"✗ Sai\" (tổ đó mất quyền, bấm tổ khác để giành; không ai giành thì khóa hàng).",
+      "Tổ nào đoán được từ khóa thì bấm \"🔑 Đoán từ khóa\" (phím K) bất cứ lúc nào: đoán sớm điểm nhiều, đoán sai mất quyền đoán.",
+      "Hết trò hiện từ khóa, thông điệp và bảng điểm; điểm cộng dồn vào nhóm đã chia nếu bật."
+    ],
+    shortcuts: [
+      { k: "1–9", d: "Chọn hàng" },
+      { k: "Đ", d: "Chấm Đúng" },
+      { k: "S", d: "Chấm Sai" },
+      { k: "K", d: "Đoán từ khóa" },
+      { k: "⇧ + 1–8", d: "Chọn / giành tổ" },
+      { k: "Space", d: "Chạy đồng hồ ngay" },
+      { k: "V", d: "Xem đáp án (chỉ thầy cô)" },
+      { k: "R", d: "Đọc lại câu hỏi" },
+      { k: "L", d: "Khóa hàng (không ai giành)" },
+      { k: "Esc", d: "Bỏ chọn hàng / đóng bảng" }
+    ],
+    tips: [
+      "Chữ trong ô viết không dấu, câu hỏi và đáp án vẫn có dấu như bình thường.",
+      "Phòng nhiều ánh sáng: Tùy chỉnh → Giao diện bảng → Giấy sáng.",
+      "Muốn dùng câu hỏi có sẵn: hàng ngang lấy từ các câu trả lời ngắn dạng chữ (Tiếng Anh, Văn, Sử…); câu trả lời bằng số không dùng được.",
+      "Bộ ô chữ lưu cùng bộ câu hỏi nên có trong sao lưu và gửi được bằng tệp .lopvui cho đồng nghiệp."
+    ]
+  },
+  onSetting(k) { if (k === "look") { applyLook(); return true; } if (k === "teamCount" || k === "useGroups") { if (st) { App.toast("Số tổ / nhóm mới áp dụng từ ván sau (bấm Chơi lại)."); return true; } return false; } return true; },
+  redraw() { fit(); },
+  mount(root, c) { el = root; cfg = c.cfg; alive = true; st = null; showKey = false; ensureStyle(); ro && ro.disconnect(); ro = new ResizeObserver(() => fit()); ro.observe(el); intro(); },
+  unmount() { alive = false; clearTimeout(introT); ro && ro.disconnect(); stopTimer(); stopReading(); App.hush && App.hush(); st = null; },
+  onKey(e) {
+    if (e.ctrlKey || e.altKey || e.metaKey || !st) return false;
+    const k = e.key.toLowerCase(), ov = $("ocOv") && !$("ocOv").hidden;
+    if (st.phase === "intro") return false;
+    if (ov) {
+      if (k === "escape" && st.phase === "guess") { guessCancel(); return true; }
+      if (k === "escape" && st.phase === "end") { $("ocOv").hidden = true; return true; }
+      if (st.phase === "guess" && e.shiftKey && /^(Digit|Numpad)[1-9]$/.test(e.code)) { const b = $("ocOvBox").querySelector(`[data-g="${+e.code.slice(-1) - 1}"]`); if (b) { b.click(); return true; } }
+      return false;
+    }
+    if (/^(Digit|Numpad)[1-9]$/.test(e.code)) {
+      const d = +e.code.slice(-1) - 1;
+      if (e.shiftKey) { chooseTeam(d); return true; }
+      if (st.phase === "pick" && d < st.rows.length) { pickRow(d); return true; } return false;
+    }
+    if (k === "k") { openGuess(); return true; }
+    if (st.phase === "ask") {
+      if (k === "đ" || k === "d") { judge(true); return true; } if (k === "s") { judge(false); return true; }
+      if (k === " ") { if (cfg.answerTime > 0 && !timerId) { waitStart = false; stopReading(); startTimer(cfg.answerTime); } return true; }
+      if (k === "v") { st.showAns = !st.showAns; renderPanel(); return true; }
+      if (k === "r") { readQ(); return true; }
+      if (k === "escape") { cancelRow(); return true; }
+    }
+    if (st.phase === "steal" && k === "l") { lockRow(); return true; }
+    return false;
+  }
+};
+
+/* ================= Giao diện: kiểu dáng ================= */
+function ensureStyle() {
+  if (document.getElementById("ocStyle")) return;
+  const s = document.createElement("style"); s.id = "ocStyle";
+  s.textContent = `
+.oc{--bg:#071423;--card:#0d2038;--line:#2a4a72;--fg:#f4f8ff;--mut:#a9bdd6;--t-bg:#0b2038;--t-bd:#3f7fc2;--t-on:#1f74d4;--t-on2:#0c3f86;--t-fg:#fff;--k-bd:#ffc62e;--k-bg:#3a2c05;--k-on:#ffc62e;--k-fg:#1b1300;--lock:#1a2332;--glow:0 0 14px rgba(63,127,194,.55);--ok:var(--ok2,#13a37f);--no:var(--no2,#ef7d2b);--sel:#7de0ff;
+  flex:1;min-height:0;min-width:0;display:flex;background:radial-gradient(120% 90% at 50% 0%,#12335c 0%,var(--bg) 62%);color:var(--fg);padding:12px;gap:12px;font-family:var(--f-body)}
+.oc.oc-giay{--bg:#fffdf3;--card:#ffffff;--line:#111;--fg:#0b0b0b;--mut:#333;--t-bg:#fff;--t-bd:#111;--t-on:#cfe8ff;--t-on2:#cfe8ff;--t-fg:#000;--k-bd:#111;--k-bg:#ffe45e;--k-on:#ffd21f;--k-fg:#000;--lock:#d9d9d9;--glow:none;--sel:#0057d8;--ok:#0b6b4f;--no:#b34700;background:var(--bg)}
+.tn{color:var(--tc)}.oc-giay .tn{color:color-mix(in srgb,var(--tc) 50%,#000)}
+.oc-giay .oc-team.ans,.oc-giay .oc-row.done .oc-num{background:color-mix(in srgb,var(--tc) 55%,#000);border-color:color-mix(in srgb,var(--tc) 55%,#000)}
+.oc-intro input.mask:not(:focus){-webkit-text-security:disc;text-security:disc}
+.oc *{box-sizing:border-box}
+.oc-main{flex:1;min-height:0;min-width:0;display:grid;grid-template-columns:minmax(0,1fr) clamp(300px,35vw,430px);grid-template-rows:minmax(0,1fr);gap:12px}
+.oc-gridwrap{min-height:0;min-width:0;display:flex;align-items:center;justify-content:center;overflow:hidden}
+.oc-grid{--c:44px;--g:6px;display:flex;flex-direction:column;gap:var(--g)}
+.oc-row{display:grid;gap:var(--g);align-items:center}
+.oc-num{width:var(--c);height:var(--c);border-radius:50%;border:3px solid var(--line);background:var(--card);color:var(--fg);font:700 calc(var(--c)*.5) var(--f-display);display:grid;place-items:center;padding:0;cursor:pointer}
+.oc-num:hover:not(:disabled){border-color:var(--sel);box-shadow:0 0 0 3px color-mix(in srgb,var(--sel) 45%,transparent)}
+.oc-num:disabled{cursor:default}
+.oc-row.sel .oc-num{background:var(--sel);color:#001;border-color:var(--sel)}
+.oc-row.done .oc-num{background:var(--tc);border-color:var(--tc);color:#fff}
+.oc-row.lock .oc-num{background:var(--lock);color:var(--mut);border-color:var(--lock)}
+.oc-t{width:var(--c);height:var(--c);border-radius:calc(var(--c)*.17);border:2px solid var(--t-bd);background:var(--t-bg);color:var(--t-fg);display:grid;place-items:center;font:700 calc(var(--c)*.58) var(--f-display);line-height:1;box-shadow:var(--glow)}
+.oc-t.key{border-color:var(--k-bd);background:var(--k-bg);border-width:3px}
+.oc-giay .oc-t{border-width:3px}
+.oc-t.on{background:linear-gradient(180deg,var(--t-on),var(--t-on2))}
+.oc-giay .oc-t.on{background:var(--t-on)}
+.oc-t.key.on{background:var(--k-on);color:var(--k-fg);border-color:var(--k-bd)}
+.oc-t.fx{animation:ocFlip .55s var(--d,0ms) both}
+@keyframes ocFlip{0%{transform:rotateX(90deg);opacity:.15}60%{transform:rotateX(-14deg);opacity:1}100%{transform:none}}
+.oc-row.sel .oc-t:not(.on){border-color:var(--sel)}
+.oc-row.lock .oc-t{background:repeating-linear-gradient(135deg,var(--lock) 0 6px,transparent 6px 12px);border-color:var(--lock);box-shadow:none}
+.oc-row.lock .oc-t.on{background:var(--t-on2);border-color:var(--t-bd)}
+.oc-row.lock .oc-t.key.on{background:var(--k-on);border-color:var(--k-bd)}
+.oc-row.done .oc-t.on{border-color:var(--tc)}
+.oc-row.rev .oc-t.on{opacity:.55;filter:grayscale(.6)}
+.oc-side{min-height:0;min-width:0;display:flex;flex-direction:column;gap:10px}
+.oc-teams{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+.oc-team{display:flex;align-items:center;gap:8px;text-align:left;border:2px solid var(--line);border-left:8px solid var(--tc);background:var(--card);color:var(--fg);border-radius:12px;padding:7px 9px;font:600 15px var(--f-body);cursor:pointer;min-width:0}
+.oc-team .nm{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.oc-team .pt{font:700 22px var(--f-display);font-variant-numeric:tabular-nums}
+.oc-team .hk{font-size:11px;color:var(--mut);font-weight:600}
+.oc-team.turn{box-shadow:0 0 0 3px var(--sel)}
+.oc-team.ans{background:var(--tc);color:#fff;border-color:var(--tc)}.oc-team.ans .hk{color:#fff}
+.oc-team.tried{opacity:.45}
+.oc-team.ban .nm::after{content:" 🚫"}
+.oc-panel{flex:1;min-height:0;overflow:auto;background:var(--card);border:2px solid var(--line);border-radius:16px;padding:14px;display:flex;flex-direction:column;gap:10px}
+.oc-h{font:700 16px var(--f-display);color:var(--mut);display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.oc-h b{color:var(--fg)}
+.oc-q{font:600 clamp(20px,2.3vw,30px)/1.38 var(--f-body);overflow-wrap:anywhere}
+.oc .reading{outline:3px solid var(--k-bd);outline-offset:3px;border-radius:8px}
+.oc-ans{font:700 20px var(--f-display);color:var(--k-bd);background:color-mix(in srgb,var(--k-bd) 12%,transparent);border-radius:10px;padding:6px 10px}
+.oc-giay .oc-ans{color:#000;background:#fff3b0}
+.oc-timer{font:700 34px var(--f-display);font-variant-numeric:tabular-nums;min-height:44px}
+.oc-timer.warn{color:var(--no);animation:blink .5s steps(2) infinite}
+.oc-timer.done{color:#fff;background:var(--no);border-radius:10px;padding:0 10px;display:inline-block}
+.oc-timer.pulse{animation:ocPulse .25s}
+@keyframes ocPulse{50%{transform:scale(1.08)}}
+.oc-btns{display:flex;flex-wrap:wrap;gap:8px;margin-top:auto}
+.oc-b{border:2px solid var(--line);background:var(--card);color:var(--fg);border-radius:12px;padding:10px 14px;font:700 16px var(--f-body);cursor:pointer}
+.oc-b:hover{filter:brightness(1.12)}
+.oc-b.ok{background:var(--ok);border-color:var(--ok);color:#fff;flex:1}
+.oc-b.no{background:var(--no);border-color:var(--no);color:#fff;flex:1}
+.oc-b.key{border-color:var(--k-bd);color:var(--k-bd)}
+.oc-giay .oc-b.key{color:#000;background:#ffe45e}
+.oc-b.sm{padding:6px 10px;font-size:14px}
+.oc-steal{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+.oc-note{font-size:14px;color:var(--mut)}
+.oc .hk{font-size:12px;opacity:.8;font-weight:600}
+.oc-intro{flex:1;min-height:0;overflow:auto;display:flex;flex-direction:column;gap:14px;max-width:980px;margin:0 auto;width:100%}
+.oc-intro h2{font:700 clamp(24px,3vw,36px) var(--f-display);margin:0}
+.oc-intro .box{background:var(--card);border:2px solid var(--line);border-radius:14px;padding:14px;display:flex;flex-direction:column;gap:10px}
+.oc-intro label{font:700 14px var(--f-display);color:var(--mut)}
+.oc-intro input[type=text]{width:100%;padding:10px 12px;border-radius:10px;border:2px solid var(--line);background:var(--bg);color:var(--fg);font:600 18px var(--f-body)}
+.oc-keyrow{display:flex;gap:6px;flex-wrap:wrap}
+.oc-keyrow .oc-t{--c:40px}
+.oc-warn{color:var(--no);font-weight:600}
+.oc-okmsg{color:var(--ok);font-weight:600}
+.oc-tpl{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:10px}
+.oc-tpl .tp{border:2px solid var(--line);border-radius:12px;padding:10px;background:var(--bg);display:flex;flex-direction:column;gap:6px}
+.oc-tpl .tp b{font:700 16px var(--f-display)}
+.oc-list{margin:0;padding-left:20px;font-size:15px}
+.oc-list li{margin:3px 0}
+.oc-list u{color:var(--k-bd);font-weight:700;text-decoration:none}
+.oc-ov-keyrow{display:flex;gap:6px;flex-wrap:wrap;justify-content:center;margin:8px 0}
+.oc-ov-keyrow .oc-t{--c:min(52px,9vw)}
+.oc-rank{list-style:none;margin:8px 0;padding:0;display:flex;flex-direction:column;gap:6px;text-align:left}
+.oc-rank li{display:flex;align-items:center;gap:10px;border:2px solid var(--line);border-left:8px solid var(--tc);border-radius:10px;padding:6px 10px;font:600 18px var(--f-body);background:var(--card)}
+.oc-rank li .nm{flex:1}.oc-rank li .pt{font:700 24px var(--f-display)}
+.oc-ovbox{background:var(--card);color:var(--fg);border:2px solid var(--line);border-radius:18px;padding:18px;max-width:min(640px,94vw);width:100%;text-align:center;display:flex;flex-direction:column;gap:10px;max-height:94vh;overflow:auto}
+.oc-ovbox h2{font:700 clamp(22px,3vw,32px) var(--f-display);margin:0}
+.oc-msg{font:600 clamp(18px,2.4vw,26px)/1.35 var(--f-body)}
+@media (max-width:820px){.oc{flex-direction:column;overflow:auto}.oc-main{display:flex;flex-direction:column;flex:none}.oc-gridwrap{min-height:220px}.oc-panel{min-height:240px;flex:none}}
+.reduce .oc-t.fx,.reduce .oc-timer.pulse{animation:none}
+`;
+  document.head.appendChild(s);
+}
+function applyLook() { const r = el && el.querySelector(".oc"); if (r) r.classList.toggle("oc-giay", cfg.look === "giay"); }
+const rootOpen = inner => `<div class="oc${cfg.look === "giay" ? " oc-giay" : ""}" id="ocRoot">${inner}</div>`;
+
+/* ================= Màn đầu: soạn từ khóa, xem lưới, mẫu có sẵn ================= */
+let introT = 0, introPend = false, tDone = false;
+function intro() {
+  clearTimeout(introT); introPend = false; stopTimer(); stopReading(); st = null;
+  const set = setNow(), m = parseMeta(set.raw);
+  curPlan = plan(set.raw, m.kw, false);
+  el.innerHTML = rootOpen(`<div class="oc-intro">
+    <div class="oc-h">${esc(App.SUBJECTS[S.subject].name)} · Ô chữ bí mật</div>
+    <h2 id="ocTitle">${esc(set.name)}</h2>
+    <div class="box">
+      <label for="ocKw">Từ khóa (4–9 chữ cái; viết có dấu cũng được, ô chữ hiện không dấu) – tự che khi không gõ, để học sinh không thấy</label>
+      <input type="text" class="mask" id="ocKw" value="${esc(m.kw)}" placeholder="Ví dụ: THẦY CÔ" maxlength="40" autocomplete="off">
+      <label for="ocMsg">Thông điệp hiện ở cuối trò (không bắt buộc)</label>
+      <input type="text" class="mask" id="ocMsg" value="${esc(m.msg)}" placeholder="Ví dụ: Cảm ơn thầy cô đã dạy dỗ chúng em!" maxlength="160" autocomplete="off">
+      <div class="oc-keyrow" id="ocKeyRow" aria-label="Các ô của từ khóa"></div>
+      <div id="ocReport"></div>
+      <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center">
+        <button class="oc-b ok" id="ocStart" style="flex:none;padding:12px 22px;font-size:18px">▶ Bắt đầu</button>
+        <button class="oc-b" id="ocReroll">↻ Xếp lại lưới</button>
+        <button class="oc-b" id="ocPeek" aria-pressed="false">👁 Thầy cô xem đáp án</button>
+        <span class="oc-note" id="ocTeamNote"></span>
+      </div>
+      <div id="ocPeekBox" hidden></div>
+    </div>
+    <div class="box"><b style="font:700 17px var(--f-display)">Mẫu có sẵn</b>
+      <span class="oc-note">Bấm "Dùng mẫu này" để tạo một bản sao riêng trong bộ câu hỏi của thầy cô, rồi sửa tùy ý. Mẫu gốc luôn còn nguyên.</span>
+      <div class="oc-tpl">${TEMPLATES.map(t => `<div class="tp"><b>${esc(t.name)}</b><span class="oc-note">${esc(t.desc)}</span><button class="oc-b sm" data-tpl="${t.id}">Dùng mẫu này</button></div>`).join("")}</div></div>
+    <div class="box oc-note">Cách soạn: mỗi hàng ngang là một câu có đáp án chữ trong bộ câu hỏi, viết <i>Câu 1. Câu hỏi … [[Đáp án]]</i>. Bộ có nhiều câu hơn số hàng thì máy chọn câu hợp với từ khóa, bấm "Xếp lại lưới" để đổi. Soạn đầy đủ ở trang "Soạn bộ câu hỏi".</div>
+  </div>`);
+  const refresh = () => {
+    const set2 = setNow(), mm = parseMeta(set2.raw); curPlan = plan(set2.raw, mm.kw, false); paint();
+  };
+  function paint() {
+    const p = curPlan; $("ocKeyRow").innerHTML = [...p.kwN].map(() => `<span class="oc-t key"></span>`).join("");
+    let h = "";
+    if (p.ok) h += `<div class="oc-okmsg">✓ Đã xếp ${p.rows.length} hàng, lưới ${p.W} cột${p.W > 16 ? ` <span class="oc-warn">(hơi rộng, chữ sẽ nhỏ – nên rút ngắn đáp án)</span>` : ""}.</div>`;
+    else h += `<div class="oc-warn">${esc(p.msg || "Chưa xếp được lưới.")}</div>`;
+    if (p.skipped.length) h += `<div class="oc-note">Bỏ qua ${p.skipped.length} câu: ${p.skipped.slice(0, 3).map(s => `"${esc(s.a)}" (${s.why})`).join("; ")}${p.skipped.length > 3 ? "…" : ""}</div>`;
+    $("ocReport").innerHTML = h; $("ocStart").disabled = !p.ok;
+    const ug = cfg.useGroups && !!App.lastGroups();
+    $("ocTeamNote").textContent = ug ? `Chơi theo ${App.lastGroups().groups.length} nhóm vừa chia.` : `Chơi ${cfg.teamCount} tổ (đổi ở Tùy chỉnh, hoặc chia nhóm trước).`;
+    peek();
+  }
+  function peek() {
+    const b = $("ocPeekBox"); b.hidden = !showKey; $("ocPeek").setAttribute("aria-pressed", showKey);
+    if (!showKey) return;
+    const p = curPlan; if (!p.ok) { b.innerHTML = `<span class="oc-note">Chưa có lưới.</span>`; return; }
+    b.innerHTML = `<ol class="oc-list">${p.rows.map(r => `<li>${App.html(r.q)} → <b>${esc(r.a)}</b> <span class="oc-note">(${[...r.n].map((c, i) => i === r.p ? `<u>${c}</u>` : c).join("")})</span></li>`).join("")}</ol>`;
+  }
+  const save = () => { introPend = false; const s = setNow(); App.touchSet(s); App.save(); refresh(); };
+  $("ocKw").oninput = e => { setNow().raw = setMeta(setNow().raw, "Từ khóa", e.target.value.trim()); clearTimeout(introT); introPend = true; introT = setTimeout(() => alive && save(), 250); };
+  $("ocMsg").oninput = e => { setNow().raw = setMeta(setNow().raw, "Thông điệp", e.target.value.trim()); clearTimeout(introT); introPend = true; introT = setTimeout(() => alive && save(), 250); };
+  $("ocReroll").onclick = () => { const s = setNow(); curPlan = plan(s.raw, parseMeta(s.raw).kw, true); paint(); App.sound.flip(); };
+  $("ocPeek").onclick = () => { showKey = !showKey; peek(); };
+  $("ocStart").onclick = () => { if (introPend) { clearTimeout(introT); save(); } if (curPlan.ok) startGame(); };
+  el.querySelectorAll("[data-tpl]").forEach(b => b.onclick = () => {
+    const t = TEMPLATES.find(x => x.id === b.dataset.tpl); const s = App.newSet(t.name, t.raw); s.subject = S.subject; App.touchSet(s); App.save();
+    const cx = document.querySelector(".gamebar .ctx"); if (cx) cx.textContent = s.name;
+    App.toast(`Đã tạo bản sao "${t.name}" trong bộ câu hỏi.`); intro();
+  });
+  paint();
+}
+
+/* ================= Vào chơi ================= */
+function startGame() {
+  const p = curPlan, m = parseMeta(setNow().raw);
+  useGroups = !!cfg.useGroups && !!App.lastGroups();
+  teams = App.makeTeams(cfg.teamCount, useGroups);
+  st = { plan: p, rows: p.rows.map(r => ({ ...r, s: "hide", team: -1 })), K: p.K, W: p.W, kwN: p.kwN, kw: m.kw, msg: m.msg,
+    phase: "pick", turn: 0, sel: -1, ans: 0, tried: [], banned: new Set(), showAns: false, back: null, tLeft: 0, timerWas: false };
+  el.innerHTML = rootOpen(`<div class="oc-main">
+    <div class="oc-gridwrap" id="ocGridWrap"><div class="oc-grid" id="ocGrid"></div></div>
+    <aside class="oc-side"><div class="oc-teams" id="ocTeams"></div><div class="oc-panel" id="ocPanel"></div>
+      <button class="oc-b key" id="ocGuess">🔑 Đoán từ khóa <span class="hk">(K)</span></button></aside></div>
+    <div class="overlay" id="ocOv" hidden><div class="oc-ovbox" id="ocOvBox" role="dialog" aria-modal="true"></div></div>`);
+  $("ocGuess").onclick = openGuess;
+  buildGrid(); renderTeams(); renderPanel(); requestAnimationFrame(fit);
+  document.fonts && document.fonts.ready.then(() => alive && fit());
+  if (App.loadVoices) App.loadVoices();
+}
+function buildGrid() {
+  const g = $("ocGrid"), W = st.W;
+  g.innerHTML = st.rows.map((r, i) => {
+    let cells = "";
+    for (let c = 0; c < W; c++) {
+      const k = c - r.x; if (k < 0 || k >= r.n.length) { cells += `<i></i>`; continue; }
+      cells += `<span class="oc-t${k === r.p ? " key" : ""}" data-k="${k}"></span>`;
+    }
+    return `<div class="oc-row" data-r="${i}" style="grid-template-columns:repeat(${W + 1},var(--c))"><button class="oc-num" data-r="${i}" aria-label="Hàng ${i + 1}, ${r.n.length} chữ cái">${i + 1}</button>${cells}</div>`;
+  }).join("");
+  g.querySelectorAll(".oc-num").forEach(b => b.onclick = () => pickRow(+b.dataset.r));
+}
+function paintRows(revealIdx, all) {
+  const g = $("ocGrid"); if (!g) return;
+  st.rows.forEach((r, i) => {
+    const row = g.children[i]; row.classList.toggle("sel", st.sel === i && (st.phase === "ask" || st.phase === "steal"));
+    row.classList.toggle("done", r.s === "done"); row.classList.toggle("lock", r.s === "lock");
+    row.style.setProperty("--tc", r.team >= 0 && teams[r.team] ? teams[r.team].color : "transparent");
+    const show = r.s === "done" || all; row.classList.toggle("rev", !!all && r.s !== "done");
+    const num = row.querySelector(".oc-num"); num.disabled = !(st.phase === "pick" && r.s === "hide"); num.textContent = r.s === "lock" ? "🔒" : (r.s === "done" ? "✓" : i + 1);
+    row.querySelectorAll(".oc-t").forEach(t => {
+      const k = +t.dataset.k, was = t.classList.contains("on");
+      if (show) { t.textContent = r.n[k]; if (!was) { t.classList.add("on"); if (!App.reduce) { t.classList.add("fx"); t.style.setProperty("--d", (k * 70) + "ms"); } } }
+      else if (was) { t.classList.remove("on", "fx"); t.textContent = ""; }
+    });
+  });
+}
+function fit() {
+  if (!alive || !st || !$("ocGridWrap")) return;
+  const r = $("ocGridWrap").getBoundingClientRect(), n = st.rows.length, W = st.W, g = 6;
+  const c = Math.max(12, Math.min(66, Math.floor(Math.min((r.width - 10 - W * g) / (W + 1), (r.height - 10 - (n - 1) * g) / n))));
+  $("ocGrid").style.setProperty("--c", c + "px"); fitText();
+}
+function fitText() {
+  const q = $("ocQ"), box = $("ocPanel"); if (!q || !box) return;
+  q.style.removeProperty("font-size"); let fs = parseFloat(getComputedStyle(q).fontSize), i = 0;
+  while (box.scrollHeight > box.clientHeight + 1 && fs > 14 && i++ < 16) { fs -= 1.5; q.style.fontSize = fs + "px"; }
+}
+
+/* ================= Đội và điểm ================= */
+function renderTeams() {
+  const T = $("ocTeams"); if (!T || !teams) return;
+  T.innerHTML = teams.map((t, i) => `<button class="oc-team${i === st.turn && st.phase === "pick" ? " turn" : ""}${(st.phase === "ask" || st.phase === "steal") && i === st.ans && st.phase === "ask" ? " ans" : ""}${st.tried.includes(i) ? " tried" : ""}${st.banned.has(i) ? " ban" : ""}" data-i="${i}" style="--tc:${t.color}" title="Bấm để chọn / giành quyền (Shift+${i + 1})"><span class="nm">${esc(t.name)}</span><span class="pt">${t.score}</span><span class="hk">⇧${i + 1}</span></button>`).join("");
+  T.querySelectorAll(".oc-team").forEach(b => b.onclick = () => chooseTeam(+b.dataset.i));
+}
+function chooseTeam(i) {
+  if (!st || i >= teams.length) return;
+  if (st.phase === "pick") { st.turn = i; renderTeams(); renderPanel(); App.sound.tick("pop"); }
+  else if (st.phase === "ask" && !st.tried.length) { st.ans = i; renderTeams(); renderPanel(); App.sound.tick("pop"); }
+  else if (st.phase === "steal" && !st.tried.includes(i)) takeOver(i);
+}
+function addScore(i, d) {
+  teams[i].score += d;
+  if (useGroups) { const L = App.lastGroups(); if (L && L.groups[i]) { L.groups[i].score = (L.groups[i].score || 0) + d; App.save(); } }
+  renderTeams(); const b = $("ocTeams") && $("ocTeams").querySelector(`[data-i="${i}"]`); if (b && !App.reduce) b.animate([{ transform: "scale(1)" }, { transform: "scale(1.08)" }, { transform: "scale(1)" }], { duration: 400 });
+}
+
+/* ================= Luật chơi ================= */
+const left = () => st.rows.filter(r => r.s === "hide").length;
+function pickRow(i) {
+  if (!st || st.phase !== "pick" || st.rows[i].s !== "hide") return;
+  st.sel = i; st.ans = st.turn; st.tried = []; st.phase = "ask"; st.showAns = false; st.timerWas = false; st.started = false;
+  App.sound.flip(); paintRows(); renderTeams(); renderPanel(); readQ(true);
+}
+function cancelRow() {
+  if (!st || st.phase !== "ask" || st.tried.length) return;
+  stopTimer(); stopReading(); st.sel = -1; st.phase = "pick"; paintRows(); renderTeams(); renderPanel();
+}
+function judge(ok) {
+  if (!st || st.phase !== "ask") return;
+  const r = st.sel, t = st.ans; stopTimer(); stopReading();
+  if (ok) {
+    st.rows[r].s = "done"; st.rows[r].team = t; addScore(t, +cfg.points);
+    App.sound.right(); next(); paintRows(); if (!App.reduce && cfg.fx !== "off") App.fx.burst(innerWidth * .35, innerHeight * .5, 40);
+    return;
+  }
+  App.sound.wrong(); st.tried.push(t);
+  const rest = teams.map((_, i) => i).filter(i => !st.tried.includes(i));
+  if (cfg.steal && rest.length) { st.phase = "steal"; renderTeams(); renderPanel(); }
+  else lockRow();
+}
+function takeOver(i) { st.ans = i; st.phase = "ask"; st.timerWas = false; st.started = false; stopTimer(); renderTeams(); renderPanel(); if (cfg.answerTime > 0) startTimer(cfg.answerTime); App.sound.tick("pop"); }
+function lockRow() { const r = st.sel; st.rows[r].s = "lock"; App.sound.soft(); next(); paintRows(); }
+function next() { st.sel = -1; st.phase = "pick"; st.turn = (st.turn + 1) % teams.length; st.tried = []; renderTeams(); renderPanel(); }
+
+/* ---- đoán từ khóa ---- */
+function openGuess() {
+  if (!st || st.phase === "end" || st.phase === "guess" || st.phase === "intro") return;
+  st.back = st.phase; st.tLeft = pauseTimer(); st.phase = "guess"; stopReading(); guessMenu();
+}
+function guessMenu() {
+  const hidden = st.rows.filter(r => r.s !== "done").length, pts = 20 + (+cfg.points) * hidden, can = teams.map((_, i) => i).filter(i => !st.banned.has(i));
+  const box = $("ocOvBox"); $("ocOv").hidden = false;
+  box.innerHTML = `<h2>🔑 Đoán từ khóa</h2><div class="oc-note">Đoán đúng ngay bây giờ được <b>${pts}</b> điểm (còn ${hidden} hàng chưa mở).</div>
+    ${can.length ? `<div class="oc-steal">${can.map(i => `<button class="oc-team" style="--tc:${teams[i].color}" data-g="${i}"><span class="nm">${esc(teams[i].name)}</span><span class="hk">⇧${i + 1}</span></button>`).join("")}</div><div class="oc-note">Chọn tổ đang đoán.</div>` : `<div class="oc-warn">Tất cả các tổ đã hết quyền đoán.</div>`}
+    <div class="oc-btns"><button class="oc-b" id="ocGX">← Quay lại</button><button class="oc-b" id="ocGEnd">🏁 Công bố từ khóa (kết thúc)</button></div>`;
+  box.querySelectorAll("[data-g]").forEach(b => b.onclick = () => guessJudge(+b.dataset.g, pts));
+  $("ocGX").onclick = guessCancel; $("ocGEnd").onclick = () => finish(-1, 0);
+}
+function guessJudge(i, pts) {
+  const box = $("ocOvBox");
+  box.innerHTML = `<h2>${esc(teams[i].name)} đoán từ khóa</h2><div class="oc-note">Thầy cô nghe tổ đoán rồi chấm:</div>
+    <div class="oc-btns"><button class="oc-b ok" id="ocGY">✓ Đúng (+${pts})</button><button class="oc-b no" id="ocGN">✗ Sai (mất quyền đoán)</button></div><button class="oc-b sm" id="ocGB">← Chọn tổ khác</button>`;
+  $("ocGY").onclick = () => finish(i, pts);
+  $("ocGN").onclick = () => { st.banned.add(i); App.sound.wrong(); renderTeams(); guessMenu(); };
+  $("ocGB").onclick = guessMenu;
+}
+function guessCancel() {
+  $("ocOv").hidden = true; st.phase = st.back; st.back = null; renderTeams(); renderPanel();
+  if (st.phase === "ask") { if (st.tLeft > 150) { st.timerWas = true; startTimer(st.tLeft / 1000); } else if (!st.started && cfg.answerTime > 0) readQ(true); }
+}
+function finish(winner, pts) {
+  stopTimer(); stopReading(); st.phase = "end"; st.sel = -1;
+  if (winner >= 0) addScore(winner, pts);
+  paintRows(null, true); renderTeams(); renderPanel();
+  const rank = teams.map((t, i) => ({ ...t, i })).sort((a, b) => b.score - a.score);
+  const kwShow = st.kw || st.kwN;
+  const box = $("ocOvBox"); $("ocOv").hidden = false;
+  box.innerHTML = `<h2>${winner >= 0 ? `🎉 ${esc(teams[winner].name)} đoán đúng từ khóa!` : "Từ khóa là…"}</h2>
+    <div class="oc-ov-keyrow">${[...st.kwN].map((c, k) => `<span class="oc-t key on${App.reduce ? "" : " fx"}" style="--d:${k * 90}ms">${c}</span>`).join("")}</div>
+    <div class="oc-msg" id="ocKwTxt">${esc(kwShow)}</div>${st.msg ? `<div class="oc-msg" id="ocMsgTxt">${esc(st.msg)}</div>` : ""}
+    <ul class="oc-rank">${rank.map((t, r) => `<li style="--tc:${t.color}"><span>${r + 1}</span><span class="nm">${esc(t.name)}</span><span class="pt">${t.score}</span></li>`).join("")}</ul>
+    <div class="oc-btns"><button class="oc-b" id="ocAgain">↻ Chơi lại</button><button class="oc-b ok" id="ocClose">Xem lưới</button></div>`;
+  $("ocAgain").onclick = () => { stopReading(); intro(); };
+  $("ocClose").onclick = () => { $("ocOv").hidden = true; };
+  App.sound.win(cfg.win); App.fx.celebrate(cfg.fx);
+  if (cfg.voice === "full" && App.voice) reading = App.speakSeq([{ t: "Từ khóa là: " + App.speechText(kwShow) + ".", pause: 500 }].concat(st.msg ? [{ t: App.speechText(st.msg) }] : []), { onEnd: () => { reading = null; } });
+}
+
+/* ================= Bảng điều khiển bên phải ================= */
+function renderPanel() {
+  const P = $("ocPanel"); if (!P || !st) return;
+  const tn = i => `<b class="tn" style="--tc:${teams[i].color}">${esc(teams[i].name)}</b>`;
+  if (st.phase === "pick") {
+    const n = left();
+    P.innerHTML = n ? `<div class="oc-h">Lượt của ${tn(st.turn)}</div><div class="oc-q" id="ocQ">Chọn một hàng: bấm số 1–${st.rows.length} trên bàn phím hoặc bấm số bên trái hàng.</div><div class="oc-note">Còn ${n} hàng chưa mở. Tổ nào đoán được từ khóa thì bấm nút 🔑 bên dưới.</div>`
+      : `<div class="oc-h">Đã mở hết các hàng</div><div class="oc-q" id="ocQ">Tổ nào đoán được từ khóa? Bấm nút 🔑 Đoán từ khóa bên dưới.</div>`;
+  } else if (st.phase === "ask" || st.phase === "steal") {
+    const r = st.rows[st.sel], stealing = st.phase === "steal";
+    P.innerHTML = `<div class="oc-h">Hàng <b>${st.sel + 1}</b> · ${r.n.length} chữ cái · ${stealing ? `<span class="oc-warn">${tn(st.ans)} chưa đúng</span>` : `${tn(st.ans)} trả lời`}</div>
+      <div class="oc-q" id="ocQ">${App.html(r.q)}</div>
+      ${stealing ? `<div class="oc-note">Tổ nào giành quyền trả lời? Bấm tổ (hoặc Shift + số).</div><div class="oc-steal">${teams.map((t, i) => st.tried.includes(i) ? "" : `<button class="oc-team" style="--tc:${t.color}" data-s="${i}"><span class="nm">${esc(t.name)}</span><span class="hk">⇧${i + 1}</span></button>`).join("")}</div>
+        <div class="oc-btns"><button class="oc-b" id="ocNoSteal">🔒 Không ai giành – khóa hàng</button></div>`
+      : `<div class="oc-timer" id="ocTimer" aria-live="off"></div>
+        ${st.showAns ? `<div class="oc-ans">Đáp án: ${esc(r.a)}</div>` : ""}
+        <div class="oc-btns"><button class="oc-b ok" id="ocYes">✓ Đúng <span class="hk">(Đ)</span></button><button class="oc-b no" id="ocNo">✗ Sai <span class="hk">(S)</span></button>
+        <button class="oc-b sm" id="ocShow">${st.showAns ? "Ẩn đáp án" : "👁 Đáp án (V)"}</button>${App.voice && cfg.voice === "full" ? `<button class="oc-b sm" id="ocRead">🔊 Đọc lại (R)</button>` : ""}${st.tried.length ? "" : `<button class="oc-b sm" id="ocBack">← Chọn hàng khác (Esc)</button>`}</div>`}`;
+    P.querySelectorAll("[data-s]").forEach(b => b.onclick = () => takeOver(+b.dataset.s));
+    const bind = (id, f) => { const b = $(id); if (b) b.onclick = f; };
+    bind("ocNoSteal", lockRow); bind("ocYes", () => judge(true)); bind("ocNo", () => judge(false));
+    bind("ocShow", () => { st.showAns = !st.showAns; renderPanel(); }); bind("ocRead", () => readQ()); bind("ocBack", cancelRow);
+    if (!stealing && (timerId || tDone)) { /* vẽ lại bảng khi đồng hồ đang chạy / đã hết giờ: giữ nguyên hiển thị */ const t = $("ocTimer"); if (t) { if (tDone) { t.classList.add("done"); t.textContent = "Hết giờ"; } else t.textContent = Math.max(0, Math.ceil((tEnd - performance.now()) / 1000)) + "s"; } }
+  } else if (st.phase === "end") {
+    P.innerHTML = `<div class="oc-h">Kết thúc</div><div class="oc-q" id="ocQ">Từ khóa: <b>${esc(st.kw || st.kwN)}</b></div>${st.msg ? `<div class="oc-note">${esc(st.msg)}</div>` : ""}<div class="oc-btns"><button class="oc-b" id="ocAgain2">↻ Chơi lại</button></div>`;
+    $("ocAgain2").onclick = () => { stopReading(); intro(); };
+  }
+  fitText();
+}
+
+/* ================= Giọng đọc và đồng hồ ================= */
+const hl = sel => () => { const P = $("ocPanel"); if (!P) return; P.querySelectorAll(".reading").forEach(x => x.classList.remove("reading")); const t = sel && P.querySelector(sel); if (t) t.classList.add("reading"); };
+function readParts() { const r = st.rows[st.sel]; return [{ t: `Hàng ${st.sel + 1}, ${r.n.length} chữ cái.`, pause: 350 }, { t: App.speechText(r.q), pause: 300, on: hl("#ocQ") }]; }
+function afterRead() { reading = null; const P = $("ocPanel"); if (P) P.querySelectorAll(".reading").forEach(x => x.classList.remove("reading")); const w = waitStart; waitStart = false; if (w && alive && st && st.phase === "ask" && cfg.answerTime > 0 && !timerId && !st.started) startTimer(cfg.answerTime); }
+function readQ(first) {
+  if (!st || st.phase !== "ask") return; stopReading();
+  if (cfg.voice === "full" && App.voice) { waitStart = cfg.answerTime > 0 && !st.started; reading = App.speakSeq(readParts(), { onEnd: afterRead }); }
+  else if (first && cfg.answerTime > 0) setTimeout(() => { if (alive && st && st.phase === "ask" && !timerId && !st.started && cfg.answerTime > 0) startTimer(cfg.answerTime); }, 600);
+}
+function stopReading() { waitStart = false; if (reading) { const r = reading; reading = null; r.stop(); } }
+function startTimer(sec) {
+  stopTimer(); if (!$("ocTimer") || !(sec > 0)) return; tEnd = performance.now() + sec * 1000; if (st) st.started = true; tDone = false;
+  const tk = App.ticker(cfg.tickMode || "each", () => { const t = $("ocTimer"); if (!t) return; t.classList.remove("pulse"); void t.offsetWidth; t.classList.add("pulse"); }, cfg.clockVol || "mid"); let shown = -1;
+  const loop = () => {
+    const t = $("ocTimer"), r = tEnd - performance.now(), lf = Math.max(0, Math.ceil(r / 1000));   // tìm lại ô mỗi lần: bảng bên phải có thể vừa được vẽ lại
+    if (r <= 0) { clearInterval(timerId); timerId = 0; tDone = true; if (t) { t.classList.remove("warn"); t.classList.add("done"); t.textContent = "Hết giờ"; } App.sound.timeUp(); return; }
+    if (t && (lf !== shown || !t.textContent)) { shown = lf; t.textContent = lf + "s"; t.classList.toggle("warn", lf <= 5 && lf > 0); }
+    tk.update(r);
+  };
+  const t0 = $("ocTimer"); t0.className = "oc-timer"; loop(); timerId = setInterval(loop, 30);
+}
+function stopTimer() { clearInterval(timerId); timerId = 0; tDone = false; const t = $("ocTimer"); if (t) { t.className = "oc-timer"; t.textContent = ""; } }
+function pauseTimer() { if (!timerId) return 0; const r = Math.max(0, tEnd - performance.now()); clearInterval(timerId); timerId = 0; return r; }
+
+/* ================= Cho bài kiểm tra tự động ================= */
+App.okchu = { norm, parseMeta, setMeta, candidates, plan, TEMPLATES, state: () => st, teams: () => teams };
 App.registerGame(G);
 })();
 
