@@ -983,7 +983,7 @@ math{font-family:"Cambria Math","STIX Two Math","Latin Modern Math",serif;font-s
    ========================================================= */
 "use strict";
 const App = window.App = { games: {}, order: [] };
-App.VERSION = "1.5"; App.BUILD = "0ffd9f2"; App.RELEASED = false; App.WEB = true; App.THU = true;
+App.VERSION = "1.5"; App.BUILD = "ebef895"; App.RELEASED = false; App.WEB = true; App.THU = true;
 
 /* ---------- Tiện ích ---------- */
 App.$ = id => document.getElementById(id);
@@ -4361,7 +4361,7 @@ function bank() {
   $("bkCopy").onclick = () => { const t = titleFor(); App.newSet(t, App.bank.toRaw(pool(), t)); App.set().subject = subj; App.touchSet(App.set()); App.save(); App.toast("Đã chép sang bộ của tôi. Thầy cô sửa thoải mái, kho gốc không đổi."); go("sets"); };
 }
 /* Câu đang sửa dở (đã gõ, chưa bấm Lưu): chặn mọi cách rời đi, hỏi Lưu hay Bỏ */
-App.guardUnsaved = () => { const b = [...document.querySelectorAll(".qedit")].find(x => x._dirty && x._dirty()); if (!b) return false; b._ask(); b.scrollIntoView({ block: "center" }); App.toast("Câu đang sửa chưa lưu. Chọn Lưu hoặc Bỏ thay đổi."); return true; };
+App.guardUnsaved = () => { const b = [...document.querySelectorAll(".qedit")].find(x => x._dirty && x._dirty()); if (!b) return false; b._ask(); const q = b.querySelector(".qe-ask"); (q || b).scrollIntoView({ block: "center" }); return true; };
 addEventListener("beforeunload", e => { if ([...document.querySelectorAll(".qedit")].some(x => x._dirty && x._dirty())) { e.preventDefault(); e.returnValue = ""; } });
 /* Soạn một câu trong Kho: ô chữ theo quy ước OLM + xem trước trực tiếp + kiểm tra khi lưu */
 const TPL = {
