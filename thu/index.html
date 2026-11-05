@@ -983,7 +983,7 @@ math{font-family:"Cambria Math","STIX Two Math","Latin Modern Math",serif;font-s
    ========================================================= */
 "use strict";
 const App = window.App = { games: {}, order: [] };
-App.VERSION = "1.7"; App.BUILD = "9b723d6"; App.RELEASED = false; App.WEB = true; App.THU = true;
+App.VERSION = "1.7"; App.BUILD = "9eafabb"; App.RELEASED = false; App.WEB = true; App.THU = true;
 
 /* ---------- Tiện ích ---------- */
 App.$ = id => document.getElementById(id);
@@ -4065,6 +4065,7 @@ const G = {
       { k: "Space", d: "Chạy đồng hồ ngay" },
       { k: "V", d: "Xem đáp án (chỉ thầy cô)" },
       { k: "R", d: "Đọc lại câu hỏi" },
+      { k: "P", d: "Phóng lớn toàn màn hình (hoặc bấm nút ⛶)" },
       { k: "L", d: "Khóa hàng (không ai giành)" },
       { k: "Z", d: "Hoàn tác bước chấm vừa rồi" },
       { k: "Esc", d: "Bỏ chọn hàng / đóng bảng" }
@@ -4077,7 +4078,7 @@ const G = {
       "Bộ ô chữ lưu cùng bộ câu hỏi nên có trong sao lưu và gửi được bằng tệp .lopvui cho đồng nghiệp."
     ]
   },
-  onSetting(k) { if (k === "look") { applyLook(); return true; } if (k === "typeAns" || k === "typeAccent") { if (st) { st.mismatch = false; if (!cfg.typeAns) st.typed = ""; if (["ask", "steal", "pick"].includes(st.phase)) { paintRows(); if (st.phase === "ask") renderPanel(); } } return true; } if (k === "teamCount" || k === "useGroups") { if (st) { App.toast("Số tổ / nhóm mới áp dụng từ ván sau (bấm Chơi lại)."); return true; } return false; } return true; },
+  onSetting(k) { if (k === "look") { applyLook(); return true; } if (k === "typeAns" || k === "typeAccent") { typingChanged(); return true; } if (k === "teamCount" || k === "useGroups") { if (st) { App.toast("Số tổ / nhóm mới áp dụng từ ván sau (bấm Chơi lại)."); return true; } return false; } return true; },
   redraw() { fit(); },
   mount(root, c) { el = root; cfg = c.cfg; alive = true; st = null; showKey = false; ensureStyle(); ro && ro.disconnect(); ro = new ResizeObserver(() => fit()); ro.observe(el); intro(); },
   unmount() { alive = false; clearTimeout(introT); ro && ro.disconnect(); stopTimer(); stopReading(); App.hush && App.hush(); st = null; },
@@ -4109,6 +4110,15 @@ const G = {
     return false;
   }
 };
+
+function typingChanged() {
+  const tg = $("ocTypeTg"); if (tg) { tg.setAttribute("aria-pressed", !!cfg.typeAns); tg.innerHTML = `⌨ Gõ đáp án: <b>${cfg.typeAns ? "Bật" : "Tắt"}</b>`; }
+  document.querySelectorAll("[data-ty]").forEach(b => b.setAttribute("aria-pressed", String(!!cfg.typeAns) === (b.dataset.ty === "1" ? "true" : "false")));
+  if (!st) return;
+  st.mismatch = false; if (!cfg.typeAns) st.typed = "";
+  if (["ask", "steal", "pick"].includes(st.phase) && $("ocGrid") && $("ocGrid").children.length) { paintRows(); if (st.phase === "ask") renderPanel(); }
+}
+function fullLabel() { const b = $("ocFull"); if (b) b.innerHTML = $("app").classList.contains("present") ? "⤡ Thu nhỏ <span class=\"hk\">(Esc)</span>" : "⛶ Phóng lớn <span class=\"hk\">(P)</span>"; }
 
 /* ================= Giao diện: kiểu dáng ================= */
 function ensureStyle() {
@@ -4156,7 +4166,7 @@ function ensureStyle() {
 .oc-team.ans{background:var(--tc);color:#fff;border-color:var(--tc)}.oc-team.ans .hk{color:#fff}
 .oc-team.tried{opacity:.45}
 .oc-team.ban .nm::after{content:" 🚫"}
-.oc-panel{flex:1;min-height:0;overflow:auto;background:var(--card);border:2px solid var(--line);border-radius:16px;padding:14px;display:flex;flex-direction:column;gap:10px}
+.oc-panel{flex:1;min-height:0;overflow-x:hidden;overflow-y:auto;scrollbar-width:thin;background:var(--card);border:2px solid var(--line);border-radius:16px;padding:14px;display:flex;flex-direction:column;gap:10px}
 .oc-h{font:700 16px var(--f-display);color:var(--mut);display:flex;gap:8px;align-items:center;flex-wrap:wrap}
 .oc-h b{color:var(--fg)}
 .oc-q{font:600 clamp(20px,2.3vw,30px)/1.38 var(--f-body);overflow-wrap:anywhere}
@@ -4178,6 +4188,9 @@ function ensureStyle() {
 .oc-b.sm{padding:6px 10px;font-size:14px}
 .oc-steal{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
 .oc-note{font-size:14px;color:var(--mut)}
+.oc-tools{display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end}
+.oc-b[aria-pressed=true]{background:var(--sel);border-color:var(--sel);color:#001}
+.oc-timer{transform-origin:left center}
 .oc-type{display:flex;gap:8px}.oc .oc-type input[type=text]{flex:1;min-width:0;padding:9px 12px;border-radius:10px;border:2px solid var(--line);background:var(--bg);color:var(--fg);font:600 18px var(--f-body)}
 .oc-mis{border:2px solid var(--no);border-radius:12px;padding:10px;display:flex;flex-direction:column;gap:8px;font-size:15px}.oc-mis[hidden],.oc-jb[hidden]{display:none}.oc-jb{display:contents}
 .oc-t.typ{background:transparent;color:var(--sel);border-style:dashed}
@@ -4229,6 +4242,9 @@ function intro() {
       <input type="text" class="mask" id="ocMsg" value="${esc(m.msg)}" placeholder="Ví dụ: Cảm ơn thầy cô đã dạy dỗ chúng em!" maxlength="160" autocomplete="off">
       <div class="oc-keyrow" id="ocKeyRow" aria-label="Các ô của từ khóa"></div>
       <div id="ocReport"></div>
+      <div class="oc-how"><label>Cách chấm điểm</label>
+        <div style="display:flex;gap:8px;flex-wrap:wrap"><button class="oc-b sm" data-ty="0">Thầy cô bấm Đúng / Sai</button><button class="oc-b sm" data-ty="1">⌨ Đội gõ đáp án, máy tự chấm</button></div>
+        <span class="oc-note">Chọn "gõ đáp án": gõ đúng máy tự cộng điểm; gõ không khớp thì máy hỏi lại thầy cô. Đổi được cả khi đang chơi (nút ở góc trên bên phải bảng điều khiển).</span></div>
       <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center">
         <button class="oc-b ok" id="ocStart" style="flex:none;padding:12px 22px;font-size:18px">▶ Bắt đầu</button>
         <button class="oc-b" id="ocReroll">↻ Xếp lại lưới</button>
@@ -4273,7 +4289,8 @@ function intro() {
     const cx = document.querySelector(".gamebar .ctx"); if (cx) cx.textContent = s.name;
     App.toast(`Đã tạo bản sao "${t.name}" trong bộ câu hỏi.`); intro();
   });
-  paint();
+  el.querySelectorAll("[data-ty]").forEach(b => b.onclick = () => { cfg.typeAns = b.dataset.ty === "1"; App.save(); typingChanged(); });
+  typingChanged(); paint();
 }
 
 /* ================= Vào chơi ================= */
@@ -4285,10 +4302,13 @@ function startGame() {
     phase: "pick", turn: 0, sel: -1, ans: 0, tried: [], banned: new Set(), showAns: false, typed: "", mismatch: false, back: null, tLeft: 0, timerWas: false };
   el.innerHTML = rootOpen(`<div class="oc-main">
     <div class="oc-gridwrap" id="ocGridWrap"><div class="oc-grid" id="ocGrid"></div></div>
-    <aside class="oc-side"><div class="oc-teams" id="ocTeams"></div><div class="oc-panel" id="ocPanel"></div>
+    <aside class="oc-side"><div class="oc-tools"><button class="oc-b sm" id="ocFull"></button><button class="oc-b sm" id="ocTypeTg" aria-pressed="false"></button></div><div class="oc-teams" id="ocTeams"></div><div class="oc-panel" id="ocPanel"></div>
       <button class="oc-b key" id="ocGuess">🔑 Đoán từ khóa <span class="hk">(K)</span></button></aside></div>
     <div class="overlay" id="ocOv" hidden><div class="oc-ovbox" id="ocOvBox" role="dialog" aria-modal="true"></div></div>`);
   $("ocGuess").onclick = openGuess;
+  $("ocFull").onclick = () => { App.present_(!$("app").classList.contains("present")); setTimeout(() => { fullLabel(); fit(); }, 200); };
+  $("ocTypeTg").onclick = () => { cfg.typeAns = !cfg.typeAns; App.save(); typingChanged(); };
+  fullLabel(); typingChanged();
   buildGrid(); renderTeams(); renderPanel(); requestAnimationFrame(fit);
   document.fonts && document.fonts.ready.then(() => alive && fit());
   if (App.loadVoices) App.loadVoices();
@@ -4347,7 +4367,7 @@ function fit() {
 function fitText() {
   const q = $("ocQ"), box = $("ocPanel"); if (!q || !box) return;
   q.style.removeProperty("font-size"); let fs = parseFloat(getComputedStyle(q).fontSize), i = 0;
-  while (box.scrollHeight > box.clientHeight + 1 && fs > 14 && i++ < 16) { fs -= 1.5; q.style.fontSize = fs + "px"; }
+  while (box.scrollHeight > box.clientHeight && fs > 14 && i++ < 16) { fs -= 1.5; q.style.fontSize = fs + "px"; }
 }
 
 /* ================= Đội và điểm ================= */
