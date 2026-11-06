@@ -983,9 +983,7 @@ math{font-family:"Cambria Math","STIX Two Math","Latin Modern Math",serif;font-s
    ========================================================= */
 "use strict";
 const App = window.App = { games: {}, order: [] };
-App.TV_BUILTIN = [{"id":"ta12","name":"Tiếng Anh 12 – Global Success","units":[{"no":1,"name":"Life stories we admire","muc":[{"no":"I","name":"Getting Started","items":[{"t":"account","m":"câu chuyện","i":"/əˈkaʊnt/","p":"n"},{"t":"attend (school/ college)","m":"đi học (trường, trường đại học, cao đẳng)","i":"/əˈtend (skuːl/ kɒlɪʤ)/","p":"v"},{"t":"death","m":"cái chết","i":"/deθ/","p":"n"},{"t":"enemy","m":"kẻ thù","i":"/ˈenəmi/","p":"n"},{"t":"hero","m":"anh hùng","i":"/ˈhɪərəʊ/","p":"n"},{"t":"resistance war","m":"cuộc kháng chiến","i":"/rɪˈzɪstəns wɔː/"},{"t":"youth","m":"tuổi trẻ","i":"/juːθ/","p":"n"}]},{"no":"II","name":"Language","items":[{"t":"achievement","m":"thành tích, thành tựu","i":"/əˈʧiːvmənt/","p":"n"},{"t":"admire","m":"ngưỡng mộ","i":"/ədˈmaɪə/","p":"v"},{"t":"attend school/ college","m":"đi học (trường đại học, cao đẳng)","k":"c"}]},{"no":"III","name":"Reading","items":[{"t":"adopt","m":"nhận con nuôi","i":"/əˈdɒpt/","p":"v"},{"t":"animated","m":"hoạt hình","i":"/ˈænɪmeɪtɪd/","p":"adj"},{"t":"biological","m":"(quan hệ) ruột thịt","i":"/ˌbaɪəˈlɒdʒɪkl/","p":"adj"},{"t":"bond","m":"kết thân (với ai)","i":"/bɒnd/","p":"v"},{"t":"cancer","m":"ung thư","i":"/ˈkænsə/","p":"n"},{"t":"drop out (of)","m":"bỏ học","i":"/ˈdrɒp aʊt (ɒv)/"},{"t":"genius","m":"thiên tài","i":"/ˈʤiːniəs/","p":"n"},{"t":"marriage","m":"cuộc hôn nhân","i":"/ˈmærɪʤ/","p":"n"},{"t":"pancreatic","m":"liên quan tới tuyến tuỵ","i":"/ˌpæŋkriˈætɪk/","p":"adj"},{"t":"pass away","m":"qua đời","i":"/pɑːs əˈweɪ/"},{"t":"resign","m":"từ chức","i":"/rɪˈzaɪn/","p":"v"}]},{"no":"IV","name":"Speaking","items":[{"t":"attack","m":"cuộc tấn công, tấn công","i":"/əˈtæk/","p":"n,v"},{"t":"battle","m":"chiến trường","i":"/ˈbætl/","p":"n"},{"t":"carry out","m":"tiến hành","i":"/ˈkæri aʊt/"},{"t":"Communist Party of Viet Nam","m":"Đảng Cộng sản Việt Nam","i":"/ˈkɒmjənɪst pɑːti əv viːetˈnɑːm/"}]},{"no":"V","name":"Listening","items":[]},{"no":"VI","name":"Writing","items":[{"t":"biography","m":"tiểu sử","i":"/baɪˈɒɡrəfi/","p":"n"},{"t":"childhood","m":"tuổi thơ","i":"/ˈʧaɪldhʊd/","p":"n"}]},{"no":"VII","name":"Communication and Culture/CLIL","items":[{"t":"defeat","m":"đánh bại","i":"/dɪˈfiːt/","p":"v"},{"t":"on cloud nine/ on top of the world/ over the moon","m":"rất vui sướng, hạnh phúc","i":"/ɒn klaʊd naɪn/ /ɒn tɒp ɒv ðə wɜːld//ˈəʊvə ðə muːn/"},{"t":"poem","m":"bài thơ","i":"/ˈpəʊɪm/","p":"n"},{"t":"poetry","m":"thơ ca","i":"/ˈpəʊətri/","p":"n"},{"t":"rule","m":"sự trị vì, trị vì","i":"/ruːl/","p":"n, v"}]},{"no":"VIII","name":"Looking Back and Project","items":[]},{"no":"+","name":"Mở rộng (chưa xếp mục)","items":[{"t":"devote to","m":"cống hiến (cho)","i":"/dɪˈvəʊt tə/"},{"t":"military","m":"quân đội","i":"/ˈmɪlətri/","p":"n"},{"t":"devote something to (doing) something","m":"cống hiến thứ gì cho thứ gì/ việc gì","k":"c"},{"t":"be admired for something","m":"được ngưỡng mộ vì điều gì","k":"c"},{"t":"be diagnosed with something","m":"được chẩn đoán mắc bệnh gì","k":"c"},{"t":"be dedicated to something","m":"cống hiến cho thứ gì","k":"c"}]}]},{"no":2,"name":"A multicultural world","muc":[{"no":"I","name":"Getting Started","items":[{"t":"bamboo dancing","m":"nhảy sạp","i":"/ˌbæmˈbuː ˈdɑːnsɪŋ/","p":"np"},{"t":"cuisine","m":"ẩm thực","i":"/kwɪˈziːn/","p":"n"},{"t":"cultural","m":"thuộc về văn hoá","i":"/ˈkʌltʃərəl/","p":"adj"},{"t":"diversity","m":"sự đa dạng","i":"/daɪˈvɜːsəti/","p":"n"},{"t":"tasty","m":"ngon","i":"/ˈteɪsti/","p":"adj"},{"t":"traditional","m":"truyền thống","i":"/trəˈdɪʃənl/","p":"adj"},{"t":"tug of war","m":"trò chơi kéo co","i":"/ˌtʌɡ əv ˈwɔː/","p":"n"}]},{"no":"II","name":"Language","items":[{"t":"admire","m":"ngắm nhìn, chiêm ngưỡng","i":"/ədˈmaɪə/","p":"v"},{"t":"culture shock","m":"sốc văn hoá","i":"/ˈkʌltʃə ʃɒk/","p":"n"},{"t":"custom","m":"phong tục","i":"/ˈkʌstəm/","p":"n"},{"t":"festivity","m":"ngày hội","i":"/feˈstɪvəti/","p":"n"},{"t":"identity","m":"bản sắc, đặc điểm nhận dạng","i":"/aɪˈdentəti/","p":"n"}]},{"no":"III","name":"Reading","items":[{"t":"appreciate","m":"thưởng thức, trân trọng","i":"/əˈpriːʃieɪt/","p":"v"},{"t":"captivate","m":"thu hút, cuốn hút","i":"/ˈkæptɪveɪt/","p":"v"},{"t":"globalisation","m":"sự toàn cầu hoá","i":"/ˌɡləʊbəlaɪˈzeɪʃn/","p":"n"},{"t":"keep up with","m":"bắt kịp với, theo kịp","i":"/ˈkiːp ʌp wɪð/"},{"t":"lifestyle","m":"lối sống","i":"/ˈlaɪfstaɪl/","p":"n"},{"t":"popularity","m":"sự phổ biến, sự thông dụng","i":"/ˌpɒpjuˈlærəti/","p":"n"},{"t":"speciality","m":"đặc sản","i":"/ˌspeʃiˈæləti/","p":"n"},{"t":"trend","m":"xu hướng","i":"/trend/","p":"n"},{"t":"a wide range of something","m":"đa dạng thứ gì","k":"c"},{"t":"gain (in) popularity","m":"ngày càng trở nên phổ biến","k":"c"}]},{"no":"IV","name":"Speaking","items":[]},{"no":"V","name":"Listening","items":[{"t":"celebrate","m":"tổ chức, mừng","i":"/ˈselɪbreɪt/","p":"v"}]},{"no":"VI","name":"Writing","items":[{"t":"costume","m":"trang phục","i":"/ˈkɒstjuːm/","p":"n"},{"t":"extracurricular","m":"ngoại khoá","i":"/ˌekstrəkəˈrɪkjələ/","p":"adj"}]},{"no":"VII","name":"Communication and Culture/CLIL","items":[{"t":"anxiety","m":"sự bồn chồn, lo lắng","i":"/æŋˈzaɪəti/","p":"n"},{"t":"confusion","m":"sự khó hiểu, sự hỗn độn, sự rối rắm","i":"/kənˈfjuːʒn/","p":"n"},{"t":"take something seriously","m":"để tâm, chú ý, coi trọng thứ gì","k":"c"}]},{"no":"VIII","name":"Looking Back and Project","items":[{"t":"origin","m":"nguồn gốc","i":"/ˈɒrɪdʒɪn/","p":"n"}]},{"no":"+","name":"Mở rộng (chưa xếp mục)","items":[{"t":"multicultural","m":"tính đa văn hoá","i":"/ˌmʌltiˈkʌltʃərəl/","p":"adj"},{"t":"staple","m":"cơ bản, chủ yếu","i":"/ˈsteɪpl/","p":"adj"},{"t":"be on the rise","m":"đang gia tăng","k":"c"},{"t":"sense of identity","m":"tinh thần bản sắc","k":"c"}]}]},{"no":3,"name":"Green living","muc":[{"no":"I","name":"Getting Started","items":[{"t":"carbon footprint","m":"tổng lượng phát thải khí nhà kính","i":"/ˌkɑːbən ˈfʊtprɪnt/","p":"n"},{"t":"clean up","m":"dọn dẹp","i":"/ˈkliːn ʌp/"},{"t":"decompose","m":"phân huỷ","i":"/ˌdiːkəmˈpəʊz/","p":"v"},{"t":"eco-friendly","m":"thân thiện/ tốt cho hệ sinh thái, môi trường","i":"/ˌiːkəʊ ˈfrendli/","p":"adj"},{"t":"reusable","m":"tái sử dụng được","i":"/riːˈjuːzəbl/","p":"adj"},{"t":"reuse","m":"tái sử dụng","i":"/riːˈjuːz/","p":"v"},{"t":"single-use","m":"dùng một lần","i":"/ˌsɪŋɡl ˈjuːs/","p":"adj"},{"t":"waste","m":"rác thải","i":"/weɪst/","p":"n"}]},{"no":"II","name":"Language","items":[{"t":"container","m":"thùng, hộp, gói","i":"/kənˈteɪnə/","p":"n"},{"t":"landfill","m":"bãi chôn rác","i":"/ˈlændfɪl/","p":"n"}]},{"no":"III","name":"Reading","items":[{"t":"cardboard","m":"bìa cứng, làm bằng bìa cứng","i":"/ˈkɑːdbɔːd/","p":"n, adj"},{"t":"packaging","m":"bao bì","i":"/ˈpækɪʤɪŋ/","p":"n"}]},{"no":"IV","name":"Speaking","items":[]},{"no":"V","name":"Listening","items":[{"t":"compost","m":"phân hữu cơ","i":"/ˈkɒmpɒst/","p":"n"},{"t":"fruit peel","m":"vỏ hoa quả","i":"/fruːt piːl/","p":"np"},{"t":"household waste","m":"rác thải sinh hoạt","i":"/ˈhaʊshəʊld weɪst/","p":"np"},{"t":"layer","m":"lớp","i":"/ˈleɪə/","p":"n"},{"t":"pile","m":"chồng, đống","i":"/paɪl/","p":"n"}]},{"no":"VI","name":"Writing","items":[{"t":"contaminated","m":"nhiễm độc, nhiễm khuẩn","i":"/kənˈtæmɪneɪtɪd/","p":"adj"},{"t":"leftover","m":"thức ăn thừa","i":"/ˈleftəʊvə/","p":"n, adj"}]},{"no":"VII","name":"Communication and Culture/CLIL","items":[{"t":"in the long run","m":"về lâu dài","i":"/ɪn ðə lɒŋ rʌn/"},{"t":"in the long/ medium/ short term","m":"về lâu dài/ trong thời gian không xa/ trong thời gian trước mắt","i":"/ɪn ðə lɒŋ/ ˈmiːdiəm/ ʃɔːt tɜːm/"}]},{"no":"VIII","name":"Looking Back and Project","items":[]},{"no":"+","name":"Mở rộng (chưa xếp mục)","items":[{"t":"rinse out","m":"xối nước, rửa sạch","i":"/ˈrɪns aʊt/"}]}]},{"no":4,"name":"Urbanisation","muc":[{"no":"I","name":"Getting Started","items":[{"t":"urban","m":"thuộc về đô thị","i":"/ˈɜːbən/","p":"adj"},{"t":"leisure","m":"sự giải trí, thư giãn","i":"/ˈleʒə/","p":"n"},{"t":"rush hour","m":"giờ cao điểm","i":"/ˈrʌʃ aʊə/"},{"t":"resident","m":"người dân","i":"/ˈrezɪdənt/","p":"n"},{"t":"urban development","m":"sự phát triển đô thị","k":"c"},{"t":"rural/urban area","m":"khu vực nông thôn / đô thị","k":"c"},{"t":"cost of living","m":"chi phí sinh hoạt","k":"c"},{"t":"traffic congestion","m":"tắc nghẽn giao thông","k":"c"}]},{"no":"II","name":"Language","items":[{"t":"afford","m":"có đủ tiền, có khả năng chi trả","i":"/əˈfɔːd/","p":"v"},{"t":"housing","m":"nhà ở","i":"/ˈhaʊzɪŋ/","p":"n"},{"t":"expand","m":"mở rộng (về diện tích)","i":"/ɪkˈspænd/","p":"v"},{"t":"seek","m":"tìm kiếm","i":"/siːk/","p":"v"},{"t":"unemployment","m":"tình trạng thất nghiệp, số người không có việc làm","i":"/ˌʌnɪmˈplɔɪmənt/","p":"n"},{"t":"housing shortage","m":"thiếu hụt nhà ở","k":"c"},{"t":"cost an arm and a leg","m":"rất đắt đỏ","k":"i"}]},{"no":"III","name":"Reading","items":[{"t":"colonial","m":"thuộc địa, thuộc dân","i":"/kəˈləʊniəl/","p":"adj"},{"t":"gradually","m":"dần dần, từ từ","i":"/ˈɡrædʒuəli/","p":"adv"},{"t":"concern","m":"sự lo lắng","i":"/kənˈsɜːn/","p":"n"},{"t":"job opportunities","m":"cơ hội việc làm","k":"c"},{"t":"rapid urbanisation","m":"đô thị hóa nhanh chóng","k":"c"},{"t":"bright lights of the city","m":"sức hấp dẫn của thành phố","k":"i"}]},{"no":"IV","name":"Speaking","items":[{"t":"concrete jungle","m":"thành phố bê tông (thiếu cây xanh)","k":"i"},{"t":"the hustle and bustle","m":"sự nhộn nhịp, ồn ào","k":"i"},{"t":"move away from","m":"rời khỏi nơi nào đó","k":"c"}]},{"no":"V","name":"Listening","items":[{"t":"rapidly","m":"rất nhanh, với tốc độ cao","i":"/ˈræpɪdli/","p":"adv"},{"t":"decrease","m":"giảm, hạ xuống","i":"/dɪˈkriːs/","p":"v"},{"t":"reliable","m":"đáng tin cậy","i":"/rɪˈlaɪəbl/","p":"adj"},{"t":"urban population","m":"dân số thành thị","k":"c"},{"t":"environmental degradation","m":"sự suy thoái môi trường","k":"c"}]},{"no":"VI","name":"Writing","items":[{"t":"proportion","m":"tỉ lệ","i":"/prəˈpɔːʃn/","p":"n"}]},{"no":"VII","name":"Communication and Culture/CLIL","items":[{"t":"living condition(s)","m":"điều kiện sống","k":"c"},{"t":"settle in","m":"ổn định cuộc sống","k":"c"},{"t":"adapt to urban life","m":"thích nghi với cuộc sống đô thị","k":"c"},{"t":"deal with","m":"giải quyết","k":"c"},{"t":"be faced with","m":"đối mặt với","k":"c"}]},{"no":"VIII","name":"Looking Back and Project","items":[]},{"no":"+","name":"Mở rộng (chưa xếp mục)","items":[]}]},{"no":5,"name":"The world of work","muc":[{"no":"I","name":"Getting Started","items":[{"t":"footstep","m":"bước chân; truyền thống gia đình","i":"/ˈfʊtstep/","p":"n"},{"t":"nine-to-five","m":"giờ hành chính","i":"/ˈnaɪn tə faɪv/","p":"adj"},{"t":"overtime","m":"ngoài giờ","i":"/ˈəʊvətaɪm/","p":"adv"},{"t":"shift","m":"ca làm việc","i":"/ʃɪft/","p":"n"},{"t":"stressful","m":"áp lực, căng thẳng","i":"/ˈstresfl/","p":"adj"},{"t":"factory worker","m":"công nhân nhà máy","k":"c"},{"t":"business trip","m":"chuyến đi công tác","k":"c"},{"t":"follow one’s footsteps","m":"theo truyền thống/ bước chân ai đó","k":"c"},{"t":"work overtime","m":"làm thêm giờ","k":"c"},{"t":"look after","m":"chăm sóc, trông nom","k":"c"}]},{"no":"II","name":"Language","items":[{"t":"application letter","m":"thư xin việc","i":"/ˌæplɪˈkeɪʃn ˈletə/","p":"n"},{"t":"bonus","m":"tiền thưởng","i":"/ˈbəʊnəs/","p":"n"},{"t":"challenging","m":"thách thức","i":"/ˈtʃælɪndʒɪŋ/","p":"adj"},{"t":"employ","m":"tuyển dụng","i":"/ɪmˈplɔɪ/","p":"v"},{"t":"rewarding","m":"xứng đáng","i":"/rɪˈwɔːdɪŋ/","p":"adj"},{"t":"well-paid","m":"được trả lương cao","i":"/ˌwel ˈpeɪd/","p":"adj"}]},{"no":"III","name":"Reading","items":[{"t":"casual","m":"theo thời vụ, tạm thời","i":"/ˈkæʒuəl/","p":"adj"},{"t":"flexible","m":"linh hoạt","i":"/ˈfleksəbl/","p":"adj"},{"t":"on-the-job","m":"trong công việc, khi đang làm việc","i":"/ɒn ðə ˈdʒɒb/","p":"adj"},{"t":"part-time","m":"bán thời gian","i":"/ˌpɑːt ˈtaɪm/","p":"adj"},{"t":"wage","m":"tiền công (trả theo giờ hoặc theo khối lượng công việc)","i":"/weɪdʒ/","p":"n"},{"t":"vacancy","m":"vị trí công việc còn trống","i":"/ˈveɪkənsi/","p":"n"},{"t":"teaching assistant","m":"trợ giảng","k":"c"},{"t":"on-the-job training","m":"đào tạo tại chỗ, thực tế","k":"c"},{"t":"window display","m":"trưng bày cửa sổ (shop)","k":"c"},{"t":"check attendance","m":"điểm danh","k":"c"},{"t":"in person","m":"trực tiếp, gặp mặt","k":"c"}]},{"no":"IV","name":"Speaking","items":[{"t":"repetitive","m":"lặp đi lặp lại","i":"/rɪˈpetətɪv/","p":"adj"},{"t":"time management","m":"quản lý thời gian","k":"c"}]},{"no":"V","name":"Listening","items":[{"t":"wait on tables","m":"phục vụ đồ ăn thức uống cho khách trong nhà hàng","i":"/weɪt ɒn ˈteɪblz/"},{"t":"interfere with","m":"can thiệp, ảnh hưởng tới","k":"c"},{"t":"take order","m":"nhận đặt hàng, gọi món","k":"c"}]},{"no":"VI","name":"Writing","items":[{"t":"hospitality industry","m":"ngành khách sạn, dịch vụ /// nhà hàng","k":"c"}]},{"no":"VII","name":"Communication and Culture/CLIL","items":[{"t":"scuba diver","m":"thợ lặn có bình khí","k":"c"},{"t":"on average","m":"trung bình","k":"c"}]},{"no":"VIII","name":"Looking Back and Project","items":[]},{"no":"+","name":"Mở rộng (chưa xếp mục)","items":[{"t":"unpaid","m":"không được trả lương","i":"/ˌʌnˈpeɪd/","p":"adj"},{"t":"put up","m":"đưa ra (ý tưởng)","k":"c"},{"t":"give up","m":"từ bỏ","k":"c"}]}]},{"no":6,"name":"Artificial intelligence","muc":[{"no":"I","name":"Getting Started","items":[{"t":"activate","m":"kích hoạt, khởi động","i":"/ˈæktɪveɪt/","p":"v"},{"t":"application","m":"sự ứng dụng, sự áp dụng","i":"/ˌæplɪˈkeɪʃn/","p":"n"},{"t":"capable","m":"có khả năng","i":"/ˈkeɪpəbl/","p":"adj"},{"t":"facial recognition","m":"khả năng nhận diện khuôn mặt","i":"/ˌfeɪʃl rekəɡˈnɪʃn/","p":"n"},{"t":"human-like","m":"giống con người","i":"/ˈhjuːmən laɪk/","p":"adj"},{"t":"interact","m":"tương tác","i":"/ˌɪntərˈækt/","p":"v"},{"t":"robotic","m":"thuộc rô bốt","i":"/rəʊˈbɒtɪk/","p":"adj"},{"t":"human-like behaviour","m":"hành vi giống con người","k":"c"},{"t":"explore new opportunities","m":"khám phá cơ hội mới","k":"c"}]},{"no":"II","name":"Language","items":[{"t":"artificial intelligence (AI)","m":"trí thông minh nhân tạo","i":"/ˌɑːtɪfɪʃl ɪnˈtelɪdʒəns/ (/ˌeɪ ˈaɪ/)","p":"n"},{"t":"programme","m":"lập trình","i":"/ˈprəʊɡræm/","p":"v"},{"t":"upgrade","m":"nâng cấp","i":"/ˌʌpˈɡreɪd/","p":"v"}]},{"no":"III","name":"Reading","items":[{"t":"advanced","m":"tiên tiến, trình độ cao","i":"/ədˈvɑːnst/","p":"adj"},{"t":"analyse","m":"phân tích","i":"/ˈænəlaɪz/","p":"v"},{"t":"chatbot","m":"hộp trò chuyện","i":"/ˈtʃætbɒt/","p":"n"},{"t":"data","m":"dữ liệu","i":"/ˈdeɪtə/","p":"n"},{"t":"digital","m":"thuộc kĩ thuật số","i":"/ˈdɪdʒɪtl/","p":"adj"},{"t":"hands-on","m":"thực tiễn, trực tiếp","i":"/ˌhændz ˈɒn/","p":"adj"},{"t":"personalised","m":"được cá nhân hoá","i":"/ˈpɜːsənəlaɪzd/","p":"adj"},{"t":"platform","m":"nền tảng (công nghệ)","i":"/ˈplætfɔːm/","p":"n"},{"t":"portfolio","m":"hồ sơ","i":"/pɔːtˈfəʊliəʊ/","p":"n"},{"t":"virtual reality","m":"thực tế ảo","i":"/ˌvɜːtʃuəl riˈæləti/","p":"n"},{"t":"hands-on experience","m":"kinh nghiệm thực hành","k":"c"},{"t":"personalised learning","m":"học tập được cá nhân hóa","k":"c"},{"t":"poach endangered species","m":"săn trộm các loài nguy cấp","k":"c"},{"t":"upgrade software/system","m":"nâng cấp phần mềm/hệ thống","k":"c"}]},{"no":"IV","name":"Speaking","items":[]},{"no":"V","name":"Listening","items":[{"t":"function","m":"chức năng, nhiệm vụ","i":"/ˈfʌŋkʃn/","p":"n"}]},{"no":"VI","name":"Writing","items":[{"t":"analyse data/information","m":"phân tích dữ liệu/thông tin","k":"c"}]},{"no":"VII","name":"Communication and Culture/CLIL","items":[{"t":"evolution","m":"sự tiến hoá, sự phát triển","i":"/ˌiːvəˈluːʃn/","p":"n"}]},{"no":"VIII","name":"Looking Back and Project","items":[]},{"no":"+","name":"Mở rộng (chưa xếp mục)","items":[{"t":"voice command","m":"ra lệnh bằng giọng nói","i":"/vɔɪs kəˈmɑːnd/","p":"np"},{"t":"technological platform","m":"nền tảng công nghệ","k":"c"},{"t":"scientific research","m":"nghiên cứu khoa học","k":"c"},{"t":"survive in the wild","m":"sống sót trong tự nhiên","k":"c"},{"t":"protect the environment","m":"bảo vệ môi trường","k":"c"}]}]},{"no":7,"name":"The world of mass media","muc":[{"no":"I","name":"Getting Started","items":[{"t":"advert","m":"quảng cáo","i":"/ˈædvɜːt/","p":"n"},{"t":"discount","m":"sự hạ giá","i":"/ˈdɪskaʊnt/","p":"n"},{"t":"place","m":"đặt, rao, đăng (tin, quảng cáo)","i":"/pleɪs/","p":"v"},{"t":"presence","m":"sức thu hút, sức ảnh hưởng","i":"/ˈprezns/","p":"n"},{"t":"profit-making","m":"tạo lợi nhuận","i":"/ˈprɒfɪt meɪkɪŋ/","p":"adj"},{"t":"publicity","m":"sự quan tâm, chú ý của công chúng","i":"/pʌbˈlɪsəti/","p":"n"},{"t":"the press","m":"báo chí","i":"/ðə pres/","p":"n"},{"t":"viewer","m":"người xem","i":"/ˈvjuːə/","p":"n"},{"t":"place an advert","m":"Đăng quảng cáo","k":"c"},{"t":"run an advert","m":"Phát quảng cáo","k":"c"},{"t":"radio commercial","m":"Quảng cáo trên radio","k":"c"},{"t":"attract viewers","m":"Thu hút người xem","k":"c"},{"t":"offer a discount","m":"Đưa ra giảm giá","k":"c"},{"t":"get a discount","m":"Nhận được giảm giá","k":"c"}]},{"no":"II","name":"Language","items":[{"t":"bias","m":"thiên kiến, thiên vị","i":"/ˈbaɪəs/","p":"n"},{"t":"fake news","m":"tin giả, tin bịa đặt","i":"/ˌfeɪk ˈnjuːz/","p":"n"},{"t":"mass media","m":"phương tiện truyền thông đại chúng","i":"/ˌmæs ˈmiːdiə/","p":"n"},{"t":"reliable","m":"xác thực","i":"/rɪˈlaɪəbl/","p":"adj"},{"t":"source","m":"nguồn tin","i":"/sɔːs/","p":"n"},{"t":"spread","m":"lan truyền","i":"/spred/","p":"v"},{"t":"media bias","m":"Thiên kiến truyền thông","k":"c"},{"t":"combat fake news","m":"Chống tin giả","k":"c"},{"t":"mass media coverage","m":"Phủ sóng truyền thông đại chúng","k":"c"},{"t":"mass media outlet","m":"Cơ quan truyền thông","k":"c"}]},{"no":"III","name":"Reading","items":[{"t":"accessible","m":"có thể tiếp cận được","i":"/əkˈsesəbl/","p":"adj"},{"t":"broadcast","m":"(chương trình) phát sóng","i":"/ˈbrɔːdkɑːst/","p":"n, v"},{"t":"by contrast","m":"ngược lại","i":"/baɪ ˈkɒntrɑːst/"},{"t":"credible","m":"đáng tin cậy","i":"/ˈkredəbl/","p":"adj"},{"t":"distribute","m":"phân phát, phân phối","i":"/dɪˈstrɪbjuːt/","p":"v"},{"t":"fact-check","m":"kiểm chứng thông tin","i":"/ˈfækt tʃek/","p":"v"},{"t":"instant","m":"nhanh chóng, ngay lập tức","i":"/ˈɪnstənt/","p":"adj"},{"t":"interactive","m":"có thể tương tác được","i":"/ˌɪntərˈæktɪv/","p":"adj"},{"t":"update","m":"cập nhật","i":"/ˌʌpˈdeɪt/","p":"v"},{"t":"easily accessible","m":"Dễ tiếp cận","k":"c"},{"t":"accessible information","m":"Thông tin dễ truy cập","k":"c"},{"t":"broadcast news","m":"Phát sóng tin tức","k":"c"},{"t":"update information","m":"Cập nhật thông tin","k":"c"},{"t":"update software","m":"Cập nhật phần mềm","k":"c"},{"t":"TV viewer","m":"Khán giả truyền hình","k":"c"},{"t":"AI technology","m":"Công nghệ trí tuệ nhân tạo","k":"c"}]},{"no":"IV","name":"Speaking","items":[{"t":"audio","m":"bằng/có âm thanh","i":"/ˈɔːdiəʊ/","p":"adj"},{"t":"visual","m":"bằng/có hình ảnh","i":"/ˈvɪʒuəl/","p":"adj"},{"t":"generate publicity","m":"Tạo ra quảng bá","k":"c"}]},{"no":"V","name":"Listening","items":[{"t":"spread fake news","m":"Lan truyền tin giả","k":"c"}]},{"no":"VI","name":"Writing","items":[{"t":"as opposed to","m":"khác với, đối lập với","i":"/æz əˈpəʊzd tuː/"},{"t":"meanwhile","m":"trong khi đó","i":"/ˈmiːnwaɪl/","p":"adv"}]},{"no":"VII","name":"Communication and Culture/CLIL","items":[{"t":"digital billboard","m":"bảng quảng cáo kĩ thuật số","i":"/ˈdɪʤɪtl ˈbɪlbɔːd/","p":"np"},{"t":"loudspeaker","m":"loa phát thanh","i":"/ˌlaʊdˈspiːkə/","p":"n"},{"t":"AI system","m":"Hệ thống trí tuệ nhân tạo","k":"c"},{"t":"make an announcement","m":"Thông báo","k":"c"}]},{"no":"VIII","name":"Looking Back and Project","items":[{"t":"broadcast live","m":"Phát sóng trực tiếp","k":"c"}]},{"no":"+","name":"Mở rộng (chưa xếp mục)","items":[{"t":"account for","m":"chiếm (tỉ lệ)","i":"/əˈkaʊnt fɔː/"},{"t":"receive publicity","m":"Nhận được quảng bá","k":"c"},{"t":"TV commercial","m":"Quảng cáo trên TV","k":"c"},{"t":"take out a subscription","m":"Đăng ký dài hạn","k":"c"},{"t":"cancel a subscription","m":"Hủy đăng ký dài hạn","k":"c"},{"t":"press conference","m":"Họp báo","k":"c"},{"t":"freedom of the press","m":"Tự do báo chí","k":"c"},{"t":"produce a podcast","m":"Sản xuất podcast","k":"c"},{"t":"listen to a podcast","m":"Nghe podcast","k":"c"},{"t":"account for differences","m":"Giải thích sự khác biệt","k":"c"},{"t":"audio equipment","m":"Thiết bị âm thanh","k":"c"},{"t":"audio recording","m":"Ghi âm","k":"c"},{"t":"political bias","m":"Thiên kiến chính trị","k":"c"},{"t":"visual effect","m":"Hiệu ứng hình ảnh","k":"c"},{"t":"visual image","m":"Hình ảnh trực quan","k":"c"},{"t":"activate account","m":"Kích hoạt tài khoản","k":"c"},{"t":"activate function","m":"Kích hoạt chức năng","k":"c"},{"t":"search algorithm","m":"Thuật toán tìm kiếm","k":"c"},{"t":"ranking algorithm","m":"Thuật toán xếp hạng","k":"c"},{"t":"automated system","m":"Hệ thống tự động","k":"c"},{"t":"automated process","m":"Quy trình tự động","k":"c"},{"t":"call for action","m":"Kêu gọi hành động","k":"c"},{"t":"call for help","m":"Kêu gọi giúp đỡ","k":"c"},{"t":"resurrect tradition","m":"Hồi sinh truyền thống","k":"c"},{"t":"resurrect old habits","m":"Phục hồi thói quen cũ","k":"c"},{"t":"absolutely unbelievable","m":"Hoàn toàn khó tin","k":"c"},{"t":"unbelievably fast","m":"Nhanh không tưởng","k":"c"},{"t":"official announcement","m":"Thông báo chính thức","k":"c"},{"t":"travel brochure","m":"Sách hướng dẫn du lịch","k":"c"},{"t":"product brochure","m":"Sách hướng dẫn sản phẩm","k":"c"},{"t":"hold a debate","m":"Tổ chức tranh luận","k":"c"},{"t":"debate issue","m":"Tranh luận vấn đề","k":"c"},{"t":"create an infographic","m":"Tạo đồ họa thông minh","k":"c"},{"t":"informative infographic","m":"Đồ họa cung cấp thông tin","k":"c"},{"t":"distribute leaflets","m":"Phát tờ rơi","k":"c"},{"t":"leaflet campaign","m":"Chiến dịch tờ rơi","k":"c"}]}]},{"no":8,"name":"Wildlife conservation","muc":[{"no":"I","name":"Getting Started","items":[{"t":"enclosure","m":"chuồng thú","i":"/ɪnˈkləʊʒə/","p":"n"},{"t":"endangered","m":"bị đe doạ, gặp nguy hiểm","i":"/ɪnˈdeɪndʒəd/","p":"adj"},{"t":"house","m":"cung cấp nơi ở","i":"/haʊs/","p":"v"},{"t":"mammal","m":"động vật có vú","i":"/ˈmæml/","p":"n"},{"t":"monitor","m":"giám sát","i":"/ˈmɒnɪtə/","p":"v"},{"t":"poach","m":"săn bắn bất hợp pháp","i":"/pəʊtʃ/","p":"v"},{"t":"primate","m":"bộ (họ) linh trưởng","i":"/ˈpraɪmeɪt/","p":"n"},{"t":"release","m":"thả","i":"/rɪˈliːs/","p":"v"},{"t":"rescue","m":"giải cứu","i":"/ˈreskjuː/","p":"v"},{"t":"sign language","m":"ngôn ngữ kí hiệu","i":"/ˈsaɪn læŋɡwɪdʒ/","p":"n"},{"t":"threatened","m":"bị đe doạ","i":"/ˈθretnd/","p":"adj"},{"t":"habitat loss","m":"sự mất môi trường sống","k":"c"},{"t":"critically endangered species","m":"loài cực kỳ nguy cấp","k":"c"}]},{"no":"II","name":"Language","items":[{"t":"captivity","m":"sự nuôi nhốt","i":"/kæpˈtɪvəti/","p":"n"},{"t":"conserve","m":"bảo vệ, bảo tồn","i":"/kənˈsɜːv/","p":"v"},{"t":"extinct","m":"tuyệt chủng","i":"/ɪkˈstɪŋkt/","p":"adj"},{"t":"rare","m":"hiếm, quý hiếm","i":"/reə/","p":"adj"},{"t":"sea turtle","m":"rùa biển","i":"/ˈsiː tɜːtl/","p":"n"},{"t":"survive","m":"tồn tại","i":"/səˈvaɪv/","p":"v"},{"t":"endangered species","m":"loài bị đe doạ","k":"c"},{"t":"impose strict penalties","m":"áp dụng hình phạt nghiêm khắc","k":"c"},{"t":"conduct research / surveys","m":"tiến hành nghiên cứu / khảo sát","k":"c"}]},{"no":"III","name":"Reading","items":[{"t":"conservation","m":"sự bảo vệ, sự bảo tồn","i":"/ˌkɒnsəˈveɪʃn/","p":"n"},{"t":"coral","m":"san hô","i":"/ˈkɒrəl/","p":"n"},{"t":"marine","m":"thuộc về biển","i":"/məˈriːn /","p":"adj"},{"t":"nursery","m":"vườn ươm","i":"/ˈnɜːsəri/","p":"n"},{"t":"spawning ground","m":"nơi đẻ trứng","i":"/ˈspɔːnɪŋ ˌɡraʊnd/","p":"np"},{"t":"vulnerable","m":"dễ bị tổn thương","i":"/ˈvʌlnərəbl/","p":"adj"},{"t":"conservation efforts","m":"những nỗ lực bảo tồn","k":"c"},{"t":"conservation measures","m":"các biện pháp bảo tồn","k":"c"},{"t":"raise public awareness","m":"nâng cao nhận thức cộng đồng","k":"c"},{"t":"restore degraded ecosystems","m":"phục hồi các hệ sinh thái đã suy thoái","k":"c"},{"t":"species recovery plan","m":"kế hoạch phục hồi loài","k":"c"},{"t":"monitor populations","m":"theo dõi quần thể","k":"c"}]},{"no":"IV","name":"Speaking","items":[{"t":"raise funds","m":"gây quỹ","k":"c"}]},{"no":"V","name":"Listening","items":[{"t":"body part","m":"bộ phận cơ thể","i":"/ˈbɒdi pɑːt/","p":"np"},{"t":"degrade","m":"xuống cấp","i":"/dɪˈɡreɪd/","p":"v"},{"t":"forest clearance","m":"sự chặt, phá rừng","i":"/ˈfɒrɪst ˈklɪərəns/","p":"np"},{"t":"captive-breeding programme","m":"chương trình nhân giống nuôi nhốt","k":"c"}]},{"no":"VI","name":"Writing","items":[]},{"no":"VII","name":"Communication and Culture/CLIL","items":[{"t":"critically endangered","m":"bị đe doạ nghiêm trọng","i":"/ˈkrɪtɪkli ɪnˈdeɪndʒəd/"},{"t":"protect endangered species","m":"bảo vệ loài bị đe doạ","k":"c"},{"t":"community-based conservation","m":"bảo tồn dựa vào cộng đồng","k":"c"}]},{"no":"VIII","name":"Looking Back and Project","items":[{"t":"illegal wildlife trade / trafficking","m":"buôn bán động vật hoang dã bất hợp pháp","k":"c"}]},{"no":"+","name":"Mở rộng (chưa xếp mục)","items":[{"t":"debris","m":"mảnh vỡ, mảnh vụn","i":"/ˈdebriː/","p":"n"},{"t":"loss of biodiversity","m":"sự mất đa dạng sinh học","k":"c"},{"t":"habitat destruction","m":"sự tàn phá môi trường sống","k":"c"},{"t":"habitat fragmentation","m":"sự phân mảnh môi trường sống","k":"c"},{"t":"human–wildlife conflict","m":"xung đột giữa con người và động vật hoang dã","k":"c"},{"t":"conservation strategies","m":"các chiến lược bảo tồn","k":"c"},{"t":"enforce a hunting ban","m":"thực thi lệnh cấm săn bắn","k":"c"},{"t":"strike a balance between … and …","m":"cân bằng giữa … và …","k":"c"},{"t":"climate-resilient habitats","m":"môi trường sống có khả năng chống chịu khí hậu","k":"c"},{"t":"sustainable livelihoods","m":"sinh kế bền vững","k":"c"},{"t":"reintroduction programme","m":"chương trình tái thả về tự nhiên","k":"c"},{"t":"zero-tolerance policy toward poaching","m":"chính sách “không khoan nhượng” với săn trộm","k":"c"},{"t":"allocate resources","m":"phân bổ nguồn lực","k":"c"},{"t":"mitigate negative impacts","m":"giảm thiểu tác động tiêu cực","k":"c"},{"t":"mobilize resources","m":"huy động nguồn lực","k":"c"}]}]},{"no":9,"name":"Career paths","muc":[{"no":"I","name":"Getting Started","items":[{"t":"automate","m":"tự động hoá","i":"/ˈɔːtəmeɪt/","p":"v"},{"t":"adapt","m":"thay đổi cho phù hợp, thích ứng theo, thích nghi","i":"/əˈdæpt/","p":"v"},{"t":"in demand","m":"có nhu cầu, được mọi người mong muốn","i":"/ɪn dɪˈmɑːnd/"},{"t":"look down on","m":"coi thường người khác, cho rằng mình hơn người","i":"/ˈlʊk daʊn ɒn/"},{"t":"pursue","m":"theo đuổi","i":"/pəˈsjuː/","p":"v"},{"t":"soft skills","m":"các kĩ năng mềm","i":"/ˈsɒft skɪlz/","p":"n"},{"t":"work skills","m":"kỹ năng làm việc","k":"c"},{"t":"problem-solving skills","m":"kỹ năng giải quyết vấn đề","k":"c"},{"t":"job opportunity","m":"cơ hội việc làm","k":"c"},{"t":"on-the-job training","m":"đào tạo tại chỗ","k":"c"}]},{"no":"II","name":"Language","items":[{"t":"CV (curriculum vitae)","m":"sơ yếu lí lịch","i":"/ˌsiː ˈviː/ (/kəˌrɪkjələm ˈviːtaɪ/)"},{"t":"live up to","m":"làm theo sự mong muốn, kì vọng của ai đó","i":"/ˈlɪv ʌp tə/"},{"t":"position","m":"vị trí việc làm","i":"/pəˈzɪʃn/","p":"n"},{"t":"put up with","m":"chịu đựng","i":"/ˈpʊt ʌp wɪð/"},{"t":"work experience","m":"kinh nghiệm làm việc","i":"/ˈwɜːk ɪkspɪəriəns/","p":"n"},{"t":"career path","m":"con đường sự nghiệp","k":"c"},{"t":"job offer","m":"lời mời làm việc","k":"c"},{"t":"work environment","m":"môi trường làm việc","k":"c"},{"t":"previous experience","m":"kinh nghiệm trước đây","k":"c"},{"t":"interview skills","m":"kỹ năng phỏng vấn","k":"c"}]},{"no":"III","name":"Reading","items":[{"t":"obsolete","m":"lỗi thời, không còn được sử dụng, không thịnh hành","i":"/ˈɒbsəliːt/","p":"adj"},{"t":"passion","m":"niềm đam mê, say mê","i":"/ˈpæʃn/","p":"n"},{"t":"passionate","m":"có niềm đam mê với/dành cho","i":"/ˈpæʃənət/","p":"adj"},{"t":"specialty","m":"chuyên ngành","i":"/ˈspeʃəlti/","p":"n"},{"t":"take into account","m":"cân nhắc, xem xét","i":"/teɪk ɪntə əˈkaʊnt/"},{"t":"career choice","m":"lựa chọn nghề nghiệp","k":"c"}]},{"no":"IV","name":"Speaking","items":[{"t":"communication skills","m":"kỹ năng giao tiếp","k":"c"},{"t":"knowledge of sth","m":"hiểu biết về cái gì đó","k":"c"}]},{"no":"V","name":"Listening","items":[{"t":"character","m":"phẩm chất, đặc điểm tính cách","i":"/ˈkærəktə/","p":"n"},{"t":"fascinating","m":"cực kì thú vị và hấp dẫn","i":"/ˈfæsɪneɪtɪŋ/","p":"adj"},{"t":"tutor","m":"gia sư, giáo viên dạy kèm nhóm học sinh","i":"/ˈtjuːtə/","p":"n"},{"t":"academic qualifications","m":"bằng cấp học thuật","k":"c"},{"t":"training course","m":"khóa đào tạo","k":"c"}]},{"no":"VI","name":"Writing","items":[{"t":"childminder","m":"người trông trẻ","i":"/ˈtʃaɪldmaɪndə/","p":"n"},{"t":"gain experience","m":"tích lũy kinh nghiệm","k":"c"}]},{"no":"VII","name":"Communication and Culture/CLIL","items":[{"t":"job application","m":"đơn xin việc","k":"c"},{"t":"job interview","m":"buổi phỏng vấn xin việc","k":"c"},{"t":"interview questions","m":"câu hỏi phỏng vấn","k":"c"},{"t":"career opportunity","m":"cơ hội nghề nghiệp","k":"c"}]},{"no":"VIII","name":"Looking Back and Project","items":[]},{"no":"+","name":"Mở rộng (chưa xếp mục)","items":[{"t":"cut down on","m":"cắt giảm, giảm bớt","i":"/ˈkʌt daʊn ɒn/"},{"t":"get on with","m":"hoà hợp với, có mối quan hệ tốt với","i":"/ˈɡet ɒn wɪð/"},{"t":"go in for","m":"đam mê, theo đuổi một sở thích","i":"/ˈɡəʊ ɪn fɔː/"},{"t":"career development","m":"sự phát triển sự nghiệp","k":"c"},{"t":"practical skills","m":"kỹ năng thực tế","k":"c"},{"t":"professional qualifications","m":"bằng cấp nghề nghiệp","k":"c"},{"t":"general knowledge","m":"kiến thức chung","k":"c"},{"t":"specialist knowledge","m":"kiến thức chuyên môn","k":"c"},{"t":"high salary","m":"mức lương cao","k":"c"},{"t":"monthly salary","m":"lương hàng tháng","k":"c"},{"t":"competitive salary","m":"mức lương cạnh tranh","k":"c"},{"t":"equal opportunities","m":"cơ hội bình đẳng","k":"c"},{"t":"vocational training","m":"đào tạo nghề","k":"c"},{"t":"take responsibility","m":"chịu trách nhiệm","k":"c"},{"t":"sense of responsibility","m":"ý thức trách nhiệm","k":"c"},{"t":"great responsibility","m":"trách nhiệm lớn","k":"c"},{"t":"high motivation","m":"động lực cao","k":"c"},{"t":"self-motivation","m":"tự tạo động lực","k":"c"},{"t":"lack of motivation","m":"thiếu động lực","k":"c"}]}]},{"no":10,"name":"Lifelong learning","muc":[{"no":"I","name":"Getting Started","items":[{"t":"boost","m":"tăng cường, cải thiện","i":"/buːst/","p":"v"},{"t":"brush up","m":"ôn lại, học lại","i":"/ˈbrʌʃ ʌp/"},{"t":"complex","m":"phức tạp","i":"/ˈkɒmpleks/","p":"adj"},{"t":"informed","m":"có kiến thức về, có hiểu biết, được cung cấp đầy đủ thông tin","i":"/ɪnˈfɔːmd/","p":"adj"},{"t":"maintain","m":"duy trì, giữ được","i":"/meɪnˈteɪn/","p":"v"},{"t":"in advance","m":"trước","k":"c"},{"t":"book summary","m":"bản tóm tắt sách","k":"c"},{"t":"thinking skill","m":"kỹ năng tư duy","k":"c"}]},{"no":"II","name":"Language","items":[{"t":"distance learning","m":"học từ xa","i":"/ˌdɪstəns ˈlɜːnɪŋ/","p":"n"},{"t":"continuing education","m":"giáo dục thường xuyên","k":"c"},{"t":"face-to-face class","m":"lớp học trực tiếp","k":"c"},{"t":"lifelong learner","m":"người học suốt đời","k":"c"},{"t":"lifelong learning","m":"học tập suốt đời","k":"c"},{"t":"remote learning","m":"học trực tuyến / học từ xa","k":"c"}]},{"no":"III","name":"Reading","items":[{"t":"adult education","m":"giáo dục cho người lớn","i":"/ˌædʌlt edʒuˈkeɪʃn/","p":"n"},{"t":"hardship","m":"sự khó khăn, vất vả","i":"/ˈhɑːdʃɪp/","p":"n"},{"t":"imprison","m":"giam cầm, cầm tù","i":"/ɪmˈprɪzn/","p":"v"},{"t":"learning community","m":"cộng đồng học tập","i":"/lɜːrnɪŋ kəˌmjuːnəti/","p":"np"},{"t":"martial art","m":"võ thuật","i":"/ˌmɑːʃl ˈɑːt/","p":"n"},{"t":"night school","m":"lớp học buổi tối (dành cho người lớn)","i":"/ˈnaɪt skuːl/","p":"n"},{"t":"relevant","m":"phù hợp, thích hợp","i":"/ˈreləvənt/","p":"adj"},{"t":"well-rounded","m":"được phát triển một cách toàn diện","i":"/ˌwel ˈraʊndɪd/","p":"adj"},{"t":"widen","m":"mở rộng, tăng thêm","i":"/ˈwaɪdn/","p":"v"},{"t":"wonder","m":"thắc mắc, băn khoăn","i":"/ˈwʌndə/","p":"v"},{"t":"employment opportunity","m":"cơ hội việc làm","k":"c"},{"t":"professional development","m":"phát triển chuyên môn / nghề nghiệp","k":"c"},{"t":"role model","m":"hình mẫu","k":"c"}]},{"no":"IV","name":"Speaking","items":[]},{"no":"V","name":"Listening","items":[{"t":"acquire","m":"có được, đạt được","i":"/əˈkwaɪə/","p":"v"},{"t":"determination","m":"sự quyết tâm","i":"/dɪˌtɜːmɪˈneɪʃn/","p":"n"},{"t":"distraction","m":"sự phân tâm, sự sao lãng","i":"/dɪˈstrækʃn/","p":"n"}]},{"no":"VI","name":"Writing","items":[]},{"no":"VII","name":"Communication and Culture/CLIL","items":[{"t":"broaden","m":"mở mang, mở rộng","i":"/ˈbrɔːdn/","p":"v"},{"t":"intelligence","m":"tình báo","i":"/ɪnˈtelɪdʒəns/","p":"n"},{"t":"Molecular Biology","m":"ngành sinh học phân tử","i":"/məˈlekjələ baɪˈɒlədʒi/","p":"np"},{"t":"psychology","m":"ngành tâm lí học","i":"/saɪˈkɒlədʒi/","p":"n"}]},{"no":"VIII","name":"Looking Back and Project","items":[{"t":"a variety of","m":"nhiều, đa dạng","k":"c"},{"t":"career development","m":"sự phát triển nghề nghiệp","k":"c"},{"t":"learning goal","m":"mục tiêu học tập","k":"c"}]},{"no":"+","name":"Mở rộng (chưa xếp mục)","items":[{"t":"governess","m":"gia sư, giáo viên dạy kèm tại nhà","i":"/ˈɡʌvənəs/","p":"n"},{"t":"a range of","m":"một loạt, nhiều loại","k":"c"}]}]}],"reviews":[{"no":1,"units":[1,2]},{"no":2,"units":[3,4,5]},{"no":3,"units":[6,7,8]},{"no":4,"units":[9,10]}]}];
-App.TV_HINH = {};
-App.VERSION = "1.8"; App.BUILD = "b7da400"; App.RELEASED = false; App.WEB = true; App.THU = true;
+App.VERSION = "1.7"; App.BUILD = "ce84a41"; App.RELEASED = false; App.WEB = true; App.THU = true;
 
 /* ---------- Tiện ích ---------- */
 App.$ = id => document.getElementById(id);
@@ -1268,7 +1266,7 @@ App.newSet = (name, raw) => { const s = { id: App.uid("s"), name: name || "Bộ 
     Trả lời: [[2,8]]                   trả lời ngắn (hoặc "= 2,8"; "= Đúng" cho câu đúng/sai 1 ý)
     Lời giải                           các dòng sau là lời giải (hoặc "! giải thích")
     [DIV][FIX] đoạn dẫn chung ... [ONE] câu chùm
-    Thuật ngữ :: Nghĩa                 cặp ghép cho Lật thẻ; thêm :: /phiên âm/ :: loại từ :: ![](img:mã) cho trò Ghép từ
+    Thuật ngữ :: Nghĩa                 cặp ghép cho Lật thẻ
     $\frac{p}{T}$ công thức   ![](img:mã) hình   m/s^2, H_2O viết gọn
     \ ở đầu dòng: dòng chữ thường, không phải ký hiệu
 */
@@ -1332,7 +1330,7 @@ App.parseSet = raw => {
     }
     if ((m = s.match(/^lời giải\s*[:.]?\s*(.*)$/i)) && cur) { mode = "explain"; if (m[1]) cur.explain += (cur.explain ? "\n" : "") + m[1]; return; }
     if ((m = s.match(/\[\[(.*?)\]\]/)) && cur && mode !== "explain") { cur.answer = m[1].trim(); return; }
-    if ((m = s.match(/^(.+?)\s*::\s*(.+)$/)) && !cur && !cluster) { const seg = m[2].split(/\s*::\s*/).map(x => x.trim()).filter(Boolean); items.push({ type: "pair", a: m[1].trim(), b: seg[0] || m[2].trim(), x: seg.slice(1), line }); return; }
+    if ((m = s.match(/^(.+?)\s*::\s*(.+)$/)) && !cur && !cluster) { items.push({ type: "pair", a: m[1].trim(), b: m[2].trim(), line }); return; }
     if (!cur) { if (!append(s)) errors.push({ line, msg: "Không hiểu dòng này. Câu hỏi bắt đầu bằng \"Câu 1.\" hoặc dấu ?, cặp ghép viết dạng A :: B." }); return; }
     if (mode === "explain") { append(s); return; }
     if ((m = s.match(/^(\*?)\s*([A-Fa-f])\s*[.)]\s*(.*)$/))) {
@@ -1354,7 +1352,7 @@ App.parseSet = raw => {
 App.parsed = () => App.parseSet(App.set().raw);
 /* Cặp thẻ: ưu tiên cặp ghép; có thể lấy thêm câu hỏi → đáp án */
 App.pairsOf = (p, includeQ) => {
-  const out = p.items.filter(x => x.type === "pair").map(x => ({ a: x.a, b: x.b, x: x.x || [] }));
+  const out = p.items.filter(x => x.type === "pair").map(x => ({ a: x.a, b: x.b }));
   if (includeQ || !out.length) p.items.forEach(x => {
     if (x.type === "mc" || x.type === "tf") out.push({ a: x.q, b: x.options[x.correct] });
     else if (x.type === "short") out.push({ a: x.q, b: x.answer });
@@ -3907,7 +3905,8 @@ App.registerGame(G);
 (function () {
 "use strict";
 const { $, esc, S } = App;
-const MAXLEN = 14, KMIN = 4, KMAX = 9;
+const MAXLEN = 14, KMIN = 4, KMAX = 9, MAXROWS = 20;
+const PH = "(chưa có câu hỏi)";   // màn "Soạn ô chữ" ghi chữ này khi hàng đã có đáp án mà chưa có câu hỏi (để bộ đọc không bỏ rơi hàng đó)
 
 /* ================= Phần thuần (không đụng giao diện) ================= */
 const norm = s => String(s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[đĐ]/g, "D").toUpperCase().replace(/[^A-Z0-9]/g, "");
@@ -3933,12 +3932,13 @@ function setMeta(raw, label, val) {
 /* Các câu trả lời ngắn dạng CHỮ của bộ → hàng ngang có thể dùng */
 function candidates(raw) {
   const p = App.parseSet(raw), ok = [], skipped = [];
-  p.items.forEach(it => {
+  p.items.forEach((it, src) => {
     if (it.type !== "short") return;
     const parts = String(it.answer || "").split("|").map(x => x.trim()).filter(Boolean), a = parts[0] || "", alts = parts.slice(1), n = norm(a);
+    if (!String(it.q || "").trim() || it.q === PH) { if (a) skipped.push({ q: it.q, a, why: "chưa có câu hỏi" }); return; }
     if (!a || /\d/.test(a) || n.length < 2) { if (a) skipped.push({ q: it.q, a, why: "đáp án là số hoặc quá ngắn" }); return; }
     if (n.length > MAXLEN) { skipped.push({ q: it.q, a, why: `dài hơn ${MAXLEN} chữ cái` }); return; }
-    ok.push({ q: it.q, a, n, alts, exp: it.explain || "" });
+    ok.push({ q: it.q, a, n, alts, exp: it.explain || "", src });   // src: thứ tự câu trong bộ (để màn Soạn biết hàng nào của lưới ứng với dòng nhập nào)
   });
   return { ok, skipped };
 }
@@ -3946,6 +3946,7 @@ function candidates(raw) {
 function plan(raw, kwText, shuffle) {
   const kwN = norm(kwText), L = [...kwN], n = L.length, { ok: cands, skipped } = candidates(raw);
   const out = { ok: false, rows: [], K: 0, W: 0, kwN, n, missing: [], skipped, nCand: cands.length, msg: "" };
+  if (/\d/.test(String(kwText || ""))) { out.msg = "Từ khóa chỉ gồm chữ cái, không dùng chữ số."; return out; }
   if (n < KMIN || n > KMAX) { out.msg = n ? `Từ khóa cần ${KMIN}–${KMAX} chữ cái (đang có ${n}).` : "Chưa có từ khóa."; return out; }
   if (cands.length < n) { out.msg = `Bộ câu hỏi mới có ${cands.length} câu trả lời ngắn dạng chữ, từ khóa cần ${n} hàng.`; return out; }
   const idx = cands.map((_, i) => i); let pick;
@@ -3971,7 +3972,7 @@ function plan(raw, kwText, shuffle) {
     if (!best || w < best.w) best = { w, ch, left };
   }
   out.K = best.left; out.W = best.w;
-  out.rows = rows.map((r, i) => ({ q: r.c.q, a: r.c.a, alts: r.c.alts, n: r.c.n, p: best.ch[i], x: best.left - best.ch[i], exp: r.c.exp }));
+  out.rows = rows.map((r, i) => ({ q: r.c.q, a: r.c.a, alts: r.c.alts, n: r.c.n, p: best.ch[i], x: best.left - best.ch[i], exp: r.c.exp, src: r.c.src, multi: r.occ.length > 1 }));
   out.ok = true; return out;
 }
 
@@ -4036,7 +4037,7 @@ Câu 6. Thành ngữ: "Biển ... sóng lặng" chỉ cảnh bình yên. Điền
 ];
 
 /* ================= Trạng thái ================= */
-let el, cfg, alive = false, st = null, teams = null, useGroups = false, curPlan = null, showKey = false, ro = null;
+let el, cfg, alive = false, st = null, teams = null, useGroups = false, curPlan = null, showKey = false, ro = null, ed = null, edT = 0;
 let reading = null, waitStart = false, timerId = 0, tEnd = 0;
 const setNow = () => App.set();
 const kwText = () => parseMeta(setNow().raw).kw, msgText = () => parseMeta(setNow().raw).msg;
@@ -4063,7 +4064,7 @@ const G = {
   ],
   help: {
     steps: [
-      "Chọn bộ câu hỏi ở Trang chính (hoặc bấm \"Dùng mẫu này\" ngay trong trò: Tri ân thầy cô, Nội quy, An toàn giao thông, Biển đảo).",
+      "Tự soạn: bấm <b>✎ Soạn từng hàng</b> (hoặc <b>＋ Ô chữ mới</b>) ở màn đầu, gõ từ khóa rồi nhập từng hàng gồm câu hỏi và đáp án. Máy tự đếm số chữ cái, tự chọn chữ khóa của mỗi hàng và hiện lưới xem trước bên phải. Hoặc bấm \"Dùng mẫu này\" (Tri ân thầy cô, Nội quy, An toàn giao thông, Biển đảo) rồi sửa.",
       "Mỗi hàng ngang là một câu trả lời ngắn dạng chữ trong bộ; gõ <b>từ khóa</b> (4–9 chữ cái) và <b>thông điệp</b> ở màn đầu, máy tự xếp lưới. Chưa vừa ý thì bấm \"Xếp lại\".",
       "Bấm \"Bắt đầu\". Các tổ lần lượt chọn một hàng: bấm số 1–9 hoặc bấm số bên trái hàng. Máy đọc câu hỏi rồi đồng hồ chạy.",
       "Thầy cô bấm \"✓ Đúng\" (lật các ô, tổ được điểm) hoặc \"✗ Sai\" (tổ đó mất quyền, bấm tổ khác để giành; không ai giành thì khóa hàng).",
@@ -4087,6 +4088,8 @@ const G = {
     ],
     tips: [
       "Chữ trong ô viết không dấu, câu hỏi và đáp án vẫn có dấu như bình thường.",
+      "Màn \"Soạn từng hàng\" có đáp án trên màn hình: chỉ mở khi soạn, đừng chiếu cho học sinh. Mọi thay đổi tự lưu vào bộ câu hỏi, không cần bấm lưu.",
+      "Thiếu hàng cho một chữ của từ khóa: máy báo chữ nào chưa có hàng chứa nó, bấm \"＋ Thêm hàng cho chữ …\" rồi gõ đáp án có chữ đó.",
       "Phòng nhiều ánh sáng: Tùy chỉnh → Giao diện bảng → Giấy sáng.",
       "Muốn máy tự chấm: Tùy chỉnh → bật \"Gõ đáp án\". Gõ đúng thì tự cộng điểm; gõ không khớp thì máy hỏi lại thầy cô. Khi đang gõ trong ô thì các phím tắt tạm không dùng, hãy bấm nút trên màn hình.",
       "Muốn dùng câu hỏi có sẵn: hàng ngang lấy từ các câu trả lời ngắn dạng chữ (Tiếng Anh, Văn, Sử…); câu trả lời bằng số không dùng được.",
@@ -4095,8 +4098,8 @@ const G = {
   },
   onSetting(k) { if (k === "look") { applyLook(); return true; } if (k === "typeAns" || k === "typeAccent") { typingChanged(); return true; } if (k === "teamCount" || k === "useGroups") { if (st) { App.toast("Số tổ / nhóm mới áp dụng từ ván sau (bấm Chơi lại)."); return true; } return false; } return true; },
   redraw() { fit(); },
-  mount(root, c) { el = root; cfg = c.cfg; alive = true; st = null; showKey = false; ensureStyle(); ro && ro.disconnect(); ro = new ResizeObserver(() => fit()); ro.observe(el); intro(); },
-  unmount() { alive = false; clearTimeout(introT); ro && ro.disconnect(); stopTimer(); stopReading(); App.hush && App.hush(); st = null; },
+  mount(root, c) { el = root; cfg = c.cfg; alive = true; st = null; ed = null; showKey = false; ensureStyle(); ro && ro.disconnect(); ro = new ResizeObserver(() => fit()); ro.observe(el); intro(); },
+  unmount() { if (ed) edSave(); alive = false; clearTimeout(introT); clearTimeout(edT); ro && ro.disconnect(); stopTimer(); stopReading(); App.hush && App.hush(); st = null; ed = null; },
   onKey(e) {
     if (e.ctrlKey || e.altKey || e.metaKey || !st) return false;
     const k = e.key.toLowerCase(), ov = $("ocOv") && !$("ocOv").hidden;
@@ -4145,7 +4148,7 @@ function ensureStyle() {
 .oc.oc-giay{--bg:#fffdf3;--card:#ffffff;--line:#111;--fg:#0b0b0b;--mut:#333;--t-bg:#fff;--t-bd:#111;--t-on:#cfe8ff;--t-on2:#cfe8ff;--t-fg:#000;--k-bd:#111;--k-bg:#ffe45e;--k-on:#ffd21f;--k-fg:#000;--lock:#d9d9d9;--glow:none;--sel:#0057d8;--ok:#0b6b4f;--no:#b34700;background:var(--bg)}
 .tn{color:var(--tc)}.oc-giay .tn{color:color-mix(in srgb,var(--tc) 50%,#000)}
 .oc-giay .oc-team.ans,.oc-giay .oc-row.done .oc-num{background:color-mix(in srgb,var(--tc) 55%,#000);border-color:color-mix(in srgb,var(--tc) 55%,#000)}
-.oc-intro input.mask:not(:focus){-webkit-text-security:disc;text-security:disc}
+.oc-intro input.mask:not(:focus),.oc-ed input.mask:not(:focus){-webkit-text-security:disc;text-security:disc}
 .oc *{box-sizing:border-box}
 .oc-main{flex:1;min-height:0;min-width:0;display:grid;grid-template-columns:minmax(0,1fr) clamp(300px,35vw,430px);grid-template-rows:minmax(0,1fr);gap:12px}
 .oc-gridwrap{min-height:0;min-width:0;display:flex;align-items:center;justify-content:center;overflow:hidden}
@@ -4184,7 +4187,7 @@ function ensureStyle() {
 .oc-panel{flex:1;min-height:0;overflow-x:hidden;overflow-y:auto;scrollbar-width:thin;background:var(--card);border:2px solid var(--line);border-radius:16px;padding:14px;display:flex;flex-direction:column;gap:10px}
 .oc-h{font:700 16px var(--f-display);color:var(--mut);display:flex;gap:8px;align-items:center;flex-wrap:wrap}
 .oc-h b{color:var(--fg)}
-.oc-q{font:600 clamp(20px,2.3vw,30px)/1.38 var(--f-body);overflow-wrap:anywhere}
+.oc-q{font:600 clamp(20px,2.3vw,30px)/1.38 var(--f-body);overflow-wrap:anywhere;min-height:0;overflow-y:auto;scrollbar-width:thin}
 .oc .reading{outline:3px solid var(--k-bd);outline-offset:3px;border-radius:8px}
 .oc-ans{font:700 20px var(--f-display);color:var(--k-bd);background:color-mix(in srgb,var(--k-bd) 12%,transparent);border-radius:10px;padding:6px 10px}
 .oc-giay .oc-ans{color:#000;background:#fff3b0}
@@ -4234,6 +4237,29 @@ function ensureStyle() {
 .oc-ovbox h2{font:700 clamp(22px,3vw,32px) var(--f-display);margin:0}
 .oc-msg{font:600 clamp(18px,2.4vw,26px)/1.35 var(--f-body)}
 @media (max-width:820px){.oc{flex-direction:column;overflow:auto}.oc-main{display:flex;flex-direction:column;flex:none}.oc-gridwrap{min-height:220px}.oc-panel{min-height:240px;flex:none}}
+.oc-ed{flex:1;min-height:0;min-width:0;display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:12px}
+.oc-ed-l,.oc-ed-r{min-height:0;min-width:0;display:flex;flex-direction:column;gap:10px}
+.oc-ed-l{overflow-y:auto;overflow-x:hidden;scrollbar-width:thin;padding-right:6px}
+.oc-ed .box{background:var(--card);border:2px solid var(--line);border-radius:14px;padding:12px;display:flex;flex-direction:column;gap:8px;flex:none}
+.oc-ed label{font:700 14px var(--f-display);color:var(--mut)}
+.oc .oc-ed input[type=text]{width:100%;min-width:0;padding:8px 10px;border-radius:10px;border:2px solid var(--line);background:var(--bg);color:var(--fg);font:600 17px var(--f-body)}
+.oc .oc-ed input[type=text]:focus{border-color:var(--sel);outline:none}
+.ed-rows{display:flex;flex-direction:column;gap:8px}
+.ed-row{display:grid;grid-template-columns:32px minmax(0,1fr) auto;gap:6px 8px;align-items:center;background:var(--card);border:2px solid var(--line);border-radius:12px;padding:8px;flex:none}
+.ed-row.bad{border-color:var(--no)}
+.ed-n{grid-row:1/3;align-self:start;width:30px;height:30px;border-radius:50%;border:2px solid var(--line);display:grid;place-items:center;font:700 15px var(--f-display)}
+.ed-l2{grid-column:2/4;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.ed-l2 input{flex:1 1 150px;width:auto!important}
+.ed-info{flex:1 1 100%;display:flex;gap:10px;flex-wrap:wrap;align-items:center;font-size:14px;color:var(--mut);min-height:22px}
+.ed-chip{border:2px solid var(--k-bd);color:var(--k-bd);border-radius:999px;padding:0 10px;font:700 14px var(--f-body)}
+.oc-giay .ed-chip{color:#000;background:#ffe45e}
+.ed-err{color:var(--no);font-weight:700}
+.oc-ed .oc-keyrow .oc-t{--c:36px}
+.oc-ed .oc-t.key.bad{border-color:var(--no);border-style:dashed;background:transparent;color:var(--no)}
+.ed-prev{flex:1;min-height:200px;min-width:0;display:flex;overflow:auto;background:var(--card);border:2px solid var(--line);border-radius:14px;padding:8px}
+.ed-prev .oc-num{cursor:default}.ed-prev .oc-grid{margin:auto}
+.ed-add{display:flex;gap:8px;flex-wrap:wrap;margin-top:6px}
+@media (max-width:820px){.oc-ed{display:flex;flex-direction:column;flex:none}.oc-ed-l{overflow:visible;padding-right:0}.ed-prev{flex:none;min-height:240px}}
 .reduce .oc-t.fx,.reduce .oc-timer.pulse{animation:none}
 `;
   document.head.appendChild(s);
@@ -4250,6 +4276,10 @@ function intro() {
   el.innerHTML = rootOpen(`<div class="oc-intro">
     <div class="oc-h">${esc(App.SUBJECTS[S.subject].name)} · Ô chữ bí mật</div>
     <h2 id="ocTitle">${esc(set.name)}</h2>
+    <div class="box"><b style="font:700 17px var(--f-display)">Tự soạn ô chữ</b>
+      <span class="oc-note">Nhập từng hàng (câu hỏi + đáp án): máy tự đếm số chữ cái, tự chọn chữ khóa của mỗi hàng và vẽ lưới xem trước. Không cần nhớ cú pháp.</span>
+      <div style="display:flex;gap:8px;flex-wrap:wrap"><button class="oc-b ok" id="ocEdit" style="flex:none">✎ Soạn từng hàng</button><button class="oc-b" id="ocNew">＋ Ô chữ mới (trống)</button></div>
+    </div>
     <div class="box">
       <label for="ocKw">Từ khóa (4–9 chữ cái; viết có dấu cũng được, ô chữ hiện không dấu) – tự che khi không gõ, để học sinh không thấy</label>
       <input type="text" class="mask" id="ocKw" value="${esc(m.kw)}" placeholder="Ví dụ: THẦY CÔ" maxlength="40" autocomplete="off">
@@ -4296,6 +4326,8 @@ function intro() {
   const save = () => { introPend = false; const s = setNow(); App.touchSet(s); App.save(); refresh(); };
   $("ocKw").oninput = e => { setNow().raw = setMeta(setNow().raw, "Từ khóa", e.target.value.trim()); clearTimeout(introT); introPend = true; introT = setTimeout(() => alive && save(), 250); };
   $("ocMsg").oninput = e => { setNow().raw = setMeta(setNow().raw, "Thông điệp", e.target.value.trim()); clearTimeout(introT); introPend = true; introT = setTimeout(() => alive && save(), 250); };
+  $("ocEdit").onclick = () => { if (introPend) { clearTimeout(introT); save(); } openEditor("this"); };
+  $("ocNew").onclick = () => { if (introPend) { clearTimeout(introT); save(); } openEditor("new"); };
   $("ocReroll").onclick = () => { const s = setNow(); curPlan = plan(s.raw, parseMeta(s.raw).kw, true); paint(); App.sound.flip(); };
   $("ocPeek").onclick = () => { showKey = !showKey; peek(); };
   $("ocStart").onclick = () => { if (introPend) { clearTimeout(introT); save(); } if (curPlan.ok) startGame(); };
@@ -4306,6 +4338,186 @@ function intro() {
   });
   el.querySelectorAll("[data-ty]").forEach(b => b.onclick = () => { cfg.typeAns = b.dataset.ty === "1"; App.save(); typingChanged(); });
   typingChanged(); paint();
+}
+
+/* ================= Màn "Soạn ô chữ": nhập từng hàng, máy tự đếm chữ + tự gán chữ khóa + lưới xem trước =================
+   Ghi ra ĐÚNG định dạng bộ câu hỏi cũ ("# Từ khóa", "Câu n. … [[Đáp án|Cách khác]]") nên tệp .lopvui, sao lưu, màn chơi và trang
+   "Soạn bộ câu hỏi" dùng lại được; không có dữ liệu riêng. Lưới xem trước gọi chính hàm plan() của màn chơi → xem sao, chơi vậy. */
+const blank = () => ({ q: "", a: "", alt: "", lv: "", exp: "" });
+const edEmpty = r => !String(r.q).trim() && !String(r.a).trim() && !String(r.alt || "").trim();
+const cleanTxt = s => String(s || "").replace(/\[\[|\]\]/g, " ").replace(/[|¦]+/g, " ").replace(/\s+/g, " ").trim();
+const isTF = a => ["DUNG", "SAI"].includes(norm(a));   // "Đúng"/"Sai" một mình bị bộ đọc hiểu là câu Đúng/Sai
+const cleanQ = s => cleanTxt(s).replace(/^(\[(NB|TH|VDC|VD|TF|ONE|DIV|FIX)\]\s*)+/i, "");
+const draftOf = r => !cleanQ(r.q) || !cleanTxt(r.a) || isTF(r.a);   // hàng chưa đủ dùng: cất ở đầu bộ, không đưa vào danh sách câu
+/* đọc các hàng chữ của một bộ; pure = bộ chỉ gồm câu trả lời ngắn (an toàn để ghi đè lại theo định dạng chuẩn) */
+function edLoad(raw) {
+  const p = App.parseSet(raw), rows = [];
+  p.items.forEach(it => {
+    if (it.type !== "short") return;
+    const ps = String(it.answer || "").split("|").map(x => x.trim());
+    rows.push({ q: it.q === PH ? "" : String(it.q || "").replace(/\s*\n\s*/g, " "), a: ps[0] || "", alt: ps.slice(1).filter(Boolean).join("; "), lv: it.level || "", exp: it.explain || "" });
+  });
+  const dr = [], extra = [];
+  String(raw || "").split(/\r?\n/).forEach(l => {
+    const t = l.trim().normalize("NFC"); if (!t.startsWith("#")) return; let m;
+    if ((m = t.match(/^#+\s*hàng\s*nháp\s*(\d+)\s*:\s*(.*)$/i))) { const f = m[2].split("¦").map(x => x.trim()); dr.push({ pos: +m[1], r: { q: f[0] || "", a: f[1] || "", alt: f[2] || "", lv: f[3] || "", exp: (f[4] || "").replace(/ ⏎ /g, "\n") } }); }
+    else if (!/^#+\s*(từ\s*khóa|thông\s*điệp)\s*:/i.test(t)) extra.push(t);
+  });
+  extra.shift();   // dòng đầu là tiêu đề
+  dr.sort((x, y) => x.pos - y.pos).forEach(d => rows.splice(Math.min(d.pos, rows.length), 0, d.r));
+  return { rows, other: p.items.filter(it => it.type !== "short").length, title: p.title, extra: extra.length,
+    pure: !p.errors.length && !Object.keys(p.clusters).length && p.items.every(it => it.type === "short") };
+}
+function rawOf(title, kwT, msgT, rowsIn, map) {
+  const L = ["# " + (cleanTxt(title) || "Ô chữ bí mật")], kw = cleanTxt(kwT), msg = cleanTxt(msgT), good = [];
+  if (kw) L.push("# Từ khóa: " + kw); if (msg) L.push("# Thông điệp: " + msg);
+  rowsIn.forEach((r, i) => {
+    if (edEmpty(r)) return;
+    if (draftOf(r)) L.push(`# Hàng nháp ${i}: ${[cleanQ(r.q), cleanTxt(r.a), String(r.alt || "").split(/[;|]/).map(cleanTxt).filter(Boolean).join("; "), r.lv || "", String(r.exp || "").replace(/\s*\n\s*/g, " ⏎ ")].join(" ¦ ")}`);
+    else good.push(i);
+  });
+  L.push(""); if (map) map.length = 0;
+  good.forEach((i, k) => {
+    const r = rowsIn[i], main = cleanTxt(r.a), alts = String(r.alt || "").split(/[;|]/).map(cleanTxt).filter(Boolean);
+    if (map) map.push(i);
+    L.push(`Câu ${k + 1}. ${r.lv ? `[${r.lv}] ` : ""}${cleanQ(r.q)} [[${[main].concat(alts).join("|")}]]`);
+    if (r.exp) { const e = String(r.exp).split("\n"); L.push("Lời giải: " + e[0]); e.slice(1).forEach(x => L.push(x)); }
+    L.push("");
+  });
+  return L.join("\n");
+}
+const edRaw = () => rawOf(ed.title, ed.kw, ed.msg, ed.rows, ed._map);
+function edSave() {
+  clearTimeout(edT); edT = 0; if (!ed || !ed.dirty) return;
+  const set = S.sets.find(x => x.id === ed.id); if (!set) return;
+  set.raw = edRaw(); set.name = cleanTxt(ed.title) || set.name; App.touchSet(set); App.save(); ed.dirty = false;
+  const cx = document.querySelector(".gamebar .ctx"); if (cx && S.curSet === set.id) cx.textContent = set.name;
+}
+const edSoon = () => { ed.dirty = true; clearTimeout(edT); edT = setTimeout(() => { if (alive && ed) { edSave(); edPaint(); } }, 250); };
+/* bộ chỉ có câu trả lời ngắn nhưng ghi lại sẽ mất chi tiết (ghi chú, câu nhiều dòng, kiểu "||"…) thì không ghi đè */
+function edSafeInPlace(set, L, m) {
+  if (!L.pure || L.extra) return false;
+  const a = App.parseSet(set.raw).items, b = App.parseSet(rawOf(L.title || set.name, m.kw, m.msg, L.rows)).items;
+  if (a.length !== b.length) return false;
+  const nz = x => String(x || "").split("|").map(t => t.trim()).join("|");
+  return a.every((x, i) => x.q === b[i].q && nz(x.answer) === nz(b[i].answer) && (x.level || "") === (b[i].level || "") && (x.explain || "") === (b[i].explain || ""));
+}
+function openEditor(mode) {
+  if (st) return;
+  const set = setNow(), L = edLoad(set.raw), m = parseMeta(set.raw); let target = set, title, kw, msg, rows, note = "";
+  if (mode === "new" || (!L.pure && !L.rows.length)) { title = "Ô chữ mới"; kw = ""; msg = ""; rows = []; target = App.newSet(title, "# " + title + "\n"); }
+  else if (!edSafeInPlace(set, L, m)) {
+    title = set.name + " (ô chữ)"; kw = m.kw; msg = m.msg; rows = L.rows;
+    const old = S.sets.find(x => x.name === title && x.subject === set.subject && edLoad(x.raw).pure);
+    if (old) { target = old; S.curSet = old.id; const o = edLoad(old.raw), mo = parseMeta(old.raw); kw = mo.kw; msg = mo.msg; rows = o.rows; note = `Mở lại bản sao "${old.name}" đã có; bộ gốc giữ nguyên.`; }
+    else {
+      target = App.newSet(title, "# " + title + "\n");
+      note = L.other ? `Bộ "${set.name}" còn ${L.other} câu loại khác nên em tạo bản sao chỉ gồm ${L.rows.length} hàng chữ để soạn; bộ gốc giữ nguyên.`
+        : `Bộ "${set.name}" có chi tiết (ghi chú, câu nhiều dòng…) mà màn soạn không giữ, nên em soạn trên bản sao; bộ gốc giữ nguyên.`;
+    }
+  } else { title = L.title || set.name; kw = m.kw; msg = m.msg; rows = L.rows; }
+  if (target !== set) { target.subject = S.subject; App.touchSet(target); App.save(); const cx = document.querySelector(".gamebar .ctx"); if (cx) cx.textContent = target.name; }
+  ed = { id: target.id, title, kw, msg, rows: rows.length ? rows : Array.from({ length: 6 }, blank), p: null, _map: [], dirty: false };
+  edRender(); edRows(); edPaint(); if (note) App.toast(note);
+  if (mode === "new") $("edKw").focus();
+}
+function edRender() {
+  clearTimeout(introT); stopTimer(); stopReading();
+  el.innerHTML = rootOpen(`<div class="oc-ed">
+    <div class="oc-ed-l">
+      <div class="oc-h">${esc(App.SUBJECTS[S.subject].name)} · Soạn ô chữ</div>
+      <div class="box">
+        <label for="edTitle">Tên ô chữ</label><input type="text" id="edTitle" maxlength="80" autocomplete="off">
+        <label for="edKw">Từ khóa (4–9 chữ cái; viết có dấu cũng được) – tự che khi không gõ</label><input type="text" class="mask" id="edKw" maxlength="40" autocomplete="off" placeholder="Ví dụ: THẦY CÔ">
+        <div class="oc-note" id="edKwInfo"></div>
+        <label for="edMsg">Thông điệp hiện ở cuối trò (không bắt buộc)</label><input type="text" class="mask" id="edMsg" maxlength="160" autocomplete="off" placeholder="Ví dụ: Cảm ơn thầy cô đã dạy dỗ chúng em!">
+      </div>
+      <div class="oc-h">Các hàng ngang <span class="oc-note" style="font-weight:400">Gõ câu hỏi và đáp án; máy tự đếm chữ cái và chọn chữ nào của đáp án nằm ở cột từ khóa.</span></div>
+      <div class="ed-rows" id="edRows"></div>
+      <div><button class="oc-b" id="edAdd">＋ Thêm hàng</button></div>
+      <div class="oc-note">Màn này có đáp án trên màn hình: chỉ mở khi soạn, đừng chiếu cho học sinh. Mọi thay đổi tự lưu. Đáp án 2–14 chữ cái, không có chữ số, viết có dấu hay không đều được. Ô "Cũng chấp nhận" dùng khi có nhiều cách viết cùng đúng (ví dụ: Chèo; Lái đò), cách nhau bằng dấu chấm phẩy.</div>
+    </div>
+    <div class="oc-ed-r">
+      <div class="oc-h">Lưới xem trước</div>
+      <div class="oc-keyrow" id="edKeyRow" aria-label="Các ô của từ khóa"></div>
+      <div id="edStatus"></div>
+      <div class="ed-prev" id="edPrev"><div class="oc-grid" id="edGrid"></div></div>
+      <div class="oc-btns" style="margin-top:0"><button class="oc-b" id="edBack">← Về màn đầu</button><button class="oc-b ok" id="edPlay">▶ Chơi ô chữ này</button></div>
+    </div></div>`);
+  $("edTitle").value = ed.title; $("edKw").value = ed.kw; $("edMsg").value = ed.msg;
+  $("edTitle").oninput = e => { ed.title = e.target.value; edSoon(); };
+  $("edKw").oninput = e => { ed.kw = e.target.value; edSoon(); };
+  $("edMsg").oninput = e => { ed.msg = e.target.value; edSoon(); };
+  $("edAdd").onclick = () => addRow(null, true);
+  $("edBack").onclick = () => { edSave(); ed = null; intro(); };
+  $("edPlay").onclick = () => { edSave(); const s = setNow(); curPlan = plan(s.raw, parseMeta(s.raw).kw, false); ed = null; if (curPlan.ok) startGame(); else intro(); };
+}
+function edRows() {
+  const box = $("edRows");
+  box.innerHTML = ed.rows.map((r, i) => `<div class="ed-row" data-i="${i}"><span class="ed-n">${i + 1}</span>
+    <input type="text" class="eq" maxlength="300" autocomplete="off" placeholder="Câu hỏi / gợi ý cho hàng này" aria-label="Câu hỏi hàng ${i + 1}">
+    <button class="oc-b sm ed-del" aria-label="Xóa hàng ${i + 1}" title="Xóa hàng">✕</button>
+    <div class="ed-l2"><input type="text" class="ea" maxlength="40" autocomplete="off" aria-label="Đáp án hàng ${i + 1}"><input type="text" class="et" maxlength="120" autocomplete="off" placeholder="Cũng chấp nhận (nếu có)" aria-label="Cách viết khác của hàng ${i + 1}"><div class="ed-info"></div></div></div>`).join("");
+  const goNext = i => { const nx = box.children[i + 1]; if (nx) nx.querySelector(".eq").focus(); else addRow(null, true); };
+  box.querySelectorAll(".ed-row").forEach(row => {
+    const i = +row.dataset.i, r = ed.rows[i], q = row.querySelector(".eq"), a = row.querySelector(".ea"), t = row.querySelector(".et"), d = row.querySelector(".ed-del");
+    q.value = r.q; a.value = r.a; t.value = r.alt || ""; a.placeholder = r.need ? `Đáp án có chữ ${r.need}` : "Đáp án";
+    q.oninput = () => { r.q = q.value; edSoon(); }; a.oninput = () => { r.a = a.value; edSoon(); }; t.oninput = () => { r.alt = t.value; edSoon(); };
+    q.onkeydown = e => { if (e.key === "Enter") { e.preventDefault(); a.focus(); } };
+    a.onkeydown = e => { if (e.key === "Enter") { e.preventDefault(); goNext(i); } };
+    t.onkeydown = a.onkeydown;
+    d.onclick = () => {
+      if (!d.dataset.arm && !edEmpty(r)) { d.dataset.arm = "1"; d.textContent = "Xóa?"; setTimeout(() => { if (d.isConnected) { delete d.dataset.arm; d.textContent = "✕"; } }, 2500); return; }
+      ed.rows.splice(i, 1); if (!ed.rows.length) ed.rows.push(blank()); ed.dirty = true; edRows(); edSave(); edPaint();
+    };
+  });
+}
+function addRow(need, focus) {
+  if (ed.rows.length >= MAXROWS) { App.toast(`Tối đa ${MAXROWS} hàng.`); return; }
+  ed.rows.push(Object.assign(blank(), need ? { need } : {})); ed.dirty = true; edRows(); edPaint();
+  if (focus) { const rr = $("edRows").lastElementChild; if (rr) { rr.scrollIntoView({ block: "nearest" }); rr.querySelector(".eq").focus(); } }
+}
+function edPaint() {
+  if (!alive || !ed || !$("edRows")) return;
+  const p = plan(edRaw(), ed.kw, false); ed.p = p;
+  const use = new Map(); if (p.ok) p.rows.forEach((r, k) => use.set(ed._map[r.src], k));
+  ed.rows.forEach((r, i) => {
+    const row = $("edRows").children[i]; if (!row) return;
+    const q = cleanQ(r.q), a = cleanTxt(r.a), n = norm(a).length, any = !edEmpty(r); let iss = "";
+    if (any) {
+      if (!q) iss = "Chưa có câu hỏi"; else if (!a) iss = "Chưa có đáp án"; else if (/\d/.test(a)) iss = "Đáp án có chữ số, ô chữ không dùng được";
+      else if (isTF(a)) iss = "Đáp án «Đúng»/«Sai» một mình bị hiểu là câu Đúng/Sai – thêm chữ, ví dụ «Đúng rồi»"; else if (n < 2) iss = "Đáp án quá ngắn"; else if (n > MAXLEN) iss = `Dài hơn ${MAXLEN} chữ cái, nên rút ngắn đáp án`;
+      else if (r.need && p.kwN.includes(r.need) && !norm(a).includes(r.need)) iss = `Đáp án chưa có chữ ${r.need}`;
+    }
+    row.classList.toggle("bad", !!iss);
+    let h = (any || r.need) ? `<span><b>${n}</b> chữ cái</span>` : `<span>Điền câu hỏi và đáp án.</span>`;
+    if (iss) h += `<span class="ed-err">${iss}</span>`;
+    else if (use.has(i)) { const k = use.get(i); h += `<span class="ed-chip"${p.rows[k].multi ? ' title="Chữ này có nhiều chỗ trong đáp án; máy chọn chỗ cho lưới gọn nhất"' : ""}>Hàng ${k + 1} của lưới · chữ khóa «${p.kwN[k]}»</span>`; }
+    else if (p.ok && any) h += `<span>Dự phòng: chưa dùng ở lưới này.</span>`;
+    if (!iss && any) {
+      const dup = ed.rows.findIndex((x, j) => j < i && !edEmpty(x) && cleanTxt(x.a) && norm(cleanTxt(x.a)) === norm(a) && n);
+      if (dup >= 0) h += `<span class="oc-warn">Trùng đáp án với hàng ${dup + 1}</span>`;
+      if (q.length > 180) h += `<span class="oc-warn">Câu hỏi dài (${q.length} chữ) – nên rút gọn dưới 180 chữ để chiếu cho rõ</span>`;
+    }
+    row.querySelector(".ed-info").innerHTML = h;
+  });
+  $("edKwInfo").innerHTML = !p.n ? "Chưa có từ khóa." : (p.n < KMIN || p.n > KMAX ? `<span class="oc-warn">Từ khóa cần ${KMIN}–${KMAX} chữ cái (đang có ${p.n}).</span>` : `Từ khóa có ${p.n} chữ cái → cần ${p.n} hàng ngang.`);
+  $("edKeyRow").innerHTML = p.n >= KMIN && p.n <= KMAX ? [...p.kwN].map((c, li) => `<span class="oc-t key${p.ok ? " on" : (p.missing.includes(li) ? " bad" : "")}">${c}</span>`).join("") : "";
+  let s;
+  if (p.ok) s = `<div class="oc-okmsg">✓ Đã xếp ${p.rows.length} hàng, lưới ${p.W} cột${p.W > 16 ? ' <span class="oc-warn">(hơi rộng, chữ sẽ nhỏ – nên rút ngắn đáp án)</span>' : ""}.</div>`;
+  else if (p.n < KMIN || p.n > KMAX) s = `<div class="oc-warn">${esc(p.msg)}</div>`;
+  else if (p.nCand < p.n) s = `<div class="oc-warn">Mới có ${p.nCand} hàng dùng được, từ khóa cần ${p.n} hàng (còn thiếu ${p.n - p.nCand}).</div><div class="ed-add"><button class="oc-b sm" data-need="">＋ Thêm hàng</button></div>`;
+  else s = `<div class="oc-warn">${esc(p.msg)}</div><div class="ed-add">${[...new Set(p.missing.map(li => p.kwN[li]))].map(c => `<button class="oc-b sm" data-need="${c}">＋ Thêm hàng cho chữ ${c}</button>`).join("")}</div>`;
+  $("edStatus").innerHTML = s; $("edStatus").querySelectorAll("[data-need]").forEach(b => b.onclick = () => addRow(b.dataset.need || null, true));
+  const g = $("edGrid");
+  if (p.ok) g.innerHTML = p.rows.map((r, i) => { let cells = ""; for (let c = 0; c < p.W; c++) { const k = c - r.x; cells += (k < 0 || k >= r.n.length) ? "<i></i>" : `<span class="oc-t on${k === r.p ? " key" : ""}">${r.n[k]}</span>`; } return `<div class="oc-row" style="grid-template-columns:repeat(${p.W + 1},var(--c))"><span class="oc-num">${i + 1}</span>${cells}</div>`; }).join("");
+  else g.innerHTML = `<div class="oc-note" style="text-align:center;padding:10px">Lưới sẽ hiện khi đủ hàng cho từ khóa.</div>`;
+  $("edPlay").disabled = !p.ok; fitEd();
+}
+function fitEd() {
+  const w = $("edPrev"), g = $("edGrid"); if (!w || !g || !ed || !ed.p || !ed.p.ok) return;
+  const r = w.getBoundingClientRect(), n = ed.p.rows.length, W = ed.p.W, gap = 6;
+  g.style.setProperty("--c", Math.max(9, Math.min(46, Math.floor(Math.min((r.width - 20 - W * gap) / (W + 1), (r.height - 20 - (n - 1) * gap) / n)))) + "px");
 }
 
 /* ================= Vào chơi ================= */
@@ -4374,6 +4586,7 @@ function checkTyped() {
   if (sameAns(v, st.rows[st.sel])) judge(true); else { st.mismatch = true; st.started = true; stopTimer(); stopReading(); renderPanel(); }
 }
 function fit() {
+  if (alive && ed) { fitEd(); return; }
   if (!alive || !st || !$("ocGridWrap")) return;
   const r = $("ocGridWrap").getBoundingClientRect(), n = st.rows.length, W = st.W, g = 6;
   const c = Math.max(12, Math.min(66, Math.floor(Math.min((r.width - 10 - W * g) / (W + 1), (r.height - 10 - (n - 1) * g) / n))));
@@ -4382,7 +4595,7 @@ function fit() {
 function fitText() {
   const q = $("ocQ"), box = $("ocPanel"); if (!q || !box) return;
   q.style.removeProperty("font-size"); let fs = parseFloat(getComputedStyle(q).fontSize), i = 0;
-  while (box.scrollHeight > box.clientHeight && fs > 14 && i++ < 16) { fs -= 1.5; q.style.fontSize = fs + "px"; }
+  while ((q.scrollHeight > q.clientHeight + 1 || box.scrollHeight > box.clientHeight + 1) && fs > 20 && i++ < 16) { fs = Math.max(20, fs - 1.5); q.style.fontSize = fs + "px"; }
 }
 
 /* ================= Đội và điểm ================= */
@@ -4556,463 +4769,7 @@ function stopTimer() { clearInterval(timerId); timerId = 0; tDone = false; const
 function pauseTimer() { if (!timerId) return 0; const r = Math.max(0, tEnd - performance.now()); clearInterval(timerId); timerId = 0; return r; }
 
 /* ================= Cho bài kiểm tra tự động ================= */
-App.okchu = { norm, parseMeta, setMeta, candidates, plan, TEMPLATES, state: () => st, teams: () => teams };
-App.registerGame(G);
-})();
-
-/* ===== games/ghep.js ===== */
-/* Trò chơi: GHÉP TỪ – NGHĨA (– HÌNH) cho Tiếng Anh
-   Học từ: Wordwall Match up (kéo từ khóa vào định nghĩa, chạy được trên màn chiếu chung), Quizlet Match (6 cặp mỗi ván, bấm giờ,
-   mỗi lần ghép sai cộng giây, bộ lớn chia nhiều ván), Blooket (chơi theo đội nhưng điểm hay phụ thuộc may rủi → mình giữ điểm theo kiến thức).
-   Khác với các app đó: từ vựng Tiếng Anh 12 Global Success có sẵn, chia theo Unit và từng mục của sách (mục ít từ tự ôn nối tiếp mục trước),
-   một máy + máy chiếu (học sinh không cần điện thoại), một KHUNG HÌNH chung hiện ảnh của từ đang chọn (gợi ý nghĩa) hoặc từ vừa ghép đúng,
-   bấm từ là nghe phát âm tiếng Anh, chơi cả lớp bấm giờ hoặc theo lượt đội (cộng dồn vào điểm nhóm), chạy không cần mạng.
-   Dữ liệu: App.TV_BUILTIN (data/tv/*.json, ghép lúc build) hoặc các dòng cặp ghép trong bộ câu hỏi đang chọn:
-       từ :: nghĩa :: /phiên âm/ :: loại từ :: ![](img:mã)     (3 mục sau tùy chọn, thứ tự tùy ý)
-   Hình minh họa có sẵn: data/tv/hinh/<mã bộ>/<từ-viết-gạch-nối>.webp (hoặc .jpg/.png). */
-(function () {
-"use strict";
-const { $, esc, S } = App;
-
-/* ================= Phần thuần (không đụng giao diện) ================= */
-const norm = s => String(s || "").normalize("NFC").toLowerCase().replace(/\s+/g, " ").trim();
-const slug = t => norm(t).normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
-const LA = ["I", "II", "III", "IV", "V", "VI", "VII"];
-
-/* Dạng gộp trong một ô: "on cloud nine/ on top of the world/ over the moon" → hiện dạng chính, các dạng khác ở khung hình.
-   Chỉ tách khi MỌI phần đều từ 2 chữ trở lên; "in the long/ medium/ short term", "attend school/ college", "rural/urban area" giữ nguyên. */
-function forms(term) {
-  const t = String(term || "").trim(), parts = t.split(/\s*\/\s+/);
-  if (parts.length > 1 && parts.every(p => p.trim().split(/\s+/).length >= 2)) return { main: parts[0].trim(), alts: parts.slice(1).map(p => p.trim()) };
-  return { main: t, alts: [] };
-}
-/* Chữ để đọc thành tiếng: bỏ phần chú thích trong ngoặc, "/" đọc như dấu phẩy, sth → something */
-function speakText(term) {
-  let t = String(term || "").trim(); const f = forms(t); if (f.alts.length) t = f.main;
-  const ac = /^([A-Z]{2,})\s*\(([^)]+)\)$/.exec(t); if (ac) return ac[2].trim();
-  t = t.replace(/\(([^)]*)\)/g, (m, a) => /\//.test(a) ? " " + a + " " : " ");
-  return t.replace(/\s*(…|\.{3})\s*/g, " ").replace(/\s*\/\s*/g, ", ").replace(/\bsth\b/gi, "something").replace(/\bsb\b/gi, "somebody").replace(/\s+,/g, ",").replace(/\s+/g, " ").trim();
-}
-const hinhOf = (bookId, term) => (App.TV_HINH || {})[bookId + "/" + slug(term)] || "";
-function mkItem(book, u, m, it, i) {
-  const f = forms(it.t);
-  return { id: `${book.id}.${u.no}.${m.no}.${i}`, t: f.main, full: it.t, alts: f.alts, m: it.m, i: it.i || "", p: it.p || "", k: it.k || "", img: hinhOf(book.id, it.t), tok: "", fresh: true, ref: `U${u.no}·${m.no}` };
-}
-const book = () => (App.TV_BUILTIN || []).find(b => b.id === "ta12") || (App.TV_BUILTIN || [])[0] || null;
-const unitOf = (b, no) => b.units.find(u => u.no === no);
-const lessonsOf = u => u.muc.filter(m => m.no !== "+");
-const itemsOfUnit = (b, u) => u.muc.flatMap(m => m.items.map((it, i) => mkItem(b, u, m, it, i)));
-const dedupe = list => { const seen = new Set(); return list.filter(x => { const k = norm(x.full); if (seen.has(k)) return false; seen.add(k); return true; }); };
-/* sel: { r: số Review } hoặc { u: số Unit, muc: ["I","IV","+"…] } ("VIII" = ôn cả Unit) */
-function buildPool(b, sel, opt = {}) {
-  const per = opt.per || 6, MIN = Math.max(8, per), rnd = opt.rnd || (a => a);
-  if (sel.r) {
-    const rv = b.reviews.find(x => x.no === sel.r); if (!rv) return { items: [], newN: 0, reviewN: 0, label: "", from: [] };
-    const items = dedupe(b.units.filter(u => rv.units.includes(u.no)).flatMap(u => itemsOfUnit(b, u)));
-    return { items, newN: items.length, reviewN: 0, label: `Review ${rv.no} (Unit ${rv.units[0]}–${rv.units[rv.units.length - 1]})`, from: [] };
-  }
-  const u = unitOf(b, sel.u); if (!u) return { items: [], newN: 0, reviewN: 0, label: "", from: [] };
-  const want = new Set(sel.muc || []);
-  if (want.has("VIII")) { const items = dedupe(itemsOfUnit(b, u)); return { items, newN: items.length, reviewN: 0, label: `Unit ${u.no} · ôn cả Unit`, from: [] }; }
-  const L = lessonsOf(u), chosen = u.muc.filter(m => want.has(String(m.no)));
-  let fresh = dedupe(chosen.flatMap(m => m.items.map((it, i) => mkItem(b, u, m, it, i))));
-  const have = new Set(fresh.map(x => norm(x.full))), review = [], from = [];
-  const take = m => { const list = m.items.map((it, i) => mkItem(b, u, m, it, i)).filter(x => !have.has(norm(x.full)));
-    const need = MIN - fresh.length - review.length; if (need <= 0 || !list.length) return;
-    const got = (list.length > need ? rnd(list).slice(0, need) : list).map(x => ({ ...x, fresh: false })); got.forEach(x => have.add(norm(x.full))); review.push(...got); from.push(m.no); };
-  const idx = chosen.map(m => L.indexOf(m)).filter(i => i >= 0), lo = idx.length ? Math.min(...idx) : L.length, hi = idx.length ? Math.max(...idx) : L.length - 1;
-  for (let k = lo - 1; k >= 0; k--) take(L[k]);              // ôn nối tiếp: các mục đứng trước, gần nhất trước
-  for (let k = hi + 1; k < L.length; k++) take(L[k]);        // vẫn thiếu: lấy mục đứng sau
-  const label = `Unit ${u.no} · mục ${chosen.map(m => m.no).join(" + ")}`;
-  return { items: fresh.concat(review), newN: fresh.length, reviewN: review.length, label, from };
-}
-const meanSet = m => String(m || "").replace(/\([^)]*\)/g, " ").split(/[,;\/]/).map(norm).filter(Boolean);
-const sameMeaning = (a, b) => { if (norm(a.m) === norm(b.m)) return true; const A = meanSet(a.m), B = meanSet(b.m); return A.some(x => B.includes(x)); };
-/* Chia thành các ván: từ mới trước, từ ôn sau; không để hai từ cùng nghĩa chung một ván; ván thiếu thì bù từ cũ */
-function makeRounds(items, per, rnd = App.shuffle) {
-  const fresh = rnd(items.filter(x => x.fresh)), old = rnd(items.filter(x => !x.fresh));
-  let rest = fresh.concat(old); const rounds = [], size = Math.min(per, items.length);
-  while (rest.length) {
-    const r = [], left = [];
-    for (const c of rest) { if (r.length < size && !r.some(x => sameMeaning(x, c))) r.push(c); else left.push(c); }
-    rounds.push(r); rest = left;
-  }
-  rounds.forEach(r => {
-    if (r.length >= size) return;
-    const pool = rnd(items.filter(x => !r.includes(x) && !r.some(y => sameMeaning(x, y))));
-    r.push(...pool.slice(0, size - r.length).map(x => ({ ...x, bu: true })));
-  });
-  return rounds.filter(r => r.length >= 2);
-}
-const planOf = (b, sel, per) => { const p = buildPool(b, sel, { per }); const total = p.items.length; const R = total >= 2 ? makeRounds(p.items, per, a => a) : []; return { ...p, total, rounds: R.length, bu: R.reduce((n, r) => n + r.filter(x => x.bu).length, 0) }; };
-/* Hai cột đảo thứ tự khác nhau để dòng nào cũng không thẳng hàng với nhau */
-function twoOrders(items, rnd = App.shuffle) {
-  const left = rnd(items); let right = rnd(items);
-  for (let t = 0; t < 8 && items.length > 3; t++) { const fixed = right.filter((x, i) => x === left[i]).length; if (fixed <= 1) break; right = rnd(items); }
-  return { left, right };
-}
-/* Cặp ghép trong bộ câu hỏi → mục từ vựng */
-function setItems() {
-  const p = App.parsed(); if (!p) return [];
-  return p.items.filter(x => x.type === "pair").map((x, i) => {
-    const f = forms(x.a); let ipa = "", pos = "", tok = "";
-    (x.x || []).forEach(s => { if (/!\[[^\]]*\]\(img:[\w-]+\)/.test(s)) tok = s.match(/!\[[^\]]*\]\(img:[\w-]+\)/)[0]; else if (/^\/.+\/$/.test(s) || /^\[.+\]$/.test(s)) ipa = s; else if (!pos) pos = s; });
-    return { id: "s." + i, t: f.main, full: x.a, alts: f.alts, m: x.b, i: ipa, p: pos, k: "", img: "", tok, fresh: true, ref: "bộ" };
-  });
-}
-const POS = { n: "danh từ", v: "động từ", adj: "tính từ", adv: "trạng từ", np: "cụm danh từ", "n, v": "danh từ, động từ", "n,v": "danh từ, động từ", "n, adj": "danh từ, tính từ" };
-/* Chọn giọng tiếng Anh: có mạng thì ưu tiên giọng "Natural" của Edge (đúng giọng Mỹ/Anh theo lựa chọn), mất mạng thì giọng trong máy */
-function pickVoice(voices, accent, online, bad = new Set()) {
-  const en = (voices || []).filter(v => /^en([-_]|$)/i.test(v.lang || "") && !bad.has(v.name));
-  if (!en.length) return null;
-  const want = accent === "uk" ? "en-gb" : accent === "us" ? "en-us" : "";
-  const score = v => { const l = String(v.lang || "").toLowerCase().replace("_", "-"), net = v.localService === false;
-    return (want && l === want ? 4 : 0) + (net ? (online ? 2 : -20) : 1) + (/natural/i.test(v.name) ? 1.5 : 0) + (/\b(aria|jenny|guy|sonia|ryan|libby)\b/i.test(v.name) ? .5 : 0) + (!want && /^en-(us|gb)$/.test(l) ? 1 : 0); };
-  const best = en.slice().sort((a, b) => score(b) - score(a))[0];
-  return score(best) > -10 ? best : null;
-}
-App.ghep = { norm, slug, forms, speakText, buildPool, makeRounds, planOf, twoOrders, setItems, pickVoice, book, state: () => st };
-
-/* ================= Trạng thái ================= */
-let tms = [];
-const later = (f, ms) => { const id = setTimeout(() => { tms = tms.filter(x => x !== id); f(); }, ms); tms.push(id); };
-const clearLater = () => { tms.forEach(clearTimeout); tms = []; };
-let el, cfg, alive = false, st = null, timerId = 0, ro = null, speakSeq = 0, badEn = new Set(), noVoiceToast = false;
-
-function ensureStyle() {
-  if (document.getElementById("gtStyle")) return;
-  const s = document.createElement("style"); s.id = "gtStyle";
-  s.textContent = `
-.gt{flex:1;min-height:0;min-width:0;display:flex;flex-direction:column;gap:10px;padding:12px;color:var(--fg);font-family:var(--f-body);--p0:var(--a2);--p1:var(--a4);--p2:var(--a3);--p3:var(--a1);--p4:var(--accent);--p5:#8B5CF6}
-.gt *{box-sizing:border-box}
-.gt-top{display:flex;align-items:center;gap:8px;flex-wrap:wrap;flex:none}
-.gt-top .stat b{font-variant-numeric:tabular-nums}
-.gt-top .sp{flex:1}
-.gt-pen{color:var(--no2);font-weight:700;font-size:13px;min-width:34px}
-.gt-main{flex:1;min-height:0;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.12fr) minmax(220px,.9fr);gap:12px}
-.gt-col{min-height:0;min-width:0;display:flex;flex-direction:column;gap:8px}
-.gt-colh{flex:none;font-size:12px;font-weight:700;letter-spacing:.04em;color:var(--muted);text-transform:uppercase;padding-left:4px}
-.gt-cards{flex:1;min-height:0;display:flex;flex-direction:column;gap:8px}
-.gt-c{flex:1 1 0;min-height:0;display:flex;align-items:center;gap:8px;text-align:left;padding:4px 14px;border-radius:12px;border:2px solid var(--line);background:var(--surface);color:var(--fg);cursor:pointer;line-height:1.2;overflow:hidden;font-family:var(--f-body);transition:border-color .15s,background .15s,transform .15s}
-.gt-c:hover:not(.done){border-color:var(--accent)}
-.gt-c.w{font-family:var(--f-display);font-weight:600;font-size:clamp(15px,3.1vh,27px)}
-.gt-c.mn{font-weight:500;font-size:clamp(13px,2.5vh,22px)}
-.gt-c.long{font-size:clamp(12px,2.3vh,20px)}
-.gt-c .tx{flex:1;min-width:0;overflow-wrap:anywhere;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
-.gt-c .ip{font-size:.58em;font-weight:500;color:var(--muted);flex:none;max-width:42%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.gt-c .rv{font-size:11px;font-weight:700;color:var(--muted);border:1px solid var(--line);border-radius:6px;padding:0 5px;flex:none}
-.gt-c.sel{border-color:var(--accent);background:color-mix(in srgb,var(--accent) 18%,var(--surface));box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 35%,transparent)}
-.gt-c.done{cursor:default;border-color:var(--pc);background:color-mix(in srgb,var(--pc) 20%,var(--surface))}
-.gt-c.done::before{content:"";width:10px;height:10px;border-radius:50%;background:var(--pc);flex:none}
-.gt-c.bad{border-color:var(--no2);animation:gtShake .35s}
-@keyframes gtShake{0%,100%{transform:translateX(0)}25%{transform:translateX(-6px)}75%{transform:translateX(6px)}}
-.gt-calm .gt-c,.gt-calm .gt-c.bad{transition:none;animation:none}
-.gt-frame{min-height:0;min-width:0;display:flex;flex-direction:column;gap:10px;border-radius:16px;border:2px solid var(--line);background:var(--surface);padding:12px;text-align:center;overflow:hidden}
-.gt-frame.done{border-color:var(--ok2)}
-.gt-pic{flex:1 1 auto;min-height:0;border-radius:12px;overflow:hidden;background:var(--surface-2);display:flex;align-items:center;justify-content:center}
-.gt-pic img{width:100%;height:100%;object-fit:cover;display:block}
-.gt-pic.none{background:none;flex:0 0 auto}
-.gt-fw{font-family:var(--f-display);font-weight:700;font-size:clamp(20px,4vh,36px);line-height:1.15;overflow-wrap:anywhere}
-.gt-fi{font-size:clamp(14px,2.4vh,20px);color:var(--muted)}
-.gt-fp{font-size:13px;color:var(--muted)}
-.gt-fm{font-size:clamp(15px,2.6vh,22px);font-weight:600;color:var(--ok2)}
-.gt-also{font-size:13px;color:var(--muted)}
-.gt-idle{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;color:var(--muted)}
-.gt-idle b{font-size:clamp(16px,2.8vh,22px);color:var(--fg)}
-.gt-say{align-self:center;display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);background:var(--bg);color:var(--fg);border-radius:999px;padding:6px 14px;font-weight:600;cursor:pointer}
-.gt-say:disabled{opacity:.5;cursor:default}
-.gt-keys{flex:none;font-size:12px;color:var(--muted);display:flex;gap:14px;flex-wrap:wrap}
-.gt-intro{align-items:center;justify-content:flex-start;overflow:auto}
-.gt-ic{width:min(860px,100%);display:flex;flex-direction:column;gap:14px;background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:18px 20px}
-.gt-ic h2{margin:0;font-family:var(--f-display);font-size:clamp(20px,3vh,26px)}
-.gt-seg{display:flex;gap:8px;flex-wrap:wrap}
-.gt-seg button{border:2px solid var(--line);background:var(--bg);color:var(--fg);border-radius:10px;padding:8px 14px;font-weight:600;cursor:pointer;text-align:left}
-.gt-seg button[aria-pressed="true"]{border-color:var(--accent);background:color-mix(in srgb,var(--accent) 16%,var(--surface))}
-.gt-pick{display:flex;flex-direction:column;gap:10px}
-.gt-pick select{font:inherit;padding:8px 10px;border-radius:10px;border:2px solid var(--line);background:var(--bg);color:var(--fg);max-width:100%}
-.gt-mg{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:8px}
-.gt-m{display:flex;align-items:center;gap:8px;border:2px solid var(--line);border-radius:10px;padding:8px 10px;cursor:pointer;background:var(--bg);font-size:14px}
-.gt-m input{accent-color:var(--accent)}
-.gt-m small{margin-left:auto;color:var(--muted);white-space:nowrap}
-.gt-m.on{border-color:var(--accent);background:color-mix(in srgb,var(--accent) 14%,var(--surface))}
-.gt-m.off{opacity:.45;cursor:default}
-.gt-sum{border:1px solid var(--line);border-radius:12px;padding:10px 12px;background:var(--bg);font-size:15px;line-height:1.55}
-.gt-sum .w{color:var(--no2);font-weight:600}
-.gt-act{display:flex;gap:10px;justify-content:flex-end;flex-wrap:wrap}
-.gt-rec{display:grid;gap:4px;text-align:left;font-size:14px;max-height:34vh;overflow:auto}
-@media (max-width:760px){.gt-main{grid-template-columns:1fr 1fr;grid-template-rows:auto minmax(0,1fr)}.gt-frame{grid-column:1/3;grid-row:1;max-height:34vh;gap:6px;padding:8px}.gt-frame .gt-pic{max-height:45%}.gt-fw{font-size:clamp(16px,3.4vh,22px)}.gt-idle .mascot{display:none}.gt-c.w{font-size:15px}.gt-c.mn{font-size:13px}}
-`;
-  document.head.appendChild(s);
-}
-
-/* ================= Giọng đọc tiếng Anh ================= */
-const synth = () => { try { return window.speechSynthesis || null; } catch (e) { return null; } };
-const enVoice = () => { const ss = synth(); if (!ss) return null; return pickVoice(ss.getVoices(), cfg ? cfg.accent : "us", navigator.onLine !== false, badEn); };
-function hush() { speakSeq++; try { const ss = synth(); ss && ss.cancel(); } catch (e) { } App.duck && App.duck(false); }
-function speakEn(text) {
-  const ss = synth(); if (!ss || !cfg || cfg.say === "off") return false;
-  const v = enVoice(); if (!v) { if (!noVoiceToast) { noVoiceToast = true; App.toast("Máy này chưa có giọng đọc tiếng Anh nên chưa nghe được phát âm."); } return false; }
-  const id = ++speakSeq; try { ss.cancel(); } catch (e) { }
-  const go = voice => {
-    if (id !== speakSeq) return;
-    const u = new SpeechSynthesisUtterance(text); let started = false;
-    u.voice = voice; u.lang = voice.lang; u.rate = +cfg.rate || .95; u.volume = (S.prefs.volume ?? 70) / 100;
-    u.onstart = () => { started = true; App.duck && App.duck(true); };
-    u.onend = () => { if (id === speakSeq) App.duck && App.duck(false); };
-    u.onerror = e => { if (e && (e.error === "interrupted" || e.error === "canceled")) return; App.duck && App.duck(false); if (!started && voice.localService === false) retry(voice); };
-    const retry = bad => { if (id !== speakSeq) return; badEn.add(bad.name); const lv = enVoice(); try { ss.cancel(); } catch (e) { } if (lv) setTimeout(() => go(lv), 60); };
-    if (voice.localService === false) setTimeout(() => { if (id === speakSeq && !started) retry(voice); }, 4000); // giọng mạng không cất tiếng → đổi giọng trong máy
-    try { ss.speak(u); } catch (e) { retry(voice); }
-  };
-  go(v); return true;
-}
-
-/* ================= Màn chọn bộ ================= */
-const labelUnit = u => `Unit ${u.no} · ${u.name}`;
-function intro() {
-  stopTimer(); clearLater(); st = null; hush();
-  const b = book(), pairs = setItems();
-  if (!cfg.src || (cfg.src === "ta12" && !b) || (cfg.src === "set" && !pairs.length && b)) cfg.src = b ? "ta12" : "set";
-  if (!cfg.unit || !/^[ur]\d+$/.test(cfg.unit)) cfg.unit = "u1";
-  if (!Array.isArray(cfg.muc) || !cfg.muc.length) cfg.muc = ["I"];
-  el.innerHTML = `<div class="gt gt-intro${App.reduce ? " gt-calm" : ""}"><div class="gt-ic">
-    <h2>Ghép từ – nghĩa – hình</h2>
-    <div class="gt-seg" id="gtSrc">
-      ${b ? `<button data-s="ta12" aria-pressed="${cfg.src === "ta12"}">${esc(b.name)}</button>` : ""}
-      <button data-s="set" aria-pressed="${cfg.src === "set"}">Cặp ghép trong bộ: ${esc(App.set() ? App.set().name : "")} (${pairs.length} cặp)</button>
-    </div>
-    <div class="gt-pick" id="gtPick"></div>
-    <div class="gt-sum" id="gtSum"></div>
-    <div class="gt-act"><button class="btn primary big" id="gtStart">▶ Bắt đầu</button></div>
-  </div></div>`;
-  $("gtSrc").querySelectorAll("button").forEach(x => x.onclick = () => { cfg.src = x.dataset.s; App.save(); intro(); });
-  pick(); $("gtStart").onclick = startGame;
-}
-function pick() {
-  const b = book(), box = $("gtPick"); if (!box) return;
-  if (cfg.src !== "ta12" || !b) { box.innerHTML = `<div class="note" style="line-height:1.6">Mỗi dòng cặp ghép của bộ câu hỏi viết dạng <b>từ :: nghĩa</b>; thêm <b>:: /phiên âm/ :: loại từ :: ![](img:mã hình)</b> nếu có. Bộ không có cặp ghép thì trò này chưa chơi được.</div>`; sum(); return; }
-  const isR = cfg.unit[0] === "r", uno = +cfg.unit.slice(1), u = isR ? null : unitOf(b, uno);
-  box.innerHTML = `<label class="label" for="gtUnit">Chọn Unit hoặc Review</label>
-    <select id="gtUnit">${b.units.map(x => `<option value="u${x.no}">${esc(labelUnit(x))}</option>`).join("")}${b.reviews.map(r => `<option value="r${r.no}">Review ${r.no} (Unit ${r.units[0]}–${r.units[r.units.length - 1]})</option>`).join("")}</select>
-    ${u ? `<div class="gt-mg" id="gtMg">${u.muc.filter(m => m.no !== "VIII").map(m => { const n = m.items.length, on = cfg.muc.includes(String(m.no)) && n;
-        return `<label class="gt-m${on ? " on" : ""}${n ? "" : " off"}"><input type="checkbox" data-m="${esc(String(m.no))}" ${on ? "checked" : ""} ${n ? "" : "disabled"}><span>${esc(String(m.no) === "+" ? "Mở rộng" : m.no + " " + m.name)}</span><small>${n ? n + " từ" : "chưa có từ"}</small></label>`; }).join("")}
-      <label class="gt-m${cfg.muc.includes("VIII") ? " on" : ""}"><input type="checkbox" data-m="VIII" ${cfg.muc.includes("VIII") ? "checked" : ""}><span>VIII Looking Back · ôn cả Unit</span><small>${itemsOfUnit(b, u).length} từ</small></label></div>`
-      : `<div class="note">Review gồm tất cả từ của các Unit đứng trước, ôn cả bộ.</div>`}`;
-  $("gtUnit").value = cfg.unit;
-  $("gtUnit").onchange = e => { cfg.unit = e.target.value; const nu = cfg.unit[0] === "u" ? unitOf(b, +cfg.unit.slice(1)) : null; const first = nu ? lessonsOf(nu).find(m => m.items.length) : null; cfg.muc = [first ? String(first.no) : "I"]; App.save(); pick(); };
-  if ($("gtMg")) $("gtMg").querySelectorAll("input").forEach(c => c.onchange = () => {
-    const k = c.dataset.m; let cur = new Set(cfg.muc);
-    if (c.checked) { if (k === "VIII") cur = new Set(["VIII"]); else { cur.delete("VIII"); cur.add(k); } } else cur.delete(k);
-    if (!cur.size) cur.add(k); cfg.muc = [...cur]; App.save(); pick();
-  });
-  sum();
-}
-function selNow() { return cfg.unit[0] === "r" ? { r: +cfg.unit.slice(1) } : { u: +cfg.unit.slice(1), muc: cfg.muc }; }
-function sum() {
-  const box = $("gtSum"), per = +cfg.per || 6; let total = 0, text = "";
-  if (cfg.src === "ta12" && book()) {
-    const p = planOf(book(), selNow(), per); total = p.total;
-    text = p.total ? `<b>Bộ sẽ chơi:</b> ${p.newN} từ${p.reviewN ? ` mới + ${p.reviewN} từ ôn từ mục ${p.from.join(", ")}` : ""} = ${p.total} từ → ${p.rounds} ván${p.bu ? ` (ván cuối bù ${p.bu} từ cũ)` : ""}. ${esc(p.label)}.` : "Chưa có từ nào ở lựa chọn này.";
-    if (p.total && p.total < 4) text += ` <span class="w">Cần ít nhất 4 từ.</span>`;
-  } else { total = setItems().length; text = total >= 4 ? `<b>Bộ sẽ chơi:</b> ${total} cặp → ${makeRounds(dedupe(setItems()), per, a => a).length} ván.` : `<span class="w">Bộ câu hỏi đang chọn có ${total} cặp ghép, cần ít nhất 4.</span>`; }
-  box.innerHTML = text; $("gtStart").disabled = total < 4;
-}
-
-/* ================= Chơi ================= */
-function startGame() {
-  const per = +cfg.per || 6; let items, label;
-  if (cfg.src === "ta12" && book()) { const p = buildPool(book(), selNow(), { per, rnd: App.shuffle }); items = p.items; label = p.label; }
-  else { items = dedupe(setItems()); label = "Bộ câu hỏi: " + (App.set() ? App.set().name : ""); }
-  if (items.length < 4) { App.toast("Cần ít nhất 4 từ để chơi."); return; }
-  const rounds = makeRounds(items, per);
-  const useGroups = cfg.mode === "teams" && cfg.useGroups && !!App.lastGroups();
-  st = { items, rounds, ri: 0, label, mixed: items.some(x => !x.fresh) && items.some(x => x.fresh), miss: new Map(), teams: cfg.mode === "teams" ? App.makeTeams(cfg.teamCount, useGroups) : null, turn: 0, useGroups, review: false,
-    cur: null, matched: new Set(), L: null, R: null, selL: null, selR: null, focus: null, focusState: "", busy: false, t0: 0, wrong: 0, wrongTotal: 0, hits: 0 };
-  skeleton(); deal();
-}
-function skeleton() {
-  el.innerHTML = `<div class="gt${App.reduce ? " gt-calm" : ""}" id="gtRoot">
-    <div class="gt-top"><span class="stat" id="gtLab"></span><span class="stat">Ván <b id="gtR"></b></span>
-      ${st.teams ? "" : `<span class="stat">Thời gian <b id="gtT">0:00</b><span class="gt-pen" id="gtPen"></span></span>`}
-      <span class="stat">Còn <b id="gtL"></b> từ</span><span class="stat">Sai <b id="gtW">0</b></span><span class="sp"></span>
-      <button class="btn small" id="gtRe">Xáo lại ván này</button><button class="btn small" id="gtBack">Chọn bộ khác</button></div>
-    ${st.teams ? `<div class="row" id="gtTeams" style="justify-content:center"></div>` : ""}
-    <div class="gt-main"><div class="gt-col"><div class="gt-colh">Từ</div><div class="gt-cards" id="gtLeft"></div></div>
-      <div class="gt-col"><div class="gt-colh">Nghĩa</div><div class="gt-cards" id="gtRight"></div></div>
-      <div class="gt-frame" id="gtFrame" aria-live="polite"></div></div>
-    <div class="gt-keys"><span>Bấm một từ, rồi bấm nghĩa của nó</span><span class="kbd">R</span><span>nghe lại</span><span class="kbd">H</span><span>ẩn/hiện hình gợi ý</span><span class="kbd">Esc</span><span>bỏ chọn</span></div>
-  </div>
-  <div class="overlay" id="gtOv" hidden><div class="result"><div id="gtMascot"></div><div class="who-label" id="gtOvLab">Hoàn thành</div><div class="who" id="gtDone" style="font-size:clamp(28px,5vw,48px)"></div><div class="congrats" id="gtSum2"></div><div class="gt-rec" id="gtRec"></div>
-    <div class="row" style="justify-content:center;flex-wrap:wrap"><button class="btn big" id="gtOvChange">Chọn bộ khác</button><button class="btn big" id="gtOvMiss" hidden>Ôn từ sai</button><button class="btn big" id="gtOvAgain" hidden>Chơi lại bộ này</button><button class="btn primary big" id="gtOvNext">Ván tiếp</button></div></div></div>`;
-  $("gtBack").onclick = () => intro(); $("gtRe").onclick = () => deal(true);
-  $("gtOvChange").onclick = () => intro();
-  $("gtOvAgain").onclick = () => { $("gtOv").hidden = true; st.rounds = makeRounds(st.items, +cfg.per || 6); st.ri = 0; st.review = false; st.miss = new Map(); st.wrongTotal = 0; deal(); };
-  $("gtOvMiss").onclick = missRound;
-  $("gtOvNext").onclick = () => { $("gtOv").hidden = true; st.ri++; deal(); };
-  $("gtLeft").onclick = e => { const c = e.target.closest(".gt-c"); c && onCard(c, "L"); };
-  $("gtRight").onclick = e => { const c = e.target.closest(".gt-c"); c && onCard(c, "R"); };
-}
-function deal(reshuffle) {
-  stopTimer(); clearLater(); hush();
-  const r = st.rounds[st.ri]; st.cur = r; st.matched = new Set(); st.selL = st.selR = null; st.focus = null; st.focusState = ""; st.busy = false; st.t0 = 0; st.wrong = 0; st.hits = 0;
-  const o = twoOrders(r); st.L = o.left; st.R = o.right;
-  $("gtLab").textContent = st.review ? "Ôn các từ hay sai" : st.label; $("gtR").textContent = `${st.ri + 1}/${st.rounds.length}`; $("gtL").textContent = r.length; $("gtW").textContent = 0;
-  if ($("gtT")) { $("gtT").textContent = "0:00"; $("gtPen").textContent = ""; }
-  drawCards(); drawFrame(); drawTeams();
-}
-const fmtT = s => `${Math.floor(s / 60)}:${String(s % 60).padStart(2, "0")}`;
-const isLong = s => String(s).length > 34 ? " long" : "";
-function drawCards() {
-  const mixed = st.mixed;
-  $("gtLeft").innerHTML = st.L.map(x => `<button class="gt-c w${isLong(x.t)}" data-id="${esc(x.id)}" aria-pressed="false"><span class="tx">${App.html(x.t)}</span>${cfg.ipa && x.i ? `<span class="ip">${esc(x.i)}</span>` : ""}${mixed && !x.fresh ? `<span class="rv" title="Từ ôn">ôn</span>` : ""}</button>`).join("");
-  $("gtRight").innerHTML = st.R.map(x => `<button class="gt-c mn${isLong(x.m)}" data-id="${esc(x.id)}" aria-pressed="false"><span class="tx">${App.html(x.m)}</span></button>`).join("");
-  paint();
-}
-const cardOf = (side, id) => $(side === "L" ? "gtLeft" : "gtRight").querySelector(`.gt-c[data-id="${CSS.escape(id)}"]`);
-function paint() {
-  ["L", "R"].forEach(side => (side === "L" ? $("gtLeft") : $("gtRight")).querySelectorAll(".gt-c").forEach(c => {
-    const id = c.dataset.id, done = st.matched.has(id), sel = (side === "L" ? st.selL : st.selR) === id;
-    c.classList.toggle("done", done); c.classList.toggle("sel", sel && !done); c.setAttribute("aria-pressed", sel && !done); c.disabled = done;
-    if (done) c.style.setProperty("--pc", `var(--p${st.pairColor[id] % 6})`);
-  }));
-}
-function itemById(id) { return st.cur.find(x => x.id === id); }
-function onCard(c, side) {
-  if (st.busy || c.classList.contains("done")) return;
-  App.ac();
-  if (!st.t0 && !st.teams) { st.t0 = Date.now(); timerId = setInterval(tickT, 400); }
-  const id = c.dataset.id;
-  if (side === "L") { st.selL = st.selL === id ? null : id; if (st.selL) { st.focus = itemById(id); st.focusState = "pick"; speakEn(speakText(st.focus.full)); } else { st.focus = null; st.focusState = ""; } drawFrame(); }
-  else st.selR = st.selR === id ? null : id;
-  App.sound.flip(); paint();
-  if (st.selL && st.selR) judge();
-}
-function judge() {
-  const a = st.selL, b = st.selR;
-  if (a === b) return correct(a);
-  st.busy = true; st.wrong++; st.wrongTotal++; $("gtW").textContent = st.wrong;
-  const m = st.miss.get(a) || { item: itemById(a), n: 0 }; m.n++; st.miss.set(a, m);
-  App.sound.wrong(); const ca = cardOf("L", a), cb = cardOf("R", b); ca && ca.classList.add("bad"); cb && cb.classList.add("bad");
-  const pen = +cfg.penalty || 0; if (!st.teams && pen) $("gtPen").textContent = `+${st.wrong * pen}s`;
-  later(() => {
-    if (!alive || !st) return; ca && ca.classList.remove("bad"); cb && cb.classList.remove("bad"); st.selL = st.selR = null; st.busy = false; st.focus = null; st.focusState = ""; paint(); drawFrame();
-    if (st.teams) { st.teams[st.turn].rep = ""; st.turn = (st.turn + 1) % st.teams.length; drawTeams(); if (st.teams[st.turn].rep) App.say("Mời bạn " + st.teams[st.turn].rep); }
-  }, 750);
-}
-function correct(id) {
-  st.pairColor = st.pairColor || {}; st.pairColor[id] = st.hits++;
-  st.matched.add(id); st.selL = st.selR = null; st.focus = itemById(id); st.focusState = "done";
-  App.sound.right(); const c = cardOf("R", id); if (c) { const r = c.getBoundingClientRect(); App.fx.burst(r.left + r.width / 2, r.top + r.height / 2, 16); }
-  if (st.teams) { st.teams[st.turn].score++; if (st.useGroups) { const L = App.lastGroups(); if (L && L.groups[st.turn]) { L.groups[st.turn].score++; App.save(); } } }
-  $("gtL").textContent = st.cur.length - st.matched.size; paint(); drawFrame(); drawTeams();
-  if (st.matched.size === st.cur.length) later(won, 800);
-}
-function tickT() { if (!alive || !st || !st.t0) return; const s = Math.floor((Date.now() - st.t0) / 1000) + st.wrong * (+cfg.penalty || 0); $("gtT") && ($("gtT").textContent = fmtT(s)); }
-function stopTimer() { clearInterval(timerId); timerId = 0; }
-
-/* Khung hình: từ đang chọn (gợi ý) hoặc từ vừa ghép đúng */
-function picHtml(it) { return it.img ? `<img alt="" src="${it.img}">` : it.tok ? App.html(it.tok) : ""; }
-function drawFrame() {
-  const f = $("gtFrame"); if (!f || !st) return; const it = st.focus, can = !!enVoice();
-  if (!it) { f.className = "gt-frame"; f.innerHTML = `<div class="gt-idle">${App.mascot("think", 88)}<b>Bấm một từ bên trái</b><span>rồi chọn nghĩa của nó</span></div>`; return; }
-  const done = st.focusState === "done", pic = it.img || it.tok ? ((done || cfg.hint) ? picHtml(it) : "") : "";
-  f.className = "gt-frame" + (done ? " done" : "");
-  f.innerHTML = `${pic ? `<div class="gt-pic">${pic}</div>` : `<div class="gt-pic none"></div>`}
-    <div class="gt-fw">${App.html(it.t)}</div>
-    ${cfg.ipa && (it.i || it.p) ? `<div class="gt-fi">${esc(it.i)}${it.i && it.p ? " · " : ""}${esc(POS[it.p] || it.p)}</div>` : ""}
-    ${done ? `<div class="gt-fm">${App.html(it.m)}</div>` : ""}
-    ${it.alts.length ? `<div class="gt-also">Cũng nói: ${esc(it.alts.join(" · "))}</div>` : ""}
-    ${cfg.say !== "off" ? `<button class="gt-say" id="gtSay" ${can ? "" : "disabled"} aria-label="Nghe phát âm" title="${can ? "Nghe phát âm (phím R)" : "Máy chưa có giọng tiếng Anh"}">🔊 Nghe phát âm</button>` : ""}`;
-  if ($("gtSay")) $("gtSay").onclick = () => speakEn(speakText(it.full));
-}
-function drawTeams() {
-  if (!st || !st.teams) return;
-  const teams = st.teams, turn = st.turn, cur = teams[turn], canCall = cur.members.length > 0;
-  if (canCall && !cur.rep) cur.rep = App.callFromTeam(turn, cur.members) || "";
-  $("gtTeams").innerHTML = teams.map((t, i) => `<span class="team ${i === turn ? "turn" : ""}" style="padding:6px 12px"><span class="dot" style="background:${t.color}"></span><span class="nm">${esc(t.name)}</span><span class="pts">${t.score}</span></span>`).join("") +
-    (canCall ? `<span class="team called" style="padding:6px 12px">Lượt ${esc(cur.name)}: mời <b class="rep" style="margin-left:4px">${esc(cur.rep || "…")}</b><button class="btn small call" id="gtRep" style="margin-left:6px">Đổi bạn</button></span>` : `<span class="team called" style="padding:6px 12px">Lượt ${esc(cur.name)}</span>`);
-  if (canCall) $("gtRep").onclick = () => { cur.rep = ""; drawTeams(); App.sound.tick("pop"); };
-}
-
-/* Hết ván */
-function won() {
-  if (!alive || !st) return; stopTimer(); hush();
-  const last = st.ri + 1 >= st.rounds.length, pen = +cfg.penalty || 0, n = st.cur.length;
-  const secs = st.t0 ? Math.floor((Date.now() - st.t0) / 1000) : 0, tot = secs + st.wrong * pen;
-  const lead = st.teams ? st.teams.slice().sort((a, b) => b.score - a.score)[0] : null;
-  $("gtDone").innerHTML = App.lettered(lead ? lead.name + " dẫn đầu!" : st.wrong === 0 ? "Hoàn hảo!" : "Tuyệt vời!");
-  $("gtMascot").innerHTML = App.mascot("cheer", 96); $("gtOvLab").textContent = st.review ? "Ôn từ hay sai" : `Ván ${st.ri + 1}/${st.rounds.length}`;
-  $("gtSum2").textContent = st.teams ? `Ghép đủ ${n} từ, sai ${st.wrong} lần. ${st.teams.map(t => `${t.name} ${t.score}`).join(" · ")}.`
-    : `Ghép đủ ${n} từ trong ${fmtT(tot)}${pen && st.wrong ? ` (đã cộng ${st.wrong * pen} giây phạt cho ${st.wrong} lần sai)` : st.wrong ? `, sai ${st.wrong} lần` : ", không sai lần nào"}.`;
-  $("gtRec").innerHTML = st.cur.map(x => `<div><b>${esc(x.t)}</b> – ${esc(x.m)}</div>`).join("");
-  const missed = [...st.miss.values()].filter(x => x.item);
-  $("gtOvNext").hidden = last; $("gtOvAgain").hidden = !last; $("gtOvMiss").hidden = !(last && missed.length);
-  $("gtOvMiss").textContent = `Ôn từ sai (${missed.length})`;
-  $("gtOv").hidden = false; (last ? ($("gtOvMiss").hidden ? $("gtOvAgain") : $("gtOvMiss")) : $("gtOvNext")).focus();
-  App.sound.win(cfg.win); App.fx.celebrate(cfg.fx);
-}
-function missRound() {
-  const per = +cfg.per || 6, missed = [...st.miss.values()].sort((a, b) => b.n - a.n).map(x => ({ ...x.item, fresh: true, bu: false }));
-  let items = missed.slice(0, per * 2);
-  if (items.length < Math.min(per, 4 + 0)) { const ids = new Set(items.map(x => x.id)); items = items.concat(App.shuffle(st.items.filter(x => !ids.has(x.id))).slice(0, Math.min(per, st.items.length) - items.length)); }
-  st.rounds = makeRounds(items, per); st.ri = 0; st.review = true; st.miss = new Map(); st.wrongTotal = 0; $("gtOv").hidden = true; deal();
-}
-
-/* ================= Đăng ký trò ================= */
-const G = {
-  id: "ghep", name: "Ghép từ – nghĩa – hình", uses: "vocab", needsText: "Dùng bộ từ vựng Tiếng Anh", ctx: () => "Từ vựng Tiếng Anh",
-  blurb: "Ghép từ tiếng Anh với nghĩa; một khung hình hiện ảnh gợi ý và phát âm chuẩn. Từ vựng Tiếng Anh 12 chia theo từng mục của sách.",
-  art: `<svg viewBox="0 0 120 100">${[0, 1, 2].map(i => `<rect x="8" y="${12 + i * 28}" width="38" height="22" rx="5" fill="var(--accent)"/><rect x="74" y="${12 + i * 28}" width="38" height="22" rx="5" fill="var(--surface)" stroke="var(--a4)" stroke-width="2"/><path d="M48 ${23 + i * 28}h24" stroke="var(--a3)" stroke-width="3" stroke-linecap="round" ${i === 1 ? "" : 'stroke-dasharray="3 5"'}/>`).join("")}<text x="27" y="28" font-size="11" text-anchor="middle" fill="#fff" font-weight="700">cat</text><text x="93" y="56" font-size="10" text-anchor="middle" fill="var(--fg)" font-weight="700">mèo</text></svg>`,
-  ready() { return book() || setItems().length >= 4 ? "" : "Chưa có bộ từ vựng nào."; },
-  settings: [
-    { key: "mode", label: "Cách chơi", type: "seg", options: { class: "Cả lớp (bấm giờ)", teams: "Theo lượt đội" }, default: "class", note: "Cả lớp: máy bấm giờ, mỗi lần ghép sai cộng giây phạt. Theo lượt đội: đội ghép đúng được điểm và ghép tiếp, ghép sai thì chuyển lượt." },
-    { key: "per", label: "Số từ mỗi ván", type: "seg", num: true, options: { 5: "5", 6: "6", 8: "8" }, default: 6 },
-    { key: "hint", label: "Hiện hình gợi ý ngay khi chọn từ", type: "toggle", default: true, note: "Tắt: hình chỉ hiện sau khi ghép đúng. Chỉ những từ có ảnh mới có hình." },
-    { key: "ipa", label: "Hiện phiên âm và loại từ", type: "toggle", default: true },
-    { key: "say", label: "Phát âm khi chọn từ", type: "seg", options: { word: "Đọc từ", off: "Tắt" }, default: "word", note: "Dùng giọng tiếng Anh có sẵn trong máy; có mạng thì ưu tiên giọng Natural của Edge." },
-    { key: "accent", label: "Giọng", type: "seg", options: { us: "Mỹ", uk: "Anh", auto: "Tự động" }, default: "us" },
-    { key: "rate", label: "Tốc độ đọc", type: "seg", num: true, options: { .8: "Chậm", .95: "Vừa", 1.1: "Nhanh" }, default: .95 },
-    { key: "penalty", label: "Phạt mỗi lần ghép sai (cả lớp)", type: "seg", num: true, options: { 0: "Không", 1: "1 giây", 3: "3 giây" }, default: 1 },
-    { key: "teamCount", label: "Số đội (khi chưa chia nhóm)", type: "range", min: 2, max: 6, default: 2, advanced: true },
-    { key: "useGroups", label: "Dùng nhóm vừa chia làm đội, cộng dồn vào điểm nhóm", type: "toggle", default: true, advanced: true },
-    { key: "win", label: "Âm thanh chúc mừng", type: "seg", options: App.WINS, default: "fanfare", advanced: true },
-    { key: "fx", label: "Hiệu ứng chúc mừng", type: "seg", options: App.FXS, default: "both", advanced: true }
-  ],
-  help: {
-    steps: [
-      "Chọn nguồn từ ở màn đầu: \"Tiếng Anh 12\" có sẵn (chọn Unit, rồi tích các mục I–VII muốn chơi; VIII là ôn cả Unit; Review gồm các Unit đứng trước) hoặc các cặp ghép trong bộ câu hỏi đang chọn.",
-      "Mục ít từ (Speaking, Writing…) tự ôn nối tiếp từ các mục đứng trước cho đủ ít nhất 8 từ; từ ôn có nhãn \"ôn\". Ván cuối thiếu từ thì bù từ cũ.",
-      "Bấm một từ bên trái: máy đọc từ và hiện ảnh gợi ý (nếu có) trong khung bên phải. Rồi bấm nghĩa tương ứng ở cột giữa.",
-      "Ghép đúng: hai ô sáng cùng màu, khung hình hiện nghĩa. Ghép sai: ô rung nhẹ. Cả lớp: cộng giây phạt vào đồng hồ. Theo lượt đội: chuyển lượt cho đội kế.",
-      "Hết ván bấm \"Ván tiếp\". Hết bộ có nút \"Ôn từ sai\" gom các từ ghép sai nhiều nhất thành một ván."
-    ],
-    shortcuts: [
-      { k: "R", d: "Nghe lại phát âm từ đang chọn" },
-      { k: "H", d: "Ẩn/hiện hình gợi ý" },
-      { k: "Esc", d: "Bỏ chọn" },
-      { k: "Space / Enter", d: "Ván tiếp (khi hộp kết quả đang mở)" }
-    ],
-    tips: [
-      "Từ nào không có ảnh thì khung hình chỉ hiện từ, phiên âm và loại từ; ảnh minh họa sẽ được thêm dần.",
-      "Máy chiếu có mạng ổn định: mở bằng Edge để nghe giọng tiếng Anh Natural rất rõ; không có mạng app tự dùng giọng trong máy.",
-      "Tự tạo bộ từ: mỗi dòng viết \"từ :: nghĩa :: /phiên âm/ :: loại từ :: ![](img:mã hình)\"; phiên âm, loại từ, hình đều tùy chọn.",
-      "Một ván không bao giờ có hai từ cùng nghĩa nên không lo ghép trùng."
-    ]
-  },
-  onSetting(k) { if (k === "hint" || k === "ipa") { if (st) { drawCards(); drawFrame(); } return true; } return ["say", "accent", "rate", "penalty", "win", "fx"].includes(k); },
-  redraw() { },
-  mount(root, c) { el = root; cfg = c.cfg; alive = true; st = null; noVoiceToast = false; badEn = new Set(); clearLater(); ensureStyle(); try { if (speechSynthesis) { speechSynthesis.getVoices(); speechSynthesis.onvoiceschanged = () => { if (alive && st) drawFrame(); }; } } catch (e) { } App.loadVoices && App.loadVoices(); intro(); },
-  unmount() { alive = false; stopTimer(); clearLater(); hush(); },
-  onKey(e) {
-    const k = e.key.toLowerCase();
-    if ($("gtOv") && !$("gtOv").hidden) { if (k === " " || k === "enter") { const b = [$("gtOvNext"), $("gtOvMiss"), $("gtOvAgain")].find(x => x && !x.hidden); if (b) { b.click(); return true; } } return false; }
-    if (!st) return false;
-    if (k === "r") { if (st.focus) speakEn(speakText(st.focus.full)); return true; }
-    if (k === "h") { cfg.hint = !cfg.hint; App.save(); drawFrame(); return true; }
-    if (k === "escape") { st.selL = st.selR = null; st.focus = null; st.focusState = ""; paint(); drawFrame(); return true; }
-    return false;
-  }
-};
+App.okchu = { norm, parseMeta, setMeta, candidates, plan, TEMPLATES, state: () => st, teams: () => teams, editor: () => ed, edLoad, PH };
 App.registerGame(G);
 })();
 
@@ -5112,7 +4869,7 @@ function home() {
     <div class="games">${App.order.map(id => {
       const g = App.games[id], why = g.uses === "questions" && !mySets.length && !hasBank ? `Môn ${subjName} chưa có bộ câu hỏi.` : g.ready ? g.ready() : "";
       return `<button class="gcard" data-g="${id}"><div class="art">${g.art || ""}</div><div class="body"><h3>${esc(g.name)}</h3><p>${esc(g.blurb)}</p>
-        <span class="needs ${why ? "no" : "ok"}">${why ? esc(why) : (g.needsText || (g.uses === "class" ? "Dùng danh sách lớp" : "Dùng bộ câu hỏi"))} </span></div></button>`;
+        <span class="needs ${why ? "no" : "ok"}">${why ? esc(why) : (g.uses === "class" ? "Dùng danh sách lớp" : "Dùng bộ câu hỏi")} </span></div></button>`;
     }).join("")}</div>
   </div>`;
   $("hClass").value = c.id; if (set && $("hSet")) $("hSet").value = set.id;
@@ -5746,7 +5503,7 @@ function game(id) {
   if (innerWidth <= 900) drawerOpen = false;
   V().innerHTML = `<div class="gameview">
     <div class="gamebar"><button class="btn small" id="gBack">← Trang chính</button>
-      <span class="title">${esc(g.name)}</span><span class="ctx">${esc(g.ctx ? g.ctx() : g.uses === "class" ? App.cls().name : App.set().name)}</span>
+      <span class="title">${esc(g.name)}</span><span class="ctx">${esc(g.uses === "class" ? App.cls().name : App.set().name)}</span>
       <span class="sp"></span><button class="btn small" id="gDrawer" aria-pressed="${drawerOpen}">Tùy chỉnh</button>${g.help ? `<button class="btn small sq" id="gHelp" title="Hướng dẫn nhanh" aria-label="Hướng dẫn nhanh">?</button>` : ""}</div>
     <div class="gamebody"><div class="stage" id="stage"></div><aside class="drawer" id="drawer" ${drawerOpen ? "" : "hidden"}></aside></div></div>`;
   $("gBack").onclick = () => { present(false); go("home"); };
