@@ -106,6 +106,18 @@ textarea.code{font-family:ui-monospace,"Cascadia Mono",Consolas,monospace;font-s
 .gcard .needs{font-size:12px;font-weight:600;margin-top:4px}
 .gcard .needs.ok{color:var(--good)}
 .gcard .needs.no{color:var(--bad)}
+.gcard .needs.soft{color:#B45309}
+:root[data-theme="dark"] .gcard .needs.soft{color:#F2B33D}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .gcard .needs.soft{color:#F2B33D}}
+.gpickwrap{position:relative}
+.gpick{position:absolute;right:0;top:calc(100% + 6px);z-index:40;width:min(440px,92vw);max-height:min(70vh,520px);overflow:auto;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);box-shadow:0 12px 32px rgba(0,0,0,.28);padding:8px;display:flex;flex-direction:column;gap:6px}
+.gp-head{font-weight:700;font-size:13px;color:var(--muted);padding:4px 8px}
+.gp-item{display:flex;flex-direction:column;align-items:flex-start;gap:2px;text-align:left;border:1px solid var(--line);background:var(--bg);border-radius:10px;padding:9px 12px;color:var(--fg);cursor:pointer}
+.gp-item b{font-size:15px}.gp-item span{font-size:13px;color:var(--muted)}
+.gp-item.ok{border-color:var(--accent)}.gp-item.ok span{color:var(--good);font-weight:600}.gp-item.ok:hover{background:var(--surface-2)}
+.gp-item.soft{border-color:#D69E00}.gp-item.soft span{color:#B45309;font-weight:600}
+.gp-item.no{opacity:.62;cursor:not-allowed}.gp-item.no span{color:var(--bad);font-weight:600}
+
 .section-title{display:flex;align-items:baseline;justify-content:space-between;gap:10px;flex-wrap:wrap}
 .section-title h2{font-size:22px}
 
@@ -953,6 +965,10 @@ math{font-family:"Cambria Math","STIX Two Math","Latin Modern Math",serif;font-s
   .guidecontent section{border:0;padding:0 0 10px;break-inside:avoid}
 }
 
+.fixrow{margin-top:6px;display:flex;gap:6px;align-items:center;flex-wrap:wrap;font-weight:600}
+.fixrow .btn{min-width:38px}
+@media (max-width:600px){.gpick{position:fixed;left:8px;right:8px;top:72px;width:auto;max-height:calc(100vh - 88px)}}
+
 </style>
 </head>
 <body>
@@ -982,7 +998,7 @@ math{font-family:"Cambria Math","STIX Two Math","Latin Modern Math",serif;font-s
    ========================================================= */
 "use strict";
 const App = window.App = { games: {}, order: [] };
-App.VERSION = "1.7"; App.BUILD = "ce84a41"; App.RELEASED = true; App.WEB = true;
+App.VERSION = "1.8"; App.BUILD = "0f031bf"; App.RELEASED = true; App.WEB = true;
 
 /* ---------- Tiện ích ---------- */
 App.$ = id => document.getElementById(id);
@@ -1270,22 +1286,69 @@ App.newSet = (name, raw) => { const s = { id: App.uid("s"), name: name || "Bộ 
     \ ở đầu dòng: dòng chữ thường, không phải ký hiệu
 */
 App.LEVELS = { NB: "Nhận biết", TH: "Thông hiểu", VD: "Vận dụng", VDC: "Vận dụng cao" };
+/* Dán từ Word/OLM: đọc bản HTML trên clipboard, chữ cái đáp án gạch chân (hoặc tô đỏ) → thêm dấu * để bộ đọc hiểu. */
+App.htmlToRaw = html => {
+  const doc = new DOMParser().parseFromString(String(html || ""), "text/html"), lines = [[]];
+  const BLOCK = /^(p|div|li|ul|ol|tr|table|h[1-6]|br|blockquote)$/;
+  const nl = () => { if (lines[lines.length - 1].length) lines.push([]); };
+  const isRed = c => /^(red|#f00|#ff0000|rgb\(\s*255\s*,\s*0\s*,\s*0\s*\))$/i.test((c || "").trim());
+  const walk = (n, st) => {
+    if (n.nodeType === 3) { const t = n.nodeValue.replace(/[\s\u00a0]+/g, " "); if (t) lines[lines.length - 1].push({ t, u: st.u, r: st.r }); return; }
+    if (n.nodeType !== 1) return;
+    const tag = n.tagName.toLowerCase(); if (/^(style|script|head|title|meta)$/.test(tag)) return;
+    const css = (n.getAttribute("style") || "").toLowerCase();
+    const ns = { u: st.u || tag === "u" || /text-decoration[^;]*underline/.test(css), r: st.r || isRed(n.style && n.style.color) || (tag === "font" && isRed(n.getAttribute("color"))) };
+    if (BLOCK.test(tag)) nl();
+    if (tag === "td" || tag === "th") lines[lines.length - 1].push({ t: " ", u: false, r: false });
+    n.childNodes.forEach(c => walk(c, ns));
+    if (BLOCK.test(tag)) nl();
+  };
+  walk(doc.body, { u: false, r: false });
+  if (doc.body.querySelector("img")) return { text: "", marks: 0 };   // có hình: để trình duyệt tự dán, khỏi mất hình
+  let marks = 0;
+  const out = lines.map(segs => {
+    const ch = []; segs.forEach(sg => { for (const c of sg.t) ch.push({ c, f: sg.u || sg.r }); });
+    let a = 0; while (a < ch.length && ch[a].c === " ") a++;
+    let b = ch.length; while (b > a && ch[b - 1].c === " ") b--;
+    const L = ch.slice(a, b); if (!L.length) return null;
+    const txt = L.map(x => x.c).join(""); const ins = [];
+    const re = /(^|\s)(\*?)([A-Fa-f])(?=\s*[.)])/g; let m, prev = null, first = true;
+    const share = L.filter(x => x.c !== " " && x.f).length / Math.max(1, L.filter(x => x.c !== " ").length);
+    while ((m = re.exec(txt))) {
+      const pos = m.index + m[1].length, ch = m[3].toUpperCase();
+      if (first && pos !== 0) break;                 // chỉ dòng BẮT ĐẦU bằng chữ cái phương án mới là dòng phương án
+      if (!first && ch.charCodeAt(0) !== prev.charCodeAt(0) + 1) continue;   // phương án kế tiếp phải đúng thứ tự A→B→C…
+      first = false; prev = ch;
+      if (m[2]) continue;
+      if (L[pos].f || (pos === 0 && share >= 0.6)) ins.push(pos);
+    }
+    let res = txt; ins.reverse().forEach(p => { res = res.slice(0, p) + "*" + res.slice(p); }); marks += ins.length;
+    return res;
+  });
+  return { text: out.filter(x => x !== null).join("\n"), marks };
+};
 App.parseSet = raw => {
   const items = [], errors = [], warnings = [], clusters = {};
-  let title = "", cur = null, cluster = null, seq = 0, mode = null;
+  let title = "", cur = null, cluster = null, seq = 0, mode = null, gap = false;
   const cleanRef = s => s.replace(/(câu\s*)?\[\d+p\](\s*(và|,|–|-)\s*(câu\s*)?\[\d+p\])*/gi, "các câu sau");
   const close = () => {
     if (!cur) return;
     const q = cur, base = { q: q.text.trim(), explain: q.explain.trim(), line: q.line, level: q.level, cluster: q.cluster };
     if (!base.q && !q.options.length) { cur = null; return; }
+    if (q.da) {
+      if (q.options.length && q.da.letters) { q.options.forEach((o, i) => { o.ok = q.da.letters.includes((o.label || String.fromCharCode(65 + i)).toUpperCase()); }); }
+      else if (!q.options.length && q.answer == null) { q.answer = q.da.raw; base.q = base.q; }
+    }
     const nc = q.options.filter(o => o.ok).length;
+    const keyBtns = q.options.filter(o => o.label).map(o => ({ label: o.label, line: o.line, idx: o.idx || 0 }));
     if (q.tf4 || (nc > 1 && q.options.length >= 3)) {
       if (!q.tf4) warnings.push({ line: q.line, msg: "Có nhiều phương án đúng nên được hiểu là câu Đúng/Sai nhiều ý. Thêm [TF] để ghi rõ." });
       if (q.options.length < 2) errors.push({ line: q.line, msg: "Câu đúng/sai cần các ý a, b, c, d." });
+      else if (q.tf4 && nc === 0) { warnings.push({ line: q.line, msg: "Câu Đúng/Sai này chưa đánh dấu ý nào là đúng nên mọi ý đang tính là Sai. Thêm * trước chữ cái của ý đúng (hoặc gạch chân trong Word)." }); items.push({ ...base, type: "tf4", statements: q.options.map(o => o.t), truth: q.options.map(o => o.ok), fixed: q.options.map(o => o.fix) }); }
       else items.push({ ...base, type: "tf4", statements: q.options.map(o => o.t), truth: q.options.map(o => o.ok), fixed: q.options.map(o => o.fix) });
     } else if (q.options.length) {
       if (q.options.length < 2) errors.push({ line: q.line, msg: "Câu trắc nghiệm cần ít nhất 2 phương án." });
-      else if (nc === 0) errors.push({ line: q.line, msg: "Chưa đánh dấu đáp án đúng (gạch chân trong Word, hoặc thêm * trước chữ cái đúng)." });
+      else if (nc === 0) errors.push({ line: q.line, msg: "Chưa có đáp án đúng. Bấm chữ cái đáp án đúng bên dưới, hoặc thêm * trước chữ cái (gạch chân trong Word).", noKey: keyBtns });
       else items.push({ ...base, type: "mc", options: q.options.map(o => o.t), fixed: q.options.map(o => o.fix), correct: q.options.findIndex(o => o.ok) });
     } else if (q.answer != null) {
       const a = q.answer.trim(), low = a.toLowerCase();
@@ -1300,14 +1363,16 @@ App.parseSet = raw => {
     if (cluster) { cluster.passage += (cluster.passage ? "\n" : "") + cleanRef(s); return true; }
     return false;
   };
-  const addOption = (label, okMark, text) => {
+  const LET = /^[A-F](?:\s*(?:,|;|&|\+|và|\s)\s*[A-F])*$/i;
+  const addOption = (label, okMark, text, line) => {
     let t = text.trim(), fix = false;
     if (t.startsWith("#")) { fix = true; t = t.slice(1).trim(); }
-    cur.options.push({ t, ok: okMark, fix });
+    cur.options.push({ t, ok: okMark, fix, label, line });
   };
   String(raw || "").split(/\r?\n/).forEach((l, i) => {
     const line = i + 1; let s = l.trim(), m;
-    if (!s) { if (cur && mode !== "explain") close(); return; }
+    if (!s) { if (cur && mode !== "explain") gap = true; return; }
+    const gapNow = gap; gap = false;
     if (s.startsWith("\\")) { if (!append(s.slice(1))) errors.push({ line, msg: "Dòng chữ này không thuộc câu hỏi nào." }); return; }
     // thẻ điều khiển của OLM ở đầu dòng
     while ((m = s.match(/^\[(ONE|DIV|FIX)\]\s*/i))) {
@@ -1329,17 +1394,27 @@ App.parseSet = raw => {
     }
     if ((m = s.match(/^lời giải\s*[:.]?\s*(.*)$/i)) && cur) { mode = "explain"; if (m[1]) cur.explain += (cur.explain ? "\n" : "") + m[1]; return; }
     if ((m = s.match(/\[\[(.*?)\]\]/)) && cur && mode !== "explain") { cur.answer = m[1].trim(); return; }
+    // dòng đáp án kiểu "Đáp án: B", "ĐA: B", "Chọn B", "Đáp án: 4"
+    let da = null;
+    if (cur && (m = s.match(/^(đáp\s*án|đ\.?a|chọn|answer)(?:\s*đúng)?\s*([:.\-]?)\s*(.+)$/i)) && (mode !== "explain" || LET.test(m[3].replace(/[.)]$/, "").trim()))) {
+      if (/^đ\.?a$/i.test(m[1]) && !m[2]) m = null;
+      else { const v = m[3].replace(/[.)]$/, "").trim(), isL = LET.test(v), strong = /^(đáp|answer)/i.test(m[1]) || /^đ/i.test(m[1]);
+      if (isL) da = { letters: v.toUpperCase().match(/[A-F]/g), raw: v };
+      else if (m[2] === ":" && strong && !/^chọn/i.test(m[1])) da = { letters: null, raw: m[3].trim() }; }
+    }
+    if (da) { cur.da = da; return; }
+    if (gapNow && cur && mode !== "explain" && !/^(\*?\s*[A-Fa-f]\s*[.)]|[*\-+=!])/.test(s)) close();
     if ((m = s.match(/^(.+?)\s*::\s*(.+)$/)) && !cur && !cluster) { items.push({ type: "pair", a: m[1].trim(), b: m[2].trim(), line }); return; }
     if (!cur) { if (!append(s)) errors.push({ line, msg: "Không hiểu dòng này. Câu hỏi bắt đầu bằng \"Câu 1.\" hoặc dấu ?, cặp ghép viết dạng A :: B." }); return; }
     if (mode === "explain") { append(s); return; }
     if ((m = s.match(/^(\*?)\s*([A-Fa-f])\s*[.)]\s*(.*)$/))) {
       // nhiều phương án trên một dòng: "A. x   B. y   C. z   D. w"
       const parts = (m[1] + m[2] + ". " + m[3]).split(/\s+(?=\*?[B-F]\.\s)/);
-      if (parts.length > 1 && m[2].toUpperCase() === "A") parts.forEach(p => { const k = p.match(/^(\*?)\s*([A-F])\.\s*(.*)$/); if (k) addOption(k[2], !!k[1], k[3]); });
-      else addOption(m[2], !!m[1], m[3]);
+      if (parts.length > 1 && m[2].toUpperCase() === "A") parts.forEach((p, pi) => { const k = p.match(/^(\*?)\s*([A-F])\.\s*(.*)$/); if (k) { addOption(k[2], !!k[1], k[3], line); cur.options[cur.options.length - 1].idx = pi; } });
+      else addOption(m[2], !!m[1], m[3], line);
       return;
     }
-    if ((m = s.match(/^([*\-+])\s+(.*)$/)) || (m = s.match(/^([*\-+])(\S.*)$/))) { addOption("", m[1] === "*", m[2]); return; }
+    if ((m = s.match(/^([*\-+])\s+(.*)$/)) || (m = s.match(/^([*\-+])(\S.*)$/))) { addOption("", m[1] === "*", m[2], line); return; }
     if ((m = s.match(/^=\s*(.*)$/))) { cur.answer = m[1]; return; }
     if ((m = s.match(/^!\s*(.*)$/))) { cur.explain += (cur.explain ? "\n" : "") + m[1]; return; }
     append(s);
@@ -4045,7 +4120,11 @@ const G = {
   id: "okchu", name: "Ô chữ bí mật", uses: "questions",
   blurb: "Kiểu Olympia: mở từng hàng ngang để lộ từ khóa dọc, 4 tổ giành điểm, máy đọc câu hỏi cho cả lớp.",
   art: `<svg viewBox="0 0 120 100">${[1, 0, 2, 1].map((o, i) => [0, 1, 2, 3, 4].map(c => { const k = c + o === 3; return `<rect x="${8 + (c + o) * 18}" y="${10 + i * 22}" width="16" height="16" rx="3" fill="${k ? "var(--a3)" : "var(--surface)"}" stroke="${k ? "var(--a3)" : "var(--fg)"}" stroke-width="2"/>`; }).join("")).join("")}</svg>`,
-  ready() { return ""; },
+  ready() { return ""; },   // Ô chữ luôn vào được (có mẫu và màn Soạn từng hàng); thiếu câu thì note() nhắc
+  note() {
+    const c = candidates(App.set().raw), n = c.ok.length, k = c.skipped.filter(x => /số|ngắn/.test(x.why)).length;
+    return n >= KMIN ? "" : `Bộ này mới có ${n} câu trả lời ngắn dùng được (cần ${KMIN}${k ? `; ${k} câu có đáp án là số` : ""}). Vào để dùng mẫu hoặc soạn từng hàng.`;
+  },
   settings: [
     { key: "look", label: "Giao diện bảng", type: "seg", options: { den: "Bảng đèn (tối)", giay: "Giấy sáng (phòng sáng)" }, default: "den", note: "Giấy sáng: nền trắng, viền đậm, tương phản cao cho phòng nhiều ánh sáng hoặc máy chiếu yếu." },
     { key: "teamCount", label: "Số tổ chơi (khi chưa chia nhóm)", type: "range", min: 2, max: 8, default: 4 },
@@ -4822,6 +4901,19 @@ function go(v, gameId) {
   else if (v === "game") game(gameId);
 }
 App.go = go;
+/* Danh sách trò chơi cho bộ câu hỏi/lớp đang chọn: dùng được → why "", chưa dùng được → why là lý do (hiện trên nút khóa).
+   Quy tắc nằm ở đây (khung chung), lấy từ ready() của từng trò; note() (tùy chọn) = trò vẫn vào được nhưng cần soạn thêm. */
+App.gameChoices = () => {
+  const out = [], hasQ = !!App.parsed().nQ;
+  App.order.forEach(id => {
+    const g = App.games[id], why = g.ready ? g.ready() : "", soft = !why && g.note ? g.note() : "";
+    if (id === "wheel") {
+      out.push({ id, name: "Vòng quay gọi tên", why, soft, set: { askQ: false }, uses: g.uses });
+      out.push({ id, name: "Vòng quay gọi tên + câu hỏi", why: why || (hasQ ? "" : "Bộ câu hỏi đang chọn chưa có câu hỏi nào."), soft: "", set: { askQ: true }, uses: "questions" });
+    } else out.push({ id, name: g.name, why, soft, uses: g.uses });
+  });
+  return out;
+};
 App.refreshIfIdle = () => { if (view === "home" || view === "bank") go(view); };
 
 /* ---------- Trang chính ---------- */
@@ -4866,9 +4958,9 @@ function home() {
     </div>
     <div class="section-title"><h2>Trò chơi</h2></div>
     <div class="games">${App.order.map(id => {
-      const g = App.games[id], why = g.uses === "questions" && !mySets.length && !hasBank ? `Môn ${subjName} chưa có bộ câu hỏi.` : g.ready ? g.ready() : "";
+      const g = App.games[id], why = g.uses === "questions" && !mySets.length && !hasBank ? `Môn ${subjName} chưa có bộ câu hỏi.` : g.ready ? g.ready() : "", soft = !why && g.note ? g.note() : "";
       return `<button class="gcard" data-g="${id}"><div class="art">${g.art || ""}</div><div class="body"><h3>${esc(g.name)}</h3><p>${esc(g.blurb)}</p>
-        <span class="needs ${why ? "no" : "ok"}">${why ? esc(why) : (g.uses === "class" ? "Dùng danh sách lớp" : "Dùng bộ câu hỏi")} </span></div></button>`;
+        <span class="needs ${why ? "no" : soft ? "soft" : "ok"}">${why ? "🔒 " + esc(why) : soft ? esc(soft) : (g.uses === "class" ? "Dùng danh sách lớp" : "Dùng bộ câu hỏi")} </span></div></button>`;
     }).join("")}</div>
   </div>`;
   $("hClass").value = c.id; if (set && $("hSet")) $("hSet").value = set.id;
@@ -5011,7 +5103,7 @@ function sets() {
           <div class="ehead">
             <input type="text" id="sName" class="ename" aria-label="Tên bộ câu hỏi" placeholder="Tên bộ câu hỏi">
             <select id="sSubj" class="esubj" aria-label="Môn của bộ câu hỏi">${Object.entries(App.SUBJECTS).map(([k, v]) => `<option value="${k}">${v.name}</option>`).join("")}</select>
-            <button class="btn primary" id="sPlay">${ICONS.play}Chơi Đố vui</button>
+            <div class="gpickwrap"><button class="btn primary" id="sPlay" aria-haspopup="true" aria-expanded="false">${ICONS.play}Chơi ▾</button><div class="gpick" id="gPick" role="menu" hidden></div></div>
           </div>
           <div class="row toolbar">
             <label class="btn small" for="sImgIn">Chèn hình</label>
@@ -5067,7 +5159,7 @@ function sets() {
     $("tEmpty").onclick = () => { $("tEmptyRow").innerHTML = `<div class="confirm" style="flex:1">Xóa hẳn ${tr.length} bộ trong thùng rác? <button class="btn small danger" id="tY">Xóa hẳn</button><button class="btn small" id="tN">Thôi</button></div>`;
       $("tY").onclick = () => { S.trash = []; App.save(); list(); App.toast("Đã dọn sạch thùng rác."); }; $("tN").onclick = renderTrash; };
   };
-  const prev = () => {
+  const prev = () => { if (!$("sSum")) return;
     const p = App.parseSet(App.set().raw);
     const parts = [p.nMC && `${p.nMC} trắc nghiệm`, p.nTF4 && `${p.nTF4} đúng/sai 4 ý`, p.nShort && `${p.nShort} trả lời ngắn`, p.nPair && `${p.nPair} cặp ghép`].filter(Boolean);
     $("sSum").textContent = `Xem trước: ${parts.join(" · ") || "chưa có câu hỏi"}${p.errors.length ? ` · ${p.errors.length} lỗi` : ""}${p.warnings.length ? ` · ${p.warnings.length} lưu ý` : ""}`;
@@ -5083,13 +5175,13 @@ function sets() {
         : x.options ? `<ol type="A">${x.options.map((o, i) => `<li class="${i === x.correct ? "ok" : ""}">${App.html(o)}</li>`).join("")}</ol>` : "";
       return pre + `<div class="pitem${x.cluster ? " incl" : ""}" data-line="${x.line}"><div class="k">${n}. ${kind[x.type]} ${lv(x)}</div>${App.html(x.q)}${opts}${x.type === "short" ? `<div style="color:var(--good);font-weight:600">→ ${App.html(x.answer)}</div>` : ""}${x.explain ? `<div class="note expl"><b>Lời giải:</b> ${App.html(x.explain)}</div>` : ""}</div>`;
     }).join("");
-    $("sPrev").innerHTML = p.errors.map(e => `<div class="pitem perr" data-line="${e.line}"><div class="k">Lỗi · dòng ${e.line}</div>${esc(e.msg)}</div>`).join("") +
+    $("sPrev").innerHTML = p.errors.map(e => `<div class="pitem perr" data-line="${e.line}"><div class="k">Lỗi · dòng ${e.line}</div>${esc(e.msg)}${e.noKey && e.noKey.length ? `<div class="fixrow">Đáp án đúng là: ${e.noKey.map(b => `<button class="btn small" data-fixl="${b.line}" data-fixi="${b.idx || 0}" data-fixc="${esc(b.label)}">${esc(b.label.toUpperCase())}</button>`).join("")}</div>` : ""}</div>`).join("") +
       p.warnings.map(e => `<div class="pitem pwarn" data-line="${e.line}"><div class="k">Lưu ý · dòng ${e.line}</div>${esc(e.msg)}</div>`).join("") +
       (body || `<div class="note">Gõ câu hỏi bên trái, hoặc bấm "Nhập đề Word". Phần này sẽ hiện ngay.</div>`);
-    $("sPlay").disabled = !p.nQ;
-    $("sPlay").title = p.nQ ? "Mở trò Đố vui với bộ câu hỏi này" : "Bộ này chưa có câu hỏi";
+    $("sPlay").title = "Chọn trò chơi để chơi ngay với bộ câu hỏi này";
+    if (!$("gPick").hidden) gPickDraw();
   };
-  const savedNote = () => { const x = App.set(); $("sSaved").textContent = x && x.updatedAt ? "✓ Đã lưu " + new Date(x.updatedAt).toLocaleTimeString("vi-VN", { hour: "2-digit", minute: "2-digit" }) : ""; };
+  const savedNote = () => { if (!$("sSaved")) return; const x = App.set(); $("sSaved").textContent = x && x.updatedAt ? "✓ Đã lưu " + new Date(x.updatedAt).toLocaleTimeString("vi-VN", { hour: "2-digit", minute: "2-digit" }) : ""; };
   const fill = () => {
     list();
     const empty = !hasCur(); $("sEditor").hidden = empty; $("sEmpty").hidden = !empty;
@@ -5138,15 +5230,33 @@ function sets() {
   };
   $("sNewTop").onclick = newSet;
   $("sBank").onclick = () => go("bank");
-  $("sPlay").onclick = () => { if (App.parsed().nQ) go("game", "quiz"); };
+  const gPickDraw = () => {
+    const box = $("gPick"), L = App.gameChoices();
+    box.innerHTML = `<div class="gp-head">Chơi bộ này bằng trò nào?</div>` + L.map((c, i) => `<button class="gp-item ${c.why ? "no" : c.soft ? "soft" : "ok"}" role="menuitem" data-i="${i}" ${c.why ? 'aria-disabled="true"' : ""}>
+      <b>${c.why ? "🔒" : "▶"} ${esc(c.name)}</b><span>${esc(c.why || c.soft || (c.uses === "class" ? "Dùng danh sách lớp – chơi được" : "Dùng bộ câu hỏi này – chơi được"))}</span></button>`).join("");
+    box.querySelectorAll(".gp-item").forEach(b => b.onclick = () => {
+      const c = L[+b.dataset.i];
+      if (c.why) { App.toast(c.why); return; }
+      if (c.set) { Object.assign(App.cfg(c.id), c.set); App.save(); }
+      go("game", c.id);
+    });
+  };
+  const gPickClose = () => { $("gPick").hidden = true; $("sPlay").setAttribute("aria-expanded", "false"); };
+  $("sPlay").onclick = e => { e.stopPropagation(); const open = $("gPick").hidden; if (open) { gPickDraw(); $("gPick").hidden = false; } else $("gPick").hidden = true; $("sPlay").setAttribute("aria-expanded", String(open)); };
+  if (App._gpOut) document.removeEventListener("click", App._gpOut);
+  App._gpOut = ev => { if (!document.getElementById("gPick")) { document.removeEventListener("click", App._gpOut); return; } if (!ev.target.closest(".gpickwrap")) gPickClose(); };
+  document.addEventListener("click", App._gpOut);
+  $("sPlay").parentElement.addEventListener("keydown", e => { if (e.key === "Escape" && !$("gPick").hidden) { gPickClose(); $("sPlay").focus(); } });
   $("sAll").onchange = e => { setsShowAll = e.target.checked; sets(); };
   $("sFind").oninput = list;
   $("sName").oninput = e => { App.set().name = e.target.value || "Bộ chưa đặt tên"; App.touchSet(App.set()); App.save(); list(); savedNote(); };
   $("sSubj").onchange = e => { App.set().subject = e.target.value; S.subject = e.target.value; App.touchSet(App.set()); App.save(); App.applySubject(); App.toast(`Đã chuyển bộ này sang môn ${App.SUBJECTS[e.target.value].name}.`); sets(); };
-  let t; $("sRaw").oninput = e => { const x = App.set(); x.raw = e.target.value; App.touchSet(x); const tt = App.parseSet(x.raw).title; if (tt && (x.name === "Bộ câu hỏi mới" || !x.name)) { x.name = tt; $("sName").value = tt; } App.save(); clearTimeout(t); t = setTimeout(() => { prev(); list(); savedNote(); }, 200); };
+  let t; $("sRaw").oninput = e => { const x = App.set(); x.raw = e.target.value; App.touchSet(x); const tt = App.parseSet(x.raw).title; if (tt && (x.name === "Bộ câu hỏi mới" || !x.name)) { x.name = tt; $("sName").value = tt; } App.save(); clearTimeout(t); t = setTimeout(() => { if (!$("sSum")) return; prev(); list(); savedNote(); }, 200); };
   $("sCopy").onclick = () => copy(App.set().raw, "Đã sao chép nội dung chữ. Hình ảnh không đi kèm, muốn gửi cả hình hãy dùng \"Lưu file .lopvui\".");
   // bấm vào mục xem trước → nhảy tới dòng tương ứng trong ô soạn
-  $("sPrev").onclick = e => { if (e.target.closest("[data-zoom]")) return; const it = e.target.closest("[data-line]"); if (!it) return; const ta = $("sRaw"), ln = +it.dataset.line, lines = ta.value.split("\n"); const pos = lines.slice(0, ln - 1).join("\n").length + (ln > 1 ? 1 : 0); ta.focus(); ta.setSelectionRange(pos, pos + (lines[ln - 1] || "").length); ta.scrollTop = Math.max(0, (ln - 4) * 21); };
+  $("sPrev").onclick = e => { const fb = e.target.closest("[data-fixl]"); if (fb) { const lines = $("sRaw").value.split("\n"), i = +fb.dataset.fixl - 1, c = fb.dataset.fixc.replace(/[^A-Za-z]/g, ""); const ln = lines[i] || "", k = +fb.dataset.fixi || 0;
+    if (/^\s*\*?\s*A\s*[.)]/i.test(ln) && ln.split(/\s+(?=\*?[B-F]\.\s)/).length > 1) { const pr = ln.split(/(\s+(?=\*?[B-F]\.\s))/); pr[2 * k] = pr[2 * k].replace(/^(\s*)\*?/, "$1*"); lines[i] = pr.join(""); }
+    else lines[i] = ln.replace(/^(\s*)\*?/, "$1*"); setRaw(lines.join("\n")); App.toast("Đã đánh dấu đáp án " + c.toUpperCase() + "."); return; } if (e.target.closest("[data-zoom]")) return; const it = e.target.closest("[data-line]"); if (!it) return; const ta = $("sRaw"), ln = +it.dataset.line, lines = ta.value.split("\n"); const pos = lines.slice(0, ln - 1).join("\n").length + (ln > 1 ? 1 : 0); ta.focus(); ta.setSelectionRange(pos, pos + (lines[ln - 1] || "").length); ta.scrollTop = Math.max(0, (ln - 4) * 21); };
   // chèn hình: dán, kéo thả, chọn file
   const insertImages = async files => {
     const ta = $("sRaw"); let at = ta.selectionStart ?? ta.value.length, ins = "";
@@ -5155,7 +5265,16 @@ function sets() {
     const v = ta.value, before = v.slice(0, at), sep = before && !before.endsWith("\n") && !before.endsWith(" ") ? " " : "";
     setRaw(before + sep + ins + v.slice(at)); ta.focus(); ta.setSelectionRange(at + sep.length + ins.length, at + sep.length + ins.length); App.toast("Đã chèn hình.");
   };
-  $("sRaw").addEventListener("paste", e => { const files = [...(e.clipboardData?.files || [])].filter(f => /^image\//.test(f.type)); if (files.length) { e.preventDefault(); insertImages(files); } });
+  $("sRaw").addEventListener("paste", e => {
+    const files = [...(e.clipboardData?.files || [])].filter(f => /^image\//.test(f.type)); if (files.length) { e.preventDefault(); insertImages(files); return; }
+    const h = e.clipboardData && e.clipboardData.getData("text/html");
+    if (!h) return;
+    let r; try { r = App.htmlToRaw(h); } catch (_) { return; }
+    if (!r || !r.marks) return;   // không có gạch chân/đỏ → để trình duyệt dán chữ thường như cũ
+    e.preventDefault(); const ta = $("sRaw");
+    ta.setRangeText(r.text, ta.selectionStart, ta.selectionEnd, "end"); ta.dispatchEvent(new Event("input", { bubbles: true }));
+    App.toast(`Đã dán và giữ ${r.marks} đáp án gạch chân (hiện dấu *).`);
+  });
   $("sRaw").addEventListener("dragover", e => { if ([...e.dataTransfer.items].some(i => i.kind === "file")) e.preventDefault(); });
   $("sRaw").addEventListener("drop", e => { const files = [...e.dataTransfer.files]; if (!files.length) return; e.preventDefault(); const f = files[0]; if (/\.docx$/i.test(f.name)) importWord(f); else insertImages(files); });
   $("sImgIn").onchange = e => { insertImages([...e.target.files]); e.target.value = ""; };
