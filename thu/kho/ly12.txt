@@ -1,0 +1,3637 @@
+@goi ly12 | ly | 12 | Vật lí 12 | Kết nối tri thức với cuộc sống
+
+@chuong I | Vật lí nhiệt
+
+@bai 1 | Cấu trúc của chất. Sự chuyển thể
+Câu 1. [NB] Chất ở thể nào sau đây có thể tích và hình dạng xác định?
+A. Thể khí.
+B. Thể lỏng.
+*C. Thể rắn.
+D. Thể rắn hoặc thể lỏng.
+Lời giải
+Chất rắn giữ nguyên cả thể tích và hình dạng. Chất lỏng chỉ có thể tích xác định, chất khí không có cả hai.
+
+Câu 2. [NB] Theo mô hình động học phân tử, các chất được cấu tạo từ
+*A. các phân tử (nguyên tử) chuyển động hỗn loạn không ngừng.
+B. các hạt liền khối đứng yên tại các vị trí cố định.
+C. các hạt chỉ chuyển động khi nhiệt độ cao hơn 0 °C.
+D. các hạt chuyển động theo quỹ đạo tròn quanh một tâm cố định.
+Lời giải
+Mô hình động học phân tử cho rằng mọi chất đều gồm các hạt chuyển động hỗn loạn không ngừng và giữa chúng có lực tương tác.
+
+Câu 3. [NB] Chuyển động Brown là chuyển động hỗn loạn của
+A. các phân tử nước trong một cốc nước đầy.
+B. các nguyên tử trong một khối chất rắn kết tinh.
+C. các phân tử khí chứa trong bình kín.
+*D. các hạt phấn hoa nhỏ lơ lửng trong chất lỏng.
+Lời giải
+Hạt phấn hoa nhỏ chuyển động hỗn loạn vì bị các phân tử nước va chạm không cân bằng từ nhiều phía.
+
+Câu 4. [NB] Sự chuyển từ thể lỏng sang thể rắn được gọi là
+A. sự nóng chảy.
+*B. sự đông đặc.
+C. sự ngưng tụ.
+D. sự thăng hoa.
+Lời giải
+Lỏng sang rắn là đông đặc.
+
+Câu 5. [NB] Sự chuyển từ thể rắn sang thể lỏng được gọi là
+*A. sự nóng chảy.
+B. sự đông đặc.
+C. sự hóa hơi.
+D. sự ngưng tụ.
+Lời giải
+Rắn sang lỏng là nóng chảy.
+
+Câu 6. [NB] Sự chuyển từ thể khí (hơi) sang thể lỏng được gọi là
+A. sự hóa hơi.
+B. sự thăng hoa.
+*C. sự ngưng tụ.
+D. sự đông đặc.
+Lời giải
+Khí (hơi) sang lỏng là ngưng tụ.
+
+Câu 7. [NB] Trong chất rắn tinh thể, các nguyên tử (phân tử)
+A. chuyển động hoàn toàn tự do trong toàn bộ thể tích chất rắn.
+B. đứng yên tuyệt đối tại các vị trí xác định.
+C. nằm cách xa nhau rất nhiều so với kích thước của chúng.
+*D. sắp xếp có trật tự và dao động quanh các vị trí cân bằng xác định.
+Lời giải
+Ở chất rắn tinh thể, các hạt xếp có trật tự (mạng tinh thể) và dao động quanh vị trí cân bằng.
+
+Câu 8. [NB] So với chất rắn, lực liên kết giữa các phân tử của chất khí
+A. lớn hơn nhiều vì các phân tử khí chuyển động nhanh hơn.
+*B. nhỏ hơn rất nhiều, gần như không đáng kể.
+C. bằng nhau vì cùng cấu tạo từ các phân tử.
+D. lớn hơn một chút nhưng vẫn giữ được thể tích xác định.
+Lời giải
+Các phân tử khí cách xa nhau nên lực liên kết rất yếu, chúng chuyển động gần như tự do.
+
+Câu 9. [TH] Chất lỏng có thể tích xác định nhưng không có hình dạng xác định vì
+*A. lực liên kết đủ giữ các phân tử gần nhau nhưng không cố định vị trí.
+B. các phân tử đứng yên tại các vị trí cố định như trong chất rắn.
+C. các phân tử chuyển động hoàn toàn tự do, không có lực liên kết.
+D. các phân tử sắp xếp theo trật tự như trong mạng tinh thể.
+Lời giải
+Các phân tử lỏng ở gần nhau nên thể tích xác định, nhưng chúng có thể đổi chỗ cho nhau nên chất lỏng chảy và lấy hình dạng bình chứa.
+
+Câu 10. [TH] Chất khí dễ bị nén hơn chất lỏng và chất rắn vì
+A. phân tử khí rất nhẹ so với phân tử chất lỏng và chất rắn.
+B. lực liên kết giữa các phân tử khí rất lớn nên dễ bị ép lại.
+C. các phân tử khí đứng yên nên dễ bị ép sát nhau.
+*D. khoảng cách giữa các phân tử khí rất lớn.
+Lời giải
+Giữa các phân tử khí có nhiều khoảng trống nên có thể đẩy chúng lại gần nhau khi nén.
+
+Câu 11. [TH] Hiện tượng nào sau đây là sự ngưng tụ?
+A. Cục nước đá để ngoài trời dần tan thành nước lỏng.
+B. Quần áo ướt phơi ngoài nắng dần khô đi sau vài giờ.
+*C. Hơi nước trong không khí đọng thành giọt sương trên lá cây.
+D. Viên băng phiến để trong tủ quần áo nhỏ dần theo thời gian.
+Lời giải
+Hơi nước gặp lạnh chuyển thành các giọt nước nhỏ là ngưng tụ. A là nóng chảy, B là bay hơi, D là thăng hoa.
+
+Câu 12. [TH] Nhỏ một giọt mực vào cốc nước nóng và một giọt mực vào cốc nước lạnh, mực lan nhanh hơn ở cốc nước nóng vì
+A. nước nóng nhẹ hơn nên mực chìm nhanh hơn.
+*B. ở nhiệt độ cao các phân tử chuyển động nhanh hơn.
+C. nước nóng có lực liên kết giữa các phân tử lớn hơn.
+D. nước nóng có nhiều phân tử hơn nước lạnh.
+Lời giải
+Nhiệt độ càng cao thì chuyển động hỗn loạn của các phân tử càng nhanh nên sự khuếch tán càng nhanh.
+
+Câu 13. [TH] Phát biểu nào sau đây đúng khi so sánh khoảng cách giữa các phân tử ở ba thể?
+A. Khoảng cách giữa các phân tử lớn nhất ở thể rắn.
+B. Khoảng cách giữa các phân tử ở thể khí xấp xỉ ở thể lỏng.
+C. Khoảng cách giữa các phân tử ở thể lỏng lớn hơn nhiều so với thể khí.
+*D. Khoảng cách ở thể khí lớn hơn rất nhiều so với ở thể lỏng và thể rắn.
+Lời giải
+Thể khí có các phân tử cách xa nhau, còn thể lỏng và thể rắn có các phân tử nằm sát nhau.
+
+Câu 14. [TH] Sự khác nhau cơ bản giữa bay hơi và sôi là
+*A. bay hơi xảy ra ở mặt thoáng ở mọi nhiệt độ, còn sôi xảy ra cả trong lòng chất lỏng ở nhiệt độ xác định.
+B. bay hơi chỉ xảy ra ở nhiệt độ xác định, còn sôi xảy ra ở mọi nhiệt độ của chất lỏng.
+C. bay hơi cần cung cấp nhiệt từ bên ngoài, còn sôi thì không cần cung cấp nhiệt.
+D. bay hơi chỉ xảy ra với nước, còn sôi xảy ra với mọi chất lỏng khác.
+Lời giải
+Bay hơi chỉ xảy ra ở mặt thoáng và ở bất kì nhiệt độ nào; sôi xảy ra cả ở mặt thoáng lẫn trong lòng chất lỏng, tại nhiệt độ sôi xác định.
+
+Câu 15. [TH] Chất rắn vô định hình (như thủy tinh, nhựa) khác chất rắn tinh thể ở chỗ
+A. không có hình dạng xác định.
+B. không bị nóng lên khi được cung cấp nhiệt.
+*C. không có nhiệt độ nóng chảy xác định.
+D. các hạt đứng yên hoàn toàn.
+Lời giải
+Chất rắn vô định hình mềm dần rồi chảy lỏng khi nóng lên chứ không nóng chảy tại một nhiệt độ xác định.
+
+Câu 16. [TH] Nước đá nổi trên mặt nước vì
+A. nước đá có khối lượng nhỏ hơn nước khi ở nhiệt độ thấp.
+*B. khi đông đặc thể tích tăng nên khối lượng riêng nhỏ hơn của nước.
+C. khi đông đặc khối lượng của nước giảm đi so với lúc còn là nước lỏng.
+D. lực liên kết giữa các phân tử nước đá bằng 0 nên chúng nổi lên.
+Lời giải
+Khối lượng không đổi nhưng thể tích tăng nên khối lượng riêng của nước đá nhỏ hơn nước lỏng.
+
+Câu 17. [VD] Đun nóng đều một chất rắn, nhiệt độ tăng đến 80 °C thì giữ nguyên 80 °C trong 6 phút dù vẫn được cung cấp nhiệt, sau đó lại tăng. Kết luận nào sau đây hợp lí?
+*A. Chất rắn kết tinh đang nóng chảy ở 80 °C, nhiệt dùng để phá vỡ liên kết các hạt.
+B. Chất đó là chất rắn vô định hình đang mềm dần ra khi bị nung nóng.
+C. Chất đó đã bay hơi hết nên nhiệt độ không còn tăng nữa ở 80 °C.
+D. Nhiệt kế bị hỏng nên chỉ một giá trị không đổi trong suốt thời gian đó.
+Lời giải
+Nhiệt độ không đổi khi vẫn nhận nhiệt là dấu hiệu của quá trình chuyển thể ở chất kết tinh.
+
+Câu 18. [VD] Một chai nước đầy được đậy kín rồi đặt vào ngăn đá. Khi nước đóng băng hoàn toàn, thể tích khối chất trong chai thay đổi thế nào? Biết khối lượng riêng của nước là 1000 kg/m³ và của nước đá là 920 kg/m³.
+A. Giảm khoảng 8 %.
+B. Tăng khoảng 92 %.
+C. Không đổi vì khối lượng không đổi.
+*D. Tăng khoảng 8,7 %.
+Lời giải
+$V_đ/V_n = \dfrac{\rho_n}{\rho_đ} = \dfrac{1000}{920} \approx 1,087$, tức thể tích tăng khoảng 8,7 %. Vì vậy chai kín đầy nước có thể bị nứt.
+
+Câu 19. [VD] Một khối nước đá nổi trong nước. Cho khối lượng riêng của nước đá là 920 kg/m³ và của nước là 1000 kg/m³. Phần trăm thể tích khối nước đá chìm trong nước là
+A. 8 %.
+B. 50 %.
+*C. 92 %.
+D. 100 %.
+Lời giải
+Vật nổi nên trọng lượng bằng lực đẩy Archimedes: $\rho_đ V g = \rho_n V_{chìm} g$, suy ra $\dfrac{V_{chìm}}{V} = \dfrac{920}{1000} = 92\%$.
+
+Câu 20. [VD] Quần áo ướt phơi ngoài nắng có gió nhanh khô hơn phơi ở nơi lặng gió vì
+A. gió làm tăng lực liên kết giữa các phân tử nước.
+*B. gió cuốn hơi nước ra khỏi bề mặt nên tốc độ bay hơi tăng.
+C. gió làm nhiệt độ sôi của nước giảm.
+D. gió làm nước ngưng tụ nhanh hơn.
+Lời giải
+Gió đưa các phân tử hơi nước ra xa bề mặt nên ít phân tử quay lại bề mặt, nước bay hơi nhanh hơn.
+
+Câu 21. [VD] Một chất khí được nén mạnh và làm lạnh đến khi chuyển thành chất lỏng. Trong quá trình đó, khoảng cách trung bình giữa các phân tử và lực liên kết giữa chúng thay đổi như thế nào?
+*A. Khoảng cách giảm mạnh, lực liên kết tăng lên rõ rệt.
+B. Khoảng cách tăng, lực liên kết giảm.
+C. Khoảng cách không đổi, lực liên kết tăng.
+D. Khoảng cách giảm, lực liên kết không đổi.
+Lời giải
+Khi ngưng tụ, các phân tử tiến sát nhau nên lực liên kết giữa chúng tăng đáng kể.
+
+Câu 22. [VD] Ở nhiệt độ phòng, chất X có hình dạng và thể tích xác định; chất Y có thể tích xác định nhưng hình dạng theo bình chứa; chất Z lan ra chiếm toàn bộ thể tích bình. Thể của X, Y, Z lần lượt là
+A. lỏng, rắn, khí.
+B. khí, lỏng, rắn.
+C. rắn, khí, lỏng.
+*D. rắn, lỏng, khí.
+Lời giải
+Rắn có hình dạng và thể tích xác định; lỏng chỉ có thể tích xác định; khí lan ra chiếm toàn bộ bình chứa.
+
+Câu 23. [TF] [TH] Về cấu trúc của ba thể của chất:
+*A. Ở thể rắn tinh thể, các phân tử dao động quanh vị trí cân bằng xác định.
+B. Ở thể lỏng, các phân tử đứng yên tại các vị trí cố định.
+C. Ở thể khí, các phân tử liên kết chặt chẽ với nhau.
+*D. Khoảng cách giữa các phân tử khí lớn hơn nhiều so với khoảng cách giữa các phân tử lỏng.
+Lời giải
+Ở thể lỏng các phân tử vẫn chuyển động và đổi chỗ cho nhau; ở thể khí lực liên kết rất yếu, các phân tử cách xa nhau.
+
+Câu 24. [TF] [TH] Về sự chuyển thể:
+*A. Nóng chảy là quá trình chuyển từ thể rắn sang thể lỏng.
+B. Ngưng tụ là quá trình chuyển từ thể lỏng sang thể rắn.
+*C. Thăng hoa là quá trình chuyển trực tiếp từ thể rắn sang thể khí.
+*D. Hóa hơi gồm hai hình thức là bay hơi và sôi.
+Lời giải
+Ngưng tụ là chuyển từ thể khí (hơi) sang thể lỏng; chuyển từ lỏng sang rắn là đông đặc.
+
+Câu 25. [TF] [TH] Về chuyển động Brown:
+A. Đó là chuyển động hỗn loạn của các phân tử nước.
+*B. Hạt phấn hoa chuyển động hỗn loạn do bị các phân tử nước va chạm không cân bằng từ nhiều phía.
+C. Nhiệt độ càng cao thì chuyển động Brown càng yếu.
+D. Chuyển động Brown chỉ xảy ra khi có dòng nước chảy.
+Lời giải
+Chuyển động Brown là chuyển động của hạt nhỏ lơ lửng, không phải của chính phân tử nước. Nhiệt độ càng cao thì chuyển động càng mạnh và không cần dòng chảy.
+
+Câu 26. [TF] [VD] Đun nóng đều một chất rắn. Nhiệt độ của chất tăng từ 30 °C đến 80 °C trong 4 phút đầu, giữ nguyên 80 °C từ phút thứ 4 đến phút thứ 10, rồi tăng từ 80 °C lên 120 °C trong 4 phút tiếp theo.
+*A. Chất này nóng chảy ở 80 °C.
+*B. Từ phút thứ 4 đến phút thứ 10, nhiệt cung cấp làm thay đổi thể mà không làm tăng nhiệt độ.
+*C. Sau phút thứ 10, chất ở thể lỏng.
+*D. Chất này là chất rắn kết tinh.
+Lời giải
+Nhiệt độ không đổi trong lúc vẫn nhận nhiệt cho thấy chất kết tinh đang nóng chảy; hết giai đoạn đó chất hoàn toàn ở thể lỏng và nhiệt độ tiếp tục tăng.
+
+Câu 27. [TF] [VD] Cho nước lỏng đóng băng hoàn toàn thành nước đá (khối lượng riêng của nước đá nhỏ hơn của nước):
+*A. Thể tích nước đá lớn hơn thể tích nước ban đầu.
+B. Khối lượng nước đá lớn hơn khối lượng nước ban đầu.
+*C. Khối lượng riêng của nước đá nhỏ hơn khối lượng riêng của nước lỏng.
+D. Chai thủy tinh đậy kín, chứa đầy nước, để lâu trong ngăn đá luôn an toàn vì nước đá có thể tích nhỏ hơn nước.
+Lời giải
+Khối lượng được bảo toàn. Nước đóng băng làm thể tích tăng nên chai kín đầy nước có thể bị nứt vỡ.
+
+Câu 28. [TF] [VD] Xét các hiện tượng trong đời sống:
+*A. Sương đọng trên lá cây vào buổi sáng là sự ngưng tụ.
+*B. Viên băng phiến để trong tủ nhỏ dần là sự thăng hoa.
+*C. Nước trong khay đóng thành đá trong ngăn đá là sự đông đặc.
+D. Nước trong chậu phơi ngoài nắng cạn dần là sự sôi.
+Lời giải
+Nước trong chậu cạn dần do bay hơi (chỉ xảy ra ở mặt thoáng), chưa phải sôi vì nhiệt độ chưa đạt nhiệt độ sôi.
+
+Câu 29. [TF] [VD] Đun nước trong ấm trên bếp đến khi sôi:
+*A. Khi sôi, bọt hơi nước hình thành ngay trong lòng nước rồi nổi lên mặt thoáng.
+B. Nhiệt độ của nước tiếp tục tăng đều khi đang sôi ở áp suất không đổi.
+C. Sự sôi chỉ xảy ra ở mặt thoáng của nước.
+*D. Trước khi sôi, nước đã bay hơi ở mặt thoáng.
+Lời giải
+Khi đang sôi ở áp suất không đổi, nhiệt độ giữ nguyên. Sự sôi xảy ra cả trong lòng chất lỏng, còn bay hơi xảy ra ở mọi nhiệt độ.
+
+Câu 30. [TH] Một lít nước (khối lượng 1 kg) đông đặc hoàn toàn thành nước đá có khối lượng riêng 920 kg/m³. Tính thể tích khối nước đá thu được (theo đơn vị lít, làm tròn đến hai chữ số thập phân).
+Trả lời: [[1,09]]
+Lời giải
+$V = \dfrac{m}{\rho} = \dfrac{1}{920}\ \text{m}^3 \approx 1,087 \cdot 10^{-3}\ \text{m}^3 \approx 1,09$ lít.
+
+Câu 31. [TH] Một giọt nước có khối lượng 0,05 g. Biết khối lượng mol của nước là 18 g/mol và số Avogadro $N_A = 6,02 \cdot 10^{23}$ mol⁻¹. Tính số phân tử nước trong giọt (theo đơn vị $10^{21}$ phân tử, làm tròn đến hai chữ số thập phân).
+Trả lời: [[1,67]]
+Lời giải
+$N = \dfrac{m}{M} N_A = \dfrac{0,05}{18} \cdot 6,02 \cdot 10^{23} \approx 1,67 \cdot 10^{21}$ phân tử.
+
+Câu 32. [TH] Một khối nước đá thể tích 1,15 lít tan hoàn toàn thành nước lỏng. Biết khối lượng riêng của nước đá là 920 kg/m³ và của nước lỏng là 1000 kg/m³. Tính thể tích nước lỏng thu được (theo đơn vị mL, làm tròn đến hàng đơn vị).
+Trả lời: [[1058]]
+Lời giải
+Khối lượng: $m = 920 \cdot 1,15 \cdot 10^{-3} = 1,058$ kg. Thể tích nước: $V = \dfrac{1,058}{1000}$ m³ = 1,058 lít = 1058 mL.
+
+Câu 33. [VD] Khối lượng riêng của nhôm là 2,7 g/cm³, khối lượng mol là 27 g/mol, số Avogadro $N_A = 6,02 \cdot 10^{23}$ mol⁻¹. Coi thể tích khối nhôm được chia đều cho các nguyên tử. Tính thể tích trung bình mỗi nguyên tử chiếm (theo đơn vị $10^{-23}$ cm³, làm tròn đến hai chữ số thập phân).
+Trả lời: [[1,66]]
+Lời giải
+Thể tích 1 mol: $\dfrac{27}{2,7} = 10$ cm³. Mỗi nguyên tử chiếm $\dfrac{10}{6,02 \cdot 10^{23}} \approx 1,66 \cdot 10^{-23}$ cm³.
+
+Câu 34. [VD] Một tảng băng trôi nổi trên nước biển. Khối lượng riêng của băng là 920 kg/m³ và của nước biển là 1025 kg/m³. Tính phần trăm thể tích tảng băng chìm trong nước (theo đơn vị %, làm tròn đến một chữ số thập phân).
+Trả lời: [[89,8]]
+Lời giải
+Vật nổi: $\dfrac{V_{chìm}}{V} = \dfrac{\rho_{băng}}{\rho_{biển}} = \dfrac{920}{1025} \approx 0,898$, tức 89,8 %.
+
+Câu 35. [VD] Một bình chứa 2,3 lít nước được đông đặc hoàn toàn thành nước đá, khối lượng riêng của nước là 1000 kg/m³ và của nước đá là 920 kg/m³. Tính thể tích nước đá (theo đơn vị lít, làm tròn đến một chữ số thập phân).
+Trả lời: [[2,5]]
+Lời giải
+Khối lượng $m = 2,3$ kg. Thể tích nước đá $V = \dfrac{2,3}{920} \cdot 1000 = 2,5$ lít.
+
+Câu 36. [VD] Ở điều kiện chuẩn, 1 cm³ chất khí chứa $2,7 \cdot 10^{19}$ phân tử. Coi thể tích được chia đều cho các phân tử. Tính thể tích trung bình mỗi phân tử khí chiếm (theo đơn vị $10^{-20}$ cm³, làm tròn đến một chữ số thập phân).
+Trả lời: [[3,7]]
+Lời giải
+$V_1 = \dfrac{1}{2,7 \cdot 10^{19}} \approx 3,7 \cdot 10^{-20}$ cm³.
+
+Câu 37. [VD] Nước lỏng có khối lượng riêng 1 g/cm³, khối lượng mol 18 g/mol, $N_A = 6,02 \cdot 10^{23}$ mol⁻¹. Coi thể tích được chia đều cho các phân tử. Tính thể tích trung bình mỗi phân tử nước chiếm (theo đơn vị $10^{-23}$ cm³, làm tròn đến hai chữ số thập phân).
+Trả lời: [[2,99]]
+Lời giải
+Thể tích 1 mol nước là 18 cm³, mỗi phân tử chiếm $\dfrac{18}{6,02 \cdot 10^{23}} \approx 2,99 \cdot 10^{-23}$ cm³.
+
+Câu 38. [VD] Một mol nước lỏng ở 100 °C chiếm thể tích khoảng 18 cm³. Một mol hơi nước ở 100 °C và áp suất 1 atm chiếm thể tích 30,6 lít. Hỏi khi hóa hơi hoàn toàn thì thể tích tăng khoảng bao nhiêu lần (theo đơn vị lần, làm tròn đến hàng đơn vị)?
+Trả lời: [[1700]]
+Lời giải
+$\dfrac{30,6 \cdot 1000}{18} = 1700$ lần, cho thấy khoảng cách giữa các phân tử ở thể khí lớn hơn rất nhiều so với thể lỏng.
+
+@bai 2 | Nội năng. Định luật I của nhiệt động lực học
+Câu 1. [NB] Nội năng của một vật là
+A. cơ năng của vật gồm động năng và thế năng của cả vật.
+*B. tổng động năng và thế năng của các phân tử cấu tạo nên vật.
+C. tổng nhiệt lượng mà vật đã nhận được từ môi trường.
+D. thế năng của cả vật trong trọng trường của Trái Đất.
+Lời giải
+Nội năng là tổng động năng của chuyển động hỗn loạn và thế năng tương tác của các phân tử.
+
+Câu 2. [NB] Đơn vị của nội năng trong hệ SI là
+A. oát (W).
+B. niutơn (N).
+C. kenvin (K).
+*D. jun (J).
+Lời giải
+Nội năng là một dạng năng lượng nên có đơn vị jun.
+
+Câu 3. [NB] Có hai cách làm thay đổi nội năng của một vật là
+*A. thực hiện công và truyền nhiệt.
+B. thay đổi khối lượng và thay đổi thể tích.
+C. chỉ truyền nhiệt.
+D. thay đổi vận tốc và thay đổi độ cao.
+Lời giải
+Nội năng của một vật thay đổi khi có thực hiện công hoặc truyền nhiệt.
+
+Câu 4. [NB] Hệ thức của định luật I của nhiệt động lực học (với $A$, $Q$ là công và nhiệt lượng hệ nhận được) là
+A. $\Delta U = A - Q$.
+B. $\Delta U = A \cdot Q$.
+*C. $\Delta U = A + Q$.
+D. $\Delta U = \dfrac{A}{Q}$.
+Lời giải
+Độ biến thiên nội năng bằng tổng công và nhiệt lượng mà hệ nhận được: $\Delta U = A + Q$.
+
+Câu 5. [NB] Trong hệ thức $\Delta U = A + Q$, khi hệ nhận nhiệt lượng thì
+A. $Q < 0$.
+B. $Q = 0$.
+C. $Q$ không xác định dấu.
+*D. $Q > 0$.
+Lời giải
+Quy ước: hệ nhận nhiệt thì $Q > 0$, hệ tỏa nhiệt thì $Q < 0$.
+
+Câu 6. [NB] Trong hệ thức $\Delta U = A + Q$, khi hệ nhận công thì
+A. $A < 0$.
+*B. $A > 0$.
+C. $A = 0$.
+D. $A = Q$.
+Lời giải
+Quy ước: hệ nhận công thì $A > 0$, hệ sinh công thì $A < 0$.
+
+Câu 7. [NB] Nội năng của một vật phụ thuộc vào
+*A. nhiệt độ và thể tích của vật.
+B. vận tốc chuyển động của vật.
+C. độ cao của vật so với mặt đất.
+D. khối lượng riêng và độ cao của vật.
+Lời giải
+Nhiệt độ quyết định động năng của các phân tử, thể tích quyết định thế năng tương tác giữa chúng.
+
+Câu 8. [NB] Truyền nhiệt là quá trình
+A. thực hiện công cơ học làm tăng thế năng của vật.
+B. làm thay đổi khối lượng của vật khi hai vật tiếp xúc.
+*C. làm thay đổi nội năng của vật mà không thực hiện công.
+D. làm thay đổi vận tốc chuyển động của cả vật.
+Lời giải
+Truyền nhiệt là sự truyền năng lượng giữa các vật có nhiệt độ khác nhau, không kèm theo thực hiện công.
+
+Câu 9. [TH] Cọ xát hai bàn tay vào nhau thấy tay nóng lên. Nội năng của bàn tay tăng bằng cách nào?
+A. Truyền nhiệt.
+*B. Thực hiện công.
+C. Cả truyền nhiệt và thực hiện công đều không xảy ra.
+D. Giảm khối lượng.
+Lời giải
+Lực ma sát thực hiện công làm tăng nội năng của bàn tay.
+
+Câu 10. [TH] Thả một thìa kim loại lạnh vào cốc nước nóng, nội năng của thìa tăng bằng cách
+*A. truyền nhiệt.
+B. thực hiện công.
+C. giảm thể tích.
+D. giảm nhiệt độ.
+Lời giải
+Thìa nhận năng lượng từ nước nóng mà không có thực hiện công, đó là truyền nhiệt.
+
+Câu 11. [TH] Khí trong xilanh bị nén nhanh thì nhiệt độ tăng lên. Nguyên nhân chủ yếu là
+A. khí nhận nhiệt từ pittông truyền sang.
+B. khí truyền nhiệt cho pittông và thành xilanh.
+C. khối lượng khí tăng lên khi bị nén.
+*D. pittông thực hiện công lên khí làm nội năng khí tăng.
+Lời giải
+Nén nhanh nên hầu như không kịp trao đổi nhiệt, công nhận được làm tăng nội năng của khí.
+
+Câu 12. [TH] Khối khí giãn nở và đẩy pittông chuyển động. Công mà khối khí nhận được trong quá trình này
+A. dương.
+B. bằng 0.
+*C. âm.
+D. luôn bằng nhiệt lượng khí nhận được.
+Lời giải
+Khí sinh công nên theo quy ước $A < 0$.
+
+Câu 13. [TH] Khi nhiệt độ của một khối khí xác định tăng còn thể tích không đổi thì nội năng của khối khí
+*A. tăng.
+B. giảm.
+C. không đổi.
+D. bằng không.
+Lời giải
+Nhiệt độ tăng làm động năng trung bình của các phân tử tăng nên nội năng tăng.
+
+Câu 14. [TH] Một khối khí nhận công 100 J và truyền ra môi trường nhiệt lượng 40 J. Nhiệt lượng $Q$ trong hệ thức định luật I là
+A. $+40$ J.
+B. $+100$ J.
+C. $-100$ J.
+*D. $-40$ J.
+Lời giải
+Khí tỏa nhiệt nên $Q = -40$ J (còn $A = +100$ J).
+
+Câu 15. [TH] Nung nóng một miếng sắt rồi thả vào chậu nước lạnh. Nhiệt được truyền
+A. từ nước sang sắt cho tới khi nước sôi.
+*B. từ sắt sang nước cho tới khi hai vật có cùng nhiệt độ.
+C. từ sắt sang nước cho tới khi sắt nguội hẳn xuống 0 °C.
+D. qua lại liên tục giữa sắt và nước, không dừng.
+Lời giải
+Nhiệt truyền từ vật nóng sang vật lạnh cho tới khi nhiệt độ hai vật bằng nhau (cân bằng nhiệt).
+
+Câu 16. [TH] Bơm xe đạp một lúc thấy phần thân ống bơm gần đầu ống nóng lên. Nguyên nhân chính là
+A. do không khí trong ống bị nhẹ đi khi bơm.
+B. do bơm làm giảm thể tích của ống bơm.
+*C. do khí bị nén (nhận công) nên nhiệt độ của khí tăng.
+D. do khí nhận nhiệt từ bàn tay người bơm.
+Lời giải
+Pittông nén khí, thực hiện công làm tăng nội năng của khí nên khí nóng lên và truyền nhiệt cho thành ống.
+
+Câu 17. [VD] Một khối khí nhận công 120 J và nhận nhiệt lượng 80 J. Độ biến thiên nội năng của khối khí là
+A. 40 J.
+B. $-40$ J.
+C. $-200$ J.
+*D. 200 J.
+Lời giải
+$\Delta U = A + Q = 120 + 80 = 200$ J.
+
+Câu 18. [VD] Một khối khí nhận nhiệt lượng 150 J và sinh công 90 J. Độ biến thiên nội năng của khối khí là
+*A. 60 J.
+B. 240 J.
+C. $-60$ J.
+D. 90 J.
+Lời giải
+Khí sinh công nên $A = -90$ J. Do đó $\Delta U = -90 + 150 = 60$ J.
+
+Câu 19. [VD] Một hệ truyền ra ngoài nhiệt lượng 50 J và nội năng của hệ giảm 20 J. Phát biểu nào sau đây đúng?
+A. Hệ nhận công 70 J.
+*B. Hệ nhận công 30 J.
+C. Hệ sinh công 30 J.
+D. Hệ sinh công 70 J.
+Lời giải
+$Q = -50$ J; $\Delta U = -20$ J. Từ $\Delta U = A + Q$ suy ra $A = -20 + 50 = 30$ J, tức hệ nhận công 30 J.
+
+Câu 20. [VD] Khối khí trong xilanh cách nhiệt ($Q = 0$) bị nén, nhận công 75 J. Nội năng của khối khí
+A. giảm 75 J.
+B. không đổi.
+*C. tăng 75 J.
+D. tăng 150 J.
+Lời giải
+$\Delta U = A + Q = 75 + 0 = 75$ J, nội năng tăng 75 J.
+
+Câu 21. [VD] Một hệ nhận nhiệt lượng 300 J và nội năng của hệ giảm 100 J. Phát biểu nào sau đây đúng?
+A. Hệ nhận công 400 J.
+B. Hệ sinh công 200 J.
+C. Hệ nhận công 200 J.
+*D. Hệ sinh công 400 J.
+Lời giải
+$\Delta U = A + Q$ nên $A = -100 - 300 = -400$ J, tức hệ sinh công 400 J.
+
+Câu 22. [VD] Một khối khí nhận nhiệt lượng 20 J và nội năng của nó tăng 12 J. Phát biểu nào sau đây đúng?
+*A. Khí sinh công 8 J.
+B. Khí nhận công 8 J.
+C. Khí nhận công 32 J.
+D. Khí sinh công 32 J.
+Lời giải
+$A = \Delta U - Q = 12 - 20 = -8$ J, tức khí sinh công 8 J.
+
+Câu 23. [TF] [TH] Về nội năng:
+*A. Nội năng gồm tổng động năng và thế năng của các phân tử cấu tạo nên vật.
+*B. Đơn vị của nội năng là jun.
+*C. Nội năng của vật phụ thuộc vào nhiệt độ và thể tích của vật.
+D. Nội năng của vật luôn bằng cơ năng của vật.
+Lời giải
+Nội năng khác với cơ năng: cơ năng là năng lượng chuyển động và vị trí của cả vật, còn nội năng là năng lượng của các phân tử bên trong vật.
+
+Câu 24. [TF] [TH] Về quy ước dấu trong hệ thức $\Delta U = A + Q$:
+A. Hệ nhận nhiệt thì $Q < 0$.
+*B. Hệ nhận công thì $A > 0$.
+C. Hệ tỏa nhiệt thì $Q > 0$.
+D. Hệ sinh công thì $A > 0$.
+Lời giải
+Hệ nhận nhiệt thì $Q > 0$, tỏa nhiệt thì $Q < 0$; hệ nhận công thì $A > 0$, sinh công thì $A < 0$.
+
+Câu 25. [TF] [TH] Về các cách làm thay đổi nội năng:
+*A. Cọ xát hai vật vào nhau làm tăng nội năng bằng cách thực hiện công.
+B. Nhúng thìa vào nước nóng làm tăng nội năng của thìa bằng cách thực hiện công.
+*C. Hơ miếng kim loại trên ngọn lửa làm tăng nội năng bằng cách truyền nhiệt.
+D. Truyền nhiệt luôn làm nội năng của vật giảm.
+Lời giải
+Nhúng thìa vào nước nóng là truyền nhiệt. Vật nhận nhiệt thì nội năng tăng, vật tỏa nhiệt thì nội năng giảm.
+
+Câu 26. [TF] [VD] Một khối khí nhận công 60 J và truyền ra môi trường nhiệt lượng 20 J.
+*A. Độ biến thiên nội năng của khối khí là 40 J.
+*B. Nội năng của khối khí tăng.
+*C. Nhiệt lượng $Q = -20$ J.
+*D. Công $A = +60$ J.
+Lời giải
+Khí nhận công nên $A = +60$ J, tỏa nhiệt nên $Q = -20$ J; $\Delta U = 60 - 20 = 40$ J > 0 nên nội năng tăng.
+
+Câu 27. [TF] [VD] Một khối khí nhận nhiệt lượng 100 J và sinh công 40 J.
+*A. Độ biến thiên nội năng của khối khí là 60 J.
+B. Công mà khí nhận được là $+40$ J.
+*C. Nhiệt lượng $Q = +100$ J.
+*D. Nội năng của khối khí tăng.
+Lời giải
+Khí sinh công nên $A = -40$ J; $\Delta U = -40 + 100 = 60$ J > 0 nên nội năng tăng.
+
+Câu 28. [TF] [VD] Khí trong một xilanh cách nhiệt bị nén, nội năng của khí tăng 50 J.
+*A. Khí đã nhận công 50 J.
+B. Khí đã truyền ra ngoài nhiệt lượng 50 J.
+*C. Nhiệt độ của khí tăng.
+D. Thể tích của khí tăng.
+Lời giải
+Xilanh cách nhiệt nên $Q = 0$ và $A = \Delta U = 50$ J. Khí bị nén nên thể tích giảm, nội năng tăng làm nhiệt độ tăng.
+
+Câu 29. [TF] [VD] Một hệ thực hiện một chu trình khép kín (trở về trạng thái ban đầu), trong đó hệ nhận nhiệt lượng tổng cộng 200 J.
+A. Độ biến thiên nội năng của hệ trong chu trình là 200 J.
+B. Hệ nhận công 200 J.
+*C. Hệ sinh công 200 J.
+D. Nội năng của hệ giảm.
+Lời giải
+Hệ trở về trạng thái ban đầu nên $\Delta U = 0$. Do đó $A = -Q = -200$ J, tức hệ sinh công 200 J.
+
+Câu 30. [TH] Một khối khí nhận công 80 J và nhận nhiệt lượng 50 J. Tính độ biến thiên nội năng của khối khí (theo đơn vị J).
+Trả lời: [[130]]
+Lời giải
+$\Delta U = A + Q = 80 + 50 = 130$ J.
+
+Câu 31. [TH] Một khối khí nhận nhiệt lượng 200 J và sinh công 120 J. Tính độ biến thiên nội năng của khối khí (theo đơn vị J).
+Trả lời: [[80]]
+Lời giải
+$A = -120$ J nên $\Delta U = -120 + 200 = 80$ J.
+
+Câu 32. [TH] Nội năng của một hệ giảm 40 J trong khi hệ truyền ra ngoài nhiệt lượng 25 J. Tính công mà hệ sinh ra (theo đơn vị J).
+Trả lời: [[15]]
+Lời giải
+$A = \Delta U - Q = -40 + 25 = -15$ J, tức hệ sinh công 15 J.
+
+Câu 33. [VD] Một khối khí nhận công 150 J và nội năng của khối khí tăng thêm 90 J. Tính nhiệt lượng khối khí đã tỏa ra môi trường (theo đơn vị J).
+Trả lời: [[60]]
+Lời giải
+$Q = \Delta U - A = 90 - 150 = -60$ J, tức khí tỏa nhiệt 60 J.
+
+Câu 34. [VD] Viên bi chì khối lượng 0,05 kg rơi từ độ cao 40 m xuống nền cứng và dừng lại. Coi toàn bộ cơ năng chuyển hoàn toàn thành nội năng của viên bi và nền, lấy $g = 10$ m/s². Tính độ tăng nội năng (theo đơn vị J).
+Trả lời: [[20]]
+Lời giải
+$\Delta U = mgh = 0,05 \cdot 10 \cdot 40 = 20$ J.
+
+Câu 35. [VD] Khí trong xilanh nhận nhiệt lượng 500 J và dãn nở đẩy pittông có diện tích 50 cm² đi được 10 cm, áp suất của khí không đổi và bằng $2 \cdot 10^5$ Pa. Tính độ biến thiên nội năng của khí (theo đơn vị J).
+Trả lời: [[400]]
+Lời giải
+Công khí sinh ra: $|A| = p \cdot S \cdot d = 2 \cdot 10^5 \cdot 50 \cdot 10^{-4} \cdot 0,1 = 100$ J. Khi đó $A = -100$ J và $\Delta U = -100 + 500 = 400$ J.
+
+Câu 36. [VD] Khí trong xilanh bị nén ở áp suất không đổi $1,5 \cdot 10^5$ Pa, thể tích giảm 2 lít, đồng thời khí tỏa ra môi trường nhiệt lượng 100 J. Tính độ biến thiên nội năng của khí (theo đơn vị J).
+Trả lời: [[200]]
+Lời giải
+Công khí nhận: $A = p\,\Delta V = 1,5 \cdot 10^5 \cdot 2 \cdot 10^{-3} = 300$ J. Do đó $\Delta U = 300 - 100 = 200$ J.
+
+Câu 37. [VD] Một hệ biến đổi qua hai giai đoạn. Giai đoạn 1: hệ nhận nhiệt lượng 90 J và sinh công 30 J. Giai đoạn 2: hệ nhận công 50 J và tỏa nhiệt lượng 20 J. Tính độ biến thiên nội năng của hệ trong cả hai giai đoạn (theo đơn vị J).
+Trả lời: [[90]]
+Lời giải
+Giai đoạn 1: $\Delta U_1 = 90 - 30 = 60$ J. Giai đoạn 2: $\Delta U_2 = 50 - 20 = 30$ J. Tổng: $\Delta U = 60 + 30 = 90$ J.
+
+Câu 38. [VD] Một lượng khí biến đổi từ trạng thái 1 sang trạng thái 2, nội năng tăng 120 J và khí nhận công 50 J. Tính nhiệt lượng khí nhận được trong quá trình này (theo đơn vị J).
+Trả lời: [[70]]
+Lời giải
+$Q = \Delta U - A = 120 - 50 = 70$ J.
+
+@bai 3 | Nhiệt độ. Thang nhiệt độ – Nhiệt kế
+Câu 1. [NB] Nhiệt độ là đại lượng đặc trưng cho
+*A. mức độ nóng, lạnh của vật.
+B. lượng nhiệt mà vật chứa bên trong.
+C. khối lượng của vật.
+D. thể tích của vật.
+Lời giải
+Nhiệt độ cho biết vật nóng hay lạnh ở mức độ nào.
+
+Câu 2. [NB] Trong thang nhiệt độ Celsius, nhiệt độ của nước đá đang tan và của nước đang sôi ở áp suất 1 atm lần lượt là
+A. 0 K và 100 K.
+B. 32 °C và 212 °C.
+*C. 0 °C và 100 °C.
+D. 273 °C và 373 °C.
+Lời giải
+Thang Celsius lấy nhiệt độ nước đá đang tan là 0 °C và nhiệt độ nước đang sôi (ở 1 atm) là 100 °C.
+
+Câu 3. [NB] Đơn vị nhiệt độ trong hệ SI là
+A. độ Celsius (°C).
+*B. kenvin (K).
+C. độ Fahrenheit (°F).
+D. jun (J).
+Lời giải
+Đơn vị SI của nhiệt độ là kenvin.
+
+Câu 4. [NB] Nhiệt độ không tuyệt đối là 0 K, tương ứng với xấp xỉ
+A. 0 °C.
+B. 100 °C.
+C. 273 °C.
+*D. −273 °C.
+Lời giải
+$0\ \text{K} = -273\ °\text{C}$ (xấp xỉ).
+
+Câu 5. [NB] Hệ thức liên hệ giữa nhiệt độ $T$ (K) và nhiệt độ $t$ (°C) là
+A. $T = t - 273$.
+B. $T = 273 - t$.
+*C. $T = t + 273$.
+D. $T = 273t$.
+Lời giải
+$T\ (\text{K}) = t\ (°\text{C}) + 273$.
+
+Câu 6. [NB] Dụng cụ dùng để đo nhiệt độ gọi là
+*A. nhiệt kế.
+B. áp kế.
+C. lực kế.
+D. ampe kế.
+Lời giải
+Nhiệt kế dùng để đo nhiệt độ.
+
+Câu 7. [NB] Nhiệt kế thủy ngân hoạt động dựa trên hiện tượng
+A. thủy ngân bay hơi khi gặp nhiệt độ cao.
+*B. sự dãn nở vì nhiệt của thủy ngân.
+C. thủy ngân dẫn điện tốt khi bị nung nóng.
+D. thủy ngân nóng chảy khi bị nung nóng.
+Lời giải
+Thủy ngân nở ra khi nóng lên nên cột thủy ngân dâng cao, chiều cao cột cho biết nhiệt độ.
+
+Câu 8. [NB] Trong thang nhiệt độ Fahrenheit, nước đá đang tan là 32 °F, còn nước đang sôi ở 1 atm là
+A. 100 °F.
+B. 180 °F.
+C. 273 °F.
+*D. 212 °F.
+Lời giải
+Trong thang Fahrenheit, nước sôi ở áp suất 1 atm ứng với 212 °F.
+
+Câu 9. [TH] Cho hai vật có nhiệt độ khác nhau tiếp xúc nhau, nhiệt được truyền
+*A. từ vật có nhiệt độ cao sang vật có nhiệt độ thấp.
+B. từ vật có nhiệt độ thấp sang vật có nhiệt độ cao.
+C. từ vật có khối lượng lớn sang vật có khối lượng nhỏ.
+D. từ vật có thể tích nhỏ sang vật có thể tích lớn.
+Lời giải
+Nhiệt tự truyền từ vật nóng hơn sang vật lạnh hơn cho tới khi hai vật cùng nhiệt độ.
+
+Câu 10. [TH] Nhiệt độ 27 °C tương ứng với nhiệt độ nào trong thang Kelvin?
+A. 246 K.
+B. 273 K.
+*C. 300 K.
+D. 327 K.
+Lời giải
+$T = 27 + 273 = 300$ K.
+
+Câu 11. [TH] Nhiệt độ 400 K tương ứng với nhiệt độ nào trong thang Celsius?
+A. 673 °C.
+B. 400 °C.
+C. 73 °C.
+*D. 127 °C.
+Lời giải
+$t = 400 - 273 = 127$ °C.
+
+Câu 12. [TH] Khi nhiệt độ của một vật tăng thêm 1 °C thì nhiệt độ của vật trong thang Kelvin tăng thêm
+A. 273 K.
+*B. 1 K.
+C. 1,8 K.
+D. 32 K.
+Lời giải
+Khoảng chia của hai thang bằng nhau nên độ tăng 1 °C bằng độ tăng 1 K.
+
+Câu 13. [TH] Nhiệt kế y tế dùng thủy ngân có một chỗ thắt nhỏ ở gần bầu thủy ngân nhằm
+A. làm thủy ngân dãn nở nhanh hơn khi gặp nhiệt.
+B. làm thủy ngân đỡ bay hơi ra bên ngoài.
+*C. giữ cột thủy ngân không tụt xuống để kịp đọc kết quả.
+D. làm tăng độ chính xác của nhiệt kế lên 100 lần.
+Lời giải
+Chỗ thắt ngăn thủy ngân tụt xuống khi nguội nên có thể đọc nhiệt độ sau khi lấy nhiệt kế ra.
+
+Câu 14. [TH] Ưu điểm nổi bật của nhiệt kế hồng ngoại là
+*A. đo nhanh và không cần tiếp xúc với vật cần đo.
+B. luôn cho kết quả chính xác tuyệt đối.
+C. đo được mọi nhiệt độ cao tới hàng nghìn độ.
+D. không cần pin hay nguồn điện.
+Lời giải
+Nhiệt kế hồng ngoại thu bức xạ hồng ngoại từ vật nên đo nhanh và không cần chạm vào vật.
+
+Câu 15. [TH] Thang nhiệt độ nào sau đây không có giá trị âm?
+A. Thang Celsius.
+B. Thang Fahrenheit.
+C. Cả thang Celsius và thang Fahrenheit.
+*D. Thang Kelvin.
+Lời giải
+Thang Kelvin bắt đầu từ nhiệt độ không tuyệt đối 0 K nên không có giá trị âm.
+
+Câu 16. [TH] Khi nhiệt độ của một vật tăng thì chuyển động hỗn loạn của các phân tử cấu tạo nên vật
+A. yếu đi.
+*B. mạnh hơn.
+C. dừng lại.
+D. không thay đổi.
+Lời giải
+Nhiệt độ càng cao thì các phân tử chuyển động hỗn loạn càng nhanh.
+
+Câu 17. [VD] Nhiệt độ trong phòng là 20 °C. Nhiệt độ đó tính theo thang Kelvin là
+A. 253 K.
+B. 273 K.
+*C. 293 K.
+D. 313 K.
+Lời giải
+$T = 20 + 273 = 293$ K.
+
+Câu 18. [VD] Nhiệt độ 77 °F tương ứng với bao nhiêu độ Celsius? Biết $t_F = 1,8\,t_C + 32$.
+A. 45 °C.
+*B. 25 °C.
+C. 35 °C.
+D. 15 °C.
+Lời giải
+$t_C = \dfrac{77 - 32}{1,8} = 25$ °C.
+
+Câu 19. [VD] Nhiệt độ của một vật tăng từ 25 °C lên 75 °C. Độ tăng nhiệt độ của vật theo thang Kelvin là
+*A. 50 K.
+B. 323 K.
+C. 348 K.
+D. 25 K.
+Lời giải
+Độ tăng nhiệt độ theo kenvin bằng độ tăng theo độ Celsius: $75 - 25 = 50$ K.
+
+Câu 20. [VD] Nhiệt độ cơ thể người bình thường là 37 °C. Nhiệt độ đó theo thang Fahrenheit là (biết $t_F = 1,8\,t_C + 32$)
+A. 69 °F.
+B. 70,6 °F.
+C. 85,4 °F.
+*D. 98,6 °F.
+Lời giải
+$t_F = 1,8 \cdot 37 + 32 = 98,6$ °F.
+
+Câu 21. [VD] Cho vật A có nhiệt độ 80 °C tiếp xúc với vật B có nhiệt độ 20 °C trong một hệ cô lập. Khi đạt cân bằng nhiệt, nhiệt độ chung của hai vật
+A. cao hơn nhiệt độ ban đầu của vật A.
+B. thấp hơn nhiệt độ ban đầu của vật B.
+*C. nằm giữa 20 °C và 80 °C.
+D. bằng tổng hai nhiệt độ là 100 °C.
+Lời giải
+Vật A tỏa nhiệt nên nhiệt độ giảm, vật B thu nhiệt nên nhiệt độ tăng. Nhiệt độ cân bằng nằm giữa hai giá trị ban đầu.
+
+Câu 22. [VD] Một thang nhiệt độ X quy ước nước đá đang tan là 20 °X và nước đang sôi (1 atm) là 220 °X, chia đều giữa hai mốc. Nhiệt độ 50 °C ứng với
+*A. 120 °X.
+B. 70 °X.
+C. 220 °X.
+D. 100 °X.
+Lời giải
+100 khoảng chia Celsius ứng với 200 khoảng chia X nên $t_X = 20 + 2t_C = 20 + 100 = 120$ °X.
+
+Câu 23. [TF] [TH] Về thang Celsius và thang Kelvin:
+*A. $T = t + 273$.
+*B. 0 K là nhiệt độ thấp nhất có thể có.
+*C. Một khoảng chia 1 K bằng một khoảng chia 1 °C.
+*D. Nước sôi ở 1 atm ứng với khoảng 373 K.
+Lời giải
+Nước sôi là 100 °C, tức $100 + 273 = 373$ K. Hai thang có khoảng chia như nhau và chỉ khác gốc đo.
+
+Câu 24. [TF] [TH] Về nhiệt kế:
+*A. Nhiệt kế thủy ngân hoạt động dựa trên sự dãn nở vì nhiệt của thủy ngân.
+B. Nhiệt kế y tế thông thường dùng để đo nhiệt độ nước đang sôi.
+*C. Nhiệt kế hồng ngoại đo nhiệt độ dựa trên bức xạ hồng ngoại do vật phát ra.
+D. Mọi nhiệt kế đều phải tiếp xúc trực tiếp với vật cần đo.
+Lời giải
+Nhiệt kế y tế chỉ đo trong khoảng nhiệt độ cơ thể (khoảng 35 °C đến 42 °C). Nhiệt kế hồng ngoại không cần tiếp xúc với vật.
+
+Câu 25. [TF] [TH] Về nhiệt độ và sự cân bằng nhiệt:
+*A. Nhiệt độ đặc trưng cho mức độ nóng, lạnh của vật.
+*B. Khi cân bằng nhiệt, các vật tiếp xúc nhau có cùng nhiệt độ.
+C. Vật có nhiệt độ cao hơn luôn chứa nhiều nhiệt lượng hơn.
+*D. Nhiệt độ càng cao thì chuyển động hỗn loạn của các phân tử càng mạnh.
+Lời giải
+Nhiệt lượng là năng lượng được truyền đi, không phải năng lượng "chứa" trong vật, và không chỉ phụ thuộc nhiệt độ.
+
+Câu 26. [TF] [VD] Nhiệt độ của một chất là 25 °C. Biết $t_F = 1,8\,t_C + 32$.
+*A. Nhiệt độ đó ứng với 298 K.
+B. Nhiệt độ đó ứng với 100 °F.
+C. Khi nhiệt độ tăng thêm 10 °C thì nhiệt độ Kelvin tăng thêm 283 K.
+D. Nhiệt độ đó ứng với nhiệt độ Fahrenheit nhỏ hơn 32 °F.
+Lời giải
+$T = 25 + 273 = 298$ K nên A đúng. $t_F = 1,8 \cdot 25 + 32 = 77$ °F nên B sai (100 °F là kết quả khi nhầm công thức) và D sai vì 77 °F lớn hơn 32 °F. Độ tăng nhiệt độ trong thang Celsius và Kelvin bằng nhau nên C sai (tăng 10 K).
+
+Câu 27. [TF] [VD] Một khối khí ở nhiệt độ 300 K.
+*A. Nhiệt độ đó là 27 °C.
+B. Nhiệt độ đó là 573 °C.
+*C. Nếu nhiệt độ tăng thêm 20 K thì nhiệt độ theo thang Celsius cũng tăng thêm 20 °C.
+D. Nhiệt độ đó thấp hơn nhiệt độ nước đá đang tan.
+Lời giải
+$t = 300 - 273 = 27$ °C, cao hơn 0 °C. Độ tăng nhiệt độ ở hai thang bằng nhau.
+
+Câu 28. [TF] [VD] Về thang nhiệt độ Fahrenheit (biết $t_F = 1,8\,t_C + 32$):
+*A. Nước đá đang tan ứng với 32 °F.
+*B. Nước đang sôi ở 1 atm ứng với 212 °F.
+*C. Độ tăng nhiệt độ $\Delta t_F = 1,8\,\Delta t_C$.
+D. Một độ Fahrenheit bằng một độ Celsius.
+Lời giải
+Từ 32 °F đến 212 °F có 180 khoảng chia ứng với 100 °C nên 1 °C bằng 1,8 °F, hai khoảng chia không bằng nhau.
+
+Câu 29. [TF] [VD] Cho vật A có nhiệt độ 90 °C tiếp xúc với vật B có nhiệt độ 30 °C trong một hệ cô lập.
+*A. Nhiệt được truyền từ vật A sang vật B.
+B. Nhiệt được truyền từ vật B sang vật A.
+C. Nhiệt độ cân bằng của hai vật là 120 °C.
+*D. Nhiệt độ cân bằng của hai vật nằm trong khoảng từ 30 °C đến 90 °C.
+Lời giải
+Nhiệt truyền từ vật nóng sang vật lạnh. Nhiệt độ cân bằng không vượt quá 90 °C và không thấp hơn 30 °C.
+
+Câu 30. [TH] Đổi nhiệt độ 37 °C sang thang Kelvin (theo đơn vị K).
+Trả lời: [[310]]
+Lời giải
+$T = 37 + 273 = 310$ K.
+
+Câu 31. [TH] Đổi nhiệt độ 350 K sang thang Celsius (theo đơn vị °C).
+Trả lời: [[77]]
+Lời giải
+$t = 350 - 273 = 77$ °C.
+
+Câu 32. [TH] Biết $t_F = 1,8\,t_C + 32$. Đổi nhiệt độ 68 °F sang thang Celsius (theo đơn vị °C).
+Trả lời: [[20]]
+Lời giải
+$t_C = \dfrac{68 - 32}{1,8} = 20$ °C.
+
+Câu 33. [VD] Một thang nhiệt độ X quy ước nước đá đang tan là 10 °X và nước đang sôi ở 1 atm là 110 °X, chia đều giữa hai mốc. Nhiệt độ 64 °X ứng với bao nhiêu độ Celsius (theo đơn vị °C)?
+Trả lời: [[54]]
+Lời giải
+100 khoảng chia Celsius ứng với 100 khoảng chia X nên $t_X = 10 + t_C$, suy ra $t_C = 64 - 10 = 54$ °C.
+
+Câu 34. [VD] Một khối khí được nung từ 27 °C đến 127 °C. Nhiệt độ tuyệt đối sau khi nung gấp bao nhiêu lần nhiệt độ tuyệt đối trước khi nung (theo đơn vị lần, làm tròn đến hai chữ số thập phân)?
+Trả lời: [[1,33]]
+Lời giải
+$T_1 = 300$ K; $T_2 = 400$ K; $\dfrac{T_2}{T_1} = \dfrac{400}{300} \approx 1,33$.
+
+Câu 35. [VD] Tính nhiệt độ mà số đo trong thang Celsius bằng số đo trong thang Fahrenheit, biết $t_F = 1,8\,t_C + 32$ (theo đơn vị °C).
+Trả lời: [[-40]]
+Lời giải
+Đặt $t_F = t_C = t$: $t = 1,8t + 32$, suy ra $-0,8t = 32$, $t = -40$.
+
+Câu 36. [VD] Thiếc nóng chảy ở nhiệt độ 232 °C. Tính nhiệt độ nóng chảy của thiếc trong thang Kelvin (theo đơn vị K).
+Trả lời: [[505]]
+Lời giải
+$T = 232 + 273 = 505$ K.
+
+Câu 37. [VD] Nhiệt độ ngoài trời lúc sáng là 59 °F, lúc trưa là 86 °F. Tính độ tăng nhiệt độ theo thang Kelvin (theo đơn vị K).
+Trả lời: [[15]]
+Lời giải
+$\Delta t_F = 86 - 59 = 27$ °F, suy ra $\Delta T = \dfrac{27}{1,8} = 15$ K.
+
+Câu 38. [VD] Tính nhiệt độ theo thang Celsius mà tại đó số đo theo thang Kelvin gấp đôi số đo theo thang Celsius (theo đơn vị °C).
+Trả lời: [[273]]
+Lời giải
+$T = 2t$ và $T = t + 273$ nên $2t = t + 273$, suy ra $t = 273$ °C.
+
+@bai 4 | Nhiệt dung riêng
+Câu 1. [NB] Nhiệt dung riêng của một chất là nhiệt lượng cần cung cấp để
+A. làm 1 kg chất đó sôi ở nhiệt độ sôi.
+B. làm 1 kg chất đó nóng chảy hoàn toàn ở nhiệt độ nóng chảy.
+C. làm 1 kg chất đó giảm đi 1 K.
+*D. làm 1 kg chất đó tăng thêm 1 K (hoặc 1 °C).
+Lời giải
+Nhiệt dung riêng $c$ là nhiệt lượng cần để 1 kg chất tăng nhiệt độ thêm 1 K.
+
+Câu 2. [NB] Đơn vị của nhiệt dung riêng trong hệ SI là
+A. J/kg.
+*B. J/(kg·K).
+C. J·kg/K.
+D. kg/J.
+Lời giải
+Từ $c = \dfrac{Q}{m\,\Delta t}$ suy ra đơn vị là J/(kg·K).
+
+Câu 3. [NB] Nhiệt lượng vật thu vào hoặc tỏa ra khi nhiệt độ thay đổi được tính bằng công thức
+*A. $Q = mc\,\Delta t$.
+B. $Q = \dfrac{mc}{\Delta t}$.
+C. $Q = \dfrac{c\,\Delta t}{m}$.
+D. $Q = m + c\,\Delta t$.
+Lời giải
+$Q = mc\,\Delta t$ với $m$ là khối lượng, $c$ là nhiệt dung riêng, $\Delta t$ là độ biến thiên nhiệt độ.
+
+Câu 4. [NB] Nhiệt dung riêng của nước vào khoảng
+A. 4,2 J/(kg·K).
+B. 420 J/(kg·K).
+*C. 4200 J/(kg·K).
+D. 42 000 J/(kg·K).
+Lời giải
+Nước có nhiệt dung riêng khoảng 4200 J/(kg·K), thuộc loại lớn.
+
+Câu 5. [NB] Hai vật có cùng khối lượng và cùng độ tăng nhiệt độ. Vật có nhiệt dung riêng lớn hơn thì
+A. cần nhiệt lượng ít hơn.
+*B. cần nhiệt lượng nhiều hơn.
+C. cần nhiệt lượng bằng nhau.
+D. không cần nhiệt lượng.
+Lời giải
+Từ $Q = mc\,\Delta t$, với $m$ và $\Delta t$ như nhau thì $c$ lớn hơn cần $Q$ lớn hơn.
+
+Câu 6. [NB] Khi hai vật trao đổi nhiệt với nhau trong một hệ cô lập và đạt tới cân bằng nhiệt thì
+A. nhiệt độ hai vật khác nhau.
+B. nhiệt lượng thu vào lớn hơn nhiệt lượng tỏa ra.
+C. nhiệt lượng tỏa ra lớn hơn nhiệt lượng thu vào.
+*D. nhiệt lượng tỏa ra bằng nhiệt lượng thu vào.
+Lời giải
+Năng lượng được bảo toàn nên nhiệt lượng vật nóng tỏa ra bằng nhiệt lượng vật lạnh thu vào.
+
+Câu 7. [NB] Đại lượng nào sau đây KHÔNG có mặt trong công thức $Q = mc\,\Delta t$?
+*A. Khối lượng riêng của chất.
+B. Khối lượng của vật.
+C. Nhiệt dung riêng của chất.
+D. Độ biến thiên nhiệt độ.
+Lời giải
+Công thức chỉ gồm khối lượng $m$, nhiệt dung riêng $c$ và độ biến thiên nhiệt độ $\Delta t$.
+
+Câu 8. [NB] Nước thường được dùng để làm mát máy móc vì nước có
+A. khối lượng riêng nhỏ.
+B. nhiệt độ sôi thấp.
+*C. nhiệt dung riêng lớn.
+D. thể tích lớn.
+Lời giải
+Nhiệt dung riêng lớn nên nước hấp thụ nhiều nhiệt mà nhiệt độ tăng không nhiều.
+
+Câu 9. [TH] Hai vật có cùng khối lượng cùng nhận một nhiệt lượng như nhau. Vật có nhiệt dung riêng lớn hơn sẽ
+A. nóng lên nhiều hơn.
+B. nóng lên bằng vật kia.
+C. không nóng lên.
+*D. nóng lên ít hơn.
+Lời giải
+$\Delta t = \dfrac{Q}{mc}$ nên $c$ càng lớn thì $\Delta t$ càng nhỏ.
+
+Câu 10. [TH] Ban ngày dưới ánh nắng, cát trên bãi biển nóng hơn nhiều so với nước biển vì
+*A. cát có nhiệt dung riêng nhỏ hơn nước nên nhiệt độ tăng nhanh hơn.
+B. cát có nhiệt dung riêng lớn hơn nước nên nhiệt độ tăng nhanh hơn.
+C. cát nhận được nhiều nhiệt lượng hơn nước một cách đáng kể.
+D. nước biển luôn tỏa nhiệt mạnh hơn cát.
+Lời giải
+Cùng nhận nhiệt từ Mặt Trời, vật có nhiệt dung riêng nhỏ hơn sẽ tăng nhiệt độ nhanh hơn.
+
+Câu 11. [TH] Khi một vật tỏa nhiệt, nhiệt lượng tính theo $Q = mc\,\Delta t$ có giá trị
+A. dương vì $m$ và $c$ luôn dương.
+*B. âm vì $\Delta t = t_{sau} - t_{đầu} < 0$.
+C. bằng 0 vì nhiệt độ giảm.
+D. không xác định được.
+Lời giải
+Vật tỏa nhiệt thì nhiệt độ giảm, $\Delta t < 0$ nên $Q < 0$ theo quy ước.
+
+Câu 12. [TH] Để xác định nhiệt dung riêng của một chất lỏng bằng bộ gia nhiệt điện, ta cần đo
+A. chỉ khối lượng của chất lỏng trong bình.
+B. chỉ nhiệt độ ban đầu của chất lỏng trong bình.
+*C. khối lượng, độ tăng nhiệt độ và nhiệt lượng mà bộ gia nhiệt cung cấp.
+D. thể tích của bình và áp suất khí quyển lúc làm thí nghiệm.
+Lời giải
+Từ $c = \dfrac{Q}{m\,\Delta t}$ cần biết $Q$, $m$ và $\Delta t$.
+
+Câu 13. [TH] Giữ nguyên độ tăng nhiệt độ nhưng tăng gấp đôi khối lượng của vật thì nhiệt lượng cần cung cấp
+*A. tăng gấp đôi.
+B. giảm một nửa.
+C. không đổi.
+D. tăng gấp bốn.
+Lời giải
+$Q = mc\,\Delta t$ tỉ lệ thuận với $m$.
+
+Câu 14. [TH] Nhiệt dung riêng của một chất phụ thuộc vào
+A. khối lượng của vật.
+B. thể tích của vật.
+C. nhiệt lượng cung cấp cho vật.
+*D. bản chất của chất làm vật.
+Lời giải
+Nhiệt dung riêng là đặc trưng của chất, không phụ thuộc khối lượng hay thể tích của vật.
+
+Câu 15. [TH] Trong thí nghiệm đo nhiệt dung riêng, người ta bọc cách nhiệt cho bình chứa nhằm
+A. làm nước sôi nhanh hơn trong thí nghiệm.
+B. làm tăng nhiệt dung riêng của nước trong bình.
+*C. giảm nhiệt lượng thất thoát ra môi trường.
+D. giảm khối lượng của nước trong bình.
+Lời giải
+Bọc cách nhiệt giúp hạn chế nhiệt truyền ra ngoài nên kết quả đo chính xác hơn.
+
+Câu 16. [TH] Trộn 200 g nước ở 80 °C với 200 g nước ở 20 °C trong bình cách nhiệt. Nhiệt độ cân bằng là
+A. 40 °C.
+*B. 50 °C.
+C. 60 °C.
+D. 100 °C.
+Lời giải
+Hai lượng nước bằng nhau nên nhiệt độ cân bằng là trung bình cộng: $\dfrac{80 + 20}{2} = 50$ °C.
+
+Câu 17. [VD] Nhiệt lượng cần để đun nóng 2 kg nước từ 20 °C đến 70 °C là (biết $c = 4200$ J/(kg·K))
+*A. 420 kJ.
+B. 42 kJ.
+C. 168 kJ.
+D. 588 kJ.
+Lời giải
+$Q = mc\,\Delta t = 2 \cdot 4200 \cdot (70 - 20) = 420\,000$ J $= 420$ kJ.
+
+Câu 18. [VD] Một khối nhôm khối lượng 0,5 kg nhận nhiệt lượng 22 000 J. Biết nhiệt dung riêng của nhôm là 880 J/(kg·K). Nhiệt độ của khối nhôm tăng thêm
+A. 25 °C.
+B. 100 °C.
+*C. 50 °C.
+D. 5 °C.
+Lời giải
+$\Delta t = \dfrac{Q}{mc} = \dfrac{22\,000}{0,5 \cdot 880} = 50$ °C.
+
+Câu 19. [VD] Thả miếng đồng khối lượng 0,3 kg ở 100 °C vào 0,5 kg nước ở 20 °C. Biết nhiệt dung riêng của đồng là 380 J/(kg·K) và của nước là 4200 J/(kg·K), bỏ qua mất mát nhiệt. Nhiệt độ cân bằng xấp xỉ
+A. 40 °C.
+B. 60 °C.
+C. 80 °C.
+*D. 24 °C.
+Lời giải
+Phương trình cân bằng nhiệt: $0,3 \cdot 380 \cdot (100 - t) = 0,5 \cdot 4200 \cdot (t - 20)$. Giải ra $t = \dfrac{53\,400}{2214} \approx 24$ °C.
+
+Câu 20. [VD] Một ấm điện có công suất 1000 W đun 1 kg nước từ 20 °C đến 100 °C. Bỏ qua nhiệt lượng hao phí và nhiệt dung của ấm, $c = 4200$ J/(kg·K). Thời gian đun là
+A. 84 s.
+*B. 336 s.
+C. 420 s.
+D. 3360 s.
+Lời giải
+$Q = mc\,\Delta t = 1 \cdot 4200 \cdot 80 = 336\,000$ J. Thời gian $t = \dfrac{Q}{P} = 336$ s.
+
+Câu 21. [VD] Trộn 2 kg nước ở 30 °C với 1 kg nước ở 60 °C trong một bình cách nhiệt. Nhiệt độ cân bằng là
+*A. 40 °C.
+B. 45 °C.
+C. 50 °C.
+D. 30 °C.
+Lời giải
+$2 \cdot c \cdot (t - 30) = 1 \cdot c \cdot (60 - t)$ suy ra $3t = 120$, $t = 40$ °C.
+
+Câu 22. [VD] Một vật khối lượng 0,4 kg nhận nhiệt lượng 5760 J thì nhiệt độ tăng thêm 30 K. Nhiệt dung riêng của chất làm vật là
+A. 192 J/(kg·K).
+B. 4800 J/(kg·K).
+C. 1920 J/(kg·K).
+*D. 480 J/(kg·K).
+Lời giải
+$c = \dfrac{Q}{m\,\Delta t} = \dfrac{5760}{0,4 \cdot 30} = 480$ J/(kg·K).
+
+Câu 23. [TF] [TH] Về nhiệt dung riêng:
+*A. Đơn vị của nhiệt dung riêng là J/(kg·K).
+B. Nhiệt dung riêng của một chất tỉ lệ thuận với khối lượng của vật.
+*C. Công thức $Q = mc\,\Delta t$ dùng để tính nhiệt lượng vật thu vào hoặc tỏa ra khi nhiệt độ thay đổi.
+D. Nhiệt dung riêng của mọi chất đều bằng nhau.
+Lời giải
+Nhiệt dung riêng là đặc trưng của chất, các chất khác nhau có nhiệt dung riêng khác nhau, không phụ thuộc khối lượng vật.
+
+Câu 24. [TF] [TH] Về vai trò của nước:
+*A. Nhiệt dung riêng của nước khoảng 4200 J/(kg·K).
+*B. Nước nóng lên chậm hơn đất cát khi cùng nhận nhiệt từ Mặt Trời (cùng khối lượng).
+*C. Nước thích hợp làm chất tải nhiệt trong hệ thống làm mát.
+*D. Nhiệt dung riêng của nước lớn hơn nhiều so với nhôm (880 J/(kg·K)).
+Lời giải
+Nước có nhiệt dung riêng rất lớn nên hấp thụ hoặc tỏa nhiều nhiệt mà nhiệt độ thay đổi ít.
+
+Câu 25. [TF] [TH] Hai vật trao đổi nhiệt với nhau trong một hệ cô lập:
+*A. Nhiệt lượng vật nóng tỏa ra bằng nhiệt lượng vật lạnh thu vào khi cân bằng nhiệt.
+*B. Nhiệt độ cân bằng nằm giữa nhiệt độ ban đầu của hai vật.
+C. Vật có nhiệt dung riêng lớn hơn luôn tỏa nhiều nhiệt hơn.
+*D. Nhiệt được truyền từ vật nóng hơn sang vật lạnh hơn.
+Lời giải
+Nhiệt lượng tỏa ra hay thu vào còn phụ thuộc khối lượng và độ biến thiên nhiệt độ chứ không chỉ phụ thuộc nhiệt dung riêng.
+
+Câu 26. [TF] [VD] Một khối nhôm khối lượng 2 kg được nung từ 20 °C đến 70 °C, nhiệt dung riêng của nhôm là 880 J/(kg·K).
+*A. Nhiệt lượng khối nhôm thu vào là 88 kJ.
+B. Độ tăng nhiệt độ của khối nhôm theo thang Kelvin là 343 K.
+C. Nếu khối lượng khối nhôm tăng gấp đôi thì nhiệt lượng cần cung cấp không đổi.
+D. Nếu nung từ 20 °C đến 120 °C thì nhiệt lượng cần cung cấp là 123,2 kJ.
+Lời giải
+$Q = mc\,\Delta t = 2 \cdot 880 \cdot 50 = 88\,000$ J $= 88$ kJ nên A đúng. Độ tăng nhiệt độ là $70 - 20 = 50$ K nên B sai. Nhiệt lượng tỉ lệ thuận với khối lượng nên C sai. Nung đến 120 °C thì $Q = 2 \cdot 880 \cdot 100 = 176$ kJ nên D sai.
+
+Câu 27. [TF] [VD] Cho 1 kg nước ở 25 °C vào một bình cách nhiệt rồi rót thêm 0,5 kg nước ở 100 °C. Bỏ qua mất mát nhiệt, $c = 4200$ J/(kg·K).
+*A. Nhiệt độ cân bằng là 50 °C.
+*B. Nhiệt lượng nước nóng tỏa ra là 105 kJ.
+*C. Nhiệt lượng nước lạnh thu vào là 105 kJ.
+D. Nhiệt độ cân bằng là 62,5 °C.
+Lời giải
+$1 \cdot (t - 25) = 0,5 \cdot (100 - t)$ suy ra $t = 50$ °C. Nhiệt lượng nước nóng tỏa: $0,5 \cdot 4200 \cdot 50 = 105$ kJ; nước lạnh thu: $1 \cdot 4200 \cdot 25 = 105$ kJ.
+
+Câu 28. [TF] [VD] Hai vật có cùng khối lượng 1 kg cùng nhận nhiệt lượng 8400 J. Vật 1 là nước ($c = 4200$ J/(kg·K)), vật 2 là một chất lỏng có $c = 2100$ J/(kg·K).
+*A. Nước tăng thêm 2 K.
+B. Nước tăng thêm 4 K.
+*C. Vật 2 tăng thêm 4 K.
+D. Hai vật tăng thêm nhiệt độ như nhau.
+Lời giải
+$\Delta t_1 = \dfrac{8400}{1 \cdot 4200} = 2$ K; $\Delta t_2 = \dfrac{8400}{1 \cdot 2100} = 4$ K.
+
+Câu 29. [TF] [VD] Một ấm điện công suất 800 W đun 1,2 kg nước từ 25 °C đến 75 °C. Bỏ qua mọi hao phí, $c = 4200$ J/(kg·K). Xét các phát biểu sau:
+*A. Nhiệt lượng nước thu vào là 252 kJ.
+*B. Thời gian đun nước là 315 s.
+C. Nếu hiệu suất của ấm chỉ là 80 % thì thời gian đun là 252 s.
+D. Nếu đun 2,4 kg nước trong cùng điều kiện thì thời gian đun vẫn là 315 s.
+Lời giải
+$Q = 1,2 \cdot 4200 \cdot 50 = 252\,000$ J nên A đúng; $t = \dfrac{252\,000}{800} = 315$ s nên B đúng. Với hiệu suất 80 % thì $t = \dfrac{315}{0,8} \approx 394$ s nên C sai. Khối lượng gấp đôi thì thời gian gấp đôi (630 s) nên D sai.
+
+Câu 30. [TH] Tính nhiệt lượng cần cung cấp để 2 kg nước tăng thêm 30 K, biết $c = 4200$ J/(kg·K) (theo đơn vị kJ).
+Trả lời: [[252]]
+Lời giải
+$Q = mc\,\Delta t = 2 \cdot 4200 \cdot 30 = 252\,000$ J $= 252$ kJ.
+
+Câu 31. [TH] Tính nhiệt lượng cần cung cấp để 0,5 kg đồng tăng thêm 40 K, biết nhiệt dung riêng của đồng là 380 J/(kg·K) (theo đơn vị J).
+Trả lời: [[7600]]
+Lời giải
+$Q = 0,5 \cdot 380 \cdot 40 = 7600$ J.
+
+Câu 32. [TH] Cung cấp nhiệt lượng 12 600 J cho 0,5 kg nước, $c = 4200$ J/(kg·K). Tính độ tăng nhiệt độ của nước (theo đơn vị K).
+Trả lời: [[6]]
+Lời giải
+$\Delta t = \dfrac{Q}{mc} = \dfrac{12\,600}{0,5 \cdot 4200} = 6$ K.
+
+Câu 33. [VD] Một khối kim loại có khối lượng 0,4 kg được nung nóng từ 20 °C lên 70 °C, cần cung cấp nhiệt lượng 9200 J. Tính nhiệt dung riêng của kim loại đó (theo đơn vị J/(kg·K)).
+Trả lời: [[460]]
+Lời giải
+$c = \dfrac{Q}{m\,\Delta t} = \dfrac{9200}{0,4 \cdot 50} = 460$ J/(kg·K).
+
+Câu 34. [VD] Thả miếng sắt khối lượng 0,2 kg ở 100 °C vào 0,4 kg nước ở 20 °C. Nhiệt dung riêng của sắt là 460 J/(kg·K), của nước là 4200 J/(kg·K), bỏ qua mất mát nhiệt. Tính nhiệt độ cân bằng (theo đơn vị °C, làm tròn đến một chữ số thập phân).
+Trả lời: [[24,2]]
+Lời giải
+$0,2 \cdot 460 \cdot (100 - t) = 0,4 \cdot 4200 \cdot (t - 20)$ suy ra $t = \dfrac{42\,800}{1772} \approx 24,2$ °C.
+
+Câu 35. [VD] Một ấm điện công suất 1000 W có hiệu suất 80 % đun 2 kg nước từ 20 °C đến 60 °C, $c = 4200$ J/(kg·K). Tính thời gian đun (theo đơn vị s).
+Trả lời: [[420]]
+Lời giải
+Nhiệt lượng có ích: $Q = 2 \cdot 4200 \cdot 40 = 336\,000$ J. Điện năng tiêu thụ: $A = \dfrac{336\,000}{0,8} = 420\,000$ J. Thời gian $t = \dfrac{A}{P} = 420$ s.
+
+Câu 36. [VD] Cần trộn 3 kg nước ở 20 °C với bao nhiêu kg nước ở 80 °C để nhiệt độ cân bằng là 40 °C (theo đơn vị kg, làm tròn đến một chữ số thập phân)?
+Trả lời: [[1,5]]
+Lời giải
+$3 \cdot (40 - 20) = m \cdot (80 - 40)$ suy ra $m = \dfrac{60}{40} = 1,5$ kg.
+
+Câu 37. [VD] Bình nhiệt lượng kế bằng nhôm khối lượng 0,1 kg (nhiệt dung riêng 880 J/(kg·K)) chứa 0,4 kg nước (4200 J/(kg·K)) ở 20 °C. Thả vào bình một vật kim loại khối lượng 0,2 kg đang ở 100 °C thì nhiệt độ cân bằng là 24 °C. Tính nhiệt dung riêng của kim loại (theo đơn vị J/(kg·K), làm tròn đến hàng đơn vị).
+Trả lời: [[465]]
+Lời giải
+Nhiệt lượng tỏa: $0,2 \cdot c \cdot 76$. Nhiệt lượng thu: $(0,1 \cdot 880 + 0,4 \cdot 4200) \cdot 4 = 1768 \cdot 4 = 7072$ J. Suy ra $c = \dfrac{7072}{15,2} \approx 465$ J/(kg·K).
+
+Câu 38. [VD] Trong thí nghiệm đo nhiệt dung riêng, một điện trở 60 W đun 0,5 kg chất lỏng trong 100 s, nhiệt độ tăng từ 20 °C lên 24 °C. Bỏ qua mọi hao phí. Tính nhiệt dung riêng của chất lỏng (theo đơn vị J/(kg·K)).
+Trả lời: [[3000]]
+Lời giải
+$Q = Pt = 60 \cdot 100 = 6000$ J. Nhiệt dung riêng $c = \dfrac{Q}{m\,\Delta t} = \dfrac{6000}{0,5 \cdot 4} = 3000$ J/(kg·K).
+
+@bai 5 | Nhiệt nóng chảy riêng
+Câu 1. [NB] Nhiệt nóng chảy riêng của một chất là nhiệt lượng cần cung cấp để
+A. làm 1 kg chất đó tăng thêm 1 K.
+B. làm 1 kg chất đó hóa hơi hoàn toàn ở nhiệt độ sôi.
+*C. làm nóng chảy hoàn toàn 1 kg chất đó ở nhiệt độ nóng chảy.
+D. làm 1 kg chất đó nguội đi 1 K.
+Lời giải
+Nhiệt nóng chảy riêng là nhiệt lượng cần để 1 kg chất rắn nóng chảy hoàn toàn ở nhiệt độ nóng chảy.
+
+Câu 2. [NB] Đơn vị của nhiệt nóng chảy riêng trong hệ SI là
+*A. J/kg.
+B. J/(kg·K).
+C. J.
+D. W.
+Lời giải
+Từ $\lambda = \dfrac{Q}{m}$ suy ra đơn vị là J/kg.
+
+Câu 3. [NB] Nhiệt lượng cần cung cấp để làm nóng chảy hoàn toàn khối chất rắn ở nhiệt độ nóng chảy được tính bằng
+A. $Q = \dfrac{\lambda}{m}$.
+B. $Q = \dfrac{m}{\lambda}$.
+C. $Q = \lambda m\,\Delta t$.
+*D. $Q = \lambda m$.
+Lời giải
+$Q = \lambda m$ với $\lambda$ là nhiệt nóng chảy riêng, $m$ là khối lượng chất.
+
+Câu 4. [NB] Trong khi chất rắn kết tinh đang nóng chảy, nhiệt độ của nó
+A. tăng đều.
+*B. không đổi.
+C. giảm dần.
+D. tăng rồi giảm.
+Lời giải
+Chất rắn kết tinh nóng chảy ở nhiệt độ không đổi.
+
+Câu 5. [NB] Nhiệt nóng chảy riêng của nước đá vào khoảng
+*A. $3,34 \cdot 10^5$ J/kg.
+B. $3,34 \cdot 10^3$ J/kg.
+C. 4200 J/kg.
+D. $2,3 \cdot 10^6$ J/kg.
+Lời giải
+Nước đá có nhiệt nóng chảy riêng khoảng $3,34 \cdot 10^5$ J/kg.
+
+Câu 6. [NB] Khi 1 kg chất lỏng đông đặc hoàn toàn ở nhiệt độ đông đặc thì nhiệt lượng tỏa ra có độ lớn bằng
+A. nhiệt dung riêng của chất đó.
+B. nhiệt hóa hơi riêng của chất đó.
+*C. nhiệt nóng chảy riêng của chất đó.
+D. nhiệt độ nóng chảy của chất đó.
+Lời giải
+Quá trình đông đặc tỏa ra đúng lượng nhiệt mà quá trình nóng chảy ngược lại đã thu vào.
+
+Câu 7. [NB] Ở áp suất 1 atm, nước đá nóng chảy ở nhiệt độ
+A. $-273$ °C.
+*B. 0 °C.
+C. 100 °C.
+D. 273 °C.
+Lời giải
+Nhiệt độ nóng chảy của nước đá ở 1 atm là 0 °C.
+
+Câu 8. [NB] Trong quá trình nóng chảy, nhiệt lượng cung cấp cho chất rắn kết tinh được dùng chủ yếu để
+A. làm tăng nhiệt độ của chất rắn đang nóng chảy.
+B. làm tăng khối lượng của chất đang nóng chảy.
+C. làm tăng vận tốc chuyển động của cả khối chất.
+*D. phá vỡ liên kết giữa các hạt trong mạng tinh thể.
+Lời giải
+Nhiệt được dùng để phá vỡ liên kết trong mạng tinh thể nên nhiệt độ không đổi.
+
+Câu 9. [TH] Đồ thị nhiệt độ theo thời gian khi đun một chất rắn kết tinh có một đoạn nằm ngang. Đoạn đó ứng với giai đoạn
+A. chất rắn đang nóng lên.
+B. chất lỏng đang nóng lên.
+*C. chất đang nóng chảy.
+D. chất đã hóa hơi hoàn toàn.
+Lời giải
+Nhiệt độ không đổi trong lúc vẫn nhận nhiệt là giai đoạn chất đang nóng chảy.
+
+Câu 10. [TH] Hai khối chất rắn cùng khối lượng đều ở nhiệt độ nóng chảy. Khối có nhiệt nóng chảy riêng lớn hơn thì
+A. cần ít nhiệt lượng hơn để nóng chảy hoàn toàn.
+*B. cần nhiều nhiệt lượng hơn để nóng chảy hoàn toàn.
+C. cần nhiệt lượng bằng nhau để nóng chảy hoàn toàn.
+D. không nóng chảy được.
+Lời giải
+$Q = \lambda m$ nên với $m$ như nhau thì $\lambda$ lớn hơn cần $Q$ lớn hơn.
+
+Câu 11. [TH] Khi nước lỏng đông đặc thành nước đá ở 0 °C, nhiệt lượng
+*A. được tỏa ra môi trường.
+B. được thu vào từ môi trường.
+C. không thay đổi.
+D. bằng không.
+Lời giải
+Đông đặc là quá trình ngược của nóng chảy nên tỏa nhiệt ra môi trường.
+
+Câu 12. [TH] Dùng nước đá để ướp lạnh đồ uống hiệu quả vì
+A. nước đá có nhiệt độ rất thấp so với 0 °C nên hút nhiệt rất mạnh.
+B. nước đá có khối lượng riêng nhỏ nên nổi lên trên mặt đồ uống.
+C. nước đá không dẫn nhiệt nên giữ lạnh được đồ uống.
+*D. nước đá tan thu nhiều nhiệt (nhiệt nóng chảy riêng lớn) mà nhiệt độ giữ ở 0 °C.
+Lời giải
+Khi tan, nước đá thu lượng nhiệt lớn từ đồ uống nhưng vẫn ở 0 °C nên đồ uống được làm lạnh.
+
+Câu 13. [TH] Hai khối nước đá đều ở 0 °C, khối thứ hai có khối lượng gấp đôi khối thứ nhất. Nhiệt lượng cần để khối thứ hai tan hoàn toàn so với khối thứ nhất
+A. bằng nhau.
+*B. gấp đôi.
+C. bằng một nửa.
+D. gấp bốn.
+Lời giải
+$Q = \lambda m$ tỉ lệ thuận với khối lượng.
+
+Câu 14. [TH] Quá trình nào sau đây tỏa nhiệt ra môi trường?
+A. Nước đá tan chảy.
+B. Nước bay hơi.
+*C. Nước đông đặc thành đá.
+D. Nước đá thăng hoa.
+Lời giải
+Các quá trình thu nhiệt là nóng chảy, hóa hơi, thăng hoa; còn đông đặc thì tỏa nhiệt.
+
+Câu 15. [TH] Trong giai đoạn nóng chảy của chất rắn kết tinh, nhiệt lượng cung cấp
+*A. chỉ làm tăng thế năng tương tác giữa các phân tử, không làm tăng nhiệt độ.
+B. chỉ làm tăng động năng của các phân tử nên nhiệt độ tăng.
+C. không làm thay đổi nội năng của khối chất.
+D. làm giảm khối lượng của khối chất.
+Lời giải
+Nhiệt độ không đổi nên động năng trung bình của phân tử không đổi; nhiệt làm tăng thế năng tương tác nên nội năng vẫn tăng.
+
+Câu 16. [TH] Để đo nhiệt nóng chảy riêng của nước đá bằng thí nghiệm, người ta cần
+A. chỉ đo thể tích của khối nước đá ban đầu trong cốc.
+B. chỉ đo nhiệt độ của phòng thí nghiệm lúc tiến hành.
+C. chỉ đo thời gian để toàn bộ nước đá tan hết.
+*D. đo khối lượng nước đá tan và nhiệt lượng truyền cho nó.
+Lời giải
+Từ $\lambda = \dfrac{Q}{m}$ cần biết nhiệt lượng $Q$ và khối lượng $m$ của chất đã nóng chảy.
+
+Câu 17. [VD] Nhiệt lượng cần cung cấp để làm nóng chảy hoàn toàn 2 kg nước đá ở 0 °C là (biết $\lambda = 3,34 \cdot 10^5$ J/kg)
+A. $1,67 \cdot 10^5$ J.
+*B. $6,68 \cdot 10^5$ J.
+C. $3,34 \cdot 10^5$ J.
+D. $1,67 \cdot 10^6$ J.
+Lời giải
+$Q = \lambda m = 3,34 \cdot 10^5 \cdot 2 = 6,68 \cdot 10^5$ J.
+
+Câu 18. [VD] Chì có nhiệt nóng chảy riêng $2,5 \cdot 10^4$ J/kg. Nhiệt lượng cần để làm nóng chảy hoàn toàn 4 kg chì đang ở nhiệt độ nóng chảy là
+*A. $1,0 \cdot 10^5$ J.
+B. $6,25 \cdot 10^3$ J.
+C. $2,5 \cdot 10^4$ J.
+D. $1,0 \cdot 10^4$ J.
+Lời giải
+$Q = \lambda m = 2,5 \cdot 10^4 \cdot 4 = 1,0 \cdot 10^5$ J.
+
+Câu 19. [VD] Nhiệt lượng $1,67 \cdot 10^5$ J làm tan hoàn toàn bao nhiêu kilôgam nước đá ở 0 °C? Biết $\lambda = 3,34 \cdot 10^5$ J/kg.
+A. 0,05 kg.
+B. 5 kg.
+*C. 0,5 kg.
+D. 2 kg.
+Lời giải
+$m = \dfrac{Q}{\lambda} = \dfrac{1,67 \cdot 10^5}{3,34 \cdot 10^5} = 0,5$ kg.
+
+Câu 20. [VD] Nhiệt lượng cần cung cấp để biến 1 kg nước đá ở $-10$ °C thành nước ở 0 °C là bao nhiêu? Biết nhiệt dung riêng của nước đá là 2100 J/(kg·K) và $\lambda = 3,34 \cdot 10^5$ J/kg.
+A. $3,34 \cdot 10^5$ J.
+B. $2,1 \cdot 10^4$ J.
+C. $3,13 \cdot 10^5$ J.
+*D. $3,55 \cdot 10^5$ J.
+Lời giải
+Nung đá từ $-10$ °C lên 0 °C: $Q_1 = 1 \cdot 2100 \cdot 10 = 2,1 \cdot 10^4$ J. Làm tan: $Q_2 = 3,34 \cdot 10^5$ J. Tổng: $3,55 \cdot 10^5$ J.
+
+Câu 21. [VD] Khi 0,2 kg nước ở 0 °C đông đặc hoàn toàn thành nước đá ở 0 °C thì tỏa ra nhiệt lượng bao nhiêu? Biết $\lambda = 3,34 \cdot 10^5$ J/kg.
+A. $3,34 \cdot 10^5$ J.
+*B. $6,68 \cdot 10^4$ J.
+C. $6,68 \cdot 10^5$ J.
+D. $1,67 \cdot 10^4$ J.
+Lời giải
+$Q = \lambda m = 3,34 \cdot 10^5 \cdot 0,2 = 6,68 \cdot 10^4$ J.
+
+Câu 22. [VD] Thả 0,1 kg nước đá ở 0 °C vào 0,5 kg nước ở 30 °C trong bình cách nhiệt. Biết $\lambda = 3,34 \cdot 10^5$ J/kg, $c_{nước} = 4200$ J/(kg·K). Nhiệt độ cuối cùng của hệ xấp xỉ
+A. 0 °C.
+B. 30 °C.
+*C. 11,7 °C.
+D. 15 °C.
+Lời giải
+Nước hạ xuống 0 °C tỏa 63 000 J, lớn hơn nhiệt cần để làm tan hết đá (33 400 J), nên đá tan hết. Từ $0,1\lambda + 0,1 \cdot 4200\,(t - 0) = 0,5 \cdot 4200\,(30 - t)$ suy ra $t \approx 11,7$ °C.
+
+Câu 23. [TF] [TH] Về sự nóng chảy:
+*A. Chất rắn kết tinh nóng chảy ở nhiệt độ xác định.
+*B. Trong khi nóng chảy, nhiệt độ của chất rắn kết tinh không đổi.
+C. Chất rắn vô định hình có nhiệt độ nóng chảy xác định.
+*D. Đơn vị của nhiệt nóng chảy riêng là J/kg.
+Lời giải
+Chất rắn vô định hình không có nhiệt độ nóng chảy xác định, chúng mềm dần rồi chảy lỏng.
+
+Câu 24. [TF] [TH] Về nhiệt nóng chảy riêng:
+*A. Nhiệt lượng làm nóng chảy khối chất ở nhiệt độ nóng chảy tính theo $Q = \lambda m$.
+B. Nhiệt nóng chảy riêng của một chất tỉ lệ thuận với khối lượng của vật.
+*C. Mỗi chất rắn kết tinh có nhiệt nóng chảy riêng khác nhau.
+D. Khi đông đặc, chất lỏng thu vào nhiệt lượng.
+Lời giải
+Nhiệt nóng chảy riêng là đặc trưng của chất, không phụ thuộc khối lượng vật. Khi đông đặc chất tỏa nhiệt.
+
+Câu 25. [TF] [TH] Nước đá đang tan ở 0 °C:
+*A. Nước đá thu nhiệt từ môi trường.
+*B. Nhiệt độ của hỗn hợp nước và nước đá giữ nguyên 0 °C khi đá đang tan.
+*C. Thế năng tương tác giữa các phân tử tăng.
+*D. Nhiệt lượng cần để tan tỉ lệ thuận với khối lượng nước đá.
+Lời giải
+Cả bốn phát biểu đều đúng theo $Q = \lambda m$ và theo đặc điểm của quá trình nóng chảy.
+
+Câu 26. [TF] [VD] Cho 1,5 kg nước đá ở 0 °C tan hoàn toàn thành nước ở 0 °C, $\lambda = 3,34 \cdot 10^5$ J/kg.
+*A. Nhiệt lượng cần cung cấp là $5,01 \cdot 10^5$ J.
+B. Trong suốt quá trình tan, nhiệt độ của nước đá tăng dần từ 0 °C.
+C. Nếu khối lượng nước đá là 3 kg thì nhiệt lượng cần cung cấp là $1,002 \cdot 10^5$ J.
+D. Nhiệt lượng cần cung cấp làm nhiệt độ nước tăng thêm 80 K.
+Lời giải
+$Q = \lambda m = 3,34 \cdot 10^5 \cdot 1,5 = 5,01 \cdot 10^5$ J nên A đúng. Khi đang tan, nhiệt độ không đổi ở 0 °C nên B và D sai (nhiệt chỉ dùng để phá vỡ liên kết). Với 3 kg thì $Q = 1,002 \cdot 10^6$ J nên C sai.
+
+Câu 27. [TF] [VD] Cho 2 kg nước đá ở 0 °C, $\lambda = 3,34 \cdot 10^5$ J/kg, $c_{nước} = 4200$ J/(kg·K).
+*A. Nhiệt lượng làm tan hoàn toàn khối đá là $6,68 \cdot 10^5$ J.
+B. Để tan hoàn toàn và nước nóng lên 10 °C chỉ cần $6,68 \cdot 10^5$ J.
+*C. Để tan hoàn toàn và nước nóng lên 10 °C cần $7,52 \cdot 10^5$ J.
+D. Nhiệt độ của nước đá tăng lên trong khi đá đang tan.
+Lời giải
+Tan hoàn toàn: $6,68 \cdot 10^5$ J. Nâng 2 kg nước từ 0 °C lên 10 °C cần thêm $2 \cdot 4200 \cdot 10 = 8,4 \cdot 10^4$ J, tổng $7,52 \cdot 10^5$ J. Khi đang tan, nhiệt độ giữ nguyên 0 °C.
+
+Câu 28. [TF] [VD] Đun nóng nước đá: trong 2 phút đầu nhiệt độ tăng từ $-10$ °C đến 0 °C, từ phút thứ 2 đến phút thứ 10 nhiệt độ giữ nguyên 0 °C, từ phút thứ 10 đến phút thứ 12 nhiệt độ tăng từ 0 °C đến 10 °C.
+*A. Nước đá nóng chảy ở 0 °C.
+*B. Từ phút thứ 2 đến phút thứ 10, nhiệt cung cấp dùng để làm nóng chảy nước đá.
+C. Ở phút thứ 5, khối chất hoàn toàn ở thể lỏng.
+*D. Sau phút thứ 10, khối chất ở thể lỏng.
+Lời giải
+Ở phút thứ 5 chất đang nóng chảy nên tồn tại cả thể rắn và thể lỏng; sau phút thứ 10 đá đã tan hết.
+
+Câu 29. [TF] [VD] Thả 0,2 kg nước đá ở 0 °C vào 1 kg nước ở 20 °C trong bình cách nhiệt. Biết $\lambda = 3,34 \cdot 10^5$ J/kg, $c_{nước} = 4200$ J/(kg·K).
+A. Nước đá chỉ tan một phần.
+*B. Nước đá tan hoàn toàn.
+*C. Nhiệt độ cuối cùng của hệ xấp xỉ 3,4 °C.
+D. Nhiệt độ cuối cùng của hệ là 10 °C.
+Lời giải
+Nước hạ xuống 0 °C tỏa 84 000 J, lớn hơn 66 800 J cần để làm tan hết đá nên đá tan hết. Nhiệt độ cuối $t = \dfrac{84\,000 - 66\,800}{1,2 \cdot 4200} \approx 3,4$ °C.
+
+Câu 30. [TH] Tính nhiệt lượng cần để làm tan hoàn toàn 3 kg nước đá ở 0 °C, biết $\lambda = 3,34 \cdot 10^5$ J/kg (theo đơn vị kJ).
+Trả lời: [[1002]]
+Lời giải
+$Q = \lambda m = 3,34 \cdot 10^5 \cdot 3 = 1,002 \cdot 10^6$ J $= 1002$ kJ.
+
+Câu 31. [TH] Chì có nhiệt nóng chảy riêng $2,5 \cdot 10^4$ J/kg. Tính nhiệt lượng cần để làm nóng chảy hoàn toàn 0,8 kg chì ở nhiệt độ nóng chảy (theo đơn vị kJ).
+Trả lời: [[20]]
+Lời giải
+$Q = 2,5 \cdot 10^4 \cdot 0,8 = 2 \cdot 10^4$ J $= 20$ kJ.
+
+Câu 32. [TH] Nhiệt lượng $6,68 \cdot 10^4$ J làm tan hoàn toàn bao nhiêu kilôgam nước đá ở 0 °C? Biết $\lambda = 3,34 \cdot 10^5$ J/kg (theo đơn vị kg).
+Trả lời: [[0,2]]
+Lời giải
+$m = \dfrac{Q}{\lambda} = \dfrac{6,68 \cdot 10^4}{3,34 \cdot 10^5} = 0,2$ kg.
+
+Câu 33. [VD] Một khối chất rắn kết tinh khối lượng 0,4 kg đang ở nhiệt độ nóng chảy, cần nhận nhiệt lượng $1,2 \cdot 10^5$ J để nóng chảy hoàn toàn. Tính nhiệt nóng chảy riêng của chất đó (theo đơn vị kJ/kg).
+Trả lời: [[300]]
+Lời giải
+$\lambda = \dfrac{Q}{m} = \dfrac{1,2 \cdot 10^5}{0,4} = 3 \cdot 10^5$ J/kg $= 300$ kJ/kg.
+
+Câu 34. [VD] Tính nhiệt lượng cần cung cấp để biến 0,5 kg nước đá ở $-20$ °C thành nước ở 0 °C. Biết nhiệt dung riêng của nước đá là 2100 J/(kg·K) và $\lambda = 3,34 \cdot 10^5$ J/kg (theo đơn vị kJ).
+Trả lời: [[188]]
+Lời giải
+$Q = 0,5 \cdot 2100 \cdot 20 + 0,5 \cdot 3,34 \cdot 10^5 = 21\,000 + 167\,000 = 188\,000$ J $= 188$ kJ.
+
+Câu 35. [VD] Một ấm điện công suất 500 W làm tan hoàn toàn 0,3 kg nước đá ở 0 °C, coi toàn bộ điện năng chuyển hóa thành nhiệt cho nước đá. Biết $\lambda = 3,34 \cdot 10^5$ J/kg. Tính thời gian cần thiết (theo đơn vị s, làm tròn đến hàng đơn vị).
+Trả lời: [[200]]
+Lời giải
+$Q = \lambda m = 3,34 \cdot 10^5 \cdot 0,3 = 1,002 \cdot 10^5$ J. Thời gian $t = \dfrac{Q}{P} = \dfrac{1,002 \cdot 10^5}{500} \approx 200$ s.
+
+Câu 36. [VD] Thả 0,3 kg nước đá ở 0 °C vào 1,5 kg nước ở 40 °C trong bình cách nhiệt. Biết $\lambda = 3,34 \cdot 10^5$ J/kg, $c_{nước} = 4200$ J/(kg·K). Tính nhiệt độ cuối cùng của hệ (theo đơn vị °C, làm tròn đến một chữ số thập phân).
+Trả lời: [[20,1]]
+Lời giải
+Nước tỏa nhiều hơn nhiệt cần để làm tan hết đá nên đá tan hết. $0,3\lambda + 0,3 \cdot 4200\,t = 1,5 \cdot 4200\,(40 - t)$. Suy ra $t = \dfrac{252\,000 - 100\,200}{1,8 \cdot 4200} \approx 20,1$ °C.
+
+Câu 37. [VD] Tính nhiệt lượng cần lấy đi để 1 kg nước ở 25 °C hạ xuống 0 °C rồi đông đặc hoàn toàn thành nước đá ở 0 °C. Biết $c_{nước} = 4200$ J/(kg·K), $\lambda = 3,34 \cdot 10^5$ J/kg (theo đơn vị kJ).
+Trả lời: [[439]]
+Lời giải
+$Q = 1 \cdot 4200 \cdot 25 + 1 \cdot 3,34 \cdot 10^5 = 105\,000 + 334\,000 = 439\,000$ J $= 439$ kJ.
+
+Câu 38. [VD] Một kilôgam nước ở 20 °C hạ xuống 0 °C thì làm tan tối đa bao nhiêu kilôgam nước đá ở 0 °C (theo đơn vị kg, làm tròn đến hai chữ số thập phân)? Biết $c_{nước} = 4200$ J/(kg·K), $\lambda = 3,34 \cdot 10^5$ J/kg.
+Trả lời: [[0,25]]
+Lời giải
+Nhiệt nước tỏa ra: $1 \cdot 4200 \cdot 20 = 84\,000$ J. Khối lượng đá tan tối đa: $m = \dfrac{84\,000}{3,34 \cdot 10^5} \approx 0,25$ kg.
+
+@bai 6 | Nhiệt hóa hơi riêng
+Câu 1. [NB] Nhiệt hóa hơi riêng của một chất lỏng là nhiệt lượng cần cung cấp để
+A. làm 1 kg chất lỏng đó nóng lên thêm 1 K ở nhiệt độ bất kì.
+B. làm 1 kg chất rắn đó nóng chảy hoàn toàn ở nhiệt độ nóng chảy.
+C. làm 1 kg chất lỏng đó đông đặc hoàn toàn ở nhiệt độ đông đặc.
+*D. làm 1 kg chất lỏng đó hóa hơi hoàn toàn ở nhiệt độ sôi.
+Lời giải
+Nhiệt hóa hơi riêng là nhiệt lượng cần để 1 kg chất lỏng hóa hơi hoàn toàn ở nhiệt độ sôi.
+
+Câu 2. [NB] Đơn vị của nhiệt hóa hơi riêng trong hệ SI là
+A. J/(kg·K).
+*B. J/kg.
+C. J.
+D. W.
+Lời giải
+Từ $L = \dfrac{Q}{m}$ suy ra đơn vị là J/kg.
+
+Câu 3. [NB] Nhiệt lượng cần cung cấp để làm hóa hơi hoàn toàn khối chất lỏng ở nhiệt độ sôi được tính bằng
+*A. $Q = Lm$.
+B. $Q = \dfrac{L}{m}$.
+C. $Q = \dfrac{m}{L}$.
+D. $Q = Lm\,\Delta t$.
+Lời giải
+$Q = Lm$ với $L$ là nhiệt hóa hơi riêng, $m$ là khối lượng chất lỏng.
+
+Câu 4. [NB] Nhiệt hóa hơi riêng của nước vào khoảng
+A. $3,34 \cdot 10^5$ J/kg.
+B. 4200 J/kg.
+*C. $2,3 \cdot 10^6$ J/kg.
+D. $2,3 \cdot 10^3$ J/kg.
+Lời giải
+Nước có nhiệt hóa hơi riêng khoảng $2,3 \cdot 10^6$ J/kg.
+
+Câu 5. [NB] Ở áp suất 1 atm, nước sôi ở nhiệt độ
+A. 0 °C.
+B. 50 °C.
+C. 273 °C.
+*D. 100 °C.
+Lời giải
+Nhiệt độ sôi của nước ở 1 atm là 100 °C.
+
+Câu 6. [NB] Khi chất lỏng đang sôi ở áp suất không đổi, nhiệt độ của nó
+*A. không đổi.
+B. tăng đều.
+C. giảm dần.
+D. tăng rồi giảm.
+Lời giải
+Trong khi sôi ở áp suất không đổi, nhiệt độ chất lỏng giữ nguyên.
+
+Câu 7. [NB] Khi 1 kg hơi ngưng tụ hoàn toàn thành chất lỏng ở nhiệt độ sôi, nhiệt lượng tỏa ra có độ lớn bằng
+A. nhiệt nóng chảy riêng của chất đó.
+B. nhiệt dung riêng của chất đó.
+*C. nhiệt hóa hơi riêng của chất đó.
+D. nhiệt độ sôi của chất đó.
+Lời giải
+Quá trình ngưng tụ tỏa ra đúng lượng nhiệt mà quá trình hóa hơi thu vào.
+
+Câu 8. [NB] Quá trình nào sau đây thu nhiệt?
+A. Ngưng tụ của hơi nước.
+*B. Hóa hơi của nước.
+C. Đông đặc của nước.
+D. Nước nguội dần.
+Lời giải
+Hóa hơi, nóng chảy và thăng hoa là các quá trình thu nhiệt.
+
+Câu 9. [TH] Nhiệt lượng cung cấp cho chất lỏng đang sôi được dùng chủ yếu để
+*A. phá vỡ liên kết giữa các phân tử để chuyển sang thể hơi.
+B. làm tăng nhiệt độ của chất lỏng đang sôi.
+C. làm tăng khối lượng của chất lỏng đang sôi.
+D. làm tăng vận tốc của cả khối chất lỏng.
+Lời giải
+Nhiệt độ không đổi khi sôi nên nhiệt cung cấp dùng để phá vỡ liên kết giữa các phân tử, giúp chúng bứt ra thành hơi.
+
+Câu 10. [TH] Hơi nước ở 100 °C gây bỏng nặng hơn nước ở 100 °C có cùng khối lượng vì
+A. hơi nước có khối lượng riêng nhỏ hơn nước nhiều lần.
+B. hơi nước chuyển động nhanh hơn nên làm da bị thương mạnh hơn.
+C. hơi nước nặng hơn nước nên đè lên da mạnh hơn.
+*D. khi ngưng tụ, hơi nước tỏa thêm nhiệt lượng rất lớn.
+Lời giải
+Hơi 100 °C ngưng tụ thành nước 100 °C trên da và tỏa thêm lượng nhiệt $Lm$ lớn.
+
+Câu 11. [TH] Khi đổ mồ hôi cơ thể thấy mát hơn vì
+A. mồ hôi có nhiệt độ rất thấp.
+B. mồ hôi tỏa nhiệt vào cơ thể.
+*C. mồ hôi bay hơi nên thu nhiệt từ cơ thể.
+D. mồ hôi làm tăng khối lượng cơ thể.
+Lời giải
+Sự bay hơi thu nhiệt nên lấy bớt nhiệt của cơ thể, làm cơ thể mát hơn.
+
+Câu 12. [TH] Đối với nước, nhiệt hóa hơi riêng so với nhiệt nóng chảy riêng của nước đá
+A. nhỏ hơn.
+*B. lớn hơn nhiều lần.
+C. bằng nhau.
+D. nhỏ hơn nhiều lần.
+Lời giải
+$L \approx 2,3 \cdot 10^6$ J/kg lớn hơn khoảng 7 lần so với $\lambda \approx 3,34 \cdot 10^5$ J/kg.
+
+Câu 13. [TH] Nhiệt độ sôi của nước giảm khi
+A. áp suất khí trên mặt thoáng của nước tăng lên.
+B. đun nước trong nồi áp suất kín.
+C. thêm đường vào nước đang đun.
+*D. áp suất khí trên mặt thoáng giảm (ví dụ ở núi cao).
+Lời giải
+Áp suất giảm thì nhiệt độ sôi giảm; nồi áp suất làm tăng áp suất nên tăng nhiệt độ sôi.
+
+Câu 14. [TH] Khi đun nước từ 20 °C cho đến khi hóa hơi hoàn toàn, đoạn nằm ngang của đồ thị nhiệt độ theo thời gian ứng với giai đoạn
+*A. nước đang sôi (hóa hơi).
+B. nước đang nóng lên từ 20 °C.
+C. nước đá đang tan.
+D. nước đang ngưng tụ.
+Lời giải
+Trong khi sôi nhiệt độ không đổi nên đồ thị có đoạn nằm ngang.
+
+Câu 15. [TH] Khối lượng chất lỏng ở nhiệt độ sôi tăng gấp ba thì nhiệt lượng cần để hóa hơi hoàn toàn
+A. không đổi.
+B. tăng gấp đôi.
+*C. tăng gấp ba.
+D. giảm đi ba lần.
+Lời giải
+$Q = Lm$ tỉ lệ thuận với $m$.
+
+Câu 16. [TH] Hai chất lỏng cùng khối lượng đều ở nhiệt độ sôi của chúng. Chất có nhiệt hóa hơi riêng lớn hơn thì
+A. cần ít nhiệt lượng hơn để hóa hơi hoàn toàn.
+*B. cần nhiều nhiệt lượng hơn để hóa hơi hoàn toàn.
+C. cần nhiệt lượng bằng nhau để hóa hơi hoàn toàn.
+D. không hóa hơi được.
+Lời giải
+$Q = Lm$ nên với $m$ như nhau thì $L$ lớn hơn cần $Q$ lớn hơn.
+
+Câu 17. [VD] Nhiệt lượng cần để làm hóa hơi hoàn toàn 0,5 kg nước ở 100 °C là (biết $L = 2,3 \cdot 10^6$ J/kg)
+*A. $1,15 \cdot 10^6$ J.
+B. $2,3 \cdot 10^6$ J.
+C. $4,6 \cdot 10^5$ J.
+D. $1,15 \cdot 10^5$ J.
+Lời giải
+$Q = Lm = 2,3 \cdot 10^6 \cdot 0,5 = 1,15 \cdot 10^6$ J.
+
+Câu 18. [VD] Nhiệt lượng cần để đun 1 kg nước từ 20 °C đến 100 °C rồi hóa hơi hoàn toàn ở 100 °C là bao nhiêu? Biết $c = 4200$ J/(kg·K) và $L = 2,3 \cdot 10^6$ J/kg.
+A. $2,3 \cdot 10^6$ J.
+B. $3,36 \cdot 10^5$ J.
+C. $1,964 \cdot 10^6$ J.
+*D. $2,636 \cdot 10^6$ J.
+Lời giải
+$Q_1 = 1 \cdot 4200 \cdot 80 = 3,36 \cdot 10^5$ J; $Q_2 = 2,3 \cdot 10^6$ J. Tổng $Q = 2,636 \cdot 10^6$ J.
+
+Câu 19. [VD] Khi 0,2 kg hơi nước ở 100 °C ngưng tụ hoàn toàn thành nước ở 100 °C thì tỏa ra nhiệt lượng bao nhiêu? Biết $L = 2,3 \cdot 10^6$ J/kg.
+A. $2,3 \cdot 10^6$ J.
+*B. $4,6 \cdot 10^5$ J.
+C. $1,15 \cdot 10^6$ J.
+D. $4,6 \cdot 10^6$ J.
+Lời giải
+$Q = Lm = 2,3 \cdot 10^6 \cdot 0,2 = 4,6 \cdot 10^5$ J.
+
+Câu 20. [VD] Một lượng nước ở 100 °C hóa hơi hoàn toàn khi nhận nhiệt lượng $4,6 \cdot 10^6$ J. Khối lượng nước đó là (biết $L = 2,3 \cdot 10^6$ J/kg)
+A. 0,5 kg.
+B. 1 kg.
+*C. 2 kg.
+D. 4 kg.
+Lời giải
+$m = \dfrac{Q}{L} = \dfrac{4,6 \cdot 10^6}{2,3 \cdot 10^6} = 2$ kg.
+
+Câu 21. [VD] Một bếp điện công suất 1000 W làm hóa hơi hoàn toàn 0,1 kg nước đang ở 100 °C. Bỏ qua hao phí, $L = 2,3 \cdot 10^6$ J/kg. Thời gian cần thiết là
+*A. 230 s.
+B. 23 s.
+C. 2300 s.
+D. 460 s.
+Lời giải
+$Q = Lm = 2,3 \cdot 10^5$ J nên $t = \dfrac{Q}{P} = 230$ s.
+
+Câu 22. [VD] Dẫn 0,1 kg hơi nước ở 100 °C vào bình cách nhiệt chứa 1 kg nước ở 20 °C. Biết $L = 2,3 \cdot 10^6$ J/kg, $c = 4200$ J/(kg·K). Nhiệt độ cuối cùng của hệ xấp xỉ
+A. 60 °C.
+*B. 77 °C.
+C. 85 °C.
+D. 100 °C.
+Lời giải
+$0,1 L + 0,1 \cdot 4200\,(100 - t) = 1 \cdot 4200\,(t - 20)$. Giải ra $t = \dfrac{356\,000}{4620} \approx 77$ °C.
+
+Câu 23. [TF] [TH] Về sự hóa hơi:
+*A. Hóa hơi gồm hai hình thức là bay hơi và sôi.
+B. Bay hơi chỉ xảy ra ở nhiệt độ sôi.
+*C. Nhiệt độ sôi của chất lỏng phụ thuộc áp suất khí trên mặt thoáng.
+D. Trong khi đang sôi, nhiệt độ của chất lỏng tăng liên tục.
+Lời giải
+Bay hơi xảy ra ở mọi nhiệt độ. Khi đang sôi ở áp suất không đổi, nhiệt độ giữ nguyên.
+
+Câu 24. [TF] [TH] Về nhiệt hóa hơi riêng:
+*A. Nhiệt lượng làm hóa hơi chất lỏng ở nhiệt độ sôi tính theo $Q = Lm$.
+*B. Đơn vị của nhiệt hóa hơi riêng là J/kg.
+C. Nhiệt hóa hơi riêng của nước nhỏ hơn nhiệt nóng chảy riêng của nước đá.
+*D. Mỗi chất lỏng có một giá trị nhiệt hóa hơi riêng đặc trưng.
+Lời giải
+Với nước, $L \approx 2,3 \cdot 10^6$ J/kg lớn hơn nhiều so với $\lambda \approx 3,34 \cdot 10^5$ J/kg.
+
+Câu 25. [TF] [TH] Về sự ngưng tụ của hơi nước:
+A. Hơi nước thu nhiệt khi ngưng tụ.
+B. Nhiệt độ hơi nước giảm liên tục trong lúc đang ngưng tụ ở áp suất không đổi.
+*C. Hơi nước tỏa nhiệt ra môi trường khi ngưng tụ.
+D. Ngưng tụ là quá trình chuyển từ thể lỏng sang thể khí.
+Lời giải
+Ngưng tụ là chuyển từ khí sang lỏng và tỏa nhiệt; trong lúc ngưng tụ ở áp suất không đổi nhiệt độ giữ nguyên.
+
+Câu 26. [TF] [VD] Đun 0,5 kg nước đang ở 100 °C cho hóa hơi hoàn toàn (ở 1 atm), $L = 2,3 \cdot 10^6$ J/kg.
+*A. Nhiệt lượng cần cung cấp là $1,15 \cdot 10^6$ J.
+*B. Nhiệt độ của nước và hơi giữ nguyên 100 °C trong suốt quá trình.
+*C. Khi lượng hơi này ngưng tụ lại hoàn toàn ở 100 °C sẽ tỏa ra nhiệt lượng $1,15 \cdot 10^6$ J.
+*D. Với bếp công suất 1000 W (không hao phí) thời gian cần là 1150 s.
+Lời giải
+$Q = Lm = 1,15 \cdot 10^6$ J; thời gian $t = \dfrac{1,15 \cdot 10^6}{1000} = 1150$ s. Quá trình hóa hơi ở nhiệt độ sôi nên nhiệt độ không đổi, còn ngưng tụ thì tỏa lại đúng lượng nhiệt đó.
+
+Câu 27. [TF] [VD] Đun 2 kg nước từ 20 °C đến sôi rồi hóa hơi hoàn toàn ở 100 °C. Biết $c = 4200$ J/(kg·K), $L = 2,3 \cdot 10^6$ J/kg.
+*A. Nhiệt lượng làm 2 kg nước nóng từ 20 °C đến 100 °C là $6,72 \cdot 10^5$ J.
+*B. Nhiệt lượng làm hóa hơi hoàn toàn 2 kg nước ở 100 °C là $4,6 \cdot 10^6$ J.
+C. Tổng nhiệt lượng cần cung cấp là $4,6 \cdot 10^6$ J.
+*D. Phần nhiệt lượng dùng để hóa hơi chiếm hơn 85 % tổng nhiệt lượng.
+Lời giải
+$Q_1 = 2 \cdot 4200 \cdot 80 = 6,72 \cdot 10^5$ J; $Q_2 = 2 \cdot 2,3 \cdot 10^6 = 4,6 \cdot 10^6$ J. Tổng $Q = 5,272 \cdot 10^6$ J nên C sai (thiếu $Q_1$). Tỉ lệ $\dfrac{Q_2}{Q} = \dfrac{4,6}{5,272} \approx 87\,\%$ nên D đúng.
+
+Câu 28. [TF] [VD] So sánh hơi nước 100 °C và nước 100 °C có cùng khối lượng khi tiếp xúc với da:
+*A. Hơi nước ngưng tụ nên tỏa thêm nhiệt lượng $Lm$ so với nước.
+*B. 10 g hơi nước ngưng tụ hoàn toàn tỏa $2,3 \cdot 10^4$ J.
+*C. Sau khi ngưng tụ, nước 100 °C tiếp tục tỏa nhiệt khi nguội đi.
+D. Hai trường hợp tỏa ra nhiệt lượng bằng nhau.
+Lời giải
+Hơi nước tỏa nhiều nhiệt hơn nước vì có thêm nhiệt tỏa ra lúc ngưng tụ ($Lm = 2,3 \cdot 10^6 \cdot 0,01 = 2,3 \cdot 10^4$ J), nên gây bỏng nặng hơn.
+
+Câu 29. [TF] [VD] Trong một thí nghiệm, bếp điện công suất 600 W đun nước đang sôi trong 5 phút làm 0,08 kg nước hóa hơi, bỏ qua hao phí.
+*A. Nhiệt hóa hơi riêng đo được là $2,25 \cdot 10^6$ J/kg.
+B. Nhiệt hóa hơi riêng đo được là $3,75 \cdot 10^6$ J/kg.
+*C. Nhiệt lượng bếp cung cấp trong 5 phút là $1,8 \cdot 10^5$ J.
+D. Nhiệt độ của nước tăng thêm trong lúc sôi.
+Lời giải
+$Q = Pt = 600 \cdot 300 = 1,8 \cdot 10^5$ J; $L = \dfrac{Q}{m} = \dfrac{1,8 \cdot 10^5}{0,08} = 2,25 \cdot 10^6$ J/kg. Khi đang sôi nhiệt độ không đổi.
+
+Câu 30. [TH] Tính nhiệt lượng cần để làm hóa hơi hoàn toàn 3 kg nước ở 100 °C, biết $L = 2,3 \cdot 10^6$ J/kg (theo đơn vị kJ).
+Trả lời: [[6900]]
+Lời giải
+$Q = Lm = 2,3 \cdot 10^6 \cdot 3 = 6,9 \cdot 10^6$ J $= 6900$ kJ.
+
+Câu 31. [TH] Nhiệt lượng $2,3 \cdot 10^5$ J làm hóa hơi hoàn toàn bao nhiêu kilôgam nước ở 100 °C? Biết $L = 2,3 \cdot 10^6$ J/kg (theo đơn vị kg).
+Trả lời: [[0,1]]
+Lời giải
+$m = \dfrac{Q}{L} = \dfrac{2,3 \cdot 10^5}{2,3 \cdot 10^6} = 0,1$ kg.
+
+Câu 32. [TH] Rượu có nhiệt hóa hơi riêng $8,5 \cdot 10^5$ J/kg. Tính nhiệt lượng cần để làm hóa hơi hoàn toàn 0,2 kg rượu ở nhiệt độ sôi (theo đơn vị kJ).
+Trả lời: [[170]]
+Lời giải
+$Q = Lm = 8,5 \cdot 10^5 \cdot 0,2 = 1,7 \cdot 10^5$ J $= 170$ kJ.
+
+Câu 33. [VD] Một chất lỏng có khối lượng 0,25 kg ở nhiệt độ sôi, cần nhận nhiệt lượng $2,25 \cdot 10^5$ J để hóa hơi hoàn toàn. Tính nhiệt hóa hơi riêng của chất lỏng đó (theo đơn vị kJ/kg).
+Trả lời: [[900]]
+Lời giải
+$L = \dfrac{Q}{m} = \dfrac{2,25 \cdot 10^5}{0,25} = 9 \cdot 10^5$ J/kg $= 900$ kJ/kg.
+
+Câu 34. [VD] Tính nhiệt lượng cần để biến 0,5 kg nước ở 20 °C thành hơi nước ở 100 °C. Biết $c = 4200$ J/(kg·K) và $L = 2,3 \cdot 10^6$ J/kg (theo đơn vị kJ).
+Trả lời: [[1318]]
+Lời giải
+$Q = 0,5 \cdot 4200 \cdot 80 + 0,5 \cdot 2,3 \cdot 10^6 = 168\,000 + 1\,150\,000 = 1\,318\,000$ J $= 1318$ kJ.
+
+Câu 35. [VD] Một ấm điện công suất 2000 W có hiệu suất 70 % dùng để làm hóa hơi 0,4 kg nước đang ở 100 °C, $L = 2,3 \cdot 10^6$ J/kg. Tính thời gian cần thiết (theo đơn vị s, làm tròn đến hàng đơn vị).
+Trả lời: [[657]]
+Lời giải
+Nhiệt lượng có ích: $Q = 0,4 \cdot 2,3 \cdot 10^6 = 9,2 \cdot 10^5$ J. Điện năng tiêu thụ $A = \dfrac{9,2 \cdot 10^5}{0,7} \approx 1,314 \cdot 10^6$ J. Thời gian $t = \dfrac{A}{P} \approx 657$ s.
+
+Câu 36. [VD] Dẫn 0,1 kg hơi nước ở 100 °C vào bình cách nhiệt chứa 0,8 kg nước ở 15 °C. Biết $L = 2,3 \cdot 10^6$ J/kg, $c = 4200$ J/(kg·K). Tính nhiệt độ cuối cùng của hệ (theo đơn vị °C, làm tròn đến một chữ số thập phân).
+Trả lời: [[85,3]]
+Lời giải
+$0,1 L + 0,1 \cdot 4200\,(100 - t) = 0,8 \cdot 4200\,(t - 15)$ suy ra $t = \dfrac{322\,400}{3780} \approx 85,3$ °C.
+
+Câu 37. [VD] Một người đổ mồ hôi làm 30 g mồ hôi bay hơi, lấy nhiệt từ cơ thể có khối lượng 60 kg và nhiệt dung riêng 3500 J/(kg·K). Nhiệt hóa hơi riêng của mồ hôi là $2,4 \cdot 10^6$ J/kg. Nếu chỉ có sự bay hơi này lấy nhiệt thì nhiệt độ cơ thể giảm bao nhiêu (theo đơn vị K, làm tròn đến hai chữ số thập phân)?
+Trả lời: [[0,34]]
+Lời giải
+Nhiệt bị lấy đi: $Q = Lm = 2,4 \cdot 10^6 \cdot 0,03 = 7,2 \cdot 10^4$ J. Độ giảm nhiệt độ: $\Delta t = \dfrac{Q}{mc} = \dfrac{7,2 \cdot 10^4}{60 \cdot 3500} \approx 0,34$ K.
+
+Câu 38. [VD] Một bình chứa nước đang sôi ở 100 °C được đun bằng điện trở 1,5 kW trong 10 phút, bỏ qua hao phí. Tính khối lượng nước hóa hơi trong thời gian đó, biết $L = 2,3 \cdot 10^6$ J/kg (theo đơn vị kg, làm tròn đến hai chữ số thập phân).
+Trả lời: [[0,39]]
+Lời giải
+$Q = Pt = 1500 \cdot 600 = 9 \cdot 10^5$ J. Khối lượng nước hóa hơi: $m = \dfrac{Q}{L} = \dfrac{9 \cdot 10^5}{2,3 \cdot 10^6} \approx 0,39$ kg.
+
+@bai 7 | Bài tập về vật lí nhiệt
+Câu 1. [NB] Nhiệt lượng vật thu vào khi nóng lên (không chuyển thể) được tính bằng công thức
+A. $Q = \lambda m$.
+*B. $Q = mc\,\Delta t$.
+C. $Q = Lm$.
+D. $Q = p\,\Delta V$.
+Lời giải
+Khi nhiệt độ thay đổi và vật không chuyển thể thì $Q = mc\,\Delta t$.
+
+Câu 2. [NB] Nhiệt lượng cần để làm nóng chảy hoàn toàn khối chất rắn ở nhiệt độ nóng chảy được tính bằng công thức
+A. $Q = mc\,\Delta t$.
+B. $Q = Lm$.
+C. $Q = \dfrac{m}{\lambda}$.
+*D. $Q = \lambda m$.
+Lời giải
+Quá trình nóng chảy: $Q = \lambda m$ với $\lambda$ là nhiệt nóng chảy riêng.
+
+Câu 3. [NB] Nhiệt lượng cần để làm hóa hơi hoàn toàn khối chất lỏng ở nhiệt độ sôi được tính bằng công thức
+*A. $Q = Lm$.
+B. $Q = \lambda m$.
+C. $Q = mc\,\Delta t$.
+D. $Q = \dfrac{L}{m}$.
+Lời giải
+Quá trình hóa hơi: $Q = Lm$ với $L$ là nhiệt hóa hơi riêng.
+
+Câu 4. [NB] Hệ thức của định luật I của nhiệt động lực học (với $A$, $Q$ là công và nhiệt lượng hệ nhận được) là
+A. $\Delta U = A - Q$.
+B. $\Delta U = Q - A$.
+*C. $\Delta U = A + Q$.
+D. $\Delta U = A \cdot Q$.
+Lời giải
+$\Delta U = A + Q$ với $A$ là công và $Q$ là nhiệt lượng hệ nhận được.
+
+Câu 5. [NB] Hệ thức liên hệ giữa nhiệt độ $T$ (K) và $t$ (°C) là
+A. $T = t - 273$.
+*B. $T = t + 273$.
+C. $T = 273 - t$.
+D. $T = 273t$.
+Lời giải
+$T\ (\text{K}) = t\ (°\text{C}) + 273$.
+
+Câu 6. [NB] Khi chất rắn kết tinh đang nóng chảy ở áp suất không đổi, nhiệt độ của nó
+*A. không đổi.
+B. tăng đều.
+C. giảm dần.
+D. dao động.
+Lời giải
+Chất rắn kết tinh nóng chảy ở nhiệt độ không đổi.
+
+Câu 7. [NB] Ở áp suất 1 atm, nước sôi ở nhiệt độ ứng với
+A. 100 K.
+B. 173 K.
+C. 273 K.
+*D. 373 K.
+Lời giải
+Nước sôi ở 100 °C, tức $T = 100 + 273 = 373$ K.
+
+Câu 8. [NB] Khi hai vật trao đổi nhiệt trong một hệ cô lập và đạt cân bằng nhiệt thì
+A. nhiệt độ hai vật vẫn khác nhau và nhiệt tiếp tục truyền từ vật này sang vật kia.
+B. nhiệt lượng thu vào lớn hơn nhiệt lượng tỏa ra.
+*C. nhiệt lượng tỏa ra bằng nhiệt lượng thu vào.
+D. nhiệt lượng tỏa ra lớn hơn nhiệt lượng thu vào.
+Lời giải
+Theo bảo toàn năng lượng, nhiệt lượng vật nóng tỏa ra bằng nhiệt lượng vật lạnh thu vào.
+
+Câu 9. [TH] Đun nóng đều khối nước đá từ $-10$ °C cho đến khi nước sôi và hóa hơi. Trên đồ thị nhiệt độ theo thời gian, số đoạn nằm ngang (nhiệt độ không đổi) là
+*A. 2.
+B. 1.
+C. 3.
+D. 4.
+Lời giải
+Có hai đoạn nằm ngang: nước đá đang nóng chảy ở 0 °C và nước đang sôi ở 100 °C.
+
+Câu 10. [TH] Với cùng khối lượng 1 kg nước, quá trình nào sau đây cần nhiều nhiệt lượng nhất?
+A. Làm tan hoàn toàn nước đá ở 0 °C.
+*B. Làm hóa hơi hoàn toàn nước ở 100 °C.
+C. Nung nước từ 0 °C đến 100 °C.
+D. Nung nước từ 20 °C đến 80 °C.
+Lời giải
+Các nhiệt lượng lần lượt khoảng $3,34 \cdot 10^5$ J; $2,3 \cdot 10^6$ J; $4,2 \cdot 10^5$ J và $2,52 \cdot 10^5$ J. Hóa hơi cần nhiều nhất.
+
+Câu 11. [TH] Một hệ vừa nhận công 50 J vừa tỏa ra nhiệt lượng 50 J. Khi đó
+A. nội năng của hệ tăng 100 J.
+B. nội năng của hệ giảm 100 J.
+C. nội năng của hệ tăng 50 J.
+*D. nội năng của hệ không đổi.
+Lời giải
+$A = +50$ J, $Q = -50$ J nên $\Delta U = 0$.
+
+Câu 12. [TH] Nhiệt độ của một vật tăng thêm 30 °C. Nhiệt độ của vật theo thang Kelvin tăng thêm
+A. 303 K.
+B. 273 K.
+*C. 30 K.
+D. 86 K.
+Lời giải
+Độ tăng nhiệt độ theo kenvin bằng độ tăng theo độ Celsius.
+
+Câu 13. [TH] Hai vật cùng khối lượng nhận cùng một nhiệt lượng. Vật có nhiệt dung riêng lớn hơn sẽ
+A. nóng lên nhiều hơn.
+*B. nóng lên ít hơn.
+C. nóng lên như nhau.
+D. không nóng lên.
+Lời giải
+$\Delta t = \dfrac{Q}{mc}$ nên $c$ lớn thì $\Delta t$ nhỏ.
+
+Câu 14. [TH] Nước đá đang tan ở ngoài trời vẫn giữ nhiệt độ 0 °C vì
+*A. nhiệt nhận từ môi trường dùng làm tan đá, không làm tăng nhiệt độ.
+B. nước đá không nhận được nhiệt nào từ môi trường xung quanh.
+C. nước đá có nhiệt dung riêng bằng không nên không nóng lên.
+D. nước đá luôn bay hơi ngay sau khi tan thành nước.
+Lời giải
+Khi đang nóng chảy, nhiệt cung cấp dùng để phá vỡ liên kết giữa các phân tử nên nhiệt độ không đổi.
+
+Câu 15. [TH] Không dùng nhiệt kế thủy ngân để đo nhiệt độ $-50$ °C vì
+A. thủy ngân sôi ở nhiệt độ thấp.
+B. thủy ngân không dãn nở vì nhiệt.
+C. thủy ngân có nhiệt dung riêng rất lớn.
+*D. thủy ngân đã đông đặc ở khoảng $-39$ °C.
+Lời giải
+Ở $-50$ °C thủy ngân đã đông đặc nên không còn dãn nở như chất lỏng để đo nhiệt độ.
+
+Câu 16. [TH] Nồi áp suất nấu thức ăn chín nhanh hơn nồi thường vì
+A. nồi áp suất làm nước có nhiệt độ sôi thấp hơn.
+B. nồi áp suất làm giảm khối lượng nước.
+*C. áp suất trong nồi lớn nên nước sôi ở nhiệt độ cao hơn 100 °C.
+D. nồi áp suất làm tăng nhiệt hóa hơi riêng của nước.
+Lời giải
+Áp suất tăng làm nhiệt độ sôi của nước tăng nên thức ăn được nấu ở nhiệt độ cao hơn.
+
+Câu 17. [VD] Nhiệt lượng cần cung cấp để biến 1 kg nước đá ở $-10$ °C thành nước ở 20 °C là bao nhiêu? Biết $c_{đá} = 2100$ J/(kg·K), $c_{nước} = 4200$ J/(kg·K), $\lambda = 3,34 \cdot 10^5$ J/kg.
+*A. $4,39 \cdot 10^5$ J.
+B. $3,34 \cdot 10^5$ J.
+C. $3,55 \cdot 10^5$ J.
+D. $8,4 \cdot 10^4$ J.
+Lời giải
+$Q = 1 \cdot 2100 \cdot 10 + 1 \cdot 3,34 \cdot 10^5 + 1 \cdot 4200 \cdot 20 = 21\,000 + 334\,000 + 84\,000 = 4,39 \cdot 10^5$ J.
+
+Câu 18. [VD] Một khối khí nhận công 200 J và tỏa ra nhiệt lượng 80 J. Độ biến thiên nội năng của khối khí là
+A. 280 J.
+*B. 120 J.
+C. $-120$ J.
+D. $-280$ J.
+Lời giải
+$\Delta U = A + Q = 200 + (-80) = 120$ J.
+
+Câu 19. [VD] Một ấm điện công suất 1,5 kW, hiệu suất 84 %, đun 1,5 kg nước từ 20 °C đến 100 °C. Biết $c = 4200$ J/(kg·K). Thời gian đun là
+A. 336 s.
+B. 504 s.
+C. 600 s.
+*D. 400 s.
+Lời giải
+$Q_{ích} = 1,5 \cdot 4200 \cdot 80 = 504\,000$ J. Điện năng tiêu thụ $\dfrac{504\,000}{0,84} = 600\,000$ J. Thời gian $t = \dfrac{600\,000}{1500} = 400$ s.
+
+Câu 20. [VD] Thả một thanh nhôm khối lượng 0,2 kg ở 100 °C vào 0,4 kg nước ở 20 °C. Biết $c_{nhôm} = 880$ J/(kg·K), $c_{nước} = 4200$ J/(kg·K), bỏ qua mất mát nhiệt. Nhiệt độ cân bằng xấp xỉ
+A. 24,2 °C.
+B. 60 °C.
+*C. 27,6 °C.
+D. 40 °C.
+Lời giải
+$0,2 \cdot 880 \cdot (100 - t) = 0,4 \cdot 4200 \cdot (t - 20)$ suy ra $t = \dfrac{51\,200}{1856} \approx 27,6$ °C.
+
+Câu 21. [VD] Nhiệt lượng cần để làm tan hoàn toàn 0,3 kg nước đá ở 0 °C rồi đun nước thu được lên 30 °C là bao nhiêu? Biết $\lambda = 3,34 \cdot 10^5$ J/kg, $c = 4200$ J/(kg·K).
+A. $1,0 \cdot 10^5$ J.
+*B. $1,38 \cdot 10^5$ J.
+C. $3,78 \cdot 10^4$ J.
+D. $4,0 \cdot 10^5$ J.
+Lời giải
+$Q = 0,3 \cdot 3,34 \cdot 10^5 + 0,3 \cdot 4200 \cdot 30 = 100\,200 + 37\,800 = 1,38 \cdot 10^5$ J.
+
+Câu 22. [VD] Khi 0,2 kg hơi nước ở 100 °C ngưng tụ hoàn toàn rồi nước thu được nguội đến 40 °C thì tỏa ra nhiệt lượng bao nhiêu? Biết $L = 2,3 \cdot 10^6$ J/kg, $c = 4200$ J/(kg·K).
+*A. $5,1 \cdot 10^5$ J.
+B. $4,6 \cdot 10^5$ J.
+C. $5,04 \cdot 10^4$ J.
+D. $2,3 \cdot 10^6$ J.
+Lời giải
+$Q = 0,2 \cdot 2,3 \cdot 10^6 + 0,2 \cdot 4200 \cdot 60 = 460\,000 + 50\,400 \approx 5,1 \cdot 10^5$ J.
+
+Câu 23. [TF] [TH] Về các công thức nhiệt:
+*A. $Q = mc\,\Delta t$ dùng khi nhiệt độ thay đổi mà vật không chuyển thể.
+B. $Q = \lambda m$ dùng khi chất lỏng hóa hơi.
+*C. $Q = Lm$ dùng khi chất lỏng hóa hơi ở nhiệt độ sôi.
+D. $\Delta U = A - Q$.
+Lời giải
+$Q = \lambda m$ dùng khi nóng chảy hoặc đông đặc. Định luật I viết là $\Delta U = A + Q$.
+
+Câu 24. [TF] [TH] Về sự chuyển thể của nước ở áp suất 1 atm:
+*A. Nước đá tan ở 0 °C.
+*B. Nhiệt độ giữ nguyên 0 °C khi nước đá đang tan.
+*C. Nước sôi ở 100 °C.
+*D. Nhiệt độ giữ nguyên 100 °C khi nước đang sôi.
+Lời giải
+Cả bốn phát biểu đều đúng: trong khi chuyển thể ở áp suất không đổi, nhiệt độ của chất giữ nguyên.
+
+Câu 25. [TF] [TH] Về nội năng và định luật I của nhiệt động lực học:
+*A. Vật nhận nhiệt (không sinh công) thì nội năng tăng.
+*B. Vật nhận công (không tỏa nhiệt) thì nội năng tăng.
+C. Vật nhận công thì nội năng của vật luôn giảm.
+*D. Nội năng của vật phụ thuộc vào nhiệt độ và thể tích của vật.
+Lời giải
+$\Delta U = A + Q$: nhận công ($A > 0$) và không tỏa nhiệt thì nội năng tăng.
+
+Câu 26. [TF] [VD] Một khối khí nhận nhiệt lượng 250 J và sinh công 90 J.
+*A. Độ biến thiên nội năng của khối khí là 160 J.
+B. Công mà khí nhận được là $+90$ J.
+C. Nội năng của khối khí giảm.
+D. Nếu khí không sinh công thì độ biến thiên nội năng vẫn là 160 J.
+Lời giải
+Khí sinh công nên $A = -90$ J, $\Delta U = -90 + 250 = 160$ J nên A đúng; nội năng tăng nên C sai; B sai vì công khí nhận là $-90$ J. Nếu không sinh công thì $\Delta U = Q = 250$ J nên D sai.
+
+Câu 27. [TF] [VD] Nung 1 kg nước từ 20 °C đến 60 °C, $c = 4200$ J/(kg·K).
+*A. Nhiệt lượng nước thu vào là 168 kJ.
+B. Nhiệt lượng nước thu vào là 336 kJ.
+*C. Dùng bếp công suất 400 W (không hao phí) thì thời gian đun là 420 s.
+D. Dùng bếp công suất 400 W (không hao phí) thì thời gian đun là 168 s.
+Lời giải
+$Q = 1 \cdot 4200 \cdot 40 = 168\,000$ J. Thời gian $t = \dfrac{168\,000}{400} = 420$ s.
+
+Câu 28. [TF] [VD] Thả miếng đồng 0,4 kg ở 90 °C vào 0,5 kg nước ở 20 °C. Biết $c_{đồng} = 380$ J/(kg·K), $c_{nước} = 4200$ J/(kg·K), bỏ qua mất mát nhiệt.
+*A. Nhiệt độ cân bằng xấp xỉ 24,7 °C.
+*B. Nhiệt độ cân bằng lớn hơn 20 °C.
+*C. Nhiệt độ cân bằng nhỏ hơn 90 °C.
+D. Miếng đồng thu nhiệt còn nước tỏa nhiệt.
+Lời giải
+$0,4 \cdot 380 \cdot (90 - t) = 0,5 \cdot 4200 \cdot (t - 20)$ suy ra $t = \dfrac{55\,680}{2252} \approx 24,7$ °C, nằm giữa 20 °C và 90 °C. Miếng đồng ở nhiệt độ cao hơn nên tỏa nhiệt, nước thu nhiệt (ý D sai).
+
+Câu 29. [TF] [VD] Đun nóng 0,5 kg nước đá ở $-10$ °C. Biết $c_{đá} = 2100$ J/(kg·K), $c_{nước} = 4200$ J/(kg·K), $\lambda = 3,34 \cdot 10^5$ J/kg.
+*A. Để nước đá nóng lên đến 0 °C cần 10,5 kJ.
+*B. Để làm tan hoàn toàn nước đá ở 0 °C cần 167 kJ.
+C. Để nước đá nóng lên từ $-10$ °C đến 0 °C cần 167 kJ.
+*D. Để nước thu được nóng lên từ 0 °C đến 100 °C cần 210 kJ.
+Lời giải
+$Q_1 = 0,5 \cdot 2100 \cdot 10 = 10\,500$ J; $Q_2 = 0,5 \cdot 3,34 \cdot 10^5 = 167\,000$ J; $Q_3 = 0,5 \cdot 4200 \cdot 100 = 210\,000$ J.
+
+Câu 30. [TH] Tính nhiệt lượng cần để làm tan hoàn toàn 0,6 kg nước đá ở 0 °C, biết $\lambda = 3,34 \cdot 10^5$ J/kg (theo đơn vị kJ, làm tròn đến hàng đơn vị).
+Trả lời: [[200]]
+Lời giải
+$Q = 3,34 \cdot 10^5 \cdot 0,6 = 2,004 \cdot 10^5$ J $\approx 200$ kJ.
+
+Câu 31. [TH] Một hệ nhận công 80 J và tỏa ra nhiệt lượng 30 J. Tính độ biến thiên nội năng của hệ (theo đơn vị J).
+Trả lời: [[50]]
+Lời giải
+$\Delta U = A + Q = 80 - 30 = 50$ J.
+
+Câu 32. [TH] Một vật có nhiệt độ 500 K. Tính nhiệt độ của vật đó trong thang Celsius (theo đơn vị °C).
+Trả lời: [[227]]
+Lời giải
+$t = 500 - 273 = 227$ °C.
+
+Câu 33. [VD] Tính nhiệt lượng cần để làm hóa hơi hoàn toàn 0,2 kg nước ở 100 °C, biết $L = 2,3 \cdot 10^6$ J/kg (theo đơn vị kJ).
+Trả lời: [[460]]
+Lời giải
+$Q = Lm = 2,3 \cdot 10^6 \cdot 0,2 = 4,6 \cdot 10^5$ J $= 460$ kJ.
+
+Câu 34. [VD] Tính nhiệt lượng cần để biến 0,1 kg nước đá ở $-20$ °C thành hơi nước ở 100 °C. Biết $c_{đá} = 2100$ J/(kg·K), $c_{nước} = 4200$ J/(kg·K), $\lambda = 3,34 \cdot 10^5$ J/kg, $L = 2,3 \cdot 10^6$ J/kg (theo đơn vị kJ, làm tròn đến hàng đơn vị).
+Trả lời: [[310]]
+Lời giải
+$Q = 0,1 \cdot 2100 \cdot 20 + 0,1 \cdot 3,34 \cdot 10^5 + 0,1 \cdot 4200 \cdot 100 + 0,1 \cdot 2,3 \cdot 10^6 = 4200 + 33\,400 + 42\,000 + 230\,000 = 309\,600$ J $\approx 310$ kJ.
+
+Câu 35. [VD] Thả 0,25 kg nước đá ở 0 °C vào 0,5 kg nước ở 40 °C trong bình cách nhiệt. Biết $\lambda = 3,34 \cdot 10^5$ J/kg, $c = 4200$ J/(kg·K). Tính nhiệt độ cuối cùng của hệ (theo đơn vị °C, làm tròn đến hai chữ số thập phân).
+Trả lời: [[0,16]]
+Lời giải
+Nước hạ xuống 0 °C tỏa $0,5 \cdot 4200 \cdot 40 = 84\,000$ J, lớn hơn nhiệt cần để làm tan hết đá ($0,25 \cdot 3,34 \cdot 10^5 = 83\,500$ J) nên đá tan hết. Nhiệt độ cuối $t = \dfrac{84\,000 - 83\,500}{0,75 \cdot 4200} \approx 0,16$ °C.
+
+Câu 36. [VD] Một ấm điện công suất 1,5 kW có hiệu suất 80 % đun 2 kg nước từ 30 °C đến 100 °C. Biết $c = 4200$ J/(kg·K). Tính thời gian đun (theo đơn vị s).
+Trả lời: [[490]]
+Lời giải
+$Q_{ích} = 2 \cdot 4200 \cdot 70 = 588\,000$ J. Điện năng tiêu thụ $\dfrac{588\,000}{0,8} = 735\,000$ J. Thời gian $t = \dfrac{735\,000}{1500} = 490$ s.
+
+Câu 37. [VD] Khí trong xilanh dãn nở ở áp suất không đổi $2 \cdot 10^5$ Pa, thể tích tăng thêm 3 lít và khí nhận nhiệt lượng 900 J. Tính độ biến thiên nội năng của khí (theo đơn vị J).
+Trả lời: [[300]]
+Lời giải
+Công khí sinh ra: $p\,\Delta V = 2 \cdot 10^5 \cdot 3 \cdot 10^{-3} = 600$ J, nên $A = -600$ J. $\Delta U = A + Q = -600 + 900 = 300$ J.
+
+Câu 38. [VD] Nung một thanh kim loại khối lượng 0,5 kg đến 120 °C rồi thả vào 1 kg nước ở 20 °C. Nhiệt độ cân bằng là 25 °C. Bỏ qua mất mát nhiệt, $c_{nước} = 4200$ J/(kg·K). Tính nhiệt dung riêng của kim loại (theo đơn vị J/(kg·K), làm tròn đến hàng đơn vị).
+Trả lời: [[442]]
+Lời giải
+$0,5 \cdot c \cdot (120 - 25) = 1 \cdot 4200 \cdot (25 - 20)$ suy ra $c = \dfrac{21\,000}{47,5} \approx 442$ J/(kg·K).
+
+@chuong II | Khí lí tưởng
+
+@bai 8 | Mô hình động học phân tử chất khí
+Câu 1. [NB] Chuyển động Brown trong chất khí là chuyển động của
+A. các phân tử khí bị nén trong bình kín.
+*B. các hạt khói lơ lửng chuyển động hỗn loạn.
+C. dòng không khí do quạt thổi tạo thành.
+D. các hạt khói đứng yên trong không khí.
+Lời giải
+Quan sát bằng kính hiển vi, các hạt khói nhỏ lơ lửng trong không khí chuyển động hỗn loạn, không ngừng: đó là chuyển động Brown trong chất khí.
+
+Câu 2. [NB] Theo mô hình động học phân tử chất khí, kích thước của các phân tử khí so với khoảng cách giữa chúng là
+A. rất lớn.
+B. xấp xỉ bằng nhau.
+C. lớn hơn một chút.
+*D. rất nhỏ.
+Lời giải
+Chất khí được cấu tạo từ các phân tử có kích thước rất nhỏ so với khoảng cách giữa chúng.
+
+Câu 3. [NB] Lực liên kết giữa các phân tử ở thể khí so với ở thể lỏng và thể rắn là
+*A. rất yếu.
+B. rất mạnh.
+C. mạnh hơn thể lỏng.
+D. bằng nhau.
+Lời giải
+Khoảng cách giữa các phân tử khí rất lớn nên lực liên kết giữa chúng rất yếu so với thể lỏng và thể rắn.
+
+Câu 4. [NB] Nhiệt độ của khí càng cao thì các phân tử khí chuyển động hỗn loạn
+A. càng chậm.
+B. với tốc độ không đổi.
+*C. càng nhanh.
+D. càng dừng lại.
+Lời giải
+Nhiệt độ của khí càng cao thì tốc độ chuyển động hỗn loạn của các phân tử khí càng lớn.
+
+Câu 5. [NB] Chất khí gây áp suất lên thành bình chứa là do
+A. trọng lượng của khối khí đè lên thành bình.
+B. các phân tử khí hút thành bình.
+C. khí bị nung nóng.
+*D. các phân tử khí va chạm với thành bình.
+Lời giải
+Khi va chạm với thành bình, các phân tử khí tác dụng lực lên thành bình, tạo nên áp suất.
+
+Câu 6. [NB] Trong mô hình khí lí tưởng, các phân tử khí được coi là
+*A. chất điểm.
+B. quả cầu rắn có kích thước lớn.
+C. vật rắn đứng yên.
+D. giọt chất lỏng nhỏ.
+Lời giải
+Khí lí tưởng bỏ qua thể tích của phân tử, coi các phân tử là chất điểm.
+
+Câu 7. [NB] Các va chạm của phân tử khí lí tưởng với nhau và với thành bình là va chạm
+A. hoàn toàn mềm.
+B. mất hết động năng.
+*C. hoàn toàn đàn hồi.
+D. không bảo toàn năng lượng.
+Lời giải
+Trong mô hình khí lí tưởng, các va chạm là va chạm hoàn toàn đàn hồi.
+
+Câu 8. [NB] Khoảng cách giữa các phân tử ở thể khí so với ở thể lỏng và thể rắn là
+A. rất nhỏ.
+*B. rất lớn.
+C. xấp xỉ bằng nhau.
+D. nhỏ hơn thể rắn.
+Lời giải
+Khoảng cách giữa các phân tử ở thể khí rất lớn so với thể lỏng và thể rắn.
+
+Câu 9. [TH] Các hạt khói nhỏ lơ lửng trong không khí chuyển động hỗn loạn vì
+*A. chịu va chạm không cân bằng từ các phân tử khí.
+B. bị lực hút của Trái Đất theo nhiều hướng khác nhau.
+C. tự các hạt khói có khả năng chuyển động riêng.
+D. bị các hạt khói khác ở gần đẩy ra liên tục.
+Lời giải
+Các phân tử khí chuyển động nhiệt va chạm vào hạt khói không đều từ các phía nên hạt khói chuyển động hỗn loạn.
+
+Câu 10. [TH] Tốc độ của từng phân tử khí không ngừng thay đổi vì
+A. khí luôn bị nung nóng thêm.
+B. lực hút của Trái Đất tác dụng lên phân tử.
+*C. chúng liên tục va chạm với nhau và với thành bình.
+D. khối lượng của phân tử luôn thay đổi.
+Lời giải
+Trong khi chuyển động hỗn loạn, các phân tử khí không ngừng va chạm nên tốc độ của chúng không ngừng thay đổi.
+
+Câu 11. [TH] Ở cùng nhiệt độ và áp suất, khối lượng riêng của một chất ở thể khí nhỏ hơn rất nhiều so với ở thể lỏng. Điều đó cho thấy
+A. phân tử khí có khối lượng rất nhỏ so với phân tử lỏng.
+B. phân tử khí chuyển động nhanh hơn phân tử lỏng.
+C. lực liên kết giữa các phân tử khí mạnh hơn.
+*D. khoảng cách giữa các phân tử khí rất lớn.
+Lời giải
+Cùng một chất thì phân tử như nhau; khối lượng riêng nhỏ hơn rất nhiều chứng tỏ các phân tử ở xa nhau hơn rất nhiều.
+
+Câu 12. [TH] Chất khí không có hình dạng và thể tích riêng vì
+A. các phân tử khí nằm yên ở những vị trí cân bằng cố định.
+*B. lực liên kết yếu nên các phân tử chuyển động gần như tự do.
+C. các phân tử khí có kích thước rất lớn so với thể tích bình.
+D. các phân tử khí sắp xếp theo một trật tự xác định.
+Lời giải
+Lực liên kết giữa các phân tử khí rất yếu nên chúng chuyển động hỗn loạn và chiếm toàn bộ thể tích bình chứa.
+
+Câu 13. [TH] Trong một khối khí ở nhiệt độ xác định, so với tốc độ trung bình thì các phân tử khí
+*A. có phân tử nhanh hơn, có phân tử chậm hơn.
+B. đều có tốc độ đúng bằng tốc độ trung bình đó.
+C. đều chuyển động chậm hơn tốc độ trung bình đó.
+D. đều chuyển động nhanh hơn tốc độ trung bình đó.
+Lời giải
+Tốc độ phân tử có tính thống kê: trong khối khí có phân tử nhanh hơn, bằng hoặc chậm hơn tốc độ trung bình.
+
+Câu 14. [TH] Khi xây dựng mô hình khí lí tưởng, người ta bỏ qua
+A. khối lượng của từng phân tử khí trong bình.
+B. chuyển động nhiệt của các phân tử khí.
+C. va chạm giữa các phân tử khí với thành bình.
+*D. thể tích phân tử và lực tương tác ngoài va chạm.
+Lời giải
+Mô hình bỏ qua thể tích của phân tử khí và tương tác của chúng khi chưa va chạm.
+
+Câu 15. [TH] Giữa hai va chạm liên tiếp, phân tử khí lí tưởng chuyển động
+A. tròn đều.
+B. chậm dần đều.
+*C. thẳng đều.
+D. nhanh dần đều.
+Lời giải
+Khi chưa va chạm các phân tử không tương tác nên không chịu lực, chuyển động thẳng đều.
+
+Câu 16. [TH] Nén một khối khí trong bình kín (nhiệt độ không đổi) thì áp suất khí tăng. Theo mô hình động học phân tử, nguyên nhân là
+A. mỗi phân tử khí chuyển động nhanh hơn trước.
+*B. số va chạm vào thành bình trong mỗi giây tăng.
+C. các phân tử khí trở nên nặng hơn nhiều.
+D. lực liên kết giữa các phân tử khí tăng mạnh.
+Lời giải
+Nhiệt độ không đổi nên tốc độ phân tử không đổi, nhưng các phân tử ở gần nhau hơn nên số va chạm lên thành bình trong mỗi giây tăng.
+
+Câu 17. [VD] Hiện tượng nào sau đây chứng tỏ khoảng cách giữa các phân tử khí rất lớn so với kích thước của chúng?
+A. Khí luôn chiếm toàn bộ dung tích bình chứa.
+B. Mùi nước hoa lan nhanh trong phòng kín.
+C. Khí gây áp suất lên thành bình chứa.
+*D. Khí dễ bị nén hơn nhiều so với chất lỏng.
+Lời giải
+Khí dễ bị nén vì giữa các phân tử còn rất nhiều khoảng trống, tức khoảng cách giữa chúng rất lớn so với kích thước phân tử.
+
+Câu 18. [VD] Hơ nóng nhẹ ống thủy tinh đậy kín chứa khói, qua kính hiển vi thấy các hạt khói chuyển động nhanh hơn. Kết luận phù hợp là
+*A. phân tử khí chuyển động hỗn loạn nhanh hơn.
+B. số phân tử khí trong ống tăng lên đáng kể.
+C. lực liên kết giữa các phân tử khí tăng lên.
+D. các hạt khói nở ra và nhẹ đi.
+Lời giải
+Hạt khói chuyển động nhanh hơn do bị các phân tử khí va chạm mạnh hơn, chứng tỏ khi nhiệt độ tăng thì tốc độ chuyển động hỗn loạn của các phân tử khí tăng.
+
+Câu 19. [VD] Nước ở 100 °C có khối lượng riêng ở thể hơi nhỏ hơn thể lỏng khoảng 1 600 lần. So với thể lỏng, khoảng cách trung bình giữa các phân tử hơi nước
+A. nhỏ hơn khoảng 1 600 lần.
+B. xấp xỉ bằng nhau.
+*C. lớn hơn nhiều lần.
+D. nhỏ hơn một chút.
+Lời giải
+Cùng khối lượng, thể tích hơi lớn hơn thể lỏng khoảng 1 600 lần nên mỗi phân tử chiếm không gian lớn hơn rất nhiều, khoảng cách giữa các phân tử hơi lớn hơn nhiều lần.
+
+Câu 20. [VD] Các hạt bụi nhìn thấy trong tia nắng chiếu vào phòng chuyển động chủ yếu do dòng không khí, ít do chuyển động Brown, vì hạt bụi đó
+A. bị các phân tử khí hút về phía nhau liên tục.
+*B. nặng nên va chạm hai phía gần như cân bằng.
+C. đứng yên hoàn toàn so với các phân tử khí.
+D. không bị bất kì phân tử khí nào va chạm.
+Lời giải
+Hạt bụi lớn bị rất nhiều phân tử khí va chạm từ mọi phía nên lực tổng hợp lên hạt gần như triệt tiêu; chuyển động của hạt chủ yếu do dòng không khí.
+
+Câu 21. [VD] Trong khí lí tưởng, giữa hai va chạm liên tiếp thế năng tương tác giữa các phân tử bằng 0 vì
+*A. các phân tử không tương tác với nhau khi chưa va chạm.
+B. các phân tử khí đứng yên giữa hai va chạm.
+C. các phân tử khí có khối lượng bằng 0.
+D. nhiệt độ của khí bằng 0 K.
+Lời giải
+Mô hình khí lí tưởng coi các phân tử là chất điểm, không tương tác khi chưa va chạm nên thế năng tương tác bằng 0.
+
+Câu 22. [VD] Nhận định nào sau đây về khí lí tưởng và khí thực là đúng?
+A. Khí lí tưởng là loại khí tồn tại phổ biến nhất trong tự nhiên.
+B. Phân tử khí lí tưởng có kích thước lớn hơn phân tử khí thực.
+C. Khí thực tuân theo đúng mô hình khí lí tưởng ở mọi điều kiện.
+*D. Khí lí tưởng là mô hình đơn giản hơn khí thực.
+Lời giải
+Khí lí tưởng là mô hình đơn giản hóa của khí thực nhưng vẫn phản ánh được các đặc điểm cơ bản của khí thực.
+
+Câu 23. [TF] [TH] Về chuyển động Brown trong chất khí:
+*A. Các hạt khói quan sát qua kính hiển vi chuyển động hỗn loạn.
+*B. Chuyển động của hạt khói là do va chạm với các phân tử khí.
+C. Hạt khói chuyển động theo một đường thẳng đều.
+D. Khi nhiệt độ giảm thì các hạt khói chuyển động nhanh hơn.
+Lời giải
+A, B đúng. C sai vì chuyển động của hạt khói là hỗn loạn. D sai vì nhiệt độ tăng thì hạt khói chuyển động nhanh hơn.
+
+Câu 24. [TF] [TH] Về mô hình động học phân tử chất khí:
+*A. Kích thước phân tử rất nhỏ so với khoảng cách giữa chúng.
+*B. Lực liên kết giữa các phân tử khí rất yếu so với thể lỏng và thể rắn.
+*C. Các phân tử khí va chạm với thành bình và gây áp suất lên thành bình.
+D. Các phân tử khí đứng yên khi nhiệt độ thấp.
+Lời giải
+A, B, C đúng theo nội dung mô hình. D sai vì các phân tử khí luôn chuyển động hỗn loạn không ngừng.
+
+Câu 25. [TF] [TH] Về khí lí tưởng:
+*A. Các phân tử được coi là chất điểm.
+B. Các phân tử tương tác với nhau ngay cả khi chưa va chạm.
+C. Va chạm của các phân tử là va chạm mềm, mất động năng.
+D. Là loại khí có nhiều nhất trong tự nhiên.
+Lời giải
+Chỉ A đúng. B sai vì chưa va chạm thì không tương tác; C sai vì va chạm hoàn toàn đàn hồi; D sai vì khí lí tưởng là mô hình đơn giản hóa, không phải một loại khí cụ thể.
+
+Câu 26. [TF] [VD] So sánh cùng một chất ở thể khí và thể lỏng (cùng nhiệt độ, áp suất):
+*A. Khối lượng riêng ở thể khí nhỏ hơn rất nhiều so với thể lỏng.
+*B. Khoảng cách giữa các phân tử ở thể khí lớn hơn nhiều so với thể lỏng.
+C. Lực liên kết giữa các phân tử ở thể khí mạnh hơn thể lỏng.
+D. Chất khí có hình dạng và thể tích riêng như chất lỏng.
+Lời giải
+A, B đúng. C sai vì lực liên kết ở thể khí yếu hơn. D sai vì chất khí không có hình dạng và thể tích riêng.
+
+Câu 27. [TF] [VD] Thí nghiệm: ống thủy tinh đậy kín chứa khói đặt dưới kính hiển vi, sau đó hơ nóng nhẹ ống.
+*A. Qua kính hiển vi thấy các hạt khói chuyển động hỗn loạn.
+*B. Khi hơ nóng, các hạt khói chuyển động nhanh hơn.
+*C. Điều đó cho thấy khi nhiệt độ tăng, các phân tử không khí chuyển động hỗn loạn nhanh hơn.
+*D. Khi chưa hơ nóng, các hạt khói vẫn chuyển động không ngừng.
+Lời giải
+Cả bốn ý đều đúng: chuyển động Brown xảy ra cả khi chưa hơ nóng, và hơ nóng làm hạt khói chuyển động nhanh hơn do các phân tử khí chuyển động nhanh hơn.
+
+Câu 28. [TF] [VD] Xét tốc độ của các phân tử trong một khối khí ở nhiệt độ không đổi:
+*A. Tốc độ của mỗi phân tử luôn thay đổi do va chạm.
+*B. Tốc độ phân tử thường nói là tốc độ trung bình của rất nhiều phân tử.
+*C. Có phân tử chuyển động nhanh hơn, có phân tử chậm hơn tốc độ trung bình.
+D. Mọi phân tử trong bình luôn có cùng một tốc độ.
+Lời giải
+A, B, C đúng: tốc độ phân tử có tính thống kê. D sai vì tốc độ các phân tử khác nhau và luôn thay đổi.
+
+Câu 29. [TF] [VD] Nén khí trong bình kín sao cho nhiệt độ không đổi, thể tích giảm:
+*A. Mật độ phân tử khí tăng.
+*B. Số va chạm của phân tử lên thành bình trong mỗi giây tăng.
+C. Tốc độ trung bình của các phân tử tăng.
+D. Số phân tử khí trong bình tăng.
+Lời giải
+A, B đúng. C sai vì nhiệt độ không đổi nên tốc độ trung bình không đổi. D sai vì lượng khí không đổi.
+
+Câu 30. [TH] Năm phân tử khí có tốc độ lần lượt 300 m/s, 350 m/s, 400 m/s, 450 m/s và 500 m/s. Tính tốc độ trung bình của năm phân tử này (theo đơn vị m/s).
+Trả lời: [[400]]
+Lời giải
+$\bar{v} = \dfrac{300 + 350 + 400 + 450 + 500}{5} = \dfrac{2000}{5} = 400$ m/s.
+
+Câu 31. [TH] Một phân tử oxygen chuyển động thẳng đều với tốc độ 400 m/s giữa hai va chạm liên tiếp, quãng đường đi được là 0,2 m. Tính thời gian giữa hai va chạm đó (theo đơn vị ms, làm tròn đến một chữ số thập phân).
+Trả lời: [[0,5]]
+Lời giải
+$t = \dfrac{s}{v} = \dfrac{0,2}{400} = 5 \cdot 10^{-4}$ s $= 0,5$ ms.
+
+Câu 32. [TH] Một phân tử khí chuyển động với tốc độ không đổi 400 m/s, qua lại dọc theo đường kính của bình cầu có đường kính 20 cm và chỉ va chạm với thành bình. Tính số va chạm của phân tử với thành bình trong mỗi giây (theo đơn vị lần).
+Trả lời: [[2000]]
+Lời giải
+Giữa hai va chạm liên tiếp phân tử đi quãng đường bằng đường kính $d = 0,2$ m nên số va chạm trong 1 s là $\dfrac{v}{d} = \dfrac{400}{0,2} = 2000$ lần.
+
+Câu 33. [VD] Trong một bình có 10 phân tử khí: 4 phân tử có tốc độ 300 m/s, 3 phân tử có tốc độ 400 m/s và 3 phân tử có tốc độ 500 m/s. Tính tốc độ trung bình của 10 phân tử này (theo đơn vị m/s).
+Trả lời: [[390]]
+Lời giải
+$\bar{v} = \dfrac{4 \cdot 300 + 3 \cdot 400 + 3 \cdot 500}{10} = \dfrac{1200 + 1200 + 1500}{10} = 390$ m/s.
+
+Câu 34. [VD] Ở 100 °C, khối lượng riêng của nước lỏng là 1 000 kg/m³ còn của hơi nước là 0,6 kg/m³. Thể tích của hơi nước tạo thành từ 1 kg nước lỏng lớn gấp bao nhiêu lần thể tích 1 kg nước lỏng đó (theo đơn vị lần, làm tròn đến hàng đơn vị)?
+Trả lời: [[1667]]
+Lời giải
+Cùng khối lượng thì thể tích tỉ lệ nghịch với khối lượng riêng: $\dfrac{V_{hơi}}{V_{lỏng}} = \dfrac{1000}{0,6} \approx 1667$ lần.
+
+Câu 35. [VD] Ở 100 °C, khối lượng riêng của nước lỏng là 1 000 kg/m³ và của hơi nước là 0,6 kg/m³. Coi mỗi phân tử chiếm một khối lập phương, khoảng cách trung bình giữa hai phân tử kề nhau bằng cạnh khối lập phương đó. Khoảng cách trung bình giữa các phân tử hơi nước lớn gấp bao nhiêu lần ở thể lỏng (theo đơn vị lần, làm tròn đến một chữ số thập phân)?
+Trả lời: [[11,9]]
+Lời giải
+Thể tích mỗi khối lập phương tỉ lệ nghịch với khối lượng riêng nên tỉ số thể tích là $\dfrac{1000}{0,6} \approx 1667$. Tỉ số cạnh là $\sqrt[3]{1667} \approx 11,9$ lần.
+
+Câu 36. [VD] Khối lượng riêng của nước đá là 920 kg/m³ còn của không khí ở điều kiện chuẩn là 1,29 kg/m³. Thể tích của một lượng không khí lớn gấp bao nhiêu lần thể tích của nước đá có cùng khối lượng (theo đơn vị lần, làm tròn đến hàng đơn vị)?
+Trả lời: [[713]]
+Lời giải
+$\dfrac{V_{kk}}{V_{đá}} = \dfrac{D_{đá}}{D_{kk}} = \dfrac{920}{1,29} \approx 713$ lần.
+
+Câu 37. [VD] Một phân tử khí chuyển động với tốc độ không đổi 450 m/s, qua lại dọc theo đường kính của bình cầu có đường kính 30 cm và chỉ va chạm với thành bình. Tính số va chạm của phân tử với thành bình trong 0,6 s (theo đơn vị lần).
+Trả lời: [[900]]
+Lời giải
+Số va chạm trong 1 s là $\dfrac{450}{0,3} = 1500$ lần nên trong 0,6 s có $1500 \cdot 0,6 = 900$ lần.
+
+Câu 38. [VD] Một phân tử oxygen chuyển động với tốc độ không đổi 400 m/s, qua lại dọc theo đường kính của một bình cầu và va chạm với thành bình 2 500 lần trong mỗi giây. Tính đường kính của bình (theo đơn vị cm).
+Trả lời: [[16]]
+Lời giải
+Số va chạm trong 1 s là $\dfrac{v}{d}$ nên $d = \dfrac{v}{2500} = \dfrac{400}{2500} = 0,16$ m $= 16$ cm.
+
+@bai 9 | Định luật Boyle
+Câu 1. [NB] Định luật Boyle áp dụng cho quá trình biến đổi trạng thái của một lượng khí xác định khi
+A. áp suất không đổi.
+*B. nhiệt độ không đổi.
+C. thể tích không đổi.
+D. không có sự trao đổi nhiệt với bên ngoài.
+Lời giải
+Định luật Boyle mô tả quá trình đẳng nhiệt: nhiệt độ và khối lượng khí không đổi.
+
+Câu 2. [NB] Hệ thức của định luật Boyle cho một lượng khí xác định ở nhiệt độ không đổi là
+A. $\dfrac{p}{V} = \text{hằng số}$.
+B. $p + V = \text{hằng số}$.
+C. $pV^2 = \text{hằng số}$.
+*D. $p_1V_1 = p_2V_2$.
+Lời giải
+Ở nhiệt độ không đổi, tích $pV$ của một lượng khí xác định là hằng số.
+
+Câu 3. [NB] Quá trình biến đổi trạng thái khi nhiệt độ của lượng khí xác định không đổi gọi là quá trình
+*A. đẳng nhiệt.
+B. đẳng áp.
+C. đẳng tích.
+D. đoạn nhiệt.
+Lời giải
+Nhiệt độ không đổi là quá trình đẳng nhiệt; áp suất không đổi là đẳng áp; thể tích không đổi là đẳng tích.
+
+Câu 4. [NB] Trong quá trình đẳng nhiệt của một lượng khí xác định, khi thể tích tăng thì áp suất
+A. tăng.
+B. không đổi.
+*C. giảm.
+D. tăng rồi giảm.
+Lời giải
+Vì $pV$ không đổi nên $V$ tăng thì $p$ giảm.
+
+Câu 5. [NB] Trong hệ trục tọa độ $(p, V)$, đường biểu diễn quá trình đẳng nhiệt là
+A. đường thẳng đi qua gốc tọa độ.
+B. đường thẳng song song với trục $V$.
+*C. một phần của đường hypebol.
+D. đường thẳng song song với trục $p$.
+Lời giải
+$p = \dfrac{\text{hằng số}}{V}$ nên đồ thị $(p, V)$ là một phần đường hypebol.
+
+Câu 6. [NB] Trong hệ trục tọa độ $\left(p, \dfrac{1}{V}\right)$, đường biểu diễn quá trình đẳng nhiệt là
+*A. đường thẳng đi qua gốc tọa độ.
+B. đường hypebol.
+C. đường thẳng song song trục hoành.
+D. đường parabol.
+Lời giải
+$p = \text{hằng số} \cdot \dfrac{1}{V}$ nên $p$ tỉ lệ thuận với $\dfrac{1}{V}$: đồ thị là đường thẳng qua gốc tọa độ.
+
+Câu 7. [NB] Tích $pV$ của một lượng khí có cùng đơn vị với
+A. lực.
+B. công suất.
+C. áp suất.
+*D. công (năng lượng).
+Lời giải
+$[pV] = \text{N/m}^2 \cdot \text{m}^3 = \text{N·m} = \text{J}$.
+
+Câu 8. [NB] Trong thí nghiệm kiểm chứng định luật Boyle bằng bơm tiêm nối với áp kế, các đại lượng được đo trực tiếp là
+A. khối lượng khí và nhiệt độ của khí trong xilanh.
+*B. thể tích khí (theo vạch chia xilanh) và áp suất khí (theo áp kế).
+C. nhiệt độ khí và thể tích của căn phòng thí nghiệm.
+D. số phân tử khí và khối lượng của chiếc pittông.
+Lời giải
+Thí nghiệm đo thể tích khí bị nhốt trong xilanh và áp suất tương ứng, giữ nhiệt độ không đổi, rồi kiểm tra tích $pV$.
+
+Câu 9. [TH] Trong quá trình đẳng nhiệt của một lượng khí xác định, đại lượng không đổi là
+*A. tích $pV$.
+B. thương $\dfrac{p}{V}$.
+C. tổng $p + V$.
+D. hiệu $p - V$.
+Lời giải
+Theo định luật Boyle, tích $pV$ không đổi.
+
+Câu 10. [TH] Trên đồ thị $(p, V)$ có hai đường đẳng nhiệt của cùng một lượng khí ứng với nhiệt độ $T_1$ và $T_2$ với $T_2 > T_1$. Đường nằm xa gốc tọa độ hơn là
+A. đường ứng với $T_1$.
+B. không phân biệt được.
+*C. đường ứng với $T_2$.
+D. hai đường trùng nhau.
+Lời giải
+Ở cùng thể tích, khí ở nhiệt độ cao hơn có áp suất lớn hơn nên đường đẳng nhiệt ứng với $T_2$ nằm cao và xa gốc tọa độ hơn.
+
+Câu 11. [TH] Khi làm thí nghiệm kiểm chứng định luật Boyle bằng bơm tiêm nối với áp kế, cần đẩy pittông chậm để
+A. khí không bị rò ra ngoài.
+B. áp kế chỉ giá trị lớn hơn.
+C. khí có khối lượng lớn hơn.
+*D. nhiệt độ của khí không đổi.
+Lời giải
+Đẩy chậm để khí kịp trao đổi nhiệt với môi trường, giữ nhiệt độ không đổi.
+
+Câu 12. [TH] Nén đẳng nhiệt một lượng khí. Khối lượng riêng của khí
+A. giảm tỉ lệ nghịch với áp suất.
+*B. tăng tỉ lệ thuận với áp suất.
+C. không đổi.
+D. tăng tỉ lệ nghịch với áp suất.
+Lời giải
+Khối lượng không đổi, thể tích giảm nên khối lượng riêng $\rho = \dfrac{m}{V}$ tăng. Vì $pV$ không đổi nên $\rho$ tỉ lệ thuận với $p$.
+
+Câu 13. [TH] Bọt khí nổi từ đáy hồ lên mặt nước (coi nhiệt độ không đổi) có thể tích tăng dần vì
+A. khí trong bọt được nung nóng dần lên.
+B. số phân tử khí trong bọt tăng dần lên.
+C. nước đẩy bọt khí nở ra khi nổi lên.
+*D. áp suất nước tác dụng lên bọt giảm dần.
+Lời giải
+Càng lên cao áp suất nước càng giảm; theo định luật Boyle, áp suất giảm thì thể tích tăng.
+
+Câu 14. [TH] Trong hệ trục $(V, pV)$, đường biểu diễn quá trình đẳng nhiệt của một lượng khí là
+*A. đường thẳng song song với trục $V$.
+B. đường thẳng đi qua gốc tọa độ.
+C. đường hypebol.
+D. đường thẳng song song với trục $pV$.
+Lời giải
+$pV$ không đổi nên đồ thị $pV$ theo $V$ là đường nằm ngang.
+
+Câu 15. [TH] Với một lượng khí xác định ở nhiệt độ không đổi, hệ thức đúng là
+A. $\dfrac{p_1}{p_2} = \dfrac{V_1}{V_2}$.
+B. $p_1 + V_1 = p_2 + V_2$.
+*C. $\dfrac{p_1}{p_2} = \dfrac{V_2}{V_1}$.
+D. $p_1V_2 = p_2V_1$.
+Lời giải
+Từ $p_1V_1 = p_2V_2$ suy ra $\dfrac{p_1}{p_2} = \dfrac{V_2}{V_1}$.
+
+Câu 16. [TH] Giảm thể tích một lượng khí đi 3 lần ở nhiệt độ không đổi thì áp suất khí
+A. giảm 3 lần.
+*B. tăng 3 lần.
+C. tăng 9 lần.
+D. không đổi.
+Lời giải
+$pV$ không đổi nên $V$ giảm 3 lần thì $p$ tăng 3 lần.
+
+Câu 17. [VD] Một lượng khí ở áp suất 1 atm có thể tích 12 lít. Nén đẳng nhiệt đến thể tích 4 lít thì áp suất khí là
+A. 0,33 atm.
+B. 4 atm.
+*C. 3 atm.
+D. 48 atm.
+Lời giải
+$p_2 = \dfrac{p_1V_1}{V_2} = \dfrac{1 \cdot 12}{4} = 3$ atm.
+
+Câu 18. [VD] Một lượng khí có áp suất $2 \cdot 10^5$ Pa và thể tích 3 lít. Cho khí giãn đẳng nhiệt đến áp suất $1,2 \cdot 10^5$ Pa. Thể tích khí khi đó là
+A. 1,8 lít.
+B. 2 lít.
+C. 3,6 lít.
+*D. 5 lít.
+Lời giải
+$V_2 = \dfrac{p_1V_1}{p_2} = \dfrac{2 \cdot 3}{1,2} = 5$ lít.
+
+Câu 19. [VD] Ruột xe đạp có dung tích 2 lít (coi không đổi), chứa không khí ở áp suất 1 atm. Mỗi lần bơm đưa thêm 100 cm³ không khí ở áp suất 1 atm vào ruột xe. Coi nhiệt độ không đổi. Sau 20 lần bơm, áp suất không khí trong ruột xe là
+A. 1,5 atm.
+*B. 2 atm.
+C. 3 atm.
+D. 4 atm.
+Lời giải
+Thể tích khí tính ở 1 atm: $V = 2 + 20 \cdot 0,1 = 4$ lít. Nén vào thể tích 2 lít: $p = \dfrac{1 \cdot 4}{2} = 2$ atm.
+
+Câu 20. [VD] Khí trong xilanh nằm ngang có cột khí dài 30 cm ở áp suất 1 atm. Nén chậm pittông để áp suất khí đạt 1,5 atm (nhiệt độ không đổi). Chiều dài cột khí lúc này là
+*A. 20 cm.
+B. 45 cm.
+C. 15 cm.
+D. 25 cm.
+Lời giải
+Tiết diện không đổi nên $\ell_2 = \dfrac{p_1\ell_1}{p_2} = \dfrac{1 \cdot 30}{1,5} = 20$ cm.
+
+Câu 21. [VD] Bình 4 lít chứa khí ở áp suất $3 \cdot 10^5$ Pa được nối thông với bình 8 lít đã hút chân không. Coi nhiệt độ không đổi. Áp suất khí sau khi cân bằng là
+*A. $1 \cdot 10^5$ Pa.
+B. $2 \cdot 10^5$ Pa.
+C. $4,5 \cdot 10^5$ Pa.
+D. $9 \cdot 10^5$ Pa.
+Lời giải
+Thể tích khí sau cùng: $V_2 = 4 + 8 = 12$ lít; $p_2 = \dfrac{p_1V_1}{V_2} = \dfrac{3 \cdot 10^5 \cdot 4}{12} = 1 \cdot 10^5$ Pa.
+
+Câu 22. [VD] Một lượng khí có áp suất 2,4 atm. Cho khí giãn đẳng nhiệt để thể tích tăng thêm 50 %. Áp suất mới của khí là
+A. 3,6 atm.
+B. 1,2 atm.
+*C. 1,6 atm.
+D. 0,8 atm.
+Lời giải
+$V_2 = 1,5V_1$ nên $p_2 = \dfrac{p_1V_1}{V_2} = \dfrac{2,4}{1,5} = 1,6$ atm.
+
+Câu 23. [TF] [TH] Về định luật Boyle:
+*A. Áp dụng cho một lượng khí xác định ở nhiệt độ không đổi.
+*B. Có hệ thức $p_1V_1 = p_2V_2$.
+C. Cho biết áp suất tỉ lệ thuận với thể tích.
+D. Áp dụng cho quá trình đẳng áp.
+Lời giải
+A, B đúng. C sai vì áp suất tỉ lệ nghịch với thể tích. D sai vì định luật Boyle áp dụng cho quá trình đẳng nhiệt.
+
+Câu 24. [TF] [TH] Về đồ thị của quá trình đẳng nhiệt của một lượng khí:
+*A. Đồ thị $(p, V)$ là một phần đường hypebol.
+*B. Đồ thị $\left(p, \dfrac{1}{V}\right)$ là đường thẳng đi qua gốc tọa độ.
+*C. Đồ thị $(pV, V)$ là đường thẳng song song với trục hoành.
+D. Đồ thị $(p, V)$ là đường thẳng đi qua gốc tọa độ.
+Lời giải
+A, B, C đúng. D sai vì $p$ tỉ lệ nghịch với $V$ nên đồ thị $(p, V)$ không phải đường thẳng.
+
+Câu 25. [TF] [TH] Nén đẳng nhiệt một lượng khí trong xilanh kín:
+A. Áp suất của khí giảm.
+*B. Mật độ phân tử khí tăng.
+C. Tốc độ trung bình của các phân tử khí tăng.
+D. Số phân tử khí trong xilanh tăng.
+Lời giải
+Chỉ B đúng. Áp suất tăng (A sai); nhiệt độ không đổi nên tốc độ trung bình không đổi (C sai); lượng khí không đổi nên số phân tử không đổi (D sai).
+
+Câu 26. [TF] [VD] Khí trong xilanh có áp suất 1,0 atm và thể tích 6 lít. Nén đẳng nhiệt đến thể tích 2 lít.
+*A. Áp suất khí sau khi nén là 3 atm.
+B. Áp suất khí sau khi nén là $\dfrac{1}{3}$ atm.
+C. Tích $pV$ tăng lên 3 lần.
+*D. Mật độ phân tử khí tăng lên 3 lần.
+Lời giải
+$p_2 = \dfrac{1 \cdot 6}{2} = 3$ atm nên A đúng, B sai. Tích $pV$ không đổi nên C sai. Thể tích giảm 3 lần, số phân tử không đổi nên mật độ tăng 3 lần (D đúng).
+
+Câu 27. [TF] [VD] Một lượng khí có áp suất $4 \cdot 10^5$ Pa và thể tích 3 lít, giãn đẳng nhiệt đến áp suất $1 \cdot 10^5$ Pa.
+*A. Thể tích khí sau khi giãn là 12 lít.
+B. Thể tích khí sau khi giãn là 0,75 lít.
+*C. Thể tích khí tăng lên 4 lần.
+D. Tích $pV$ giảm đi 4 lần.
+Lời giải
+$V_2 = \dfrac{4 \cdot 3}{1} = 12$ lít nên A đúng, B sai; thể tích tăng $\dfrac{12}{3} = 4$ lần (C đúng). Tích $pV$ không đổi nên D sai.
+
+Câu 28. [TF] [VD] Ruột xe có dung tích 2 lít (coi không đổi), chứa không khí ở 1 atm. Mỗi lần bơm đưa thêm 50 cm³ không khí ở 1 atm vào ruột xe, nhiệt độ không đổi.
+*A. Sau 10 lần bơm, áp suất trong ruột xe là 1,25 atm.
+*B. Sau 40 lần bơm, áp suất trong ruột xe là 2 atm.
+C. Sau 40 lần bơm, áp suất trong ruột xe là 3 atm.
+*D. Áp suất trong ruột xe tăng đều theo số lần bơm.
+Lời giải
+Sau $n$ lần bơm: $p = \dfrac{2 + 0,05n}{2} = 1 + 0,025n$ (atm). $n = 10$ cho 1,25 atm; $n = 40$ cho 2 atm; $p$ tăng đều $0,025$ atm mỗi lần bơm. Vậy C sai.
+
+Câu 29. [TF] [VD] Một bọt khí nổi từ đáy hồ sâu 10 m lên mặt nước (coi nhiệt độ không đổi). Áp suất khí quyển $p_0 = 1 \cdot 10^5$ Pa, khối lượng riêng của nước $1000$ kg/m³, $g = 10$ m/s². Thể tích bọt khí ở đáy hồ là 2 cm³.
+*A. Áp suất ở đáy hồ là $2 \cdot 10^5$ Pa.
+*B. Áp suất ở mặt nước là $1 \cdot 10^5$ Pa.
+*C. Thể tích bọt khí khi lên đến mặt nước là 4 cm³.
+*D. Trong quá trình nổi lên, thể tích bọt khí tăng dần.
+Lời giải
+$p_{đáy} = p_0 + \rho gh = 10^5 + 1000 \cdot 10 \cdot 10 = 2 \cdot 10^5$ Pa. $V_2 = \dfrac{p_{đáy}V_1}{p_0} = \dfrac{2 \cdot 2}{1} = 4$ cm³. Áp suất giảm dần khi nổi lên nên thể tích tăng dần. Cả bốn ý đều đúng.
+
+Câu 30. [TH] Một lượng khí có áp suất 2 atm và thể tích 6 lít được nén đẳng nhiệt đến thể tích 4 lít. Tính áp suất khí sau khi nén (theo đơn vị atm).
+Trả lời: [[3]]
+Lời giải
+$p_2 = \dfrac{p_1V_1}{V_2} = \dfrac{2 \cdot 6}{4} = 3$ atm.
+
+Câu 31. [TH] Một lượng khí có thể tích 12 lít ở áp suất $1,5 \cdot 10^5$ Pa. Nén đẳng nhiệt đến áp suất $3 \cdot 10^5$ Pa. Tính thể tích khí sau khi nén (theo đơn vị lít).
+Trả lời: [[6]]
+Lời giải
+$V_2 = \dfrac{p_1V_1}{p_2} = \dfrac{1,5 \cdot 12}{3} = 6$ lít.
+
+Câu 32. [TH] Nén đẳng nhiệt một lượng khí sao cho thể tích giảm đi 4 lần. Áp suất của khí tăng lên bao nhiêu lần (theo đơn vị lần)?
+Trả lời: [[4]]
+Lời giải
+$pV$ không đổi nên $\dfrac{p_2}{p_1} = \dfrac{V_1}{V_2} = 4$.
+
+Câu 33. [VD] Một lượng khí có thể tích 15 lít ở áp suất 1,2 atm. Nén đẳng nhiệt đến áp suất 2,5 atm. Tính thể tích khí sau khi nén (theo đơn vị lít, làm tròn đến một chữ số thập phân).
+Trả lời: [[7,2]]
+Lời giải
+$V_2 = \dfrac{1,2 \cdot 15}{2,5} = 7,2$ lít.
+
+Câu 34. [VD] Khối lượng riêng của một khí ở áp suất 1 atm là $1,29$ kg/m³. Nén đẳng nhiệt khí đó đến áp suất 5 atm. Tính khối lượng riêng của khí khi đó (theo đơn vị kg/m³, làm tròn đến hai chữ số thập phân).
+Trả lời: [[6,45]]
+Lời giải
+Khối lượng không đổi, $V_2 = \dfrac{V_1}{5}$ nên $\rho_2 = \dfrac{m}{V_2} = 5\rho_1 = 5 \cdot 1,29 = 6,45$ kg/m³.
+
+Câu 35. [VD] Một cột khí dài 30 cm trong xilanh có tiết diện không đổi, ở áp suất 1 atm. Nén đẳng nhiệt để áp suất đạt 1,8 atm. Tính chiều dài cột khí lúc này (theo đơn vị cm, làm tròn đến một chữ số thập phân).
+Trả lời: [[16,7]]
+Lời giải
+$\ell_2 = \dfrac{p_1\ell_1}{p_2} = \dfrac{1 \cdot 30}{1,8} \approx 16,7$ cm.
+
+Câu 36. [VD] Bình 3 lít chứa khí ở áp suất 4 atm được nối thông với bình 5 lít đã hút chân không. Coi nhiệt độ không đổi. Tính áp suất khí sau khi cân bằng (theo đơn vị atm, làm tròn đến một chữ số thập phân).
+Trả lời: [[1,5]]
+Lời giải
+$p_2 = \dfrac{p_1V_1}{V_1 + V_2} = \dfrac{4 \cdot 3}{8} = 1,5$ atm.
+
+Câu 37. [VD] Một xilanh nằm ngang, kín hai đầu, dài 60 cm, được chia thành hai ngăn bằng một pittông cách nhiệt. Ban đầu pittông ở giữa, hai ngăn chứa khí cùng áp suất 1 atm. Đẩy pittông dịch chuyển 10 cm (nhiệt độ không đổi, khí không rò rỉ). Tính hiệu áp suất giữa hai ngăn (theo đơn vị atm, làm tròn đến hai chữ số thập phân).
+Trả lời: [[0,75]]
+Lời giải
+Ngăn bị nén dài 20 cm: $p_1' = \dfrac{1 \cdot 30}{20} = 1,5$ atm. Ngăn giãn dài 40 cm: $p_2' = \dfrac{1 \cdot 30}{40} = 0,75$ atm. Hiệu áp suất $1,5 - 0,75 = 0,75$ atm.
+
+Câu 38. [VD] Một lượng khí có thể tích $V_1$ và áp suất $p_1$ biến đổi đẳng nhiệt. Khi thể tích tăng thêm 20 % thì áp suất giảm đi $1 \cdot 10^4$ Pa. Tính áp suất ban đầu $p_1$ (theo đơn vị $10^4$ Pa).
+Trả lời: [[6]]
+Lời giải
+$p_1V_1 = (p_1 - 10^4)(1,2V_1)$ suy ra $p_1 = 1,2p_1 - 1,2 \cdot 10^4$, tức $0,2p_1 = 1,2 \cdot 10^4$ nên $p_1 = 6 \cdot 10^4$ Pa.
+
+@bai 10 | Định luật Charles
+Câu 1. [NB] Khi áp suất không đổi, thể tích của một lượng khí xác định
+A. tỉ lệ nghịch với nhiệt độ tuyệt đối.
+B. tỉ lệ thuận với nhiệt độ Celsius.
+C. không phụ thuộc vào nhiệt độ.
+*D. tỉ lệ thuận với nhiệt độ tuyệt đối.
+Lời giải
+Ở áp suất không đổi: $\dfrac{V}{T} = \text{hằng số}$, với $T$ là nhiệt độ tuyệt đối.
+
+Câu 2. [NB] Hệ thức cho quá trình đẳng áp của một lượng khí xác định là
+A. $V_1T_1 = V_2T_2$.
+*B. $\dfrac{V_1}{T_1} = \dfrac{V_2}{T_2}$.
+C. $\dfrac{V_1}{T_2} = \dfrac{V_2}{T_1}$.
+D. $V_1 + T_1 = V_2 + T_2$.
+Lời giải
+Quá trình đẳng áp: $\dfrac{V}{T}$ không đổi nên $\dfrac{V_1}{T_1} = \dfrac{V_2}{T_2}$.
+
+Câu 3. [NB] Quá trình biến đổi trạng thái của một lượng khí khi áp suất không đổi gọi là quá trình
+A. đẳng nhiệt.
+B. đẳng tích.
+*C. đẳng áp.
+D. đoạn nhiệt.
+Lời giải
+Áp suất không đổi là quá trình đẳng áp.
+
+Câu 4. [NB] Trong quá trình đẳng tích của một lượng khí xác định, áp suất khí
+*A. tỉ lệ thuận với nhiệt độ tuyệt đối.
+B. tỉ lệ nghịch với nhiệt độ tuyệt đối.
+C. tỉ lệ thuận với nhiệt độ Celsius.
+D. không đổi.
+Lời giải
+Ở thể tích không đổi: $\dfrac{p}{T} = \text{hằng số}$.
+
+Câu 5. [NB] Trong các hệ thức về chất khí, nhiệt độ phải được dùng theo thang
+*A. Kelvin.
+B. Celsius.
+C. Fahrenheit.
+D. bất kì thang nào cũng được.
+Lời giải
+Các hệ thức như $\dfrac{V}{T} = \text{hằng số}$ chỉ đúng khi $T$ là nhiệt độ tuyệt đối (kenvin).
+
+Câu 6. [NB] Độ không tuyệt đối (0 K) tương ứng với nhiệt độ
+A. 0 °C.
+B. 100 °C.
+*C. $-273$ °C.
+D. 273 °C.
+Lời giải
+$T = t + 273$ nên $0\ \text{K} = -273$ °C.
+
+Câu 7. [NB] Trong hệ trục $(V, T)$ với $T$ là nhiệt độ tuyệt đối, đường biểu diễn quá trình đẳng áp là
+A. đường hypebol.
+*B. đường thẳng mà phần kéo dài đi qua gốc tọa độ.
+C. đường thẳng song song với trục $T$.
+D. đường parabol.
+Lời giải
+$V = \text{hằng số} \cdot T$ nên đồ thị $(V, T)$ là đường thẳng kéo dài đi qua gốc tọa độ.
+
+Câu 8. [NB] Nhiệt độ 27 °C tương ứng với nhiệt độ tuyệt đối
+A. 246 K.
+B. 27 K.
+C. 273 K.
+*D. 300 K.
+Lời giải
+$T = 27 + 273 = 300$ K.
+
+Câu 9. [TH] Một lượng khí trong bình kín (thể tích không đổi) có nhiệt độ tuyệt đối tăng gấp đôi. Áp suất của khí
+A. giảm một nửa.
+*B. tăng gấp đôi.
+C. tăng gấp bốn.
+D. không đổi.
+Lời giải
+Đẳng tích: $\dfrac{p}{T}$ không đổi nên $T$ tăng gấp đôi thì $p$ tăng gấp đôi.
+
+Câu 10. [TH] Một lượng khí giữ ở áp suất không đổi, nhiệt độ tăng từ 27 °C lên 54 °C. Thể tích của khí
+A. tăng gấp đôi.
+B. tăng thêm 27 %.
+C. không đổi.
+*D. tăng thêm khoảng 9 %.
+Lời giải
+$\dfrac{V_2}{V_1} = \dfrac{T_2}{T_1} = \dfrac{327}{300} = 1,09$. Phải đổi sang kenvin nên thể tích chỉ tăng khoảng 9 %, không phải gấp đôi.
+
+Câu 11. [TH] Trong quá trình đẳng áp của một lượng khí, đồ thị biểu diễn thể tích $V$ theo nhiệt độ Celsius $t$ là đường thẳng
+*A. cắt trục nhiệt độ tại điểm $-273$ °C.
+B. đi qua gốc tọa độ.
+C. song song với trục nhiệt độ.
+D. cắt trục nhiệt độ tại điểm 273 °C.
+Lời giải
+$V$ tỉ lệ thuận với $T = t + 273$ nên $V = 0$ khi $t = -273$ °C.
+
+Câu 12. [TH] Đun nóng khí trong bình kín có thể tích không đổi thì áp suất khí tăng vì
+A. số phân tử khí trong bình tăng lên khi bị đun nóng.
+B. kích thước các phân tử khí tăng lên khi bị nung nóng.
+*C. các phân tử khí chuyển động nhanh hơn và va đập mạnh hơn.
+D. khối lượng khí trong bình tăng lên khi bị đun nóng.
+Lời giải
+Nhiệt độ tăng làm tốc độ trung bình của phân tử tăng; số phân tử và thể tích không đổi.
+
+Câu 13. [TH] Một quả bóng bay (vỏ cao su mềm) bị móp được nhúng vào nước nóng thì phồng lên. Quá trình biến đổi này gần đúng là quá trình
+A. đẳng nhiệt.
+B. đẳng tích.
+*C. đẳng áp.
+D. đoạn nhiệt.
+Lời giải
+Áp suất khí trong bóng gần bằng áp suất khí quyển không đổi, thể tích tăng khi nhiệt độ tăng.
+
+Câu 14. [TH] Bình xịt khí đặt gần lửa có thể nổ vì
+A. khí trong bình bị nén lại mạnh hơn khi gần lửa.
+*B. nhiệt độ tăng làm áp suất khí tăng khi thể tích không đổi.
+C. số phân tử khí trong bình tăng lên khi gần lửa.
+D. khí trong bình bị hóa lỏng hoàn toàn khi gần lửa.
+Lời giải
+Thể tích bình không đổi, nhiệt độ tăng nên áp suất tăng đến mức vượt ngưỡng chịu đựng của vỏ bình.
+
+Câu 15. [TH] Trong hệ trục $(p, T)$ với $T$ là nhiệt độ tuyệt đối, đường biểu diễn quá trình đẳng tích là
+A. đường hypebol.
+B. đường thẳng song song với trục $p$.
+C. đường thẳng song song với trục $T$.
+*D. đường thẳng mà phần kéo dài đi qua gốc tọa độ.
+Lời giải
+$p = \text{hằng số} \cdot T$ nên đồ thị là đường thẳng kéo dài đi qua gốc tọa độ.
+
+Câu 16. [TH] Trường hợp nào sau đây là quá trình đẳng tích?
+*A. Nung nóng khí trong một bình kín, cứng.
+B. Khí trong xilanh có pittông tự do bị đun nóng.
+C. Nén khí chậm trong xilanh, giữ nhiệt độ không đổi.
+D. Khí trong bóng bay được nhúng vào nước nóng.
+Lời giải
+Chỉ khi bình kín và cứng thì thể tích mới không đổi.
+
+Câu 17. [VD] Một lượng khí có thể tích 3 lít ở 27 °C. Nung đẳng áp đến 127 °C thì thể tích khí là
+A. 3,5 lít.
+*B. 4 lít.
+C. 12,7 lít.
+D. 14,1 lít.
+Lời giải
+$V_2 = V_1\dfrac{T_2}{T_1} = 3 \cdot \dfrac{400}{300} = 4$ lít.
+
+Câu 18. [VD] Khí trong bình kín có áp suất 1,5 atm ở 27 °C. Nung nóng đến 127 °C thì áp suất khí là
+A. 7,1 atm.
+B. 6 atm.
+*C. 2 atm.
+D. 1,1 atm.
+Lời giải
+$p_2 = p_1\dfrac{T_2}{T_1} = 1,5 \cdot \dfrac{400}{300} = 2$ atm.
+
+Câu 19. [VD] Khí trong bình kín có áp suất 2 atm ở 27 °C. Để áp suất tăng đến 3 atm thì phải nung khí đến nhiệt độ
+A. 40,5 °C.
+B. 450 °C.
+C. 81 °C.
+*D. 177 °C.
+Lời giải
+$T_2 = T_1\dfrac{p_2}{p_1} = 300 \cdot \dfrac{3}{2} = 450$ K, tức $t_2 = 450 - 273 = 177$ °C.
+
+Câu 20. [VD] Khí trong xilanh có pittông tự do (áp suất không đổi) có thể tích 6 lít ở 300 K. Để thể tích tăng đến 9 lít thì phải nung khí đến nhiệt độ
+*A. 450 K.
+B. 400 K.
+C. 200 K.
+D. 900 K.
+Lời giải
+$T_2 = T_1\dfrac{V_2}{V_1} = 300 \cdot \dfrac{9}{6} = 450$ K.
+
+Câu 21. [VD] Một lượng khí thể tích 8 lít ở 127 °C được làm lạnh đẳng áp đến 27 °C. Thể tích khí khi đó là
+A. 1,7 lít.
+B. 10,7 lít.
+C. 7,5 lít.
+*D. 6 lít.
+Lời giải
+$V_2 = V_1\dfrac{T_2}{T_1} = 8 \cdot \dfrac{300}{400} = 6$ lít.
+
+Câu 22. [VD] Lốp xe có áp suất 2,0 atm ở 7 °C. Sau khi xe chạy, nhiệt độ khí trong lốp tăng lên 47 °C. Coi thể tích lốp không đổi, áp suất khí trong lốp là
+A. 2,0 atm.
+*B. 2,3 atm.
+C. 13,4 atm.
+D. 1,75 atm.
+Lời giải
+$p_2 = p_1\dfrac{T_2}{T_1} = 2,0 \cdot \dfrac{320}{280} \approx 2,3$ atm.
+
+Câu 23. [TF] [TH] Về quá trình đẳng áp của một lượng khí xác định:
+*A. Thể tích tỉ lệ thuận với nhiệt độ tuyệt đối.
+B. Thể tích tỉ lệ thuận với nhiệt độ Celsius.
+*C. Đồ thị $(V, T)$ là đường thẳng có phần kéo dài đi qua gốc tọa độ.
+D. Áp suất của khí thay đổi trong quá trình này.
+Lời giải
+A, C đúng. B sai vì phải dùng nhiệt độ tuyệt đối. D sai vì quá trình đẳng áp có áp suất không đổi.
+
+Câu 24. [TF] [TH] Về quá trình đẳng tích của một lượng khí xác định:
+A. Áp suất tỉ lệ nghịch với nhiệt độ tuyệt đối.
+*B. Áp suất tỉ lệ thuận với nhiệt độ tuyệt đối.
+C. Khi nhiệt độ giảm thì áp suất khí tăng.
+D. Thể tích khí tăng khi nhiệt độ tăng.
+Lời giải
+Chỉ B đúng. Đẳng tích có $\dfrac{p}{T}$ không đổi: nhiệt độ giảm thì áp suất giảm (C sai) và thể tích không đổi (D sai).
+
+Câu 25. [TF] [TH] Về nhiệt độ trong các định luật chất khí:
+*A. Phải dùng nhiệt độ tuyệt đối (kenvin).
+*B. $T\ (\text{K}) = t\ (°\text{C}) + 273$.
+*C. Độ không tuyệt đối ứng với $-273$ °C.
+D. Nhiệt độ 0 K ứng với 0 °C.
+Lời giải
+A, B, C đúng. D sai vì 0 °C ứng với 273 K.
+
+Câu 26. [TF] [VD] Một lượng khí có thể tích 4 lít ở 17 °C, được nung đẳng áp đến 87 °C.
+*A. Nhiệt độ tuyệt đối lúc đầu và lúc sau lần lượt là 290 K và 360 K.
+B. Thể tích khí sau khi nung là 20,5 lít.
+*C. Thể tích khí sau khi nung khoảng 5,0 lít.
+D. Thể tích khí giảm đi.
+Lời giải
+$V_2 = 4 \cdot \dfrac{360}{290} \approx 5,0$ lít nên C đúng. B sai vì nhầm dùng nhiệt độ Celsius ($4 \cdot \dfrac{87}{17} \approx 20,5$). D sai vì thể tích tăng.
+
+Câu 27. [TF] [VD] Khí trong bình kín có áp suất 1,2 atm ở 27 °C, được nung nóng đến 87 °C.
+*A. Quá trình biến đổi là quá trình đẳng tích.
+*B. Áp suất khí sau khi nung là 1,44 atm.
+*C. Áp suất khí tăng lên 1,2 lần.
+*D. Nếu nung tiếp đến 327 °C thì áp suất khí là 2,4 atm.
+Lời giải
+$p_2 = 1,2 \cdot \dfrac{360}{300} = 1,44$ atm, tăng 1,2 lần. Ở 327 °C ($T = 600$ K): $p = 1,2 \cdot \dfrac{600}{300} = 2,4$ atm. Cả bốn ý đều đúng.
+
+Câu 28. [TF] [VD] Lốp xe có áp suất 2,4 atm ở 17 °C. Sau khi chạy, nhiệt độ khí trong lốp là 57 °C. Coi thể tích lốp không đổi.
+*A. Nhiệt độ tuyệt đối của khí tăng từ 290 K lên 330 K.
+*B. Áp suất khí trong lốp sau khi chạy khoảng 2,7 atm.
+C. Áp suất khí trong lốp sau khi chạy là 8,0 atm.
+*D. Áp suất khí trong lốp tăng lên.
+Lời giải
+$p_2 = 2,4 \cdot \dfrac{330}{290} \approx 2,7$ atm nên B đúng, D đúng. C sai vì nhầm dùng nhiệt độ Celsius ($2,4 \cdot \dfrac{57}{17} \approx 8,0$).
+
+Câu 29. [TF] [VD] Một quả bóng bay chứa khí có thể tích 2 lít ở 27 °C, áp suất khí không đổi. Nhúng bóng vào nước nóng 57 °C.
+*A. Thể tích khí trong bóng sau khi nhúng là 2,2 lít.
+B. Thể tích khí trong bóng sau khi nhúng là 4,2 lít.
+C. Số phân tử khí trong bóng tăng lên.
+*D. Quá trình biến đổi của khí là quá trình đẳng áp.
+Lời giải
+$V_2 = 2 \cdot \dfrac{330}{300} = 2,2$ lít nên A đúng. B sai vì dùng nhiệt độ Celsius. Lượng khí không đổi nên số phân tử không đổi (C sai).
+
+Câu 30. [TH] Đổi nhiệt độ 127 °C sang thang Kelvin (theo đơn vị K).
+Trả lời: [[400]]
+Lời giải
+$T = 127 + 273 = 400$ K.
+
+Câu 31. [TH] Một lượng khí có thể tích 2 lít ở 300 K, được nung đẳng áp đến 450 K. Tính thể tích khí sau khi nung (theo đơn vị lít).
+Trả lời: [[3]]
+Lời giải
+$V_2 = 2 \cdot \dfrac{450}{300} = 3$ lít.
+
+Câu 32. [TH] Một lượng khí trong bình kín có áp suất 1 atm ở 300 K. Nung nóng đến 600 K. Tính áp suất khí khi đó (theo đơn vị atm).
+Trả lời: [[2]]
+Lời giải
+Đẳng tích: $p_2 = 1 \cdot \dfrac{600}{300} = 2$ atm.
+
+Câu 33. [VD] Một lượng khí có thể tích 6 lít ở 17 °C. Nung đẳng áp đến 87 °C. Tính thể tích khí sau khi nung (theo đơn vị lít, làm tròn đến một chữ số thập phân).
+Trả lời: [[7,4]]
+Lời giải
+$V_2 = 6 \cdot \dfrac{360}{290} \approx 7,4$ lít.
+
+Câu 34. [VD] Khí trong bình kín có áp suất 2,4 atm ở 27 °C. Cần nung khí đến nhiệt độ bao nhiêu để áp suất đạt 3,0 atm (theo đơn vị °C)?
+Trả lời: [[102]]
+Lời giải
+$T_2 = 300 \cdot \dfrac{3,0}{2,4} = 375$ K nên $t_2 = 375 - 273 = 102$ °C.
+
+Câu 35. [VD] Khí trong bình kín có áp suất 1,8 atm ở 87 °C. Làm lạnh khí đến $-3$ °C. Tính áp suất khí khi đó (theo đơn vị atm, làm tròn đến hai chữ số thập phân).
+Trả lời: [[1,35]]
+Lời giải
+$p_2 = 1,8 \cdot \dfrac{270}{360} = 1,35$ atm.
+
+Câu 36. [VD] Một lượng khí giữ ở áp suất không đổi. Khi nhiệt độ tăng thêm 30 K thì thể tích tăng thêm 10 % so với thể tích ban đầu. Tính nhiệt độ ban đầu của khí (theo đơn vị K).
+Trả lời: [[300]]
+Lời giải
+$\dfrac{T_1 + 30}{T_1} = 1,1$ suy ra $0,1T_1 = 30$ nên $T_1 = 300$ K.
+
+Câu 37. [VD] Một lượng khí ở áp suất không đổi có thể tích 4,0 lít ở 0 °C. Tính thể tích khí ở 91 °C (theo đơn vị lít, làm tròn đến hai chữ số thập phân).
+Trả lời: [[5,33]]
+Lời giải
+$V_2 = 4,0 \cdot \dfrac{364}{273} \approx 5,33$ lít.
+
+Câu 38. [VD] Một lượng khí giữ ở áp suất không đổi có thể tích 2 lít ở 0 °C. Để thể tích khí tăng gấp đôi thì phải nung khí đến nhiệt độ bao nhiêu (theo đơn vị °C)?
+Trả lời: [[273]]
+Lời giải
+Thể tích gấp đôi thì nhiệt độ tuyệt đối gấp đôi: $T_2 = 2 \cdot 273 = 546$ K nên $t_2 = 546 - 273 = 273$ °C.
+
+@bai 11 | Phương trình trạng thái của khí lí tưởng
+Câu 1. [NB] Phương trình trạng thái của một lượng khí lí tưởng xác định là
+*A. $\dfrac{pV}{T} = \text{hằng số}$.
+B. $pVT = \text{hằng số}$.
+C. $\dfrac{pT}{V} = \text{hằng số}$.
+D. $\dfrac{VT}{p} = \text{hằng số}$.
+Lời giải
+Với một lượng khí xác định, tỉ số $\dfrac{pV}{T}$ không đổi khi biến đổi trạng thái.
+
+Câu 2. [NB] Hằng số khí lí tưởng $R$ có giá trị xấp xỉ
+A. $6,02 \cdot 10^{23}$ mol⁻¹.
+B. $1,38 \cdot 10^{-23}$ J/K.
+*C. $8,31$ J/(mol·K).
+D. $22,4$ lít/mol.
+Lời giải
+$R \approx 8,31$ J/(mol·K); $6,02 \cdot 10^{23}$ là số Avogadro, $1,38 \cdot 10^{-23}$ J/K là hằng số Boltzmann.
+
+Câu 3. [NB] Trong hệ thức $pV = nRT$, đại lượng $n$ là
+A. số phân tử khí.
+B. khối lượng khí tính bằng kilôgam.
+C. thể tích mol của khí.
+*D. số mol khí.
+Lời giải
+$n = \dfrac{m}{M}$ là số mol của lượng khí đang xét.
+
+Câu 4. [NB] Khí lí tưởng là mô hình khí trong đó
+A. các phân tử đứng yên tại các vị trí cố định.
+*B. các phân tử rất nhỏ và chỉ tương tác khi va chạm.
+C. các phân tử hút nhau rất mạnh ở mọi khoảng cách.
+D. các phân tử chuyển động có hướng xác định.
+Lời giải
+Khí lí tưởng: kích thước phân tử rất nhỏ, bỏ qua lực tương tác ngoài lúc va chạm.
+
+Câu 5. [NB] Đơn vị của hằng số khí lí tưởng $R$ là
+A. J/mol.
+B. J/K.
+*C. J/(mol·K).
+D. Pa/(mol·K).
+Lời giải
+$R = \dfrac{pV}{nT}$ có đơn vị $\dfrac{\text{J}}{\text{mol·K}}$.
+
+Câu 6. [NB] Ba thông số trạng thái của một lượng khí là
+*A. áp suất, thể tích, nhiệt độ tuyệt đối.
+B. áp suất, khối lượng, nhiệt độ.
+C. thể tích, khối lượng, mật độ.
+D. nhiệt lượng, công, nội năng.
+Lời giải
+Trạng thái của một lượng khí được xác định bởi $p$, $V$, $T$.
+
+Câu 7. [NB] Nhiệt độ $T$ trong phương trình trạng thái của khí lí tưởng có đơn vị là
+A. độ Celsius (°C).
+B. độ Fahrenheit (°F).
+C. jun (J).
+*D. kenvin (K).
+Lời giải
+Phải dùng nhiệt độ tuyệt đối với đơn vị kenvin.
+
+Câu 8. [NB] Hệ thức $\dfrac{pV}{T} = \text{hằng số}$ đúng với
+A. mọi chất khí và mọi lượng khí.
+*B. một lượng khí lí tưởng xác định.
+C. chỉ chất khí ở điều kiện chuẩn.
+D. chỉ chất lỏng.
+Lời giải
+Hằng số trong hệ thức này phụ thuộc lượng khí, nên chỉ áp dụng cho một lượng khí xác định.
+
+Câu 9. [TH] Khi nhiệt độ không đổi, phương trình $\dfrac{pV}{T} = \text{hằng số}$ trở thành
+A. $\dfrac{V}{T} = \text{hằng số}$.
+B. $\dfrac{p}{T} = \text{hằng số}$.
+*C. $pV = \text{hằng số}$.
+D. $\dfrac{p}{V} = \text{hằng số}$.
+Lời giải
+$T$ không đổi nên $pV$ không đổi: đó là định luật Boyle.
+
+Câu 10. [TH] Với cùng áp suất và nhiệt độ, thể tích của khí lí tưởng
+*A. tỉ lệ thuận với số mol khí.
+B. tỉ lệ nghịch với số mol khí.
+C. không phụ thuộc số mol khí.
+D. tỉ lệ thuận với bình phương số mol khí.
+Lời giải
+$V = \dfrac{nRT}{p}$ nên $V$ tỉ lệ thuận với $n$.
+
+Câu 11. [TH] Giữ nguyên nhiệt độ của một chất khí xác định, khối lượng riêng của khí
+A. giảm khi áp suất tăng.
+*B. tăng tỉ lệ thuận với áp suất.
+C. không phụ thuộc áp suất.
+D. tăng tỉ lệ nghịch với áp suất.
+Lời giải
+$\rho = \dfrac{pM}{RT}$ nên $\rho$ tỉ lệ thuận với $p$ khi $T$ và $M$ không đổi.
+
+Câu 12. [TH] Ở cùng áp suất và nhiệt độ, thể tích của 3 mol khí lí tưởng gấp bao nhiêu lần thể tích của 1 mol khí lí tưởng?
+A. $\dfrac{1}{3}$ lần.
+B. 1 lần.
+C. 9 lần.
+*D. 3 lần.
+Lời giải
+$V = \dfrac{nRT}{p}$ nên với $p$, $T$ không đổi, $V$ tỉ lệ thuận với $n$: thể tích gấp 3 lần.
+
+Câu 13. [TH] Một lượng khí có áp suất tăng gấp đôi và thể tích tăng gấp đôi thì nhiệt độ tuyệt đối
+*A. tăng gấp bốn.
+B. tăng gấp đôi.
+C. không đổi.
+D. giảm một nửa.
+Lời giải
+$\dfrac{p_2V_2}{T_2} = \dfrac{p_1V_1}{T_1}$ suy ra $T_2 = \dfrac{p_2V_2}{p_1V_1}T_1 = 4T_1$.
+
+Câu 14. [TH] Một lượng khí biến đổi từ trạng thái $(p_1, V_1, T_1)$ sang $(p_2, V_2, T_2)$. Hệ thức đúng là
+A. $p_1V_1T_1 = p_2V_2T_2$.
+B. $\dfrac{p_1T_1}{V_1} = \dfrac{p_2T_2}{V_2}$.
+*C. $\dfrac{p_1V_1}{T_1} = \dfrac{p_2V_2}{T_2}$.
+D. $\dfrac{p_1V_2}{T_1} = \dfrac{p_2V_1}{T_2}$.
+Lời giải
+Phương trình trạng thái: $\dfrac{pV}{T}$ không đổi nên $\dfrac{p_1V_1}{T_1} = \dfrac{p_2V_2}{T_2}$.
+
+Câu 15. [TH] Khi nén nhanh khí trong xilanh, không thể dùng định luật Boyle vì
+A. thể tích khí hoàn toàn không đổi trong lúc nén.
+*B. nhiệt độ của khí thay đổi trong quá trình nén.
+C. áp suất của khí hoàn toàn không đổi lúc nén.
+D. khối lượng khí bị thay đổi trong quá trình nén.
+Lời giải
+Nén nhanh làm nhiệt độ khí tăng nên không phải quá trình đẳng nhiệt; khi đó dùng phương trình trạng thái.
+
+Câu 16. [TH] Điều kiện chuẩn của chất khí là
+A. 20 °C và $1,013 \cdot 10^5$ Pa.
+B. 0 °C và $1,0 \cdot 10^3$ Pa.
+C. 25 °C và $2,0 \cdot 10^5$ Pa.
+*D. 0 °C và $1,013 \cdot 10^5$ Pa.
+Lời giải
+Điều kiện chuẩn: nhiệt độ 0 °C (273 K), áp suất 1 atm $\approx 1,013 \cdot 10^5$ Pa.
+
+Câu 17. [VD] Một lượng khí có áp suất 1 atm, thể tích 12 lít ở 27 °C. Biến đổi sang trạng thái có áp suất 2 atm, thể tích 9 lít. Nhiệt độ của khí ở trạng thái sau là
+*A. 177 °C.
+B. 450 °C.
+C. 40,5 °C.
+D. 81 °C.
+Lời giải
+$T_2 = T_1\dfrac{p_2V_2}{p_1V_1} = 300 \cdot \dfrac{2 \cdot 9}{1 \cdot 12} = 450$ K, tức $177$ °C.
+
+Câu 18. [VD] Cho $R = 8,31$ J/(mol·K). Hai mol khí lí tưởng ở 27 °C chứa trong bình dung tích 10 lít có áp suất xấp xỉ
+A. $4,5 \cdot 10^4$ Pa.
+*B. $5,0 \cdot 10^5$ Pa.
+C. $5,0 \cdot 10^2$ Pa.
+D. $5,0 \cdot 10^6$ Pa.
+Lời giải
+$p = \dfrac{nRT}{V} = \dfrac{2 \cdot 8,31 \cdot 300}{10^{-2}} \approx 5,0 \cdot 10^5$ Pa.
+
+Câu 19. [VD] Cho $R = 8,31$ J/(mol·K). Thể tích của 0,5 mol khí lí tưởng ở áp suất $2 \cdot 10^5$ Pa và nhiệt độ 127 °C là
+A. 4,2 lít.
+B. 16,6 lít.
+*C. 8,3 lít.
+D. 83 lít.
+Lời giải
+$V = \dfrac{nRT}{p} = \dfrac{0,5 \cdot 8,31 \cdot 400}{2 \cdot 10^5} \approx 8,3 \cdot 10^{-3}$ m³ $= 8,3$ lít.
+
+Câu 20. [VD] Một lượng khí có $p_1 = 1$ atm, $V_1 = 10$ lít, $T_1 = 300$ K. Biến đổi sang trạng thái có $p_2 = 2$ atm, $T_2 = 600$ K. Thể tích khí ở trạng thái sau là
+A. 5 lít.
+B. 20 lít.
+C. 2,5 lít.
+*D. 10 lít.
+Lời giải
+$V_2 = V_1\dfrac{p_1T_2}{p_2T_1} = 10 \cdot \dfrac{1 \cdot 600}{2 \cdot 300} = 10$ lít.
+
+Câu 21. [VD] Cho $R = 8,31$ J/(mol·K). Khối lượng riêng của khí oxi (khối lượng mol 32 g/mol) ở 27 °C và áp suất $1,0 \cdot 10^5$ Pa xấp xỉ
+A. 0,78 kg/m³.
+B. 0,32 kg/m³.
+*C. 1,28 kg/m³.
+D. 12,8 kg/m³.
+Lời giải
+$\rho = \dfrac{pM}{RT} = \dfrac{1,0 \cdot 10^5 \cdot 32 \cdot 10^{-3}}{8,31 \cdot 300} \approx 1,28$ kg/m³.
+
+Câu 22. [VD] Cho $R = 8,31$ J/(mol·K). Bình dung tích 20 lít chứa khí lí tưởng ở 27 °C và áp suất $2,49 \cdot 10^5$ Pa. Số mol khí trong bình là
+*A. 2 mol.
+B. 0,5 mol.
+C. 20 mol.
+D. 200 mol.
+Lời giải
+$n = \dfrac{pV}{RT} = \dfrac{2,49 \cdot 10^5 \cdot 20 \cdot 10^{-3}}{8,31 \cdot 300} = 2$ mol.
+
+Câu 23. [TF] [TH] Về phương trình trạng thái của khí lí tưởng:
+*A. Với một lượng khí xác định, $\dfrac{pV}{T}$ là hằng số.
+*B. Với $n$ mol khí lí tưởng, $pV = nRT$.
+*C. Khi $T$ không đổi, phương trình trở thành $pV = \text{hằng số}$.
+D. Nhiệt độ $T$ trong phương trình được tính theo độ Celsius.
+Lời giải
+A, B, C đúng. D sai vì $T$ phải là nhiệt độ tuyệt đối (kenvin).
+
+Câu 24. [TF] [TH] Về hằng số khí lí tưởng $R$:
+*A. $R \approx 8,31$ J/(mol·K).
+B. $R = 22,4$ J/(mol·K).
+C. Giá trị của $R$ phụ thuộc vào loại khí.
+D. $R = 6,02 \cdot 10^{23}$ J/(mol·K).
+Lời giải
+Chỉ A đúng. $R$ là hằng số chung cho mọi khí lí tưởng (C sai); 22,4 lít/mol là thể tích mol ở điều kiện chuẩn (B sai); $6,02 \cdot 10^{23}$ là số Avogadro (D sai).
+
+Câu 25. [TF] [TH] Hai bình có cùng thể tích, cùng áp suất, cùng nhiệt độ, chứa hai loại khí lí tưởng khác nhau.
+*A. Hai bình có cùng số mol khí.
+*B. Hai bình có cùng số phân tử khí.
+C. Hai bình có cùng khối lượng khí.
+D. Hai khí có cùng khối lượng riêng.
+Lời giải
+$n = \dfrac{pV}{RT}$ nên số mol bằng nhau, do đó số phân tử bằng nhau (A, B đúng). Khối lượng và khối lượng riêng phụ thuộc khối lượng mol nên khác nhau (C, D sai).
+
+Câu 26. [TF] [VD] Một lượng khí có $p_1 = 1$ atm, $V_1 = 12$ lít, $t_1 = 27$ °C, biến đổi sang $p_2 = 1,5$ atm, $V_2 = 16$ lít.
+*A. Nhiệt độ tuyệt đối ở trạng thái sau là 600 K.
+B. Nhiệt độ ở trạng thái sau là 600 °C.
+*C. Nhiệt độ ở trạng thái sau là 327 °C.
+D. Quá trình biến đổi này là quá trình đẳng nhiệt.
+Lời giải
+$T_2 = 300 \cdot \dfrac{1,5 \cdot 16}{1 \cdot 12} = 600$ K, tức $327$ °C. Nhiệt độ tăng từ 300 K lên 600 K nên không phải quá trình đẳng nhiệt.
+
+Câu 27. [TF] [VD] Một lượng khí biến đổi từ trạng thái $(p_1 = 2\ \text{atm},\ V_1 = 6\ \text{lít},\ T_1 = 300\ \text{K})$ sang trạng thái có $p_2 = 3$ atm, $T_2 = 450$ K.
+*A. Thể tích khí ở trạng thái sau là 6 lít.
+*B. Thể tích khí không đổi nên quá trình là đẳng tích.
+C. Thể tích khí ở trạng thái sau là 4 lít.
+*D. Tỉ số $\dfrac{p}{T}$ ở hai trạng thái bằng nhau.
+Lời giải
+$V_2 = V_1\dfrac{p_1T_2}{p_2T_1} = 6 \cdot \dfrac{2 \cdot 450}{3 \cdot 300} = 6$ lít nên A, B đúng, C sai. $\dfrac{2}{300} = \dfrac{3}{450}$ nên D đúng.
+
+Câu 28. [TF] [VD] Bình dung tích 20 lít chứa 2 mol khí lí tưởng ở 27 °C. Cho $R = 8,31$ J/(mol·K), $N_A = 6,02 \cdot 10^{23}$ mol⁻¹.
+*A. Áp suất khí trong bình xấp xỉ $2,5 \cdot 10^5$ Pa.
+*B. Nếu thêm 2 mol khí cùng loại vào bình (nhiệt độ và thể tích không đổi) thì áp suất tăng gấp đôi.
+*C. Nếu nung bình đến 327 °C (thể tích không đổi) thì áp suất tăng gấp đôi.
+*D. Số phân tử khí trong bình là $1,204 \cdot 10^{24}$.
+Lời giải
+$p = \dfrac{2 \cdot 8,31 \cdot 300}{0,02} \approx 2,5 \cdot 10^5$ Pa. Số mol tăng gấp đôi thì $p$ tăng gấp đôi. Nhiệt độ tăng từ 300 K lên 600 K thì $p$ tăng gấp đôi. $N = 2 \cdot 6,02 \cdot 10^{23} = 1,204 \cdot 10^{24}$. Cả bốn ý đều đúng.
+
+Câu 29. [TF] [VD] Khí nitơ (khối lượng mol 28 g/mol) ở 27 °C và áp suất $1,0 \cdot 10^5$ Pa. Cho $R = 8,31$ J/(mol·K).
+*A. Khối lượng riêng của khí xấp xỉ 1,12 kg/m³.
+B. Khối lượng riêng của khí xấp xỉ 11,2 kg/m³.
+C. Giữ nhiệt độ không đổi, tăng áp suất gấp đôi thì khối lượng riêng giảm một nửa.
+*D. Giữ áp suất không đổi, tăng nhiệt độ thì khối lượng riêng giảm.
+Lời giải
+$\rho = \dfrac{pM}{RT} = \dfrac{10^5 \cdot 28 \cdot 10^{-3}}{8,31 \cdot 300} \approx 1,12$ kg/m³ nên A đúng, B sai. $\rho \sim \dfrac{p}{T}$ nên $p$ tăng gấp đôi thì $\rho$ tăng gấp đôi (C sai); $T$ tăng thì $\rho$ giảm (D đúng).
+
+Câu 30. [TH] Một mol khí lí tưởng ở 273 K có thể tích 22,4 lít. Cho $R = 8,31$ J/(mol·K). Tính áp suất của khí (theo đơn vị $10^5$ Pa, làm tròn đến hai chữ số thập phân).
+Trả lời: [[1,01]]
+Lời giải
+$p = \dfrac{nRT}{V} = \dfrac{1 \cdot 8,31 \cdot 273}{22,4 \cdot 10^{-3}} \approx 1,01 \cdot 10^5$ Pa.
+
+Câu 31. [TH] Bình có thể tích 8,31 lít chứa khí lí tưởng ở 300 K và áp suất $3 \cdot 10^5$ Pa. Cho $R = 8,31$ J/(mol·K). Tính số mol khí trong bình (theo đơn vị mol).
+Trả lời: [[1]]
+Lời giải
+$n = \dfrac{pV}{RT} = \dfrac{3 \cdot 10^5 \cdot 8,31 \cdot 10^{-3}}{8,31 \cdot 300} = 1$ mol.
+
+Câu 32. [TH] Một lượng khí có $p_1 = 2$ atm, $V_1 = 3$ lít, $T_1 = 300$ K, biến đổi sang trạng thái có $p_2 = 3$ atm, $V_2 = 3$ lít. Tính nhiệt độ $T_2$ (theo đơn vị K).
+Trả lời: [[450]]
+Lời giải
+$T_2 = T_1\dfrac{p_2V_2}{p_1V_1} = 300 \cdot \dfrac{3 \cdot 3}{2 \cdot 3} = 450$ K.
+
+Câu 33. [VD] Một lượng khí có $p_1 = 1$ atm, $V_1 = 4$ lít, $t_1 = 27$ °C. Biến đổi sang trạng thái có $p_2 = 2,5$ atm, $t_2 = 127$ °C. Tính thể tích $V_2$ (theo đơn vị lít, làm tròn đến hai chữ số thập phân).
+Trả lời: [[2,13]]
+Lời giải
+$V_2 = V_1\dfrac{p_1T_2}{p_2T_1} = 4 \cdot \dfrac{1 \cdot 400}{2,5 \cdot 300} \approx 2,13$ lít.
+
+Câu 34. [VD] Bình dung tích 12 lít chứa 0,4 mol khí lí tưởng ở 27 °C. Cho $R = 8,31$ J/(mol·K). Tính áp suất khí trong bình (theo đơn vị $10^4$ Pa, làm tròn đến hai chữ số thập phân).
+Trả lời: [[8,31]]
+Lời giải
+$p = \dfrac{nRT}{V} = \dfrac{0,4 \cdot 8,31 \cdot 300}{12 \cdot 10^{-3}} = 8,31 \cdot 10^4$ Pa.
+
+Câu 35. [VD] Tính khối lượng riêng của khí heli (khối lượng mol 4 g/mol) ở 27 °C và áp suất $1,0 \cdot 10^5$ Pa. Cho $R = 8,31$ J/(mol·K) (theo đơn vị kg/m³, làm tròn đến hai chữ số thập phân).
+Trả lời: [[0,16]]
+Lời giải
+$\rho = \dfrac{pM}{RT} = \dfrac{1,0 \cdot 10^5 \cdot 4 \cdot 10^{-3}}{8,31 \cdot 300} \approx 0,16$ kg/m³.
+
+Câu 36. [VD] Bình dung tích 5 lít chứa 16 g khí oxi (khối lượng mol 32 g/mol) ở 127 °C. Cho $R = 8,31$ J/(mol·K). Tính áp suất khí trong bình (theo đơn vị $10^5$ Pa, làm tròn đến hai chữ số thập phân).
+Trả lời: [[3,32]]
+Lời giải
+$n = \dfrac{16}{32} = 0,5$ mol; $p = \dfrac{0,5 \cdot 8,31 \cdot 400}{5 \cdot 10^{-3}} \approx 3,32 \cdot 10^5$ Pa.
+
+Câu 37. [VD] Một bóng thám không ở mặt đất có thể tích 1,0 m³, áp suất $1,0 \cdot 10^5$ Pa và nhiệt độ 300 K. Khi bay lên cao, áp suất là $0,5 \cdot 10^5$ Pa và nhiệt độ 250 K. Tính thể tích của bóng ở độ cao đó (theo đơn vị m³, làm tròn đến hai chữ số thập phân).
+Trả lời: [[1,67]]
+Lời giải
+$V_2 = V_1\dfrac{p_1T_2}{p_2T_1} = 1,0 \cdot \dfrac{1,0 \cdot 250}{0,5 \cdot 300} \approx 1,67$ m³.
+
+Câu 38. [VD] Bình có thể tích 8,31 lít chứa khí lí tưởng ở 300 K và áp suất $3 \cdot 10^5$ Pa. Mở van cho một phần khí thoát ra ngoài để áp suất còn $2 \cdot 10^5$ Pa, nhiệt độ không đổi. Cho $R = 8,31$ J/(mol·K). Tính số mol khí đã thoát ra (theo đơn vị mol, làm tròn đến hai chữ số thập phân).
+Trả lời: [[0,33]]
+Lời giải
+Số mol lúc đầu: $n_1 = 1$ mol. Số mol còn lại: $n_2 = \dfrac{p_2V}{RT} = \dfrac{2 \cdot 10^5 \cdot 8,31 \cdot 10^{-3}}{8,31 \cdot 300} \approx 0,67$ mol. Số mol thoát ra: $1 - 0,67 \approx 0,33$ mol.
+
+@bai 12 | Áp suất khí theo mô hình động học phân tử. Quan hệ giữa động năng phân tử và nhiệt độ
+Câu 1. [NB] Theo mô hình động học phân tử, áp suất của khí lí tưởng là $p = \dfrac{1}{3}\mu m_0\overline{v^2}$, với $\mu$ là mật độ phân tử, $m_0$ là khối lượng mỗi phân tử và $\overline{v^2}$ là trung bình bình phương tốc độ. Phát biểu đúng là
+A. áp suất tỉ lệ nghịch với mật độ phân tử.
+*B. áp suất tỉ lệ thuận với mật độ phân tử.
+C. áp suất không phụ thuộc khối lượng phân tử.
+D. áp suất tỉ lệ nghịch với $\overline{v^2}$.
+Lời giải
+Từ $p = \dfrac{1}{3}\mu m_0\overline{v^2}$, áp suất tỉ lệ thuận với $\mu$, $m_0$ và $\overline{v^2}$.
+
+Câu 2. [NB] Động năng tịnh tiến trung bình của một phân tử khí lí tưởng ở nhiệt độ tuyệt đối $T$ là
+A. $kT$.
+B. $3kT$.
+C. $\dfrac{1}{2}kT$.
+*D. $\dfrac{3}{2}kT$.
+Lời giải
+$\overline{E}_{đ} = \dfrac{3}{2}kT$, với $k$ là hằng số Boltzmann.
+
+Câu 3. [NB] Hằng số Boltzmann $k$ có giá trị xấp xỉ
+*A. $1,38 \cdot 10^{-23}$ J/K.
+B. $8,31$ J/(mol·K).
+C. $6,02 \cdot 10^{23}$ mol⁻¹.
+D. $1,38 \cdot 10^{23}$ J/K.
+Lời giải
+$k = \dfrac{R}{N_A} \approx 1,38 \cdot 10^{-23}$ J/K.
+
+Câu 4. [NB] Động năng tịnh tiến trung bình của các phân tử khí lí tưởng tỉ lệ thuận với
+A. khối lượng của khí trong bình.
+B. thể tích của bình chứa khí.
+*C. nhiệt độ tuyệt đối của khí.
+D. áp suất của khí trong bình.
+Lời giải
+$\overline{E}_{đ} = \dfrac{3}{2}kT$ nên tỉ lệ thuận với nhiệt độ tuyệt đối.
+
+Câu 5. [NB] Hệ thức liên hệ giữa hằng số Boltzmann $k$, hằng số khí lí tưởng $R$ và số Avogadro $N_A$ là
+A. $k = R \cdot N_A$.
+B. $k = \dfrac{N_A}{R}$.
+C. $k = R + N_A$.
+*D. $k = \dfrac{R}{N_A}$.
+Lời giải
+$k = \dfrac{R}{N_A} = \dfrac{8,31}{6,02 \cdot 10^{23}} \approx 1,38 \cdot 10^{-23}$ J/K.
+
+Câu 6. [NB] Căn bậc hai của trung bình bình phương tốc độ các phân tử, $\sqrt{\overline{v^2}}$, được gọi là
+A. tốc độ trung bình cộng.
+*B. tốc độ căn quân phương.
+C. tốc độ truyền âm.
+D. tốc độ lớn nhất.
+Lời giải
+$v_{rms} = \sqrt{\overline{v^2}}$ gọi là tốc độ căn quân phương.
+
+Câu 7. [NB] Mật độ phân tử khí $\mu$ được tính bằng
+*A. số phân tử khí trong một đơn vị thể tích.
+B. khối lượng khí trong một đơn vị thể tích.
+C. số mol khí trong một đơn vị khối lượng.
+D. thể tích của một mol khí.
+Lời giải
+$\mu = \dfrac{N}{V}$ là số phân tử trong một đơn vị thể tích.
+
+Câu 8. [NB] Nhiệt độ tuyệt đối của chất khí là số đo của
+A. tổng khối lượng của các phân tử khí.
+B. thể tích của bình chứa khí.
+*C. động năng tịnh tiến trung bình của phân tử.
+D. áp suất khí tác dụng lên thành bình.
+Lời giải
+Động năng tịnh tiến trung bình tỉ lệ thuận với $T$, nên $T$ là số đo của động năng đó.
+
+Câu 9. [TH] Nhiệt độ tuyệt đối của một khối khí lí tưởng tăng gấp đôi thì động năng tịnh tiến trung bình của các phân tử khí
+A. tăng gấp bốn.
+*B. tăng gấp đôi.
+C. không đổi.
+D. tăng $\sqrt{2}$ lần.
+Lời giải
+$\overline{E}_{đ} = \dfrac{3}{2}kT$ tỉ lệ thuận với $T$ nên tăng gấp đôi.
+
+Câu 10. [TH] Khí hiđrô và khí oxi ở cùng một nhiệt độ. Động năng tịnh tiến trung bình của một phân tử
+*A. hiđrô bằng của một phân tử oxi.
+B. hiđrô lớn hơn của một phân tử oxi.
+C. hiđrô nhỏ hơn của một phân tử oxi.
+D. hiđrô bằng một nửa của một phân tử oxi.
+Lời giải
+$\overline{E}_{đ} = \dfrac{3}{2}kT$ chỉ phụ thuộc nhiệt độ, không phụ thuộc loại khí.
+
+Câu 11. [TH] Ở cùng một nhiệt độ, so với phân tử oxi thì phân tử hiđrô
+A. có tốc độ căn quân phương nhỏ hơn vì khối lượng nhỏ hơn.
+B. có tốc độ căn quân phương bằng nhau vì cùng nhiệt độ.
+C. có động năng tịnh tiến trung bình lớn hơn vì nhẹ hơn.
+*D. có tốc độ căn quân phương lớn hơn vì nhẹ hơn.
+Lời giải
+Động năng trung bình bằng nhau, phân tử hiđrô nhẹ hơn nên chuyển động nhanh hơn.
+
+Câu 12. [TH] Giữ thể tích khí không đổi và tăng nhiệt độ thì áp suất khí tăng vì
+A. số phân tử khí trong bình tăng lên theo nhiệt độ.
+B. kích thước các phân tử khí tăng lên theo nhiệt độ.
+*C. phân tử khí chuyển động nhanh hơn nên va chạm mạnh hơn.
+D. khối lượng mỗi phân tử khí tăng lên theo nhiệt độ.
+Lời giải
+Nhiệt độ tăng làm $\overline{v^2}$ tăng; số phân tử, thể tích và khối lượng phân tử không đổi.
+
+Câu 13. [TH] Nén một lượng khí ở nhiệt độ không đổi thì áp suất tăng vì
+A. các phân tử khí chuyển động nhanh hơn trước.
+*B. mật độ phân tử tăng, tốc độ trung bình không đổi.
+C. khối lượng mỗi phân tử khí tăng lên khi nén.
+D. số phân tử khí trong bình tăng lên khi nén.
+Lời giải
+Nhiệt độ không đổi nên $\overline{v^2}$ không đổi; thể tích giảm nên $\mu$ tăng, do đó $p$ tăng.
+
+Câu 14. [TH] Giữ nhiệt độ không đổi, nếu mật độ phân tử khí tăng gấp ba thì áp suất khí (biết $p = \mu kT$)
+A. giảm ba lần.
+B. không đổi.
+C. tăng chín lần.
+*D. tăng gấp ba.
+Lời giải
+$p = \mu kT$ nên khi $T$ không đổi, $p$ tỉ lệ thuận với $\mu$.
+
+Câu 15. [TH] Tốc độ căn quân phương của phân tử khí tỉ lệ thuận với
+*A. căn bậc hai của nhiệt độ tuyệt đối.
+B. nhiệt độ tuyệt đối.
+C. bình phương nhiệt độ tuyệt đối.
+D. nghịch đảo của nhiệt độ tuyệt đối.
+Lời giải
+$v_{rms} = \sqrt{\dfrac{3kT}{m_0}}$ tỉ lệ với $\sqrt{T}$.
+
+Câu 16. [TH] Nhiệt độ tuyệt đối của một khối khí tăng 4 lần thì tốc độ căn quân phương của phân tử khí
+A. tăng 4 lần.
+B. tăng 16 lần.
+*C. tăng 2 lần.
+D. không đổi.
+Lời giải
+$v_{rms} \sim \sqrt{T}$ nên $T$ tăng 4 lần thì $v_{rms}$ tăng $\sqrt{4} = 2$ lần.
+
+Câu 17. [VD] Cho $k = 1,38 \cdot 10^{-23}$ J/K. Động năng tịnh tiến trung bình của một phân tử khí lí tưởng ở 27 °C xấp xỉ
+A. $5,6 \cdot 10^{-22}$ J.
+B. $4,1 \cdot 10^{-21}$ J.
+C. $1,2 \cdot 10^{-20}$ J.
+*D. $6,2 \cdot 10^{-21}$ J.
+Lời giải
+$\overline{E}_{đ} = \dfrac{3}{2}kT = 1,5 \cdot 1,38 \cdot 10^{-23} \cdot 300 \approx 6,2 \cdot 10^{-21}$ J.
+
+Câu 18. [VD] Cho $k = 1,38 \cdot 10^{-23}$ J/K. Động năng tịnh tiến trung bình của một phân tử khí là $1,035 \cdot 10^{-20}$ J. Nhiệt độ tuyệt đối của khí là
+A. 250 K.
+*B. 500 K.
+C. 750 K.
+D. 227 K.
+Lời giải
+$T = \dfrac{2\overline{E}_{đ}}{3k} = \dfrac{2 \cdot 1,035 \cdot 10^{-20}}{3 \cdot 1,38 \cdot 10^{-23}} = 500$ K.
+
+Câu 19. [VD] Cho $R = 8,31$ J/(mol·K). Tốc độ căn quân phương của phân tử khí oxi (khối lượng mol 32 g/mol) ở 27 °C xấp xỉ
+*A. 483 m/s.
+B. 684 m/s.
+C. 395 m/s.
+D. 15,3 m/s.
+Lời giải
+$v_{rms} = \sqrt{\dfrac{3RT}{M}} = \sqrt{\dfrac{3 \cdot 8,31 \cdot 300}{32 \cdot 10^{-3}}} \approx 483$ m/s.
+
+Câu 20. [VD] Một khối khí có mật độ phân tử $2 \cdot 10^{25}$ phân tử/m³, khối lượng mỗi phân tử $5 \cdot 10^{-26}$ kg và trung bình bình phương tốc độ $2,5 \cdot 10^5$ m²/s². Áp suất khí là
+A. $2,5 \cdot 10^5$ Pa.
+B. $5,0 \cdot 10^4$ Pa.
+*C. $8,3 \cdot 10^4$ Pa.
+D. $2,5 \cdot 10^6$ Pa.
+Lời giải
+$p = \dfrac{1}{3}\mu m_0\overline{v^2} = \dfrac{1}{3} \cdot 2 \cdot 10^{25} \cdot 5 \cdot 10^{-26} \cdot 2,5 \cdot 10^5 \approx 8,3 \cdot 10^4$ Pa.
+
+Câu 21. [VD] Cho $k = 1,38 \cdot 10^{-23}$ J/K. Khối khí ở 27 °C có mật độ phân tử $2,4 \cdot 10^{25}$ phân tử/m³. Áp suất khí xấp xỉ (gợi ý: $p = \dfrac{2}{3}\mu\overline{E}_{đ}$)
+*A. $1,0 \cdot 10^5$ Pa.
+B. $6,6 \cdot 10^4$ Pa.
+C. $1,5 \cdot 10^5$ Pa.
+D. $3,3 \cdot 10^4$ Pa.
+Lời giải
+$p = \dfrac{2}{3}\mu \cdot \dfrac{3}{2}kT = \mu kT = 2,4 \cdot 10^{25} \cdot 1,38 \cdot 10^{-23} \cdot 300 \approx 1,0 \cdot 10^5$ Pa.
+
+Câu 22. [VD] Ở cùng nhiệt độ, tỉ số tốc độ căn quân phương của phân tử khí hiđrô (khối lượng mol 2 g/mol) và của phân tử khí oxi (khối lượng mol 32 g/mol) là
+A. 16.
+B. 2.
+C. 8.
+*D. 4.
+Lời giải
+$v_{rms} \sim \dfrac{1}{\sqrt{M}}$ nên $\dfrac{v_{H_2}}{v_{O_2}} = \sqrt{\dfrac{32}{2}} = 4$.
+
+Câu 23. [TF] [TH] Về áp suất khí theo mô hình động học phân tử:
+*A. Áp suất do các phân tử khí va chạm vào thành bình gây ra.
+*B. Áp suất khí lí tưởng được tính bằng $p = \dfrac{1}{3}\mu m_0\overline{v^2}$.
+C. Áp suất không phụ thuộc mật độ phân tử.
+D. Áp suất tỉ lệ nghịch với trung bình bình phương tốc độ phân tử.
+Lời giải
+A, B đúng. C sai vì $p$ tỉ lệ thuận với $\mu$. D sai vì $p$ tỉ lệ thuận với $\overline{v^2}$.
+
+Câu 24. [TF] [TH] Về động năng tịnh tiến trung bình của phân tử khí lí tưởng:
+*A. $\overline{E}_{đ} = \dfrac{3}{2}kT$.
+*B. Tỉ lệ thuận với nhiệt độ tuyệt đối.
+*C. Ở cùng nhiệt độ, các phân tử khí lí tưởng khác loại có động năng tịnh tiến trung bình bằng nhau.
+D. Phụ thuộc vào khối lượng mol của khí.
+Lời giải
+A, B, C đúng. D sai vì $\overline{E}_{đ}$ chỉ phụ thuộc nhiệt độ.
+
+Câu 25. [TF] [TH] Khi tăng nhiệt độ của một lượng khí xác định:
+A. Tốc độ căn quân phương của phân tử khí giảm.
+*B. Tốc độ căn quân phương của phân tử khí tăng.
+C. Động năng tịnh tiến trung bình của phân tử khí giảm.
+D. Số phân tử khí trong bình tăng.
+Lời giải
+Chỉ B đúng. Nhiệt độ tăng làm $\overline{E}_{đ}$ và $v_{rms}$ tăng (A, C sai); lượng khí không đổi nên số phân tử không đổi (D sai).
+
+Câu 26. [TF] [VD] Khí oxi (khối lượng mol 32 g/mol) ở 27 °C. Cho $R = 8,31$ J/(mol·K), $k = 1,38 \cdot 10^{-23}$ J/K.
+*A. Động năng tịnh tiến trung bình của một phân tử xấp xỉ $6,2 \cdot 10^{-21}$ J.
+*B. Tốc độ căn quân phương của phân tử xấp xỉ 483 m/s.
+C. Tốc độ căn quân phương của phân tử không phụ thuộc nhiệt độ.
+D. Động năng tịnh tiến trung bình của một phân tử xấp xỉ $4,1 \cdot 10^{-21}$ J.
+Lời giải
+$\overline{E}_{đ} = \dfrac{3}{2}kT \approx 6,2 \cdot 10^{-21}$ J nên A đúng, D sai (D là $kT$). $v_{rms} = \sqrt{\dfrac{3RT}{M}} \approx 483$ m/s nên B đúng; $v_{rms}$ phụ thuộc $\sqrt{T}$ nên C sai.
+
+Câu 27. [TF] [VD] Khối khí ở nhiệt độ 300 K có mật độ phân tử $2,4 \cdot 10^{25}$ phân tử/m³. Cho $k = 1,38 \cdot 10^{-23}$ J/K và biết $p = \mu kT$.
+*A. Áp suất khí xấp xỉ $9,9 \cdot 10^4$ Pa.
+*B. Nếu nhiệt độ tăng gấp đôi, mật độ phân tử không đổi thì áp suất tăng gấp đôi.
+C. Nếu nhiệt độ tăng gấp đôi thì động năng tịnh tiến trung bình tăng gấp bốn.
+*D. Nếu mật độ phân tử tăng gấp đôi, nhiệt độ không đổi thì áp suất tăng gấp đôi.
+Lời giải
+$p = 2,4 \cdot 10^{25} \cdot 1,38 \cdot 10^{-23} \cdot 300 \approx 9,9 \cdot 10^4$ Pa. $p$ tỉ lệ thuận với $\mu$ và với $T$ nên B, D đúng. $\overline{E}_{đ}$ tỉ lệ thuận với $T$ nên tăng gấp đôi, C sai.
+
+Câu 28. [TF] [VD] So sánh khí hiđrô (khối lượng mol 2 g/mol) và khí oxi (khối lượng mol 32 g/mol) ở cùng nhiệt độ.
+*A. Động năng tịnh tiến trung bình của phân tử hai khí bằng nhau.
+B. Tốc độ căn quân phương của phân tử oxi lớn hơn của phân tử hiđrô.
+C. Tốc độ căn quân phương của phân tử hiđrô gấp 16 lần của phân tử oxi.
+*D. Tốc độ căn quân phương của phân tử hiđrô gấp 4 lần của phân tử oxi.
+Lời giải
+$\overline{E}_{đ}$ bằng nhau (A đúng). $v_{rms} \sim \dfrac{1}{\sqrt{M}}$ nên $\dfrac{v_{H_2}}{v_{O_2}} = \sqrt{16} = 4$: D đúng, C sai (nhầm không lấy căn), B sai.
+
+Câu 29. [TF] [VD] Bình kín dung tích 20 lít chứa 2 mol khí heli (coi là khí lí tưởng đơn nguyên tử) ở 27 °C. Cho $R = 8,31$ J/(mol·K), $k = 1,38 \cdot 10^{-23}$ J/K, $N_A = 6,02 \cdot 10^{23}$ mol⁻¹.
+*A. Số nguyên tử khí trong bình là $1,204 \cdot 10^{24}$.
+*B. Động năng tịnh tiến trung bình của một nguyên tử xấp xỉ $6,2 \cdot 10^{-21}$ J.
+*C. Tổng động năng tịnh tiến của các nguyên tử xấp xỉ $7,5 \cdot 10^3$ J.
+*D. Áp suất khí trong bình xấp xỉ $2,5 \cdot 10^5$ Pa.
+Lời giải
+$N = 2 \cdot 6,02 \cdot 10^{23} = 1,204 \cdot 10^{24}$; $\overline{E}_{đ} = \dfrac{3}{2}kT \approx 6,2 \cdot 10^{-21}$ J; $W = N\overline{E}_{đ} \approx 7,5 \cdot 10^3$ J; $p = \dfrac{nRT}{V} = \dfrac{2 \cdot 8,31 \cdot 300}{0,02} \approx 2,5 \cdot 10^5$ Pa. Cả bốn ý đều đúng.
+
+Câu 30. [TH] Cho $k = 1,38 \cdot 10^{-23}$ J/K. Tính động năng tịnh tiến trung bình của một phân tử khí lí tưởng ở 27 °C (theo đơn vị $10^{-21}$ J, làm tròn đến hai chữ số thập phân).
+Trả lời: [[6,21]]
+Lời giải
+$\overline{E}_{đ} = \dfrac{3}{2}kT = 1,5 \cdot 1,38 \cdot 10^{-23} \cdot 300 = 6,21 \cdot 10^{-21}$ J.
+
+Câu 31. [TH] Tốc độ căn quân phương của phân tử một khối khí tăng lên 3 lần. Nhiệt độ tuyệt đối của khối khí tăng bao nhiêu lần (theo đơn vị lần)?
+Trả lời: [[9]]
+Lời giải
+$v_{rms} \sim \sqrt{T}$ nên $\dfrac{T_2}{T_1} = \left(\dfrac{v_2}{v_1}\right)^2 = 3^2 = 9$.
+
+Câu 32. [TH] Cho $k = 1,38 \cdot 10^{-23}$ J/K. Động năng tịnh tiến trung bình của một phân tử khí là $8,28 \cdot 10^{-21}$ J. Tính nhiệt độ tuyệt đối của khí (theo đơn vị K).
+Trả lời: [[400]]
+Lời giải
+$T = \dfrac{2\overline{E}_{đ}}{3k} = \dfrac{2 \cdot 8,28 \cdot 10^{-21}}{3 \cdot 1,38 \cdot 10^{-23}} = 400$ K.
+
+Câu 33. [VD] Một khối khí có mật độ phân tử $3 \cdot 10^{25}$ phân tử/m³, khối lượng mỗi phân tử $4,6 \cdot 10^{-26}$ kg và trung bình bình phương tốc độ $2,5 \cdot 10^5$ m²/s². Tính áp suất khí (theo đơn vị $10^5$ Pa, làm tròn đến hai chữ số thập phân).
+Trả lời: [[1,15]]
+Lời giải
+$p = \dfrac{1}{3}\mu m_0\overline{v^2} = \dfrac{1}{3} \cdot 3 \cdot 10^{25} \cdot 4,6 \cdot 10^{-26} \cdot 2,5 \cdot 10^5 = 1,15 \cdot 10^5$ Pa.
+
+Câu 34. [VD] Tính tốc độ căn quân phương của phân tử khí nitơ (khối lượng mol 28 g/mol) ở 27 °C. Cho $R = 8,31$ J/(mol·K) (theo đơn vị m/s, làm tròn đến hàng đơn vị).
+Trả lời: [[517]]
+Lời giải
+$v_{rms} = \sqrt{\dfrac{3RT}{M}} = \sqrt{\dfrac{3 \cdot 8,31 \cdot 300}{28 \cdot 10^{-3}}} \approx 517$ m/s.
+
+Câu 35. [VD] Ở nhiệt độ nào thì tốc độ căn quân phương của phân tử khí oxi (khối lượng mol 32 g/mol) bằng 600 m/s? Cho $R = 8,31$ J/(mol·K) (theo đơn vị K, làm tròn đến hàng đơn vị).
+Trả lời: [[462]]
+Lời giải
+$T = \dfrac{Mv_{rms}^2}{3R} = \dfrac{32 \cdot 10^{-3} \cdot 600^2}{3 \cdot 8,31} \approx 462$ K.
+
+Câu 36. [VD] Tính tổng động năng tịnh tiến của các nguyên tử trong 3 mol khí lí tưởng đơn nguyên tử ở 27 °C. Cho $R = 8,31$ J/(mol·K) (theo đơn vị kJ, làm tròn đến một chữ số thập phân).
+Trả lời: [[11,2]]
+Lời giải
+$W = \dfrac{3}{2}nRT = 1,5 \cdot 3 \cdot 8,31 \cdot 300 \approx 11\,219$ J $\approx 11,2$ kJ.
+
+Câu 37. [VD] Khối khí ở 400 K có mật độ phân tử $1,5 \cdot 10^{25}$ phân tử/m³. Cho $k = 1,38 \cdot 10^{-23}$ J/K và biết $p = \mu kT$. Tính áp suất khí (theo đơn vị $10^4$ Pa, làm tròn đến hai chữ số thập phân).
+Trả lời: [[8,28]]
+Lời giải
+$p = \mu kT = 1,5 \cdot 10^{25} \cdot 1,38 \cdot 10^{-23} \cdot 400 = 8,28 \cdot 10^4$ Pa.
+
+Câu 38. [VD] Khí ở 27 °C được nung nóng đến nhiệt độ $t_2$ sao cho tốc độ căn quân phương của phân tử tăng 20 %. Tính $t_2$ (theo đơn vị °C, làm tròn đến hàng đơn vị).
+Trả lời: [[159]]
+Lời giải
+$\dfrac{v_2}{v_1} = 1,2 = \sqrt{\dfrac{T_2}{T_1}}$ nên $T_2 = 1,44 \cdot 300 = 432$ K, tức $t_2 = 432 - 273 = 159$ °C.
+
+@bai 13 | Bài tập về khí lí tưởng
+Câu 1. [NB] Hệ thức của quá trình đẳng tích của một lượng khí xác định là
+A. $\dfrac{V_1}{T_1} = \dfrac{V_2}{T_2}$.
+B. $p_1V_1 = p_2V_2$.
+*C. $\dfrac{p_1}{T_1} = \dfrac{p_2}{T_2}$.
+D. $p_1T_1 = p_2T_2$.
+Lời giải
+Thể tích không đổi thì $\dfrac{p}{T}$ không đổi.
+
+Câu 2. [NB] Số mol của một lượng khí có khối lượng $m$ và khối lượng mol $M$ là
+*A. $n = \dfrac{m}{M}$.
+B. $n = \dfrac{M}{m}$.
+C. $n = mM$.
+D. $n = \dfrac{m}{MN_A}$.
+Lời giải
+$n = \dfrac{m}{M}$.
+
+Câu 3. [NB] Với $n$ mol khí lí tưởng ở áp suất $p$, thể tích $V$, nhiệt độ tuyệt đối $T$, hệ thức đúng là
+A. $pT = nRV$.
+B. $pV = \dfrac{nR}{T}$.
+C. $pVT = nR$.
+*D. $pV = nRT$.
+Lời giải
+Phương trình trạng thái của $n$ mol khí lí tưởng là $pV = nRT$.
+
+Câu 4. [NB] Động năng tịnh tiến trung bình của một phân tử khí lí tưởng ở nhiệt độ tuyệt đối $T$ là
+A. $\dfrac{1}{2}kT$.
+*B. $\dfrac{3}{2}kT$.
+C. $3kT$.
+D. $kT$.
+Lời giải
+$\overline{E}_{đ} = \dfrac{3}{2}kT$.
+
+Câu 5. [NB] Hệ thức của quá trình đẳng áp của một lượng khí xác định là
+A. $V_1T_1 = V_2T_2$.
+B. $p_1V_1 = p_2V_2$.
+C. $\dfrac{V_1}{T_2} = \dfrac{V_2}{T_1}$.
+*D. $\dfrac{V_1}{T_1} = \dfrac{V_2}{T_2}$.
+Lời giải
+Áp suất không đổi thì $\dfrac{V}{T}$ không đổi.
+
+Câu 6. [NB] Trong hệ trục $(p, V)$, đường biểu diễn quá trình đẳng nhiệt của một lượng khí là
+*A. đường hypebol.
+B. đường thẳng đi qua gốc tọa độ.
+C. đường thẳng song song với trục $V$.
+D. đường parabol.
+Lời giải
+$p = \dfrac{\text{hằng số}}{V}$ nên đồ thị là đường hypebol.
+
+Câu 7. [NB] Nhiệt độ $-73$ °C ứng với nhiệt độ tuyệt đối
+A. 346 K.
+*B. 200 K.
+C. 73 K.
+D. 273 K.
+Lời giải
+$T = -73 + 273 = 200$ K.
+
+Câu 8. [NB] Trong biểu thức $p = \dfrac{1}{3}\mu m_0\overline{v^2}$, đại lượng $\mu$ là
+A. số mol khí.
+B. khối lượng khí.
+*C. mật độ phân tử khí.
+D. thể tích khí.
+Lời giải
+$\mu = \dfrac{N}{V}$ là số phân tử khí trong một đơn vị thể tích.
+
+Câu 9. [TH] Bóng đèn sợi đốt chứa khí trơ, khi sáng nhiệt độ khí trong bóng tăng còn thể tích bóng gần như không đổi. Khi đó
+*A. áp suất khí trong bóng tăng.
+B. áp suất khí trong bóng giảm.
+C. số phân tử khí trong bóng tăng.
+D. áp suất khí trong bóng không đổi.
+Lời giải
+Thể tích không đổi, nhiệt độ tăng thì áp suất tăng theo $\dfrac{p}{T} = \text{hằng số}$.
+
+Câu 10. [TH] Quá trình nào sau đây gần đúng là quá trình đẳng nhiệt của một lượng khí?
+A. Bơm xe đạp thật nhanh bằng bơm tay.
+B. Nung nóng khí trong bình kín bằng ngọn lửa.
+*C. Kéo thật chậm pittông của bơm tiêm đã bịt kín đầu.
+D. Nhúng quả bóng bay vào chậu nước nóng.
+Lời giải
+Thao tác thật chậm để khí kịp trao đổi nhiệt với môi trường, giữ nhiệt độ không đổi.
+
+Câu 11. [TH] Một lượng khí có áp suất tăng gấp đôi và nhiệt độ tuyệt đối tăng gấp đôi. Thể tích của khí
+A. tăng gấp đôi.
+*B. không đổi.
+C. tăng gấp bốn.
+D. giảm một nửa.
+Lời giải
+$V_2 = V_1\dfrac{p_1T_2}{p_2T_1} = V_1\dfrac{1 \cdot 2}{2 \cdot 1} = V_1$.
+
+Câu 12. [TH] Một lượng khí có thể tích giảm một nửa và nhiệt độ tuyệt đối tăng gấp đôi. Áp suất của khí
+A. giảm một nửa.
+B. không đổi.
+C. tăng gấp đôi.
+*D. tăng gấp bốn.
+Lời giải
+$p_2 = p_1\dfrac{V_1T_2}{V_2T_1} = p_1 \cdot 2 \cdot 2 = 4p_1$.
+
+Câu 13. [TH] Hai loại khí lí tưởng ở cùng nhiệt độ, khí A có khối lượng mol gấp đôi khí B. Tỉ số tốc độ căn quân phương $\dfrac{v_A}{v_B}$ là
+A. 2.
+B. $\dfrac{1}{2}$.
+*C. $\dfrac{1}{\sqrt{2}}$.
+D. $\sqrt{2}$.
+Lời giải
+$v_{rms} \sim \dfrac{1}{\sqrt{M}}$ nên $\dfrac{v_A}{v_B} = \sqrt{\dfrac{M_B}{M_A}} = \dfrac{1}{\sqrt{2}}$.
+
+Câu 14. [TH] Làm lạnh khí trong một bình kín. Mật độ phân tử khí và áp suất khí thay đổi như thế nào?
+*A. Mật độ phân tử không đổi, áp suất giảm.
+B. Mật độ phân tử giảm, áp suất giảm.
+C. Mật độ phân tử không đổi, áp suất tăng.
+D. Mật độ phân tử tăng, áp suất không đổi.
+Lời giải
+Bình kín nên $N$ và $V$ không đổi, $\mu$ không đổi. Nhiệt độ giảm làm $\overline{v^2}$ giảm nên áp suất giảm.
+
+Câu 15. [TH] Chai nhựa đậy kín để ngoài nắng bị căng phồng lên vì
+A. số phân tử khí trong chai tăng lên nhiều.
+B. kích thước các phân tử khí trong chai tăng.
+C. khối lượng khí trong chai tăng lên.
+*D. nhiệt độ tăng làm áp suất khí trong chai tăng.
+Lời giải
+Thể tích chai gần như không đổi, nhiệt độ tăng nên áp suất khí tăng và đẩy vào thành chai.
+
+Câu 16. [TH] Một lượng khí được nén đẳng nhiệt đến thể tích bằng một nửa thể tích ban đầu, sau đó nung đẳng áp cho nhiệt độ tuyệt đối tăng gấp đôi. So với ban đầu, thể tích cuối cùng
+A. giảm một nửa.
+*B. bằng thể tích ban đầu.
+C. tăng gấp đôi.
+D. tăng gấp bốn.
+Lời giải
+Sau khi nén: $V' = \dfrac{V_1}{2}$. Sau khi nung đẳng áp: $V'' = 2V' = V_1$.
+
+Câu 17. [VD] Một lượng khí có $p_1 = 1$ atm, $V_1 = 6$ lít, $T_1 = 300$ K. Khí được biến đổi sang trạng thái có $V_2 = 2$ lít, $T_2 = 450$ K. Áp suất $p_2$ là
+*A. 4,5 atm.
+B. 3 atm.
+C. 2 atm.
+D. 0,22 atm.
+Lời giải
+$p_2 = p_1\dfrac{V_1T_2}{V_2T_1} = 1 \cdot \dfrac{6 \cdot 450}{2 \cdot 300} = 4,5$ atm.
+
+Câu 18. [VD] Quả bóng có thể tích 2,5 lít (coi không đổi), chứa không khí ở 1 atm. Mỗi lần bơm đưa thêm 0,25 lít không khí ở 1 atm vào bóng. Coi nhiệt độ không đổi. Sau 20 lần bơm, áp suất khí trong bóng là
+A. 1,5 atm.
+B. 2 atm.
+C. 2,5 atm.
+*D. 3 atm.
+Lời giải
+Thể tích khí tính ở 1 atm: $2,5 + 20 \cdot 0,25 = 7,5$ lít. Nén vào 2,5 lít: $p = \dfrac{1 \cdot 7,5}{2,5} = 3$ atm.
+
+Câu 19. [VD] Cho $R = 8,31$ J/(mol·K). Bình dung tích 2 lít chứa 0,1 mol khí lí tưởng ở 27 °C có áp suất xấp xỉ
+A. $1,2 \cdot 10^3$ Pa.
+B. $1,2 \cdot 10^4$ Pa.
+*C. $1,2 \cdot 10^5$ Pa.
+D. $1,2 \cdot 10^7$ Pa.
+Lời giải
+$p = \dfrac{nRT}{V} = \dfrac{0,1 \cdot 8,31 \cdot 300}{2 \cdot 10^{-3}} \approx 1,2 \cdot 10^5$ Pa.
+
+Câu 20. [VD] Một lượng khí trong bình kín được nung đẳng tích từ 27 °C lên 127 °C. Tỉ số động năng tịnh tiến trung bình của phân tử khí sau và trước khi nung là
+A. $\dfrac{127}{27}$.
+*B. $\dfrac{4}{3}$.
+C. 2.
+D. $\dfrac{16}{9}$.
+Lời giải
+$\overline{E}_{đ} \sim T$ nên tỉ số bằng $\dfrac{400}{300} = \dfrac{4}{3}$.
+
+Câu 21. [VD] Cho $R = 8,31$ J/(mol·K). Tốc độ căn quân phương của nguyên tử khí heli (khối lượng mol 4 g/mol) ở 27 °C xấp xỉ
+A. 1 120 m/s.
+*B. 1 370 m/s.
+C. 483 m/s.
+D. 685 m/s.
+Lời giải
+$v_{rms} = \sqrt{\dfrac{3RT}{M}} = \sqrt{\dfrac{3 \cdot 8,31 \cdot 300}{4 \cdot 10^{-3}}} \approx 1\,370$ m/s.
+
+Câu 22. [VD] Cho $R = 8,31$ J/(mol·K). Bình dung tích 10 lít chứa khí oxi (khối lượng mol 32 g/mol) ở 27 °C và áp suất $2,493 \cdot 10^5$ Pa. Khối lượng khí oxi trong bình là
+*A. 32 g.
+B. 16 g.
+C. 64 g.
+D. 3,2 g.
+Lời giải
+$n = \dfrac{pV}{RT} = \dfrac{2,493 \cdot 10^5 \cdot 10^{-2}}{8,31 \cdot 300} = 1$ mol; $m = nM = 32$ g.
+
+Câu 23. [TF] [TH] Về các quá trình biến đổi trạng thái của một lượng khí xác định:
+*A. Quá trình đẳng nhiệt có $pV$ không đổi.
+*B. Quá trình đẳng áp có $\dfrac{V}{T}$ không đổi.
+*C. Quá trình đẳng tích có $\dfrac{p}{T}$ không đổi.
+D. Trong quá trình đẳng áp, thể tích tỉ lệ thuận với nhiệt độ Celsius.
+Lời giải
+A, B, C đúng. D sai vì thể tích tỉ lệ thuận với nhiệt độ tuyệt đối.
+
+Câu 24. [TF] [TH] Một lượng khí giãn đẳng nhiệt:
+A. Áp suất khí tăng.
+*B. Mật độ phân tử khí giảm.
+C. Động năng tịnh tiến trung bình của phân tử khí giảm.
+D. Nhiệt độ tuyệt đối của khí giảm.
+Lời giải
+Chỉ B đúng. Giãn đẳng nhiệt làm áp suất giảm (A sai), thể tích tăng nên mật độ giảm. Nhiệt độ không đổi nên $\overline{E}_{đ}$ không đổi (C, D sai).
+
+Câu 25. [TF] [TH] Về động năng của phân tử khí và nhiệt độ:
+*A. Nhiệt độ càng cao thì động năng tịnh tiến trung bình của phân tử khí càng lớn.
+*B. $\overline{E}_{đ} = \dfrac{3}{2}kT$.
+C. Ở 0 °C các phân tử khí đứng yên.
+D. Động năng tịnh tiến trung bình phụ thuộc vào loại khí.
+Lời giải
+A, B đúng. C sai vì 0 °C ứng với 273 K, các phân tử vẫn chuyển động. D sai vì $\overline{E}_{đ}$ chỉ phụ thuộc $T$.
+
+Câu 26. [TF] [VD] Một lượng khí có $p_1 = 1$ atm, $V_1 = 6$ lít, $T_1 = 300$ K. Giai đoạn 1: nén đẳng nhiệt đến $V = 2$ lít. Giai đoạn 2: nung đẳng tích đến 450 K.
+*A. Sau giai đoạn 1, áp suất khí là 3 atm.
+B. Sau giai đoạn 1, nhiệt độ khí tăng.
+*C. Sau giai đoạn 2, áp suất khí là 4,5 atm.
+D. Giai đoạn 2 là quá trình đẳng áp.
+Lời giải
+Giai đoạn 1: $p = \dfrac{1 \cdot 6}{2} = 3$ atm, nhiệt độ không đổi (A đúng, B sai). Giai đoạn 2: $p_2 = 3 \cdot \dfrac{450}{300} = 4,5$ atm (C đúng); thể tích không đổi nên là đẳng tích (D sai).
+
+Câu 27. [TF] [VD] Bình kín dung tích 2 lít chứa 0,1 mol khí lí tưởng ở 27 °C. Cho $R = 8,31$ J/(mol·K), $N_A = 6,02 \cdot 10^{23}$ mol⁻¹.
+*A. Áp suất khí trong bình xấp xỉ $1,2 \cdot 10^5$ Pa.
+*B. Nếu nung bình đến 127 °C thì áp suất khí xấp xỉ $1,7 \cdot 10^5$ Pa.
+*C. Số phân tử khí trong bình là $6,0 \cdot 10^{22}$.
+*D. Nếu nén khí đẳng nhiệt đến thể tích 1 lít thì áp suất tăng gấp đôi.
+Lời giải
+$p = \dfrac{0,1 \cdot 8,31 \cdot 300}{0,002} \approx 1,2 \cdot 10^5$ Pa. Ở 127 °C ($T = 400$ K): $p \approx 1,66 \cdot 10^5 \approx 1,7 \cdot 10^5$ Pa. $N = 0,1 \cdot 6,02 \cdot 10^{23} = 6,0 \cdot 10^{22}$. Đẳng nhiệt: $V$ giảm một nửa thì $p$ tăng gấp đôi. Cả bốn ý đều đúng.
+
+Câu 28. [TF] [VD] Khí heli (khối lượng mol 4 g/mol) và khí oxi (khối lượng mol 32 g/mol) ở 27 °C. Cho $R = 8,31$ J/(mol·K).
+*A. Tốc độ căn quân phương của nguyên tử heli xấp xỉ $1,37 \cdot 10^3$ m/s.
+*B. Tốc độ căn quân phương của phân tử oxi nhỏ hơn của nguyên tử heli.
+C. Động năng tịnh tiến trung bình của nguyên tử heli lớn hơn của phân tử oxi.
+*D. Nếu nhiệt độ của heli tăng gấp bốn thì tốc độ căn quân phương của nó tăng gấp đôi.
+Lời giải
+$v_{He} = \sqrt{\dfrac{3 \cdot 8,31 \cdot 300}{4 \cdot 10^{-3}}} \approx 1,37 \cdot 10^3$ m/s (A đúng). $v_{rms} \sim \dfrac{1}{\sqrt{M}}$ nên oxi chậm hơn heli (B đúng). Cùng nhiệt độ thì $\overline{E}_{đ}$ bằng nhau (C sai). $v_{rms} \sim \sqrt{T}$ nên $T$ tăng bốn lần thì $v_{rms}$ tăng gấp đôi (D đúng).
+
+Câu 29. [TF] [VD] Khí trong xilanh có pittông tự do (áp suất không đổi) có thể tích 1,2 lít ở 27 °C. Nung khí đến 177 °C.
+*A. Thể tích khí sau khi nung là 1,8 lít.
+B. Thể tích khí sau khi nung là 7,9 lít.
+C. Áp suất khí tăng lên.
+*D. Số phân tử khí trong xilanh không đổi.
+Lời giải
+$V_2 = 1,2 \cdot \dfrac{450}{300} = 1,8$ lít (A đúng). B sai vì dùng nhiệt độ Celsius. Quá trình đẳng áp nên áp suất không đổi (C sai); lượng khí không đổi nên số phân tử không đổi (D đúng).
+
+Câu 30. [TH] Một lượng khí trong bình kín có áp suất 1,5 atm ở 200 K. Nung nóng đẳng tích đến khi áp suất đạt 3 atm. Tính nhiệt độ tuyệt đối của khí khi đó (theo đơn vị K).
+Trả lời: [[400]]
+Lời giải
+$T_2 = T_1\dfrac{p_2}{p_1} = 200 \cdot \dfrac{3}{1,5} = 400$ K.
+
+Câu 31. [TH] Một lượng khí có $p_1 = 3$ atm và $V_1 = 2$ lít, giãn đẳng nhiệt đến áp suất $p_2 = 1,5$ atm. Tính thể tích $V_2$ (theo đơn vị lít).
+Trả lời: [[4]]
+Lời giải
+$V_2 = \dfrac{p_1V_1}{p_2} = \dfrac{3 \cdot 2}{1,5} = 4$ lít.
+
+Câu 32. [TH] Cho $k = 1,38 \cdot 10^{-23}$ J/K. Tính động năng tịnh tiến trung bình của một phân tử khí lí tưởng ở 727 °C (theo đơn vị $10^{-20}$ J, làm tròn đến hai chữ số thập phân).
+Trả lời: [[2,07]]
+Lời giải
+$T = 727 + 273 = 1000$ K; $\overline{E}_{đ} = \dfrac{3}{2} \cdot 1,38 \cdot 10^{-23} \cdot 1000 = 2,07 \cdot 10^{-20}$ J.
+
+Câu 33. [VD] Một lượng khí có $p_1 = 2$ atm, $V_1 = 3$ lít, $T_1 = 300$ K, biến đổi sang trạng thái có $V_2 = 1$ lít, $T_2 = 400$ K. Tính áp suất $p_2$ (theo đơn vị atm).
+Trả lời: [[8]]
+Lời giải
+$p_2 = p_1\dfrac{V_1T_2}{V_2T_1} = 2 \cdot \dfrac{3 \cdot 400}{1 \cdot 300} = 8$ atm.
+
+Câu 34. [VD] Cho $R = 8,31$ J/(mol·K). Bình dung tích 4 lít chứa 0,2 mol khí lí tưởng ở 47 °C. Tính áp suất khí trong bình (theo đơn vị $10^5$ Pa, làm tròn đến hai chữ số thập phân).
+Trả lời: [[1,33]]
+Lời giải
+$p = \dfrac{nRT}{V} = \dfrac{0,2 \cdot 8,31 \cdot 320}{4 \cdot 10^{-3}} = 1,3296 \cdot 10^5 \approx 1,33 \cdot 10^5$ Pa.
+
+Câu 35. [VD] Tính khối lượng riêng của khí CO₂ (khối lượng mol 44 g/mol) ở 27 °C và áp suất $1,013 \cdot 10^5$ Pa. Cho $R = 8,31$ J/(mol·K) (theo đơn vị kg/m³, làm tròn đến hai chữ số thập phân).
+Trả lời: [[1,79]]
+Lời giải
+$\rho = \dfrac{pM}{RT} = \dfrac{1,013 \cdot 10^5 \cdot 44 \cdot 10^{-3}}{8,31 \cdot 300} \approx 1,79$ kg/m³.
+
+Câu 36. [VD] Một lượng khí có $p_1 = 2$ atm, $V_1 = 10$ lít, $T_1 = 300$ K, biến đổi sang trạng thái có $p_2 = 3$ atm, $V_2 = 5$ lít. Tính nhiệt độ của khí ở trạng thái sau (theo đơn vị °C).
+Trả lời: [[-48]]
+Lời giải
+$T_2 = T_1\dfrac{p_2V_2}{p_1V_1} = 300 \cdot \dfrac{3 \cdot 5}{2 \cdot 10} = 225$ K nên $t_2 = 225 - 273 = -48$ °C.
+
+Câu 37. [VD] Cho $k = 1,38 \cdot 10^{-23}$ J/K. Tính số phân tử khí có trong 1 cm³ khí ở 27 °C và áp suất $1,013 \cdot 10^5$ Pa, biết $p = \mu kT$ (theo đơn vị $10^{19}$ phân tử, làm tròn đến hai chữ số thập phân).
+Trả lời: [[2,45]]
+Lời giải
+$\mu = \dfrac{p}{kT} = \dfrac{1,013 \cdot 10^5}{1,38 \cdot 10^{-23} \cdot 300} \approx 2,45 \cdot 10^{25}$ phân tử/m³. Trong $10^{-6}$ m³ có $2,45 \cdot 10^{19}$ phân tử.
+
+Câu 38. [VD] Một lượng khí trong bình kín được nung nóng đẳng tích. Khi nhiệt độ tăng thêm 60 K thì áp suất tăng thêm 25 % so với ban đầu. Tính nhiệt độ ban đầu của khí theo thang Celsius (theo đơn vị °C).
+Trả lời: [[-33]]
+Lời giải
+$\dfrac{T_1 + 60}{T_1} = 1,25$ suy ra $0,25T_1 = 60$ nên $T_1 = 240$ K, tức $t_1 = 240 - 273 = -33$ °C.
+
+@chuong III | Từ trường
+
+@bai 14 | Từ trường
+@bai 15 | Lực từ tác dụng lên dây dẫn mang dòng điện. Cảm ứng từ
+@bai 16 | Từ thông. Hiện tượng cảm ứng điện từ
+@bai 17 | Máy phát điện xoay chiều
+@bai 18 | Ứng dụng hiện tượng cảm ứng điện từ
+@bai 19 | Điện từ trường. Mô hình sóng điện từ
+@bai 20 | Bài tập về từ trường
+
+@chuong IV | Vật lí hạt nhân
+
+@bai 21 | Cấu trúc hạt nhân
+@bai 22 | Phản ứng hạt nhân và năng lượng liên kết
+@bai 23 | Hiện tượng phóng xạ
+@bai 24 | Công nghiệp hạt nhân
+@bai 25 | Bài tập về vật lí hạt nhân
