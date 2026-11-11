@@ -3621,12 +3621,1951 @@ $\dfrac{T_1 + 60}{T_1} = 1,25$ suy ra $0,25T_1 = 60$ nên $T_1 = 240$ K, tức $
 @chuong III | Từ trường
 
 @bai 14 | Từ trường
+Câu 1. [NB] Tương tác giữa nam châm với nam châm, giữa dòng điện với nam châm và giữa dòng điện với dòng điện đều gọi là
+*A. tương tác từ.
+B. tương tác điện.
+C. tương tác hấp dẫn.
+D. tương tác hạt nhân.
+Lời giải
+Các tương tác đó đều là tương tác từ, lực tương tác trong các trường hợp đó gọi là lực từ.
+
+Câu 2. [NB] Từ trường tồn tại xung quanh
+A. điện tích đứng yên.
+B. thanh nhựa đã cọ xát.
+*C. nam châm hoặc dòng điện.
+D. mọi vật có khối lượng.
+Lời giải
+Từ trường là trường lực gây ra bởi dòng điện hoặc nam châm.
+
+Câu 3. [NB] Tính chất cơ bản của từ trường là
+A. tác dụng lực hấp dẫn lên vật đặt trong nó.
+*B. tác dụng lực từ lên nam châm hay dòng điện đặt trong nó.
+C. tác dụng lực điện lên điện tích đứng yên đặt trong nó.
+D. làm nóng dây dẫn đặt trong nó.
+Lời giải
+Tính chất cơ bản của từ trường là gây ra lực từ tác dụng lên một nam châm hay một dòng điện đặt trong nó.
+
+Câu 4. [NB] Đại lượng vectơ đặc trưng cho từ trường về mặt tác dụng lực là
+A. cường độ điện trường.
+B. lực từ.
+C. từ phổ.
+*D. cảm ứng từ.
+Lời giải
+Để đặc trưng cho từ trường về mặt tác dụng lực, người ta dùng vectơ cảm ứng từ $\vec{B}$.
+
+Câu 5. [NB] Chiều của vectơ cảm ứng từ tại một điểm được quy ước là chiều
+A. từ cực Bắc sang cực Nam của nam châm thử nằm cân bằng tại điểm đó.
+*B. từ cực Nam sang cực Bắc của nam châm thử nằm cân bằng tại điểm đó.
+C. của dòng điện chạy qua dây dẫn gần điểm đó nhất.
+D. của lực từ tác dụng lên nam châm thử đặt tại điểm đó.
+Lời giải
+Quy ước: chiều của $\vec{B}$ là chiều từ cực Nam sang cực Bắc của nam châm thử nằm cân bằng tại điểm đó.
+
+Câu 6. [NB] Từ trường đều là từ trường có
+*A. cảm ứng từ tại mọi điểm đều bằng nhau.
+B. các đường sức từ là những đường tròn đồng tâm.
+C. cảm ứng từ giảm dần theo khoảng cách.
+D. các đường sức từ càng xa nam châm càng dày.
+Lời giải
+Từ trường đều là từ trường có vectơ cảm ứng từ tại mọi điểm đều bằng nhau (cùng phương, chiều, độ lớn).
+
+Câu 7. [NB] Ở bên ngoài một nam châm, các đường sức từ có chiều
+A. đi ra từ cực Nam, đi vào cực Bắc.
+B. song song với trục nam châm và hướng về cực Nam.
+C. vuông góc với trục nam châm tại mọi điểm.
+*D. đi ra từ cực Bắc, đi vào cực Nam.
+Lời giải
+Đối với nam châm, các đường sức từ ở ngoài nam châm có chiều đi ra từ cực Bắc, đi vào cực Nam.
+
+Câu 8. [NB] Hình ảnh những đường tạo bởi các mạt sắt mịn rắc quanh một nam châm được gọi là
+A. đường sức điện.
+B. điện phổ.
+*C. từ phổ.
+D. quang phổ.
+Lời giải
+Hình ảnh các đường tạo ra bởi mạt sắt gọi là từ phổ, cho thấy hình ảnh trực quan của từ trường.
+
+Câu 9. [TH] Trong thí nghiệm Oersted, khi đổi chiều dòng điện chạy qua dây dẫn đặt gần kim nam châm thì kim nam châm
+A. đứng yên như trước khi đổi.
+B. bị hút sát vào dây dẫn.
+*C. lệch theo chiều ngược lại.
+D. lệch cùng chiều như trước.
+Lời giải
+Đổi chiều dòng điện thì từ trường của dòng điện đổi chiều nên kim nam châm lệch theo chiều ngược lại.
+
+Câu 10. [TH] Đường sức từ là những đường vẽ trong không gian có từ trường sao cho tại mỗi điểm
+A. đường sức vuông góc với vectơ cảm ứng từ.
+B. đường sức hướng về phía nam châm gần nhất.
+C. đường sức song song với dòng điện gây ra từ trường.
+*D. tiếp tuyến trùng với phương của vectơ cảm ứng từ.
+Lời giải
+Tiếp tuyến với đường sức từ tại mỗi điểm trùng với phương của vectơ cảm ứng từ tại điểm đó; chiều của đường sức là chiều của $\vec{B}$.
+
+Câu 11. [TH] Các đường sức từ không bao giờ cắt nhau vì
+*A. tại mỗi điểm, vectơ cảm ứng từ chỉ có một phương xác định.
+B. các đường sức từ đều là đường thẳng song song.
+C. từ trường chỉ tồn tại ở những điểm có đường sức.
+D. các đường sức từ luôn đi ra từ cực Bắc.
+Lời giải
+Nếu hai đường sức cắt nhau thì tại giao điểm $\vec{B}$ có hai phương, vô lí. Vì vậy qua mỗi điểm chỉ vẽ được một đường sức từ.
+
+Câu 12. [TH] Ở vùng từ trường mạnh hơn, các đường sức từ được vẽ
+A. thưa hơn.
+*B. dày hơn.
+C. thẳng hơn.
+D. ngắn hơn.
+Lời giải
+Nơi nào từ trường mạnh hơn thì các đường sức từ vẽ dày hơn, nơi nào yếu hơn thì vẽ thưa hơn.
+
+Câu 13. [TH] Đường sức từ của dòng điện chạy trong dây dẫn thẳng dài là những
+A. đường thẳng song song với dây dẫn.
+B. đường thẳng vuông góc với dây dẫn.
+C. đường xoắn ốc quấn quanh dây dẫn.
+*D. đường tròn đồng tâm có tâm nằm trên dây.
+Lời giải
+Từ phổ của dòng điện thẳng cho thấy các đường sức là đường tròn đồng tâm, tâm nằm trên dây, trong mặt phẳng vuông góc với dây.
+
+Câu 14. [TH] Từ trường ở khoảng giữa hai cực của nam châm hình chữ U (gần lòng nam châm) gần đúng là từ trường đều vì các đường sức từ ở đó
+A. là những đường tròn đồng tâm.
+*B. gần như song song và cách đều nhau.
+C. càng gần cực Bắc càng dày.
+D. cắt nhau tại trung điểm hai cực.
+Lời giải
+Mạt sắt giữa hai cực nam châm chữ U xếp thành các đường gần như song song, cách đều: từ trường ở đó gần đúng là từ trường đều.
+
+Câu 15. [TH] Ở bên trong lòng một ống dây dài có dòng điện chạy qua, các đường sức từ
+A. là những đường tròn đồng tâm.
+B. đi vào từ cả hai đầu ống dây.
+*C. gần như song song với trục ống dây.
+D. vuông góc với trục ống dây.
+Lời giải
+Từ phổ bên trong ống dây gồm các đường gần như song song với trục ống, từ trường trong lòng ống dây gần đúng là đều.
+
+Câu 16. [TH] Kim nam châm của la bàn nằm cân bằng theo hướng Bắc – Nam địa lí vì
+*A. nó định hướng theo từ trường của Trái Đất.
+B. Trái Đất hút cực Bắc của kim mạnh hơn cực Nam.
+C. kim chịu lực hấp dẫn của Mặt Trời.
+D. kim được nhiễm điện khi chế tạo.
+Lời giải
+Trái Đất có từ trường; kim nam châm đặt trong từ trường định hướng theo phương của vectơ cảm ứng từ tại đó.
+
+Câu 17. [VD] Đặt một kim nam châm nhỏ gần một dây đồng. Kim nam châm bị lệch khỏi hướng Bắc – Nam. Kết luận đúng là
+*A. trong dây đang có dòng điện chạy qua.
+B. dây đồng đang được đặt nằm ngang.
+C. dây dẫn đang tích điện dương và đứng yên.
+D. dây dẫn có nhiệt độ cao hơn kim.
+Lời giải
+Kim nam châm lệch chứng tỏ có từ trường do dây gây ra, tức trong dây có dòng điện. Điện tích đứng yên không tạo ra từ trường.
+
+Câu 18. [VD] Một dây dẫn thẳng dài đặt thẳng đứng, dòng điện chạy từ dưới lên. Nhìn từ trên xuống, các đường sức từ quanh dây có chiều
+A. cùng chiều kim đồng hồ.
+B. hướng ra xa dây theo đường thẳng.
+C. hướng thẳng đứng lên trên.
+*D. ngược chiều kim đồng hồ.
+Lời giải
+Theo quy tắc nắm bàn tay phải: ngón cái hướng lên theo dòng điện, bốn ngón khum lại chỉ chiều đường sức; nhìn từ trên xuống thấy ngược chiều kim đồng hồ.
+
+Câu 19. [VD] Một ống dây có dòng điện chạy qua. Nhìn vào đầu bên trái của ống dây thấy dòng điện chạy ngược chiều kim đồng hồ. Đầu bên trái của ống dây là
+A. cực Nam vì đường sức từ đi vào ở đầu đó.
+*B. cực Bắc vì đường sức từ đi ra ở đầu đó.
+C. không phải cực nào vì ống dây không phải nam châm.
+D. cực Nam vì dòng điện ngược chiều kim đồng hồ.
+Lời giải
+Khum bàn tay phải theo chiều dòng điện (ngược chiều kim đồng hồ khi nhìn từ đầu trái) thì ngón cái chỉ ra phía người quan sát: đường sức từ đi ra ở đầu trái, đó là cực Bắc.
+
+Câu 20. [VD] Để kiểm tra một thanh kim loại có phải là nam châm hay không, cách làm đúng là
+A. đưa thanh lại gần mẩu giấy vụn.
+B. đưa một đầu thanh lại gần một đinh sắt.
+*C. đưa lần lượt hai đầu thanh lại gần cùng một cực kim nam châm.
+D. đặt thanh lên cân để so khối lượng.
+Lời giải
+Đinh sắt bị hút bởi cả nam châm và thanh sắt thường. Nếu một đầu thanh đẩy một cực kim nam châm (còn đầu kia hút) thì thanh là nam châm.
+
+Câu 21. [VD] Hai dây dẫn thẳng song song có dòng điện ngược chiều thì đẩy nhau. Nếu chỉ đổi chiều dòng điện trong một dây thì hai dây
+A. vẫn đẩy nhau như trước.
+B. không tương tác với nhau nữa.
+C. quay vuông góc với nhau.
+*D. hút nhau.
+Lời giải
+Đổi chiều một dòng điện thì lực từ giữa hai dây đổi chiều: hai dòng điện song song cùng chiều hút nhau.
+
+Câu 22. [VD] Tàu đệm từ có thể chạy với tốc độ rất cao chủ yếu vì
+*A. lực từ nâng tàu lên nên gần như không có ma sát với ray.
+B. lực từ làm khối lượng của tàu giảm đi rất nhiều lần.
+C. tàu dùng nhiên liệu có năng suất tỏa nhiệt rất lớn.
+D. từ trường làm lực cản của không khí lên tàu bằng 0.
+Lời giải
+Tương tác từ giữa nam châm (nam châm điện) trên tàu và trên đường ray nâng tàu lên, khử ma sát với ray; lực cản không khí vẫn còn.
+
+Câu 23. [TF] [TH] Về từ trường:
+*A. Từ trường là một dạng vật chất tồn tại xung quanh nam châm hoặc dòng điện.
+B. Điện tích đứng yên gây ra từ trường xung quanh nó.
+*C. Có thể dùng kim nam châm để phát hiện sự tồn tại của từ trường.
+D. Từ trường chỉ tác dụng lực lên nam châm, không tác dụng lực lên dòng điện.
+Lời giải
+A, C đúng. B sai vì điện tích đứng yên không gây ra từ trường. D sai vì từ trường tác dụng lực từ lên cả nam châm và dòng điện.
+
+Câu 24. [TF] [TH] Về đường sức từ:
+*A. Các đường sức từ là những đường cong khép kín.
+*B. Qua mỗi điểm trong từ trường chỉ vẽ được một đường sức từ.
+C. Các đường sức từ của nam châm thẳng song song và cách đều nhau ở mọi nơi.
+*D. Chiều của đường sức từ là chiều của vectơ cảm ứng từ.
+Lời giải
+A, B, D đúng. C sai vì đường sức từ quanh nam châm thẳng là đường cong, dày ở hai cực, không song song cách đều.
+
+Câu 25. [TF] [TH] Về vectơ cảm ứng từ $\vec{B}$ tại một điểm:
+A. $\vec{B}$ là đại lượng vô hướng, chỉ có độ lớn.
+B. $\vec{B}$ có chiều từ cực Bắc sang cực Nam của nam châm thử nằm cân bằng tại điểm đó.
+*C. Cùng một đoạn dây mang dòng điện, đặt theo cùng một phương, chịu lực từ ở điểm nào lớn hơn thì cảm ứng từ tại điểm đó lớn hơn.
+D. Trong từ trường đều, $\vec{B}$ tại các điểm khác nhau có chiều khác nhau.
+Lời giải
+Chỉ C đúng. A sai vì $\vec{B}$ là đại lượng vectơ. B sai vì chiều từ cực Nam sang cực Bắc. D sai vì trong từ trường đều $\vec{B}$ như nhau tại mọi điểm.
+
+Câu 26. [TF] [VD] Một dây dẫn thẳng dài đặt thẳng đứng xuyên qua tấm bìa nằm ngang, dòng điện chạy từ dưới lên. Đặt các kim nam châm nhỏ trên tấm bìa quanh dây (bỏ qua từ trường Trái Đất).
+*A. Các kim nam châm sắp xếp theo các đường tròn có tâm nằm trên dây.
+*B. Nhìn từ trên xuống, đường sức từ có chiều ngược chiều kim đồng hồ.
+*C. Đổi chiều dòng điện thì mọi kim nam châm quay 180°, chỉ theo hướng ngược lại.
+*D. Kim đặt gần dây định hướng theo tiếp tuyến của đường tròn quanh dây đi qua vị trí đặt kim.
+Lời giải
+Cả bốn ý đúng: đường sức là đường tròn đồng tâm quanh dây; theo quy tắc nắm bàn tay phải, nhìn từ trên xuống thấy ngược chiều kim đồng hồ; đổi chiều dòng điện thì $\vec{B}$ đổi chiều; kim nam châm định hướng theo tiếp tuyến với đường sức.
+
+Câu 27. [TF] [VD] Thí nghiệm rắc mạt sắt lên tấm nhựa đặt trên hai thanh nam châm thẳng nằm cùng một đường thẳng, hai cực đối diện cách nhau một khoảng nhỏ.
+*A. Nếu hai cực đối diện khác tên, các mạt sắt nối từ cực này sang cực kia.
+B. Nếu hai cực đối diện cùng tên, các mạt sắt nối thẳng từ cực này sang cực kia.
+C. Mạt sắt bị nhiễm điện nên xếp thành các đường.
+*D. Ở gần các cực, mạt sắt xếp dày hơn ở xa nam châm.
+Lời giải
+A, D đúng. B sai vì hai cực cùng tên đẩy nhau, mạt sắt cong ra hai bên, có vùng gần như không có mạt sắt ở giữa. C sai vì mạt sắt bị nhiễm từ, trở thành các nam châm nhỏ.
+
+Câu 28. [TF] [VD] Một ống dây được quấn trên lõi nhựa, nối với nguồn điện một chiều. Nhìn từ đầu M của ống dây thấy dòng điện chạy cùng chiều kim đồng hồ.
+*A. Đầu M là cực Nam của ống dây.
+B. Đường sức từ đi ra khỏi ống dây ở đầu M.
+*C. Đổi cực nguồn điện thì đầu M trở thành cực Bắc.
+*D. Trong lòng ống dây, đường sức từ gần như song song với trục ống.
+Lời giải
+Theo quy tắc nắm bàn tay phải, ngón cái hướng ra xa người nhìn từ đầu M, tức đường sức đi vào ống ở M: M là cực Nam (A đúng, B sai). Đổi chiều dòng điện thì các cực đổi chỗ (C đúng). Trong lòng ống dây, từ trường gần đều (D đúng).
+
+Câu 29. [TF] [VD] Về la bàn và từ trường của Trái Đất:
+A. Cực Bắc của kim la bàn chỉ về phía Nam địa lí.
+*B. Gần nơi có dòng điện lớn hoặc nam châm, la bàn có thể chỉ sai hướng.
+C. Kim la bàn hoạt động được là nhờ lực hấp dẫn của Trái Đất.
+D. La bàn chỉ hoạt động ở những nơi có từ trường đều.
+Lời giải
+Chỉ B đúng. A sai vì cực Bắc của kim la bàn chỉ về phía Bắc địa lí (gần đó là cực Nam của "nam châm Trái Đất"). C sai vì la bàn hoạt động nhờ tương tác từ. D sai vì kim định hướng theo $\vec{B}$ tại chỗ đặt, không cần từ trường đều.
+
+Câu 30. [TH] Cho các vật: (1) nam châm vĩnh cửu; (2) dây đồng đang có dòng điện chạy qua; (3) ống dây chưa nối nguồn điện; (4) quả cầu tích điện đứng yên; (5) Trái Đất. Có bao nhiêu vật tạo ra từ trường xung quanh nó (theo đơn vị vật)?
+Trả lời: [[3]]
+Lời giải
+Các vật (1), (2), (5) tạo ra từ trường. Ống dây không có dòng điện và điện tích đứng yên không tạo ra từ trường.
+
+Câu 31. [TH] Cho các phát biểu: (1) Các đường sức từ có thể cắt nhau. (2) Đường sức từ là đường cong khép kín. (3) Ngoài nam châm, đường sức từ đi ra từ cực Bắc. (4) Nơi đường sức từ thưa thì từ trường mạnh. (5) Tiếp tuyến của đường sức từ tại một điểm trùng phương với $\vec{B}$ tại điểm đó. Có bao nhiêu phát biểu đúng (theo đơn vị phát biểu)?
+Trả lời: [[3]]
+Lời giải
+Đúng: (2), (3), (5). Sai: (1) vì qua mỗi điểm chỉ có một đường sức; (4) vì nơi đường sức thưa thì từ trường yếu.
+
+Câu 32. [TH] Một đường sức từ của dòng điện chạy trong dây dẫn thẳng dài cách dây 5 cm. Tính chiều dài của đường sức từ đó (theo đơn vị cm, làm tròn đến hàng đơn vị).
+Trả lời: [[31]]
+Lời giải
+Đường sức từ của dòng điện thẳng là đường tròn tâm nằm trên dây, bán kính $r = 5$ cm. Chiều dài: $2\pi r = 2\pi \cdot 5 \approx 31$ cm.
+
+Câu 33. [VD] Người ta vẽ các đường sức từ sao cho số đường sức đi qua một đơn vị diện tích vuông góc với đường sức tỉ lệ với độ lớn cảm ứng từ. Tại điểm A có 12 đường sức đi qua 1 cm², tại điểm C có 4 đường sức đi qua 1 cm². Cảm ứng từ tại A lớn gấp bao nhiêu lần tại C (theo đơn vị lần)?
+Trả lời: [[3]]
+Lời giải
+Độ lớn cảm ứng từ tỉ lệ với mật độ đường sức: $\dfrac{B_A}{B_C} = \dfrac{12}{4} = 3$ lần.
+
+Câu 34. [VD] Hai kim nam châm nhỏ đặt trên tấm bìa nằm ngang, tại hai điểm đối xứng nhau qua một dây dẫn thẳng đứng mang dòng điện mạnh (bỏ qua từ trường Trái Đất). Tính góc giữa hướng chỉ của cực Bắc hai kim (theo đơn vị độ).
+Trả lời: [[180]]
+Lời giải
+Hai điểm nằm trên cùng một đường sức tròn, ở hai đầu một đường kính. Tiếp tuyến tại hai điểm đó song song nhưng chiều đường sức ngược nhau nên hai kim chỉ ngược chiều nhau: góc $180^\circ$.
+
+Câu 35. [VD] Một ống dây nằm ngang, trục theo hướng Đông – Tây. Đặt một kim nam châm nhỏ trên trục, ngay ngoài đầu phía Đông của ống. Nhìn từ phía Đông vào ống dây thấy dòng điện chạy ngược chiều kim đồng hồ. Ban đầu (chưa có dòng điện) kim chỉ hướng Bắc; coi từ trường Trái Đất không đáng kể so với từ trường của ống dây. Tính góc mà kim đã quay khi có dòng điện (theo đơn vị độ).
+Trả lời: [[90]]
+Lời giải
+Theo quy tắc nắm bàn tay phải, ngón cái hướng ra phía người nhìn (phía Đông): đầu phía Đông là cực Bắc, đường sức từ đi ra khỏi ống theo hướng Đông. Kim chỉ hướng Đông, đã quay $90^\circ$.
+
+Câu 36. [VD] Một ống dây có dòng điện, được giữ cố định. Cho các cách làm: (1) đổi chiều dòng điện; (2) tăng cường độ dòng điện; (3) quấn lại ống dây theo chiều ngược lại, giữ nguyên chiều dòng điện vào ở đầu cũ; (4) vừa đổi chiều dòng điện vừa quấn lại ống dây theo chiều ngược lại; (5) cho thêm lõi sắt vào ống. Có bao nhiêu cách làm đổi tên cực từ ở đầu bên trái của ống dây (theo đơn vị cách)?
+Trả lời: [[2]]
+Lời giải
+Tên cực phụ thuộc chiều dòng điện chạy quanh ống. (1) và (3) làm đổi chiều dòng điện quanh ống nên đổi tên cực. (4) đổi hai lần nên giữ nguyên. (2), (5) chỉ làm từ trường mạnh hơn.
+
+Câu 37. [VD] Kim nam châm nhỏ ban đầu nằm cân bằng chỉ hướng Bắc. Đặt kim ở phía Đông của một dây dẫn thẳng đứng, cho dòng điện rất mạnh chạy từ dưới lên trong dây, coi từ trường Trái Đất không đáng kể so với từ trường của dòng điện. Tính góc mà kim đã quay (theo đơn vị độ).
+Trả lời: [[0]]
+Lời giải
+Nhìn từ trên xuống, đường sức từ ngược chiều kim đồng hồ. Tại điểm ở phía Đông của dây, tiếp tuyến của đường tròn theo chiều đó hướng về phía Bắc nên kim vẫn chỉ hướng Bắc: góc quay bằng $0^\circ$.
+
+Câu 38. [VD] Cho các hiện tượng: (1) nam châm hút đinh sắt; (2) hai dây dẫn song song có dòng điện cùng chiều hút nhau; (3) thước nhựa cọ xát vào tóc hút mẩu giấy vụn; (4) kim la bàn lệch khi đặt gần dây dẫn có dòng điện; (5) quả táo rơi xuống đất; (6) hai nam châm đặt gần nhau đẩy nhau. Có bao nhiêu hiện tượng là tương tác từ (theo đơn vị hiện tượng)?
+Trả lời: [[4]]
+Lời giải
+Tương tác từ: (1), (2), (4), (6). Hiện tượng (3) là tương tác điện, (5) là tương tác hấp dẫn.
+
 @bai 15 | Lực từ tác dụng lên dây dẫn mang dòng điện. Cảm ứng từ
+Câu 1. [NB] Lực từ tác dụng lên đoạn dây dẫn mang dòng điện đặt trong từ trường đều có phương
+A. song song với đoạn dây dẫn và vuông góc với đường sức từ.
+*B. vuông góc với đoạn dây dẫn và vuông góc với đường sức từ.
+C. vuông góc với đoạn dây dẫn và trùng với đường sức từ.
+D. hợp với đoạn dây dẫn và với đường sức từ góc 45°.
+Lời giải
+Lực từ có phương vuông góc với đoạn dây dẫn mang dòng điện và vuông góc với đường sức từ.
+
+Câu 2. [NB] Chiều của lực từ tác dụng lên đoạn dây dẫn mang dòng điện được xác định bằng quy tắc
+A. nắm bàn tay phải.
+B. bàn tay phải.
+C. nắm bàn tay trái.
+*D. bàn tay trái.
+Lời giải
+Chiều của lực từ tác dụng lên dòng điện được xác định theo quy tắc bàn tay trái.
+
+Câu 3. [NB] Độ lớn lực từ tác dụng lên đoạn dây dẫn dài $L$ mang dòng điện $I$ đặt trong từ trường đều $B$, dây hợp với vectơ cảm ứng từ góc $\alpha$, là
+*A. $F = BIL\sin\alpha$.
+B. $F = BIL\cos\alpha$.
+C. $F = BIL$.
+D. $F = \dfrac{BI}{L\sin\alpha}$.
+Lời giải
+Theo định luật Am-pe về lực từ: $F = BIL\sin\alpha$.
+
+Câu 4. [NB] Trong hệ SI, đơn vị của cảm ứng từ là
+A. weber (Wb).
+B. niutơn trên mét (N/m).
+*C. tesla (T).
+D. vôn trên mét (V/m).
+Lời giải
+Đơn vị cảm ứng từ là tesla (T).
+
+Câu 5. [NB] Trong công thức $F = BIL\sin\alpha$, $\alpha$ là góc hợp bởi
+*A. đoạn dây dẫn mang dòng điện và vectơ cảm ứng từ.
+B. lực từ và vectơ cảm ứng từ.
+C. đoạn dây dẫn và lực từ.
+D. đoạn dây dẫn và phương thẳng đứng.
+Lời giải
+$\alpha$ là góc hợp bởi đoạn dây mang dòng điện (chiều dòng điện) và vectơ cảm ứng từ $\vec{B}$.
+
+Câu 6. [NB] Với $B$, $I$, $L$ không đổi, lực từ tác dụng lên đoạn dây dẫn mang dòng điện có độ lớn cực đại khi đoạn dây
+A. song song với đường sức từ.
+B. hợp với đường sức từ góc 45°.
+*C. vuông góc với đường sức từ.
+D. hợp với đường sức từ góc 30°.
+Lời giải
+$F = BIL\sin\alpha$ cực đại khi $\sin\alpha = 1$, tức $\alpha = 90^\circ$.
+
+Câu 7. [NB] Lực từ tác dụng lên đoạn dây dẫn mang dòng điện bằng 0 khi đoạn dây
+A. vuông góc với đường sức từ.
+B. nằm ngang.
+*C. song song với đường sức từ.
+D. hợp với đường sức từ góc 60°.
+Lời giải
+Khi dây song song với đường sức thì $\alpha = 0$ hoặc $180^\circ$, $\sin\alpha = 0$ nên $F = 0$.
+
+Câu 8. [NB] Một tesla bằng
+A. $1\,\text{N·A/m}$.
+*B. $1\,\text{N/(A·m)}$.
+C. $1\,\text{A·m/N}$.
+D. $1\,\text{N·m/A}$.
+Lời giải
+Từ $B = \dfrac{F}{IL\sin\alpha}$: $1\,\text{T} = \dfrac{1\,\text{N}}{1\,\text{A} \cdot 1\,\text{m}}$.
+
+Câu 9. [TH] Một đoạn dây dẫn đặt trong từ trường đều. Giữ nguyên các yếu tố khác, tăng cường độ dòng điện lên 2 lần thì lực từ tác dụng lên đoạn dây
+A. giảm 2 lần.
+B. tăng 4 lần.
+C. không đổi.
+*D. tăng 2 lần.
+Lời giải
+$F$ tỉ lệ thuận với $I$ nên $I$ tăng 2 lần thì $F$ tăng 2 lần.
+
+Câu 10. [TH] Chỉ đổi chiều dòng điện chạy qua đoạn dây dẫn đặt trong từ trường đều thì lực từ tác dụng lên đoạn dây
+*A. đổi chiều, độ lớn không đổi.
+B. không đổi chiều, độ lớn không đổi.
+C. đổi chiều, độ lớn tăng gấp đôi.
+D. triệt tiêu.
+Lời giải
+Theo quy tắc bàn tay trái, đổi chiều dòng điện thì lực từ đổi chiều; độ lớn $BIL\sin\alpha$ không đổi.
+
+Câu 11. [TH] Theo quy tắc bàn tay trái, đặt bàn tay trái sao cho vectơ cảm ứng từ hướng vào lòng bàn tay, chiều từ cổ tay đến các ngón tay là chiều dòng điện thì
+A. bốn ngón tay chỉ chiều lực từ.
+*B. ngón cái choãi ra $90^\circ$ chỉ chiều lực từ.
+C. ngón cái chỉ chiều đường sức từ.
+D. mu bàn tay chỉ chiều lực từ.
+Lời giải
+Ngón tay cái choãi ra $90^\circ$ chỉ chiều của lực từ tác dụng lên dòng điện.
+
+Câu 12. [TH] Một dây dẫn nằm ngang có dòng điện chạy theo hướng Bắc, đặt trong từ trường đều có cảm ứng từ thẳng đứng hướng lên. Lực từ tác dụng lên dây hướng về phía
+A. Tây.
+B. Nam.
+*C. Đông.
+D. thẳng đứng xuống dưới.
+Lời giải
+Đặt bàn tay trái để $\vec{B}$ (hướng lên) đâm vào lòng bàn tay (lòng bàn tay úp xuống), các ngón tay chỉ hướng Bắc thì ngón cái chỉ hướng Đông.
+
+Câu 13. [TH] Điểm đặt của lực từ tác dụng lên đoạn dây dẫn thẳng mang dòng điện đặt trong từ trường đều là
+*A. trung điểm của đoạn dây.
+B. đầu đoạn dây có dòng điện đi vào.
+C. đầu đoạn dây có dòng điện đi ra.
+D. điểm gần cực Bắc của nam châm nhất.
+Lời giải
+Lực từ tác dụng lên đoạn dây mang dòng điện trong từ trường đều có điểm đặt tại trung điểm của đoạn dây.
+
+Câu 14. [TH] Khi đo độ lớn cảm ứng từ bằng cân dòng điện (khung dây treo vào đòn cân), nên đặt đoạn dây trong từ trường vuông góc với đường sức từ vì khi đó
+A. lực từ bằng 0 nên đòn cân dễ cân bằng.
+B. dòng điện qua khung dây lớn nhất có thể.
+C. từ trường của nam châm điện mạnh nhất.
+*D. lực từ lớn nhất nên đo chính xác hơn.
+Lời giải
+Với $\alpha = 90^\circ$ thì $B = \dfrac{F}{IL}$, lực từ lớn nhất, sai số tỉ đối của phép đo lực nhỏ hơn và không cần đo góc.
+
+Câu 15. [TH] Giữ nguyên $B$, $L$ và $\alpha$, đồ thị biểu diễn độ lớn lực từ $F$ theo cường độ dòng điện $I$ là
+A. đường hypebol.
+B. đường parabol qua gốc tọa độ.
+C. đường thẳng song song với trục $I$.
+*D. đường thẳng đi qua gốc tọa độ.
+Lời giải
+$F = (BL\sin\alpha) \cdot I$ tỉ lệ thuận với $I$ nên đồ thị là đường thẳng đi qua gốc tọa độ.
+
+Câu 16. [TH] Đoạn dây dẫn mang dòng điện ban đầu vuông góc với đường sức từ của một từ trường đều. Quay đoạn dây để nó hợp với đường sức từ góc $30^\circ$ thì lực từ
+A. tăng 2 lần.
+*B. giảm 2 lần.
+C. không đổi.
+D. giảm $\sqrt{3}$ lần.
+Lời giải
+$\dfrac{F_2}{F_1} = \dfrac{\sin 30^\circ}{\sin 90^\circ} = \dfrac{1}{2}$: lực từ giảm 2 lần.
+
+Câu 17. [VD] Đoạn dây dẫn dài 40 cm có dòng điện 5 A, đặt vuông góc với các đường sức từ của từ trường đều có $B = 0,02$ T. Lực từ tác dụng lên đoạn dây có độ lớn
+A. 4 N.
+*B. 0,04 N.
+C. 0,4 N.
+D. 0,1 N.
+Lời giải
+$F = BIL = 0,02 \cdot 5 \cdot 0,4 = 0,04$ N.
+
+Câu 18. [VD] Đoạn dây dẫn dài 0,5 m có dòng điện 3 A, đặt trong từ trường đều và hợp với đường sức từ góc $30^\circ$, chịu lực từ 0,06 N. Độ lớn cảm ứng từ là
+A. 0,04 T.
+B. 0,4 T.
+*C. 0,08 T.
+D. 0,02 T.
+Lời giải
+$B = \dfrac{F}{IL\sin\alpha} = \dfrac{0,06}{3 \cdot 0,5 \cdot 0,5} = 0,08$ T.
+
+Câu 19. [VD] Một đoạn dây dẫn dài 60 cm đặt vuông góc với các đường sức từ của từ trường đều có $B = 0,05$ T. Để lực từ tác dụng lên đoạn dây bằng 0,15 N thì cường độ dòng điện qua dây phải bằng
+*A. 5 A.
+B. 0,5 A.
+C. 2 A.
+D. 50 A.
+Lời giải
+$I = \dfrac{F}{BL} = \dfrac{0,15}{0,05 \cdot 0,6} = 5$ A.
+
+Câu 20. [VD] Khung dây có 200 vòng, cạnh dưới dài 10 cm nằm trong từ trường đều $B = 0,01$ T và vuông góc với đường sức từ (các cạnh khác ở ngoài từ trường). Dòng điện qua khung là 0,5 A. Lực từ tổng cộng tác dụng lên cạnh dưới của khung là
+A. 0,0005 N.
+B. 1 N.
+C. 0,05 N.
+*D. 0,1 N.
+Lời giải
+Cạnh dưới gồm 200 đoạn dây cùng chiều dòng điện: $F = nBIl = 200 \cdot 0,01 \cdot 0,5 \cdot 0,1 = 0,1$ N.
+
+Câu 21. [VD] Thanh kim loại MN dài 20 cm, khối lượng 10 g, treo nằm ngang bằng hai dây mảnh nhẹ trong từ trường đều có $\vec{B}$ nằm ngang, vuông góc với thanh, $B = 0,5$ T. Cho dòng điện chạy qua thanh theo chiều để lực từ hướng lên. Lấy $g = 10$ m/s². Để lực căng của hai dây bằng 0 thì cường độ dòng điện là
+*A. 1 A.
+B. 0,1 A.
+C. 10 A.
+D. 2 A.
+Lời giải
+Lực căng bằng 0 khi lực từ cân bằng trọng lực: $BIL = mg$ nên $I = \dfrac{mg}{BL} = \dfrac{0,01 \cdot 10}{0,5 \cdot 0,2} = 1$ A.
+
+Câu 22. [VD] Đoạn dây dẫn dài 10 cm có dòng điện 2 A đặt trong từ trường đều $B = 0,1$ T, chịu lực từ 0,01 N. Góc hợp bởi đoạn dây và vectơ cảm ứng từ là
+A. $60^\circ$.
+B. $45^\circ$.
+C. $90^\circ$.
+*D. $30^\circ$.
+Lời giải
+$\sin\alpha = \dfrac{F}{BIL} = \dfrac{0,01}{0,1 \cdot 2 \cdot 0,1} = 0,5$ nên $\alpha = 30^\circ$ (hoặc $150^\circ$).
+
+Câu 23. [TF] [TH] Về lực từ tác dụng lên đoạn dây dẫn thẳng mang dòng điện đặt trong từ trường đều:
+*A. Lực từ vuông góc với đoạn dây và vuông góc với vectơ cảm ứng từ.
+*B. Điểm đặt của lực từ tại trung điểm đoạn dây.
+*C. Độ lớn lực từ tỉ lệ thuận với chiều dài đoạn dây nằm trong từ trường.
+D. Lực từ lớn nhất khi đoạn dây song song với đường sức từ.
+Lời giải
+A, B, C đúng. D sai vì khi dây song song với đường sức thì $\sin\alpha = 0$, lực từ bằng 0; lực từ lớn nhất khi dây vuông góc với đường sức.
+
+Câu 24. [TF] [TH] Về cảm ứng từ của một từ trường đều:
+*A. Đơn vị của cảm ứng từ là tesla (T).
+B. Tăng cường độ dòng điện qua đoạn dây đặt trong từ trường thì cảm ứng từ tăng.
+*C. $1\,\text{T} = 1\,\text{kg/(A·s}^2\text{)}$.
+D. Cảm ứng từ tỉ lệ nghịch với chiều dài đoạn dây đặt trong từ trường.
+Lời giải
+A, C đúng ($1\,\text{T} = 1\,\text{N/(A·m)}$ mà $1\,\text{N} = 1\,\text{kg·m/s}^2$). B, D sai vì cảm ứng từ đặc trưng cho từ trường, không phụ thuộc vào đoạn dây đặt vào; thay $I$ hay $L$ thì $F$ thay đổi theo, tỉ số $\dfrac{F}{IL\sin\alpha}$ không đổi.
+
+Câu 25. [TF] [TH] Về tàu đệm từ:
+*A. Lực từ giữa nam châm trên tàu và nam châm điện ở đường ray có thể đẩy tàu tiến về phía trước.
+*B. Khi đạt tốc độ đủ lớn, lực từ nâng tàu lướt trên đường ray.
+*C. Hệ thống dẫn lái dựa trên việc các cực cùng tên đẩy nhau, khác tên hút nhau.
+D. Khi chạy với tốc độ cao, bánh xe của tàu tì lên ray để giữ cho tàu cân bằng.
+Lời giải
+A, B, C đúng: tàu đệm từ dùng lực từ để đẩy, nâng và dẫn lái. D sai vì ở tốc độ cao tàu được lực từ nâng lướt trên ray, việc giữ cân bằng do hệ thống dẫn lái bằng lực từ.
+
+Câu 26. [TF] [VD] Đoạn dây dẫn dài 0,5 m có dòng điện 4 A, đặt trong từ trường đều $B = 0,05$ T, hợp với đường sức từ góc $30^\circ$.
+*A. Lực từ tác dụng lên đoạn dây là 0,05 N.
+*B. Nếu quay đoạn dây vuông góc với đường sức từ thì lực từ là 0,1 N.
+C. Nếu đoạn dây song song với đường sức từ thì lực từ là 0,05 N.
+D. Nếu tăng dòng điện lên 8 A (giữ góc $30^\circ$) thì lực từ là 0,2 N.
+Lời giải
+$F = 0,05 \cdot 4 \cdot 0,5 \cdot \sin 30^\circ = 0,05$ N (A đúng). $\alpha = 90^\circ$: $F = 0,1$ N (B đúng). Song song thì $F = 0$ (C sai). $I = 8$ A thì $F = 0,1$ N (D sai).
+
+Câu 27. [TF] [VD] Đo cảm ứng từ bằng khung dây 200 vòng, cạnh dưới dài 10 cm đặt vuông góc với đường sức từ trong lòng nam châm điện. Một lần đo: dòng điện qua khung 0,2 A, lực kế chỉ lực từ 0,05 N.
+*A. Tổng chiều dài dây dẫn chịu lực từ là 20 m.
+*B. Cảm ứng từ đo được trong lần này là 0,0125 T.
+*C. Đặt cạnh dưới vuông góc với đường sức từ để lực từ lớn nhất và $\sin\alpha = 1$.
+*D. Với cảm ứng từ đo được ở trên, nếu dòng điện qua khung là 0,4 A thì lực từ là 0,1 N.
+Lời giải
+$L = nl = 200 \cdot 0,1 = 20$ m (A đúng). $B = \dfrac{F}{IL} = \dfrac{0,05}{0,2 \cdot 20} = 0,0125$ T (B đúng). C đúng. $F = BIL = 0,0125 \cdot 0,4 \cdot 20 = 0,1$ N (D đúng).
+
+Câu 28. [TF] [VD] Thanh kim loại dài 25 cm, khối lượng 20 g, treo nằm ngang bằng hai dây mảnh nhẹ thẳng đứng trong từ trường đều $B = 0,4$ T có phương nằm ngang, vuông góc với thanh. Lấy $g = 10$ m/s². Dòng điện qua thanh có chiều sao cho lực từ hướng lên.
+*A. Trọng lượng của thanh là 0,2 N.
+*B. Để lực căng của hai dây bằng 0 thì dòng điện qua thanh là 2 A.
+*C. Khi dòng điện là 1 A, tổng lực căng của hai dây là 0,1 N.
+D. Khi dòng điện là 1 A nhưng đổi chiều, tổng lực căng của hai dây vẫn là 0,1 N.
+Lời giải
+$P = mg = 0,2$ N (A đúng). $I = \dfrac{mg}{BL} = \dfrac{0,2}{0,4 \cdot 0,25} = 2$ A (B đúng). $I = 1$ A: $F = 0,1$ N hướng lên, $T = 0,2 - 0,1 = 0,1$ N (C đúng). Đổi chiều thì lực từ hướng xuống: $T = 0,2 + 0,1 = 0,3$ N (D sai).
+
+Câu 29. [TF] [VD] Một đoạn dây dẫn nằm trong mặt phẳng trang giấy, dòng điện chạy từ trái sang phải, đặt trong từ trường đều có $\vec{B}$ vuông góc với trang giấy, hướng từ ngoài vào trong.
+*A. Lực từ nằm trong mặt phẳng trang giấy, hướng về phía mép trên của trang giấy.
+B. Lực từ hướng vuông góc với trang giấy, từ trong ra ngoài.
+C. Đổi chiều cả dòng điện và từ trường thì lực từ hướng xuống dưới.
+D. Quay đoạn dây (trong mặt phẳng trang giấy) một góc $90^\circ$ thì lực từ bằng 0.
+Lời giải
+Chỉ A đúng: theo quy tắc bàn tay trái, lực từ hướng lên. B sai vì lực từ vuông góc với $\vec{B}$. C sai vì đổi chiều cả hai thì lực từ giữ nguyên chiều. D sai vì sau khi quay, dây vẫn vuông góc với $\vec{B}$ nên lực từ vẫn khác 0.
+
+Câu 30. [TH] Đoạn dây dẫn dài 10 cm có dòng điện 2 A, đặt vuông góc với các đường sức từ của từ trường đều có $B = 0,5$ T. Tính độ lớn lực từ tác dụng lên đoạn dây (theo đơn vị N).
+Trả lời: [[0,1]]
+Lời giải
+$F = BIL = 0,5 \cdot 2 \cdot 0,1 = 0,1$ N.
+
+Câu 31. [TH] Đoạn dây dẫn dài 40 cm có dòng điện 1,5 A, đặt vuông góc với đường sức từ của từ trường đều, chịu lực từ 0,03 N. Tính độ lớn cảm ứng từ (theo đơn vị mT).
+Trả lời: [[50]]
+Lời giải
+$B = \dfrac{F}{IL} = \dfrac{0,03}{1,5 \cdot 0,4} = 0,05$ T $= 50$ mT.
+
+Câu 32. [TH] Đoạn dây dẫn dài 0,8 m có dòng điện 3 A, đặt trong từ trường đều $B = 0,2$ T và hợp với đường sức từ góc $60^\circ$. Tính độ lớn lực từ tác dụng lên đoạn dây (theo đơn vị N, làm tròn đến hai chữ số thập phân).
+Trả lời: [[0,42]]
+Lời giải
+$F = BIL\sin\alpha = 0,2 \cdot 3 \cdot 0,8 \cdot \sin 60^\circ \approx 0,42$ N.
+
+Câu 33. [VD] Trong mỗi giây có $1,25 \cdot 10^{19}$ electron chuyển qua tiết diện thẳng của một dây dẫn. Đoạn dây dài 40 cm đặt vuông góc với các đường sức từ của từ trường đều có $B = 0,02$ T. Biết độ lớn điện tích electron là $1,6 \cdot 10^{-19}$ C. Tính độ lớn lực từ tác dụng lên đoạn dây (theo đơn vị mN).
+Trả lời: [[16]]
+Lời giải
+$I = \dfrac{q}{t} = 1,25 \cdot 10^{19} \cdot 1,6 \cdot 10^{-19} = 2$ A. $F = BIL = 0,02 \cdot 2 \cdot 0,4 = 0,016$ N $= 16$ mN.
+
+Câu 34. [VD] Thanh kim loại dài 20 cm, khối lượng 15 g, treo nằm ngang bằng hai dây mảnh nhẹ trong từ trường đều $B = 0,25$ T có phương nằm ngang, vuông góc với thanh. Dòng điện qua thanh có chiều sao cho lực từ hướng lên; khi đó tổng lực căng của hai dây là 0,05 N. Lấy $g = 10$ m/s². Tính cường độ dòng điện qua thanh (theo đơn vị A).
+Trả lời: [[2]]
+Lời giải
+Cân bằng: $T + BIL = mg$ nên $BIL = 0,15 - 0,05 = 0,1$ N; $I = \dfrac{0,1}{0,25 \cdot 0,2} = 2$ A.
+
+Câu 35. [VD] Thanh kim loại dài 20 cm, khối lượng 20 g, treo nằm ngang bằng hai dây mảnh nhẹ trong từ trường đều có $\vec{B}$ thẳng đứng, $B = 0,5$ T. Cho dòng điện 2 A chạy qua thanh. Lấy $g = 10$ m/s². Khi thanh cân bằng, tính góc lệch của dây treo so với phương thẳng đứng (theo đơn vị độ).
+Trả lời: [[45]]
+Lời giải
+Lực từ nằm ngang: $F = BIL = 0,5 \cdot 2 \cdot 0,2 = 0,2$ N; trọng lực $P = mg = 0,2$ N. $\tan\theta = \dfrac{F}{P} = 1$ nên $\theta = 45^\circ$.
+
+Câu 36. [VD] Đo cảm ứng từ bằng khung dây 200 vòng, cạnh dưới dài 10 cm vuông góc với đường sức từ. Kết quả bốn lần đo (cường độ dòng điện $I$ – lực từ $F$): 0,1 A – 0,024 N; 0,2 A – 0,046 N; 0,3 A – 0,072 N; 0,4 A – 0,094 N. Tính giá trị trung bình của cảm ứng từ (theo đơn vị mT, làm tròn đến một chữ số thập phân).
+Trả lời: [[11,8]]
+Lời giải
+$L = nl = 20$ m. $B_i = \dfrac{F_i}{I_iL}$: 12,0 mT; 11,5 mT; 12,0 mT; 11,75 mT. Trung bình: $\bar{B} = \dfrac{12 + 11,5 + 12 + 11,75}{4} \approx 11,8$ mT.
+
+Câu 37. [VD] Thanh kim loại khối lượng 50 g đặt vuông góc trên hai thanh ray nằm ngang song song cách nhau 0,5 m, trong từ trường đều có $\vec{B}$ thẳng đứng, $B = 0,1$ T. Hệ số ma sát trượt giữa thanh và ray là 0,2; lấy $g = 10$ m/s². Tính cường độ dòng điện nhỏ nhất qua thanh để thanh bắt đầu trượt (theo đơn vị A, coi lực ma sát nghỉ cực đại bằng lực ma sát trượt).
+Trả lời: [[2]]
+Lời giải
+Lực từ nằm ngang dọc theo ray. Thanh bắt đầu trượt khi $BIL = \mu mg$: $I = \dfrac{\mu mg}{BL} = \dfrac{0,2 \cdot 0,05 \cdot 10}{0,1 \cdot 0,5} = 2$ A.
+
+Câu 38. [VD] Một dây dẫn dài 40 cm được gập vuông góc tại trung điểm thành hai đoạn bằng nhau. Đặt dây trong từ trường đều $B = 0,5$ T sao cho cả hai đoạn đều vuông góc với đường sức từ, dòng điện qua dây là 2 A. Tính độ lớn hợp lực từ tác dụng lên cả dây (theo đơn vị N, làm tròn đến hai chữ số thập phân).
+Trả lời: [[0,28]]
+Lời giải
+Mỗi đoạn dài 0,2 m chịu lực $F_1 = BIL = 0,5 \cdot 2 \cdot 0,2 = 0,2$ N. Hai lực vuông góc với hai đoạn dây nên vuông góc với nhau: $F = F_1\sqrt{2} \approx 0,28$ N.
+
 @bai 16 | Từ thông. Hiện tượng cảm ứng điện từ
+Câu 1. [NB] Từ thông qua diện tích $S$ đặt trong từ trường đều $B$, với $\alpha$ là góc giữa $\vec{B}$ và vectơ pháp tuyến $\vec{n}$ của $S$, được tính bằng
+A. $\Phi = BS\sin\alpha$.
+B. $\Phi = \dfrac{B}{S}\cos\alpha$.
+C. $\Phi = \dfrac{S}{B}\cos\alpha$.
+*D. $\Phi = BS\cos\alpha$.
+Lời giải
+Theo định nghĩa: $\Phi = BS\cos\alpha$.
+
+Câu 2. [NB] Trong hệ SI, đơn vị của từ thông là
+A. tesla (T).
+*B. weber (Wb).
+C. henry (H).
+D. vôn (V).
+Lời giải
+Đơn vị của từ thông là weber (Wb).
+
+Câu 3. [NB] Trong công thức từ thông $\Phi = BS\cos\alpha$, $\alpha$ là góc hợp bởi
+A. vectơ cảm ứng từ và mặt phẳng vòng dây.
+B. vectơ pháp tuyến và phương thẳng đứng.
+*C. vectơ cảm ứng từ và vectơ pháp tuyến.
+D. vectơ cảm ứng từ và phương nằm ngang.
+Lời giải
+$\alpha$ là góc giữa $\vec{B}$ và vectơ pháp tuyến $\vec{n}$ của diện tích $S$.
+
+Câu 4. [NB] Dòng điện cảm ứng xuất hiện trong một mạch kín khi
+*A. từ thông qua mạch kín biến thiên.
+B. mạch kín được đặt trong một từ trường mạnh.
+C. từ thông qua mạch kín có giá trị lớn.
+D. mạch kín được nối với một nguồn điện.
+Lời giải
+Khi từ thông qua mạch kín biến thiên thì trong mạch xuất hiện dòng điện cảm ứng.
+
+Câu 5. [NB] Định luật Lenz cho biết
+A. độ lớn của suất điện động cảm ứng.
+*B. chiều của dòng điện cảm ứng.
+C. độ lớn của từ thông qua mạch.
+D. độ lớn của lực từ tác dụng lên dòng điện.
+Lời giải
+Định luật Lenz là định luật về chiều của dòng điện cảm ứng.
+
+Câu 6. [NB] Theo định luật Faraday, độ lớn của suất điện động cảm ứng trong mạch kín tỉ lệ với
+A. độ lớn của từ thông qua mạch.
+B. diện tích của mạch.
+C. điện trở của mạch.
+*D. tốc độ biến thiên của từ thông qua mạch.
+Lời giải
+Độ lớn suất điện động cảm ứng tỉ lệ với tốc độ biến thiên của từ thông: $|e| = \left|\dfrac{\Delta\Phi}{\Delta t}\right|$.
+
+Câu 7. [NB] Một weber bằng
+*A. $1\,\text{T·m}^2$.
+B. $1\,\text{T/m}^2$.
+C. $1\,\text{T·m}$.
+D. $1\,\text{T/m}$.
+Lời giải
+Từ $\Phi = BS\cos\alpha$: $1\,\text{Wb} = 1\,\text{T} \cdot 1\,\text{m}^2$.
+
+Câu 8. [NB] Một vòng dây phẳng đặt trong từ trường đều. Từ thông qua vòng dây bằng 0 khi mặt phẳng vòng dây
+*A. song song với đường sức từ.
+B. hợp với đường sức từ góc $45^\circ$.
+C. vuông góc với đường sức từ.
+D. hợp với đường sức từ góc $60^\circ$.
+Lời giải
+Mặt phẳng vòng dây song song với $\vec{B}$ thì pháp tuyến vuông góc với $\vec{B}$: $\alpha = 90^\circ$, $\cos\alpha = 0$ nên $\Phi = 0$.
+
+Câu 9. [TH] Một nam châm thẳng được giữ đứng yên trong lòng một cuộn dây kín. Trong cuộn dây
+A. có dòng điện cảm ứng vì có từ trường mạnh.
+B. có dòng điện cảm ứng đổi chiều liên tục.
+C. có dòng điện cảm ứng không đổi.
+*D. không có dòng điện cảm ứng vì từ thông không biến thiên.
+Lời giải
+Hiện tượng cảm ứng điện từ chỉ tồn tại trong khoảng thời gian từ thông qua mạch kín biến thiên.
+
+Câu 10. [TH] Đưa cực Bắc của nam châm lại gần một cuộn dây kín. Từ trường do dòng điện cảm ứng sinh ra trong lòng cuộn dây
+*A. ngược chiều với từ trường của nam châm.
+B. bằng 0.
+C. cùng chiều với từ trường của nam châm.
+D. vuông góc với từ trường của nam châm.
+Lời giải
+Từ thông qua cuộn dây tăng nên theo định luật Lenz, từ trường cảm ứng ngược chiều từ trường của nam châm để chống lại sự tăng đó.
+
+Câu 11. [TH] Bản chất của hiện tượng cảm ứng điện từ trong thí nghiệm cho nam châm rơi qua cuộn dây kín là quá trình chuyển hóa
+A. điện năng thành hóa năng.
+B. điện năng thành cơ năng.
+C. nhiệt năng thành điện năng.
+*D. cơ năng thành điện năng.
+Lời giải
+Trọng lực sinh công làm từ thông qua cuộn dây biến thiên, sinh ra suất điện động cảm ứng: cơ năng chuyển hóa thành điện năng.
+
+Câu 12. [TH] Một khung dây kín đặt trong từ trường đều có $\vec{B}$ vuông góc với mặt phẳng khung. Trường hợp nào sau đây KHÔNG có dòng điện cảm ứng trong khung?
+A. Tăng độ lớn cảm ứng từ.
+*B. Tịnh tiến khung mà khung vẫn hoàn toàn nằm trong từ trường đều.
+C. Quay khung quanh một cạnh của khung.
+D. Bóp méo khung để diện tích khung giảm.
+Lời giải
+Khi tịnh tiến khung trong từ trường đều thì $B$, $S$, $\alpha$ không đổi nên từ thông không đổi, không có dòng điện cảm ứng.
+
+Câu 13. [TH] Trong thí nghiệm dùng nam châm điện và cuộn dây nối với điện kế, khi đóng khóa K của mạch nam châm điện thì kim điện kế lệch vì
+A. dòng điện từ nguồn chạy sang cuộn dây.
+B. diện tích cuộn dây bị thay đổi.
+*C. cảm ứng từ qua cuộn dây tăng.
+D. cuộn dây bị quay đi một góc.
+Lời giải
+Đóng khóa K, dòng điện qua nam châm điện tăng từ 0, cảm ứng từ $B$ tăng nên từ thông qua cuộn dây biến thiên.
+
+Câu 14. [TH] Từ thông qua một diện tích $S$ có giá trị âm khi góc $\alpha$ giữa $\vec{B}$ và vectơ pháp tuyến $\vec{n}$
+*A. lớn hơn $90^\circ$.
+B. nhỏ hơn $90^\circ$.
+C. bằng $90^\circ$.
+D. bằng 0.
+Lời giải
+$\Phi = BS\cos\alpha < 0$ khi $\cos\alpha < 0$, tức $90^\circ < \alpha \le 180^\circ$.
+
+Câu 15. [TH] Hai cuộn dây có cùng tiết diện đặt trong cùng một từ trường biến thiên như nhau, cuộn thứ hai có số vòng gấp đôi cuộn thứ nhất. So với cuộn thứ nhất, suất điện động cảm ứng trong cuộn thứ hai
+A. bằng một nửa.
+B. bằng nhau.
+*C. gấp đôi.
+D. gấp bốn.
+Lời giải
+$|e| = N\left|\dfrac{\Delta\Phi}{\Delta t}\right|$ với $\Phi$ là từ thông qua một vòng: $N$ gấp đôi thì $e$ gấp đôi.
+
+Câu 16. [TH] Đưa cực Bắc của một nam châm lại gần một đầu của cuộn dây kín. Đầu đó của cuộn dây trở thành
+A. cực Nam, hút nam châm.
+*B. cực Bắc, đẩy nam châm.
+C. cực Nam, đẩy nam châm.
+D. không phải cực từ nào.
+Lời giải
+Theo định luật Lenz, dòng điện cảm ứng chống lại sự lại gần của nam châm: đầu cuộn dây gần nam châm là cực Bắc để đẩy cực Bắc của nam châm.
+
+Câu 17. [VD] Một khung dây phẳng diện tích 50 cm² đặt trong từ trường đều $B = 0,2$ T, vectơ cảm ứng từ vuông góc với mặt phẳng khung. Từ thông qua khung là
+A. $0,1$ Wb.
+B. $10$ Wb.
+*C. $1 \cdot 10^{-3}$ Wb.
+D. $1 \cdot 10^{-5}$ Wb.
+Lời giải
+$\Phi = BS = 0,2 \cdot 50 \cdot 10^{-4} = 1 \cdot 10^{-3}$ Wb.
+
+Câu 18. [VD] Một khung dây phẳng diện tích $0,02$ m² đặt trong từ trường đều $B = 0,4$ T. Vectơ cảm ứng từ hợp với mặt phẳng khung góc $30^\circ$. Từ thông qua khung có độ lớn là
+A. $6,9 \cdot 10^{-3}$ Wb.
+B. $8 \cdot 10^{-3}$ Wb.
+*C. $4 \cdot 10^{-3}$ Wb.
+D. $2 \cdot 10^{-3}$ Wb.
+Lời giải
+Góc giữa $\vec{B}$ và pháp tuyến là $\alpha = 90^\circ - 30^\circ = 60^\circ$: $\Phi = 0,4 \cdot 0,02 \cdot \cos 60^\circ = 4 \cdot 10^{-3}$ Wb.
+
+Câu 19. [VD] Cuộn dây 100 vòng, diện tích mỗi vòng 20 cm², đặt trong từ trường đều có $\vec{B}$ vuông góc với mặt phẳng các vòng dây. Cảm ứng từ tăng đều từ 0 đến 0,5 T trong 0,1 s. Độ lớn suất điện động cảm ứng trong cuộn dây là
+A. 0,01 V.
+B. 10 V.
+C. 0,1 V.
+*D. 1 V.
+Lời giải
+$|e| = N\dfrac{\Delta B \cdot S}{\Delta t} = 100 \cdot \dfrac{0,5 \cdot 20 \cdot 10^{-4}}{0,1} = 1$ V.
+
+Câu 20. [VD] Một vòng dây kín nằm trong mặt phẳng trang giấy, đặt trong từ trường đều có $\vec{B}$ vuông góc với trang giấy, hướng từ ngoài vào trong. Độ lớn cảm ứng từ đang tăng. Nhìn từ phía người đọc, dòng điện cảm ứng trong vòng dây chạy
+A. cùng chiều kim đồng hồ.
+B. không có vì vòng dây nằm yên.
+C. lúc cùng, lúc ngược chiều kim đồng hồ.
+*D. ngược chiều kim đồng hồ.
+Lời giải
+Từ thông tăng nên từ trường cảm ứng hướng ra ngoài trang giấy. Theo quy tắc nắm bàn tay phải, dòng điện cảm ứng chạy ngược chiều kim đồng hồ.
+
+Câu 21. [VD] Thanh kim loại dài 20 cm trượt đều với tốc độ 2 m/s trên hai thanh ray song song nối kín, trong từ trường đều $B = 0,5$ T vuông góc với mặt phẳng ray. Độ lớn suất điện động cảm ứng là
+A. 2 V.
+*B. 0,2 V.
+C. 0,05 V.
+D. 20 V.
+Lời giải
+Trong $\Delta t$, diện tích mạch thay đổi $\Delta S = lv\Delta t$ nên $|e| = \dfrac{B\Delta S}{\Delta t} = Blv = 0,5 \cdot 0,2 \cdot 2 = 0,2$ V.
+
+Câu 22. [VD] Thả rơi một nam châm thẳng theo trục của một vòng dây dẫn kín nằm ngang. Khi nam châm đang rơi lại gần vòng dây, gia tốc của nam châm
+*A. nhỏ hơn $g$.
+B. bằng $g$.
+C. lớn hơn $g$.
+D. bằng 0.
+Lời giải
+Dòng điện cảm ứng trong vòng dây sinh lực từ chống lại sự lại gần của nam châm (hướng lên) nên gia tốc của nam châm nhỏ hơn $g$.
+
+Câu 23. [TF] [TH] Về từ thông:
+*A. Tăng diện tích $S$ lên 2 lần (giữ nguyên $B$ và $\alpha$) thì từ thông tăng 2 lần.
+B. Khi từ thông qua vòng dây kín bằng 0 thì trong vòng dây không thể có dòng điện cảm ứng.
+C. Từ thông luôn có giá trị dương.
+*D. Từ thông diễn tả số đường sức từ xuyên qua diện tích $S$.
+Lời giải
+A, D đúng. B sai vì dòng điện cảm ứng phụ thuộc sự biến thiên của từ thông, không phụ thuộc giá trị tức thời: từ thông bằng 0 nhưng đang biến thiên thì vẫn có dòng điện cảm ứng. C sai vì khi $\alpha > 90^\circ$ thì $\Phi < 0$.
+
+Câu 24. [TF] [TH] Về hiện tượng cảm ứng điện từ:
+*A. Hiện tượng chỉ tồn tại trong khoảng thời gian từ thông qua mạch kín biến thiên.
+*B. Có thể làm từ thông biến thiên bằng cách thay đổi góc giữa $\vec{B}$ và vectơ pháp tuyến.
+*C. Faraday là người đầu tiên khám phá ra hiện tượng cảm ứng điện từ.
+D. Bản chất của hiện tượng là quá trình chuyển hóa điện năng thành cơ năng.
+Lời giải
+A, B, C đúng ($\Phi = BS\cos\alpha$ thay đổi khi $\alpha$ thay đổi). D sai vì đó là quá trình chuyển hóa cơ năng thành điện năng.
+
+Câu 25. [TF] [TH] Đưa cực Bắc của nam châm lại gần rồi ra xa một cuộn dây kín nối với điện kế:
+*A. Khi nam châm lại gần, từ trường cảm ứng ngược chiều từ trường của nam châm.
+*B. Khi nam châm ra xa, từ trường cảm ứng cùng chiều từ trường của nam châm.
+C. Từ trường cảm ứng luôn ngược chiều từ trường của nam châm.
+D. Đưa nam châm lại gần càng nhanh thì kim điện kế lệch càng ít.
+Lời giải
+A, B đúng theo định luật Lenz. C sai vì khi từ thông giảm, từ trường cảm ứng cùng chiều. D sai vì lại gần càng nhanh, từ thông biến thiên càng nhanh, suất điện động cảm ứng càng lớn, kim lệch càng nhiều.
+
+Câu 26. [TF] [VD] Khung dây 200 vòng, diện tích mỗi vòng 50 cm², đặt trong từ trường đều có $\vec{B}$ vuông góc với mặt phẳng khung. Cảm ứng từ tăng đều từ 0,1 T đến 0,5 T trong 0,2 s.
+*A. Độ biến thiên từ thông qua một vòng dây là $2 \cdot 10^{-3}$ Wb.
+*B. Độ lớn suất điện động cảm ứng trong khung là 2 V.
+*C. Nếu cảm ứng từ giảm đều từ 0,5 T về 0,1 T trong 0,2 s thì độ lớn suất điện động cảm ứng vẫn là 2 V.
+D. Nếu thời gian tăng là 0,4 s thì độ lớn suất điện động cảm ứng là 4 V.
+Lời giải
+$\Delta\Phi = 0,4 \cdot 50 \cdot 10^{-4} = 2 \cdot 10^{-3}$ Wb (A đúng). $|e| = 200 \cdot \dfrac{2 \cdot 10^{-3}}{0,2} = 2$ V (B đúng). Giảm đều cùng lượng, cùng thời gian thì độ lớn như nhau (C đúng). Thời gian 0,4 s thì $|e| = 1$ V (D sai).
+
+Câu 27. [TF] [VD] Một vòng dây diện tích 0,02 m² đặt trong từ trường đều $B = 0,5$ T, ban đầu mặt phẳng vòng dây vuông góc với $\vec{B}$. Quay đều vòng dây quanh một trục nằm trong mặt phẳng vòng dây và vuông góc với $\vec{B}$, được $90^\circ$ trong 0,1 s.
+*A. Từ thông ban đầu qua vòng dây là 0,01 Wb.
+*B. Từ thông qua vòng dây sau khi quay $90^\circ$ bằng 0.
+*C. Độ lớn suất điện động cảm ứng trung bình trong 0,1 s là 0,1 V.
+D. Nếu quay $180^\circ$ từ vị trí ban đầu thì độ biến thiên từ thông bằng 0 vì từ thông đầu và cuối có cùng độ lớn.
+Lời giải
+$\Phi_1 = BS = 0,01$ Wb; sau $90^\circ$ mặt phẳng song song với $\vec{B}$: $\Phi_2 = 0$; $|e| = \dfrac{0,01}{0,1} = 0,1$ V (A, B, C đúng). D sai: quay $180^\circ$ thì $\Phi = -0,01$ Wb nên $|\Delta\Phi| = 0,02$ Wb.
+
+Câu 28. [TF] [VD] Thanh kim loại dài 25 cm trượt đều với tốc độ 3 m/s trên hai thanh ray song song, hai đầu ray nối với điện trở $0,5\,\Omega$ (bỏ qua điện trở thanh và ray). Hệ đặt trong từ trường đều $B = 0,4$ T vuông góc với mặt phẳng ray.
+*A. Suất điện động cảm ứng có độ lớn 0,3 V.
+B. Cường độ dòng điện cảm ứng là 0,15 A.
+C. Lực từ tác dụng lên thanh cùng chiều chuyển động của thanh.
+*D. Lực từ tác dụng lên thanh có độ lớn 0,06 N.
+Lời giải
+$e = Blv = 0,4 \cdot 0,25 \cdot 3 = 0,3$ V (A đúng). $I = \dfrac{e}{R} = 0,6$ A (B sai). Theo định luật Lenz, lực từ cản trở chuyển động (C sai). $F = BIl = 0,4 \cdot 0,6 \cdot 0,25 = 0,06$ N (D đúng).
+
+Câu 29. [TF] [VD] Thả rơi nam châm thẳng theo trục của một cuộn dây có trục thẳng đứng. Hai đầu cuộn dây nối với một điện trở thành mạch kín; cảm biến điện thế mắc song song với điện trở.
+*A. Suất điện động cảm ứng khi nam châm đi vào cuộn dây ngược dấu với khi nam châm đi ra.
+B. Gia tốc của nam châm luôn bằng $g$ trong suốt quá trình rơi.
+C. Thả cực Bắc xuống trước hay cực Nam xuống trước thì đồ thị suất điện động như nhau.
+D. Cơ năng của nam châm được bảo toàn.
+Lời giải
+Chỉ A đúng: đi vào thì từ thông tăng, đi ra thì giảm. B sai vì lực từ cản trở chuyển động. C sai vì đổi cực thì suất điện động đổi dấu. D sai vì một phần cơ năng chuyển hóa thành điện năng.
+
+Câu 30. [TH] Một khung dây phẳng diện tích 60 cm² đặt trong từ trường đều $B = 0,25$ T, vectơ cảm ứng từ vuông góc với mặt phẳng khung. Tính từ thông qua khung (theo đơn vị mWb).
+Trả lời: [[1,5]]
+Lời giải
+$\Phi = BS = 0,25 \cdot 60 \cdot 10^{-4} = 1,5 \cdot 10^{-3}$ Wb $= 1,5$ mWb.
+
+Câu 31. [TH] Một khung dây phẳng diện tích 0,03 m² đặt trong từ trường đều $B = 0,5$ T, vectơ cảm ứng từ hợp với vectơ pháp tuyến của mặt phẳng khung góc $60^\circ$. Tính từ thông qua khung (theo đơn vị mWb).
+Trả lời: [[7,5]]
+Lời giải
+$\Phi = BS\cos\alpha = 0,5 \cdot 0,03 \cdot 0,5 = 7,5 \cdot 10^{-3}$ Wb $= 7,5$ mWb.
+
+Câu 32. [TH] Từ thông qua một vòng dây kín biến thiên đều một lượng 0,06 Wb trong 0,2 s. Tính độ lớn suất điện động cảm ứng trong vòng dây (theo đơn vị V).
+Trả lời: [[0,3]]
+Lời giải
+$|e| = \dfrac{|\Delta\Phi|}{\Delta t} = \dfrac{0,06}{0,2} = 0,3$ V.
+
+Câu 33. [VD] Cuộn dây 500 vòng, diện tích mỗi vòng 20 cm², đặt trong từ trường đều có $\vec{B}$ vuông góc với mặt phẳng các vòng. Cảm ứng từ giảm đều từ 0,6 T về 0 trong 0,05 s. Tính độ lớn suất điện động cảm ứng (theo đơn vị V).
+Trả lời: [[12]]
+Lời giải
+$|e| = N\dfrac{|\Delta B|S}{\Delta t} = 500 \cdot \dfrac{0,6 \cdot 20 \cdot 10^{-4}}{0,05} = 12$ V.
+
+Câu 34. [VD] Khung dây 100 vòng, diện tích mỗi vòng 100 cm², điện trở $2\,\Omega$, đặt trong từ trường đều có $\vec{B}$ vuông góc với mặt phẳng khung. Cảm ứng từ tăng đều với tốc độ 0,5 T/s. Tính cường độ dòng điện cảm ứng trong khung (theo đơn vị A).
+Trả lời: [[0,25]]
+Lời giải
+$|e| = NS\dfrac{\Delta B}{\Delta t} = 100 \cdot 0,01 \cdot 0,5 = 0,5$ V; $I = \dfrac{e}{R} = \dfrac{0,5}{2} = 0,25$ A.
+
+Câu 35. [VD] Thanh kim loại dài 0,5 m trượt đều với tốc độ 4 m/s trên hai thanh ray song song, hai đầu ray nối với điện trở $0,2\,\Omega$ (bỏ qua điện trở thanh và ray). Hệ đặt trong từ trường đều $B = 0,2$ T vuông góc với mặt phẳng ray. Tính cường độ dòng điện cảm ứng (theo đơn vị A).
+Trả lời: [[2]]
+Lời giải
+$e = Blv = 0,2 \cdot 0,5 \cdot 4 = 0,4$ V; $I = \dfrac{e}{R} = \dfrac{0,4}{0,2} = 2$ A.
+
+Câu 36. [VD] Khung dây 50 vòng, diện tích mỗi vòng 200 cm², đặt trong từ trường đều $B = 0,4$ T. Quay khung từ vị trí mặt phẳng khung vuông góc với $\vec{B}$ đến vị trí mặt phẳng khung song song với $\vec{B}$ trong 0,05 s. Tính độ lớn suất điện động cảm ứng trung bình (theo đơn vị V).
+Trả lời: [[8]]
+Lời giải
+$|\Delta\Phi| = BS = 0,4 \cdot 0,02 = 8 \cdot 10^{-3}$ Wb mỗi vòng. $|e| = N\dfrac{|\Delta\Phi|}{\Delta t} = 50 \cdot \dfrac{8 \cdot 10^{-3}}{0,05} = 8$ V.
+
+Câu 37. [VD] Khung dây 10 vòng, diện tích mỗi vòng 0,01 m², điện trở $0,5\,\Omega$, đặt trong từ trường đều có $\vec{B}$ vuông góc với mặt phẳng khung. Cảm ứng từ giảm đều từ 0,2 T về 0. Tính điện lượng chuyển qua tiết diện dây trong thời gian đó (theo đơn vị mC).
+Trả lời: [[40]]
+Lời giải
+$q = I\Delta t = \dfrac{|e|}{R}\Delta t = \dfrac{N|\Delta\Phi|}{R} = \dfrac{10 \cdot 0,2 \cdot 0,01}{0,5} = 0,04$ C $= 40$ mC.
+
+Câu 38. [VD] Cuộn dây 200 vòng, diện tích mỗi vòng 10 cm², đặt trong từ trường đều có $\vec{B}$ vuông góc với mặt phẳng các vòng. Cảm ứng từ tăng đều từ 0 đến 0,3 T trong 0,1 s đầu, sau đó giữ không đổi. Tính độ lớn suất điện động cảm ứng tại thời điểm $t = 0,05$ s (theo đơn vị V).
+Trả lời: [[0,6]]
+Lời giải
+Trong 0,1 s đầu: $|e| = N\dfrac{\Delta B \cdot S}{\Delta t} = 200 \cdot \dfrac{0,3 \cdot 10 \cdot 10^{-4}}{0,1} = 0,6$ V (không đổi trong khoảng đó). Sau 0,1 s thì $e = 0$.
+
 @bai 17 | Máy phát điện xoay chiều
+Câu 1. [NB] Máy phát điện xoay chiều hoạt động dựa trên
+A. tác dụng hóa học của dòng điện.
+B. tác dụng nhiệt của dòng điện.
+C. hiện tượng nhiễm điện do cọ xát.
+*D. hiện tượng cảm ứng điện từ.
+Lời giải
+Máy phát điện xoay chiều hoạt động dựa trên hiện tượng cảm ứng điện từ.
+
+Câu 2. [NB] Trong máy phát điện xoay chiều, phần cảm là bộ phận
+A. dẫn điện ra mạch ngoài.
+B. trong đó xuất hiện suất điện động cảm ứng.
+C. luôn quay quanh một trục.
+*D. tạo ra từ trường.
+Lời giải
+Phần cảm là nam châm điện hoặc nam châm vĩnh cửu, dùng để tạo ra từ trường.
+
+Câu 3. [NB] Trong hai bộ phận chính của máy phát điện xoay chiều, bộ phận được đặt cố định có tên gọi là
+*A. stato.
+B. vành khuyên.
+C. trục quay.
+D. rôto.
+Lời giải
+Bộ phận đặt cố định gọi là stato, bộ phận quay quanh một trục gọi là rôto.
+
+Câu 4. [NB] Cường độ hiệu dụng $I$ và cường độ cực đại $I_0$ của dòng điện xoay chiều liên hệ với nhau theo công thức
+*A. $I = \dfrac{I_0}{\sqrt{2}}$.
+B. $I = I_0\sqrt{2}$.
+C. $I = \dfrac{I_0}{2}$.
+D. $I = 2I_0$.
+Lời giải
+$I = \dfrac{I_0}{\sqrt{2}}$.
+
+Câu 5. [NB] Chu kì $T$ của suất điện động xoay chiều liên hệ với tần số góc $\omega$ theo công thức
+A. $T = \dfrac{1}{\omega}$.
+B. $T = 2\pi\omega$.
+C. $T = \dfrac{\omega}{2\pi}$.
+*D. $T = \dfrac{2\pi}{\omega}$.
+Lời giải
+$T = \dfrac{2\pi}{\omega}$ và $f = \dfrac{1}{T} = \dfrac{\omega}{2\pi}$.
+
+Câu 6. [NB] Trong biểu thức $i = I_0\cos(\omega t + \varphi_i)$, đơn vị của tần số góc $\omega$ là
+A. hertz (Hz).
+*B. radian trên giây (rad/s).
+C. vòng/phút.
+D. giây (s).
+Lời giải
+Tần số góc $\omega$ có đơn vị rad/s.
+
+Câu 7. [NB] Ở máy phát điện xoay chiều có khung dây quay trong từ trường của nam châm cố định, bộ phận dùng để dẫn dòng điện từ khung dây ra mạch ngoài là
+A. lõi sắt và nam châm.
+B. hai nam châm điện.
+*C. hai vành khuyên và hai chổi quét.
+D. trục quay và ổ bi.
+Lời giải
+Hai vành khuyên gắn với hai đầu khung dây, quay cùng khung và trượt trên hai chổi quét, dẫn dòng điện ra mạch ngoài.
+
+Câu 8. [NB] Ba suất điện động do máy phát điện xoay chiều ba pha tạo ra có cùng tần số, cùng biên độ và lệch pha nhau
+*A. $\dfrac{2\pi}{3}$.
+B. $\pi$.
+C. $\dfrac{\pi}{2}$.
+D. $\dfrac{\pi}{3}$.
+Lời giải
+Ba cuộn dây đặt lệch nhau $120^\circ$ nên ba suất điện động lệch pha nhau $\dfrac{2\pi}{3}$.
+
+Câu 9. [TH] Một khung dây quay đều quanh trục vuông góc với đường sức của từ trường đều. Suất điện động trong khung có độ lớn cực đại khi mặt phẳng khung
+A. vuông góc với đường sức từ.
+B. hợp với đường sức từ góc $45^\circ$.
+*C. song song với đường sức từ.
+D. hợp với đường sức từ góc $30^\circ$.
+Lời giải
+Khi mặt phẳng khung song song với $\vec{B}$, từ thông bằng 0 nhưng biến thiên nhanh nhất nên $|e|$ cực đại.
+
+Câu 10. [TH] Tăng tốc độ quay của khung dây trong máy phát điện xoay chiều lên 2 lần thì
+*A. suất điện động cực đại và tần số đều tăng 2 lần.
+B. suất điện động cực đại không đổi, tần số tăng 2 lần.
+C. suất điện động cực đại tăng 2 lần, tần số không đổi.
+D. suất điện động cực đại tăng 4 lần, tần số tăng 2 lần.
+Lời giải
+$E_0 = NBS\omega$ và $f = \dfrac{\omega}{2\pi}$ đều tỉ lệ với $\omega$.
+
+Câu 11. [TH] Giá trị hiệu dụng của cường độ dòng điện xoay chiều được định nghĩa dựa trên
+A. tác dụng sinh lí của dòng điện.
+B. tác dụng hóa học của dòng điện.
+C. tác dụng từ của dòng điện.
+*D. tác dụng nhiệt của dòng điện.
+Lời giải
+Cường độ hiệu dụng là cường độ của dòng điện không đổi tỏa ra cùng nhiệt lượng trên cùng điện trở trong cùng thời gian.
+
+Câu 12. [TH] Máy phát điện xoay chiều có rôto là nam châm điện và stato gồm nhiều cuộn dây không cần vành khuyên và chổi quét vì
+*A. các cuộn dây của phần ứng đứng yên.
+B. dòng điện tạo ra là dòng điện một chiều.
+C. rôto quay rất chậm.
+D. nam châm điện không cần dòng điện nuôi.
+Lời giải
+Phần ứng (các cuộn dây) nằm ở stato đứng yên nên dòng điện được dẫn trực tiếp ra mạch ngoài.
+
+Câu 13. [TH] Dòng điện xoay chiều được dùng phổ biến chủ yếu vì
+A. nó an toàn hơn dòng điện một chiều khi chạm vào.
+B. nó có thể nạp điện trực tiếp cho acquy.
+*C. nó có ưu thế trong truyền tải điện năng đi xa.
+D. nó có tác dụng nhiệt mạnh hơn dòng một chiều.
+Lời giải
+Dòng điện xoay chiều có ưu thế trong truyền tải điện năng đi xa nên được sử dụng phổ biến.
+
+Câu 14. [TH] Trên một thiết bị điện có ghi "220 V". Con số này là
+A. điện áp cực đại định mức.
+*B. điện áp hiệu dụng định mức.
+C. điện áp tức thời tại $t = 0$.
+D. điện áp nhỏ nhất thiết bị chịu được.
+Lời giải
+Các thông số điện áp, cường độ ghi trên thiết bị xoay chiều là giá trị hiệu dụng.
+
+Câu 15. [TH] Suất điện động $e = 100\cos\left(100\pi t + \dfrac{\pi}{3}\right)$ (V) có pha ban đầu là
+A. $100\pi$ rad.
+*B. $\dfrac{\pi}{3}$ rad.
+C. $\left(100\pi t + \dfrac{\pi}{3}\right)$ rad.
+D. 100 rad.
+Lời giải
+Pha ban đầu là $\varphi = \dfrac{\pi}{3}$ rad; $\left(100\pi t + \dfrac{\pi}{3}\right)$ là pha tại thời điểm $t$.
+
+Câu 16. [TH] Gặp biển báo "CẤM LẠI GẦN – CÓ ĐIỆN NGUY HIỂM CHẾT NGƯỜI" ở trạm biến áp, cách hiểu đúng là
+A. chỉ nguy hiểm khi trời mưa, trời khô thì có thể lại gần.
+B. có thể lại gần nếu không chạm tay vào dây điện.
+*C. không được lại gần khu vực đó vì có điện áp cao gây nguy hiểm.
+D. chỉ cấm trẻ em, người lớn có thể vào kiểm tra.
+Lời giải
+Cần tuân thủ biển báo an toàn điện: tránh lại gần khu vực có điện áp cao, kể cả khi không chạm vào dây.
+
+Câu 17. [VD] Điện áp xoay chiều $u = 220\sqrt{2}\cos(100\pi t)$ (V) có tần số là
+*A. 50 Hz.
+B. 100 Hz.
+C. 314 Hz.
+D. 25 Hz.
+Lời giải
+$f = \dfrac{\omega}{2\pi} = \dfrac{100\pi}{2\pi} = 50$ Hz.
+
+Câu 18. [VD] Khung dây 200 vòng, diện tích mỗi vòng 100 cm², quay đều với tốc độ góc 50 rad/s quanh trục vuông góc với từ trường đều $B = 0,1$ T. Suất điện động cực đại trong khung là
+A. 100 V.
+B. 1 V.
+C. 0,1 V.
+*D. 10 V.
+Lời giải
+$E_0 = NBS\omega = 200 \cdot 0,1 \cdot 0,01 \cdot 50 = 10$ V.
+
+Câu 19. [VD] Khung dây của một máy phát điện xoay chiều quay đều với tốc độ 1 500 vòng/phút trong từ trường của nam châm cố định. Tần số của suất điện động là
+A. 1 500 Hz.
+*B. 25 Hz.
+C. 50 Hz.
+D. 150 Hz.
+Lời giải
+Mỗi vòng quay ứng với một chu kì: $f = \dfrac{1500}{60} = 25$ Hz.
+
+Câu 20. [VD] Dòng điện $i = 4\cos(100\pi t)$ (A) chạy qua điện trở $10\,\Omega$. Nhiệt lượng tỏa ra trên điện trở trong 1 phút là
+A. 9 600 J.
+B. 2 400 J.
+C. 160 J.
+*D. 4 800 J.
+Lời giải
+$I = \dfrac{4}{\sqrt{2}}$ A; $Q = I^2Rt = 8 \cdot 10 \cdot 60 = 4800$ J.
+
+Câu 21. [VD] Điện áp $u = U_0\cos\left(100\pi t + \dfrac{\pi}{6}\right)$ và dòng điện $i = I_0\cos\left(100\pi t - \dfrac{\pi}{3}\right)$. Độ lệch pha $\Delta\varphi = \varphi_u - \varphi_i$ là
+A. $-\dfrac{\pi}{6}$.
+*B. $\dfrac{\pi}{2}$.
+C. $-\dfrac{\pi}{2}$.
+D. $\dfrac{\pi}{6}$.
+Lời giải
+$\Delta\varphi = \dfrac{\pi}{6} - \left(-\dfrac{\pi}{3}\right) = \dfrac{\pi}{2}$.
+
+Câu 22. [VD] Một bàn là ghi 220 V – 1 000 W, được dùng đúng định mức. Cường độ hiệu dụng của dòng điện qua bàn là xấp xỉ
+A. 3,21 A.
+B. 6,43 A.
+*C. 4,55 A.
+D. 0,22 A.
+Lời giải
+Các thông số định mức là giá trị hiệu dụng: $I = \dfrac{P}{U} = \dfrac{1000}{220} \approx 4,55$ A.
+
+Câu 23. [TF] [TH] Về cấu tạo và hoạt động của máy phát điện xoay chiều:
+*A. Phần cảm có thể là nam châm vĩnh cửu hoặc nam châm điện.
+*B. Phần ứng là các cuộn dây, trong đó xuất hiện suất điện động cảm ứng.
+C. Stato luôn là nam châm, rôto luôn là cuộn dây.
+*D. Máy phát điện xoay chiều chuyển hóa cơ năng thành điện năng.
+Lời giải
+A, B, D đúng. C sai vì có máy dùng rôto là nam châm điện, stato là các cuộn dây.
+
+Câu 24. [TF] [TH] Về giá trị hiệu dụng của dòng điện và điện áp xoay chiều:
+*A. Mạng điện gia đình có điện áp hiệu dụng 220 V thì điện áp cực đại xấp xỉ 311 V.
+B. $U = U_0\sqrt{2}$.
+*C. Hai điện trở giống nhau, một điện trở có dòng không đổi 2 A, một điện trở có dòng xoay chiều với $I_0 = 2\sqrt{2}$ A thì tỏa nhiệt như nhau.
+D. Giá trị hiệu dụng của điện áp xoay chiều thay đổi theo thời gian.
+Lời giải
+A đúng: $U_0 = 220\sqrt{2} \approx 311$ V. B sai vì $U = \dfrac{U_0}{\sqrt{2}}$. C đúng vì $I = \dfrac{2\sqrt{2}}{\sqrt{2}} = 2$ A. D sai vì giá trị hiệu dụng là hằng số; chỉ giá trị tức thời thay đổi.
+
+Câu 25. [TF] [TH] Về an toàn khi sử dụng dòng điện xoay chiều trong gia đình:
+*A. Không được chạm tay vào chỗ hở của dây điện.
+B. Có thể dùng que kim loại để thử ổ điện nếu đứng trên ghế gỗ.
+C. Sử dụng thiết bị trong khi sạc pin không ảnh hưởng đến an toàn.
+D. Thiết bị còn chạy tốt thì không cần kiểm tra, bảo trì định kì.
+Lời giải
+Chỉ A đúng. B sai vì không cắm vật kim loại vào ổ điện trong mọi trường hợp. C sai vì dùng khi đang sạc dễ làm pin nóng, nguy cơ cháy nổ, giật điện. D sai vì cần kiểm tra, bảo trì thiết bị điện định kì.
+
+Câu 26. [TF] [VD] Khung dây 100 vòng, diện tích mỗi vòng 200 cm², quay đều với tốc độ 3 000 vòng/phút quanh trục vuông góc với từ trường đều $B = 0,2$ T.
+*A. Tốc độ góc của khung là $100\pi$ rad/s.
+*B. Tần số của suất điện động là 50 Hz.
+*C. Suất điện động cực đại xấp xỉ 126 V.
+D. Suất điện động hiệu dụng xấp xỉ 178 V.
+Lời giải
+$\omega = 2\pi \cdot \dfrac{3000}{60} = 100\pi$ rad/s; $f = 50$ Hz; $E_0 = 100 \cdot 0,2 \cdot 0,02 \cdot 100\pi \approx 126$ V. $E = \dfrac{E_0}{\sqrt{2}} \approx 89$ V nên D sai.
+
+Câu 27. [TF] [VD] Dòng điện $i = 2\sqrt{2}\cos\left(100\pi t + \dfrac{\pi}{6}\right)$ (A) chạy qua điện trở $50\,\Omega$.
+*A. Cường độ hiệu dụng là 2 A.
+*B. Chu kì của dòng điện là 0,02 s.
+*C. Tại $t = 0$, cường độ dòng điện là $\sqrt{6}$ A.
+D. Công suất tỏa nhiệt trên điện trở là 400 W.
+Lời giải
+$I = \dfrac{2\sqrt{2}}{\sqrt{2}} = 2$ A; $T = \dfrac{2\pi}{100\pi} = 0,02$ s; $i(0) = 2\sqrt{2}\cos\dfrac{\pi}{6} = \sqrt{6}$ A (A, B, C đúng). D sai: $P = I^2R = 4 \cdot 50 = 200$ W (400 W là kết quả khi dùng nhầm $I_0^2R$).
+
+Câu 28. [TF] [VD] Một dòng điện xoay chiều hình sin có chu kì 0,02 s, cường độ đạt giá trị lớn nhất 4 A tại thời điểm $t = 0$.
+*A. Cường độ cực đại là 4 A.
+*B. Tần số của dòng điện là 50 Hz.
+C. Pha ban đầu của dòng điện là $\dfrac{\pi}{2}$.
+D. Cường độ hiệu dụng là 2 A.
+Lời giải
+$I_0 = 4$ A, $f = \dfrac{1}{0,02} = 50$ Hz (A, B đúng). Tại $t = 0$, $i = I_0$ nên $\varphi = 0$ (C sai). $I = \dfrac{4}{\sqrt{2}} = 2\sqrt{2}$ A (D sai).
+
+Câu 29. [TF] [VD] Máy phát điện xoay chiều ba pha có ba suất điện động $e_1 = E_0\cos\omega t$, $e_2 = E_0\cos\left(\omega t - \dfrac{2\pi}{3}\right)$, $e_3 = E_0\cos\left(\omega t + \dfrac{2\pi}{3}\right)$.
+*A. Ba cuộn dây của stato đặt lệch nhau $120^\circ$ trên một vòng tròn.
+*B. Ba suất điện động có cùng tần số.
+*C. Tại thời điểm $e_1 = E_0$ thì $e_2 = e_3 = -\dfrac{E_0}{2}$.
+D. Rôto của máy phát điện ba pha gồm ba cuộn dây riêng rẽ.
+Lời giải
+A, B đúng. Khi $\omega t = 0$: $e_2 = e_3 = E_0\cos\dfrac{2\pi}{3} = -\dfrac{E_0}{2}$ (C đúng). D sai vì rôto là nam châm điện, ba cuộn dây nằm ở stato.
+
+Câu 30. [TH] Điện áp xoay chiều $u = 311\cos(100\pi t)$ (V). Tính điện áp hiệu dụng (theo đơn vị V, làm tròn đến hàng đơn vị).
+Trả lời: [[220]]
+Lời giải
+$U = \dfrac{U_0}{\sqrt{2}} = \dfrac{311}{\sqrt{2}} \approx 220$ V.
+
+Câu 31. [TH] Dòng điện xoay chiều có tần số góc $120\pi$ rad/s. Tính tần số của dòng điện (theo đơn vị Hz).
+Trả lời: [[60]]
+Lời giải
+$f = \dfrac{\omega}{2\pi} = \dfrac{120\pi}{2\pi} = 60$ Hz.
+
+Câu 32. [TH] Dòng điện xoay chiều có tần số 50 Hz. Tính chu kì của dòng điện (theo đơn vị ms).
+Trả lời: [[20]]
+Lời giải
+$T = \dfrac{1}{f} = \dfrac{1}{50} = 0,02$ s $= 20$ ms.
+
+Câu 33. [VD] Khung dây 500 vòng, diện tích mỗi vòng 50 cm², quay đều với tốc độ 1 200 vòng/phút quanh trục vuông góc với từ trường đều $B = 0,1$ T. Tính suất điện động hiệu dụng trong khung (theo đơn vị V, làm tròn đến một chữ số thập phân).
+Trả lời: [[22,2]]
+Lời giải
+$\omega = 2\pi \cdot \dfrac{1200}{60} = 40\pi$ rad/s; $E_0 = NBS\omega = 500 \cdot 0,1 \cdot 0,005 \cdot 40\pi \approx 31,42$ V; $E = \dfrac{E_0}{\sqrt{2}} \approx 22,2$ V.
+
+Câu 34. [VD] Dòng điện $i = 2\sqrt{2}\cos(100\pi t)$ (A) chạy qua điện trở $20\,\Omega$. Tính nhiệt lượng tỏa ra trên điện trở trong 5 phút (theo đơn vị kJ).
+Trả lời: [[24]]
+Lời giải
+$I = 2$ A; $Q = I^2Rt = 4 \cdot 20 \cdot 300 = 24\,000$ J $= 24$ kJ.
+
+Câu 35. [VD] Dòng điện $i = 4\cos\left(100\pi t - \dfrac{\pi}{2}\right)$ (A). Tính cường độ dòng điện tại thời điểm $t = \dfrac{1}{600}$ s (theo đơn vị A).
+Trả lời: [[2]]
+Lời giải
+$i = 4\cos\left(\dfrac{\pi}{6} - \dfrac{\pi}{2}\right) = 4\cos\left(-\dfrac{\pi}{3}\right) = 2$ A.
+
+Câu 36. [VD] Khung dây 100 vòng, diện tích mỗi vòng 250 cm², quay đều quanh trục vuông góc với từ trường đều $B = 0,2$ T. Để suất điện động cực đại là 100 V thì khung phải quay với tốc độ bao nhiêu (theo đơn vị vòng/phút, làm tròn đến hàng đơn vị)?
+Trả lời: [[1910]]
+Lời giải
+$\omega = \dfrac{E_0}{NBS} = \dfrac{100}{100 \cdot 0,2 \cdot 0,025} = 200$ rad/s; $n = \dfrac{\omega}{2\pi} \cdot 60 \approx 1910$ vòng/phút.
+
+Câu 37. [VD] Dòng điện xoay chiều có tần số 50 Hz. Tính số lần dòng điện đổi chiều trong 1 s (theo đơn vị lần).
+Trả lời: [[100]]
+Lời giải
+Trong 1 s có 50 chu kì, mỗi chu kì đổi chiều 2 lần: $50 \cdot 2 = 100$ lần.
+
+Câu 38. [VD] Một đèn được mắc vào điện áp $u = 220\sqrt{2}\cos(100\pi t)$ (V). Đèn chỉ sáng khi $|u| \ge 110\sqrt{2}$ V. Tính tổng thời gian đèn sáng trong 1 phút (theo đơn vị s).
+Trả lời: [[40]]
+Lời giải
+Đèn sáng khi $|\cos(100\pi t)| \ge \dfrac{1}{2}$. Trong mỗi chu kì, điều này đúng trong $\dfrac{2}{3}$ chu kì (hai cung, mỗi cung ứng với góc $\dfrac{2\pi}{3}$). Thời gian sáng trong 1 phút: $\dfrac{2}{3} \cdot 60 = 40$ s.
+
 @bai 18 | Ứng dụng hiện tượng cảm ứng điện từ
+Câu 1. [NB] Máy biến áp hoạt động dựa trên
+A. tác dụng nhiệt của dòng điện.
+B. hiện tượng nhiễm điện do hưởng ứng.
+C. tác dụng hóa học của dòng điện.
+*D. hiện tượng cảm ứng điện từ.
+Lời giải
+Dòng điện xoay chiều trong cuộn sơ cấp gây ra từ thông biến thiên qua cuộn thứ cấp, làm xuất hiện suất điện động cảm ứng: đó là hiện tượng cảm ứng điện từ.
+
+Câu 2. [NB] Trong máy biến áp, cuộn dây được nối với nguồn điện xoay chiều gọi là
+A. cuộn thứ cấp.
+B. cuộn cảm ứng.
+C. lõi biến áp.
+*D. cuộn sơ cấp.
+Lời giải
+Cuộn nối với nguồn điện xoay chiều là cuộn sơ cấp, cuộn nối với tải là cuộn thứ cấp.
+
+Câu 3. [NB] Lõi của máy biến áp thường được làm bằng
+A. một khối đồng liền đặc.
+B. một khối thép liền đặc.
+*C. các lá thép pha silicon mỏng ghép cách điện với nhau.
+D. các lá nhôm mỏng ghép sát, không cách điện.
+Lời giải
+Lõi làm bằng các lá sắt hoặc thép pha silicon ghép cách điện để giảm hao phí do dòng điện Foucault.
+
+Câu 4. [NB] Gọi $U_1$, $U_2$ là điện áp hiệu dụng ở hai đầu cuộn sơ cấp và thứ cấp; $N_1$, $N_2$ là số vòng dây tương ứng. Với máy biến áp lí tưởng,
+A. $\dfrac{U_1}{U_2} = \dfrac{N_2}{N_1}$.
+B. $U_1N_1 = U_2N_2$.
+C. $U_1 + U_2 = N_1 + N_2$.
+*D. $\dfrac{U_1}{U_2} = \dfrac{N_1}{N_2}$.
+Lời giải
+Suất điện động trong mỗi vòng dây ở hai cuộn bằng nhau nên $\dfrac{U_1}{U_2} = \dfrac{N_1}{N_2}$.
+
+Câu 5. [NB] Dòng điện cảm ứng sinh ra trong một khối vật dẫn khi khối đó chuyển động trong từ trường hoặc đặt trong từ trường biến thiên gọi là
+*A. dòng điện Foucault.
+B. dòng điện một chiều.
+C. dòng điện ba pha.
+D. dòng điện dịch.
+Lời giải
+Đó là định nghĩa dòng điện Foucault.
+
+Câu 6. [NB] Trong bộ sạc điện thoại không dây, cuộn dây nằm trong đế sạc (nối với dòng điện xoay chiều) đóng vai trò như
+A. lõi biến áp.
+*B. cuộn sơ cấp.
+C. cuộn thứ cấp.
+D. pin của điện thoại.
+Lời giải
+Cuộn dây trong đế sạc nối với nguồn xoay chiều đóng vai trò cuộn sơ cấp; cuộn dây phía sau điện thoại nối với pin đóng vai trò cuộn thứ cấp.
+
+Câu 7. [NB] Trong đàn ghi ta điện, bộ phận đặt ngay dưới dây đàn để tạo ra dòng điện cảm ứng là
+A. hộp cộng hưởng bằng gỗ.
+B. loa và máy tăng âm.
+*C. cuộn dây có nam châm vĩnh cửu nhỏ bên trong.
+D. tấm kim loại có rãnh xẻ.
+Lời giải
+Mỗi cuộn dây cảm ứng gồm một nam châm vĩnh cửu nhỏ đặt bên trong cuộn dây, nằm ngay dưới dây đàn.
+
+Câu 8. [NB] Đặc tính chung của các dòng điện Foucault là
+A. luôn chạy theo đường thẳng.
+B. chỉ xuất hiện trong chất cách điện.
+*C. có tính chất xoáy (là các đường cong kín trong vật dẫn).
+D. luôn là dòng điện một chiều.
+Lời giải
+Dòng điện Foucault có tính chất xoáy, là các đường cong kín trong khối vật dẫn.
+
+Câu 9. [TH] Nối cuộn sơ cấp của máy biến áp với một acquy (nguồn điện một chiều không đổi) thì giữa hai đầu cuộn thứ cấp
+A. có điện áp xoay chiều lớn hơn.
+B. có điện áp một chiều bằng điện áp acquy.
+C. có điện áp xoay chiều tần số 50 Hz.
+*D. không có điện áp vì từ thông qua cuộn thứ cấp không biến thiên.
+Lời giải
+Dòng điện không đổi tạo từ thông không đổi nên không có suất điện động cảm ứng ở cuộn thứ cấp (trừ lúc đóng, ngắt mạch).
+
+Câu 10. [TH] Lõi máy biến áp được ghép từ các lá thép mỏng phủ sơn cách điện nhằm
+A. giảm khối lượng của máy biến áp đi một nửa.
+B. tăng từ thông qua cuộn thứ cấp lên nhiều lần.
+*C. tăng điện trở đối với dòng điện Foucault, giảm hao phí do tỏa nhiệt.
+D. làm cho dòng điện Foucault trong lõi mạnh hơn.
+Lời giải
+Ghép các lá thép cách điện làm điện trở của lõi đối với dòng Foucault tăng, giảm tác dụng tỏa nhiệt gây hao phí.
+
+Câu 11. [TH] Máy biến áp có số vòng dây cuộn thứ cấp lớn hơn số vòng dây cuộn sơ cấp là
+A. máy hạ áp.
+*B. máy tăng áp.
+C. máy biến đổi tần số.
+D. máy phát điện.
+Lời giải
+$N_2 > N_1$ nên $U_2 > U_1$: máy tăng áp.
+
+Câu 12. [TH] Dây đàn ghi ta điện phải làm bằng thép vì
+*A. thép bị nhiễm từ, trở thành nam châm khi đặt gần nam châm của cuộn dây.
+B. thép dẫn điện tốt hơn đồng.
+C. thép có điện trở nhỏ nên tạo ra dòng điện lớn.
+D. thép không bị dòng điện Foucault làm nóng.
+Lời giải
+Đoạn dây thép nằm trên nam châm bị từ hóa; khi dây dao động, từ trường của nó làm từ thông qua cuộn dây biến thiên.
+
+Câu 13. [TH] Một tấm kim loại có xẻ nhiều rãnh dao động giữa hai cực nam châm lâu hơn tấm kim loại liền khối cùng kích thước vì
+*A. điện trở đối với dòng Foucault tăng nên dòng Foucault yếu hơn.
+B. tấm có rãnh không bị nhiễm từ.
+C. tấm có rãnh nhẹ hơn nên ít chịu lực từ.
+D. từ trường không đi qua được các rãnh.
+Lời giải
+Rãnh xẻ cắt các đường dòng xoáy, điện trở đối với dòng Foucault tăng, dòng Foucault giảm nên lực cản yếu hơn.
+
+Câu 14. [TH] Khi gảy một dây đàn ghi ta điện, dòng điện cảm ứng trong cuộn dây có tần số
+A. bằng 50 Hz như điện lưới.
+*B. bằng tần số dao động của dây đàn.
+C. bằng một nửa tần số dao động của dây đàn.
+D. không phụ thuộc vào dao động của dây đàn.
+Lời giải
+Dòng điện cảm ứng biến đổi cả về chiều và cường độ phù hợp với dao động của dây đàn, cùng tần số với dao động của âm.
+
+Câu 15. [TH] Gảy dây đàn ghi ta điện mạnh hơn thì âm phát ra từ loa to hơn vì
+*A. từ thông qua cuộn dây biến thiên nhanh hơn nên suất điện động lớn hơn.
+B. nam châm trong cuộn dây mạnh lên.
+C. số vòng dây của cuộn cảm ứng tăng lên.
+D. tần số dao động của dây tăng lên.
+Lời giải
+Biên độ dao động lớn hơn làm từ thông biến thiên nhanh hơn; theo $e = -N\dfrac{\Delta\Phi}{\Delta t}$, suất điện động cảm ứng lớn hơn.
+
+Câu 16. [TH] Thiết bị nào sau đây ứng dụng tác dụng có lợi của dòng điện Foucault?
+A. Lõi máy biến áp.
+*B. Bếp từ.
+C. Bóng đèn sợi đốt.
+D. Pin mặt trời.
+Lời giải
+Bếp từ dùng dòng Foucault sinh ra trong đáy nồi để làm nóng nồi. Dòng Foucault trong lõi máy biến áp là có hại.
+
+Câu 17. [VD] Máy biến áp lí tưởng có cuộn sơ cấp 1 000 vòng, cuộn thứ cấp 50 vòng. Đặt vào cuộn sơ cấp điện áp hiệu dụng 220 V. Điện áp hiệu dụng ở hai đầu cuộn thứ cấp để hở là
+*A. 11 V.
+B. 4 400 V.
+C. 22 V.
+D. 110 V.
+Lời giải
+$U_2 = U_1\dfrac{N_2}{N_1} = 220 \cdot \dfrac{50}{1000} = 11$ V.
+
+Câu 18. [VD] Cần một máy biến áp lí tưởng hạ điện áp hiệu dụng 220 V xuống 12 V. Cuộn sơ cấp có 1 100 vòng. Số vòng của cuộn thứ cấp là
+A. 20 167 vòng.
+B. 120 vòng.
+C. 600 vòng.
+*D. 60 vòng.
+Lời giải
+$N_2 = N_1\dfrac{U_2}{U_1} = 1100 \cdot \dfrac{12}{220} = 60$ vòng.
+
+Câu 19. [VD] Máy biến áp có cuộn sơ cấp nối với điện áp hiệu dụng 220 V, cuộn thứ cấp cấp điện cho một đèn 12 V – 60 W sáng bình thường. Bỏ qua mọi hao phí. Cường độ hiệu dụng của dòng điện trong cuộn sơ cấp xấp xỉ
+A. 5 A.
+*B. 0,27 A.
+C. 18,3 A.
+D. 3,67 A.
+Lời giải
+Bỏ qua hao phí, công suất ở cuộn sơ cấp bằng công suất tiêu thụ: $I_1 = \dfrac{P}{U_1} = \dfrac{60}{220} \approx 0,27$ A.
+
+Câu 20. [VD] Loại nồi nào sau đây KHÔNG đun được trên bếp từ?
+A. Nồi có đáy bằng thép.
+B. Nồi gang.
+*C. Nồi bằng sứ.
+D. Nồi inox có đáy nhiễm từ.
+Lời giải
+Bếp từ làm nóng nồi nhờ dòng Foucault xuất hiện trong đáy nồi kim loại nhiễm từ. Nồi sứ không dẫn điện nên không có dòng Foucault.
+
+Câu 21. [VD] Máy biến áp lí tưởng có điện áp hiệu dụng ở cuộn sơ cấp 220 V, cường độ hiệu dụng trong cuộn sơ cấp 0,5 A. Điện áp hiệu dụng ở hai đầu tải nối với cuộn thứ cấp là 55 V. Bỏ qua mọi hao phí. Cường độ hiệu dụng qua tải là
+*A. 2 A.
+B. 0,5 A.
+C. 0,125 A.
+D. 8 A.
+Lời giải
+$U_1I_1 = U_2I_2$ nên $I_2 = \dfrac{220 \cdot 0,5}{55} = 2$ A.
+
+Câu 22. [VD] Để tìm số vòng cuộn sơ cấp của một máy biến áp, người ta nối cuộn sơ cấp với điện áp hiệu dụng 220 V rồi quấn thêm lên lõi một cuộn phụ 10 vòng; vôn kế mắc vào cuộn phụ chỉ 2 V. Số vòng của cuộn sơ cấp là
+A. 440 vòng.
+B. 110 vòng.
+C. 2 200 vòng.
+*D. 1 100 vòng.
+Lời giải
+Điện áp trên mỗi vòng dây là $\dfrac{2}{10} = 0,2$ V nên $N_1 = \dfrac{220}{0,2} = 1100$ vòng.
+
+Câu 23. [TF] [TH] Về cấu tạo và hoạt động của máy biến áp:
+A. Từ thông qua mỗi vòng dây của cuộn sơ cấp lớn hơn từ thông qua mỗi vòng dây của cuộn thứ cấp.
+B. Cuộn thứ cấp là cuộn được nối với nguồn điện.
+*C. Hầu hết đường sức từ chạy trong lõi nên từ thông qua mỗi vòng dây ở hai cuộn bằng nhau.
+D. Máy biến áp làm thay đổi tần số của dòng điện xoay chiều.
+Lời giải
+Chỉ C đúng. A sai vì hầu hết đường sức từ chạy trong lõi nên từ thông qua mỗi vòng ở hai cuộn bằng nhau. B sai vì cuộn nối với nguồn là cuộn sơ cấp. D sai vì máy biến áp không làm thay đổi tần số.
+
+Câu 24. [TF] [TH] Về dòng điện Foucault:
+*A. Xuất hiện trong khối kim loại đặt trong từ trường biến thiên.
+*B. Có tác dụng nhiệt làm lõi máy biến áp nóng lên, gây hao phí.
+C. Dòng Foucault chỉ có hại, không có ứng dụng nào trong thực tế.
+*D. Được ứng dụng trong phanh điện từ.
+Lời giải
+A, B, D đúng. C sai vì dòng Foucault có nhiều ứng dụng: luyện kim, bếp từ, phanh điện từ, đồng hồ đo điện…
+
+Câu 25. [TF] [TH] Về sạc điện thoại không dây:
+*A. Hoạt động dựa trên hiện tượng cảm ứng điện từ như máy biến áp.
+B. Cuộn dây phía sau điện thoại đóng vai trò cuộn sơ cấp.
+*C. Cuộn dây trong đế sạc được nối với dòng điện xoay chiều.
+D. Nếu cuộn dây trong đế sạc nối với dòng điện một chiều không đổi thì vẫn sạc được.
+Lời giải
+A, C đúng. B sai vì cuộn trong điện thoại nối với pin, đóng vai trò cuộn thứ cấp. D sai vì dòng không đổi không làm từ thông biến thiên.
+
+Câu 26. [TF] [VD] Máy biến áp lí tưởng có $N_1 = 2\,000$ vòng, $N_2 = 100$ vòng, cuộn sơ cấp nối với điện áp hiệu dụng 220 V, cuộn thứ cấp nối với điện trở $11\,\Omega$. Bỏ qua mọi hao phí.
+*A. Điện áp hiệu dụng giữa hai đầu cuộn thứ cấp là 11 V.
+*B. Cường độ hiệu dụng qua điện trở là 1 A.
+*C. Cường độ hiệu dụng trong cuộn sơ cấp là 0,05 A.
+D. Đây là máy tăng áp.
+Lời giải
+$U_2 = 220 \cdot \dfrac{100}{2000} = 11$ V; $I_2 = \dfrac{11}{11} = 1$ A; $I_1 = \dfrac{U_2I_2}{U_1} = \dfrac{11}{220} = 0,05$ A. D sai vì $N_2 < N_1$ nên đây là máy hạ áp.
+
+Câu 27. [TF] [VD] Về hoạt động của đàn ghi ta điện:
+*A. Khi dây đàn dao động, từ thông qua cuộn dây cảm ứng biến thiên.
+B. Thay dây thép bằng dây nylon thì đàn vẫn phát âm qua loa như cũ.
+*C. Dòng điện cảm ứng trong cuộn dây có cùng tần số với dao động của dây đàn.
+D. Khi không gảy đàn, cuộn dây vẫn có dòng điện cảm ứng vì bên trong có nam châm.
+Lời giải
+A, C đúng. B sai vì dây nylon không bị nhiễm từ, không làm từ thông biến thiên. D sai vì dây đứng yên thì từ thông không đổi, không có dòng điện cảm ứng.
+
+Câu 28. [TF] [VD] Treo một tấm đồng liền khối cho dao động giữa hai cực của nam châm, sau đó thay bằng tấm đồng có xẻ nhiều rãnh.
+*A. Tấm liền khối dừng lại khá nhanh.
+B. Tấm có rãnh xẻ hoàn toàn không có dòng Foucault nên dao động mãi không dừng.
+*C. Dòng Foucault trong tấm có tác dụng cản trở chuyển động của chính tấm đó.
+*D. Cơ năng của tấm chuyển hóa dần thành nhiệt năng do dòng Foucault.
+Lời giải
+A, C, D đúng: dòng Foucault chống lại chuyển động (định luật Lenz), tỏa nhiệt làm cơ năng giảm. B sai vì rãnh xẻ chỉ làm dòng Foucault yếu đi (vẫn còn), tấm dao động lâu hơn nhưng vẫn dừng do dòng Foucault còn lại và lực cản.
+
+Câu 29. [TF] [VD] Máy biến áp lí tưởng có $N_1 = 500$ vòng, $N_2 = 1\,000$ vòng, cuộn sơ cấp nối với điện áp xoay chiều có giá trị hiệu dụng 110 V. Bỏ qua mọi hao phí.
+*A. Điện áp hiệu dụng ở hai đầu cuộn thứ cấp để hở là 220 V.
+*B. Đây là máy tăng áp.
+C. Khi cuộn thứ cấp nối với tải, cường độ hiệu dụng trong cuộn thứ cấp lớn hơn trong cuộn sơ cấp.
+*D. Nếu quấn thêm để cuộn thứ cấp có 1 500 vòng thì điện áp hiệu dụng ở cuộn thứ cấp để hở là 330 V.
+Lời giải
+A, B, D đúng ($U_2 = 110 \cdot \dfrac{1500}{500} = 330$ V). C sai vì $U_1I_1 = U_2I_2$ mà $U_2 = 2U_1$ nên $I_2 = \dfrac{I_1}{2}$.
+
+Câu 30. [TH] Máy biến áp lí tưởng có cuộn sơ cấp 1 200 vòng, cuộn thứ cấp 90 vòng, điện áp hiệu dụng ở cuộn sơ cấp 220 V. Tính điện áp hiệu dụng ở hai đầu cuộn thứ cấp để hở (theo đơn vị V, làm tròn đến một chữ số thập phân).
+Trả lời: [[16,5]]
+Lời giải
+$U_2 = 220 \cdot \dfrac{90}{1200} = 16,5$ V.
+
+Câu 31. [TH] Máy biến áp lí tưởng hạ điện áp hiệu dụng 220 V xuống 6 V, cuộn sơ cấp có 1 100 vòng. Tính số vòng cuộn thứ cấp (theo đơn vị vòng).
+Trả lời: [[30]]
+Lời giải
+$N_2 = 1100 \cdot \dfrac{6}{220} = 30$ vòng.
+
+Câu 32. [TH] Một máy biến áp lí tưởng hạ điện áp hiệu dụng từ 220 V xuống 5,5 V. Tính tỉ số số vòng dây $\dfrac{N_1}{N_2}$ (tỉ số không có đơn vị; theo đơn vị lần).
+Trả lời: [[40]]
+Lời giải
+$\dfrac{N_1}{N_2} = \dfrac{U_1}{U_2} = \dfrac{220}{5,5} = 40$.
+
+Câu 33. [VD] Máy biến áp lí tưởng có cuộn sơ cấp nối với điện áp hiệu dụng 220 V, cuộn thứ cấp cấp điện 24 V cho một thiết bị tiêu thụ 48 W. Bỏ qua mọi hao phí. Tính cường độ hiệu dụng trong cuộn sơ cấp (theo đơn vị A, làm tròn đến hai chữ số thập phân).
+Trả lời: [[0,22]]
+Lời giải
+$I_1 = \dfrac{P}{U_1} = \dfrac{48}{220} \approx 0,22$ A.
+
+Câu 34. [VD] Một bộ sạc không dây nhận từ nguồn điện công suất 15 W, hiệu suất truyền năng lượng sang pin điện thoại là 75 %. Pin cần nạp thêm năng lượng 15,4 Wh. Tính thời gian sạc (theo đơn vị phút, làm tròn đến hàng đơn vị).
+Trả lời: [[82]]
+Lời giải
+Công suất nạp vào pin: $0,75 \cdot 15 = 11,25$ W. Thời gian: $t = \dfrac{15,4}{11,25} \approx 1,369$ h $\approx 82$ phút.
+
+Câu 35. [VD] Từ thông qua mỗi vòng dây của cuộn thứ cấp biến thiên theo quy luật $\Phi = 2 \cdot 10^{-3}\cos(100\pi t)$ (Wb). Cuộn thứ cấp có 100 vòng. Tính suất điện động hiệu dụng ở cuộn thứ cấp (theo đơn vị V, làm tròn đến một chữ số thập phân).
+Trả lời: [[44,4]]
+Lời giải
+$E_0 = N\omega\Phi_0 = 100 \cdot 100\pi \cdot 2 \cdot 10^{-3} \approx 62,83$ V; $E = \dfrac{E_0}{\sqrt{2}} \approx 44,4$ V.
+
+Câu 36. [VD] Điện áp hiệu dụng 220 V được đưa vào máy biến áp lí tưởng thứ nhất có $\dfrac{N_1}{N_2} = 10$. Điện áp ra của máy thứ nhất được đưa vào máy biến áp lí tưởng thứ hai có $\dfrac{N_1'}{N_2'} = \dfrac{1}{5}$. Tính điện áp hiệu dụng ở đầu ra của máy thứ hai (theo đơn vị V).
+Trả lời: [[110]]
+Lời giải
+Máy thứ nhất: $\dfrac{220}{10} = 22$ V. Máy thứ hai: $22 \cdot 5 = 110$ V.
+
+Câu 37. [VD] Một dây đàn ghi ta điện dao động với tần số 330 Hz. Coi dòng điện cảm ứng biến thiên điều hòa. Tính số lần dòng điện cảm ứng trong cuộn dây đổi chiều trong 0,1 s (theo đơn vị lần).
+Trả lời: [[66]]
+Lời giải
+Dòng điện cảm ứng có tần số 330 Hz, mỗi chu kì đổi chiều 2 lần: $2 \cdot 330 \cdot 0,1 = 66$ lần.
+
+Câu 38. [VD] Một máy biến áp có cuộn sơ cấp 1 000 vòng, cuộn thứ cấp 200 vòng nhưng có 20 vòng bị quấn ngược chiều so với các vòng còn lại. Đặt vào cuộn sơ cấp điện áp hiệu dụng 220 V. Coi máy là lí tưởng. Tính điện áp hiệu dụng ở hai đầu cuộn thứ cấp để hở (theo đơn vị V, làm tròn đến một chữ số thập phân).
+Trả lời: [[35,2]]
+Lời giải
+Suất điện động của 20 vòng quấn ngược triệt tiêu với 20 vòng quấn thuận, nên số vòng hiệu dụng là $200 - 2 \cdot 20 = 160$ vòng. $U_2 = 220 \cdot \dfrac{160}{1000} = 35,2$ V.
+
 @bai 19 | Điện từ trường. Mô hình sóng điện từ
+Câu 1. [NB] Điện trường xoáy là điện trường có
+A. đường sức xuất phát từ điện tích dương.
+B. đường sức là những đường thẳng song song.
+*C. đường sức là những đường cong kín.
+D. đường sức kết thúc ở điện tích âm.
+Lời giải
+Điện trường xoáy có các đường sức là những đường cong kín.
+
+Câu 2. [NB] Nhà vật lí đã khái quát mối liên hệ giữa điện trường biến thiên và từ trường biến thiên, đưa ra khái niệm điện từ trường là
+A. Faraday.
+*B. Maxwell.
+C. Oersted.
+D. Lenz.
+Lời giải
+Maxwell đưa ra kết luận về mối liên quan giữa điện trường biến thiên và từ trường biến thiên trong một trường thống nhất là điện từ trường.
+
+Câu 3. [NB] Sóng điện từ là
+A. dao động của các phân tử môi trường.
+B. dòng chuyển dời có hướng của các electron.
+C. sự lan truyền dao động cơ trong không khí.
+*D. quá trình lan truyền điện từ trường trong không gian.
+Lời giải
+Quá trình lan truyền điện từ trường trong không gian được gọi là sóng điện từ.
+
+Câu 4. [NB] Sóng điện từ là
+*A. sóng ngang.
+B. sóng dọc.
+C. sóng dọc trong chất khí, sóng ngang trong chất rắn.
+D. sóng dọc hay sóng ngang tùy theo tần số.
+Lời giải
+$\vec{E}$ và $\vec{B}$ luôn vuông góc với phương truyền sóng nên sóng điện từ là sóng ngang.
+
+Câu 5. [NB] Trong chân không, sóng điện từ lan truyền với tốc độ xấp xỉ
+A. $3 \cdot 10^5$ m/s.
+B. 340 m/s.
+*C. $3 \cdot 10^8$ m/s.
+D. $3 \cdot 10^{10}$ m/s.
+Lời giải
+Tốc độ lan truyền sóng điện từ trong chân không bằng tốc độ ánh sáng $c \approx 3 \cdot 10^8$ m/s.
+
+Câu 6. [NB] Bước sóng $\lambda$ của sóng điện từ trong chân không có tần số $f$, chu kì $T$ là
+A. $\lambda = \dfrac{c}{T}$.
+*B. $\lambda = cT$.
+C. $\lambda = \dfrac{T}{c}$.
+D. $\lambda = cf$.
+Lời giải
+$\lambda = cT = \dfrac{c}{f}$.
+
+Câu 7. [NB] Tại mỗi điểm trên phương truyền sóng điện từ, cường độ điện trường $\vec{E}$ và cảm ứng từ $\vec{B}$ dao động
+*A. cùng pha nhau.
+B. lệch pha nhau $\dfrac{\pi}{2}$.
+C. ngược pha nhau.
+D. lệch pha nhau $\dfrac{\pi}{4}$.
+Lời giải
+$\vec{E}$ và $\vec{B}$ biến thiên điều hòa theo không gian, thời gian và luôn đồng pha.
+
+Câu 8. [NB] Khi tụ điện đang tích điện hoặc phóng điện, điện trường biến thiên giữa hai bản tụ tương đương với một dòng điện gọi là
+A. dòng điện Foucault.
+B. dòng điện một chiều.
+C. dòng điện cảm ứng.
+*D. dòng điện dịch.
+Lời giải
+Điện trường biến thiên giữa hai bản tụ tương đương với một dòng điện gọi là dòng điện dịch, nó gây ra từ trường.
+
+Câu 9. [TH] Điểm khác nhau cơ bản giữa sóng điện từ và sóng cơ là sóng điện từ
+A. mang năng lượng.
+*B. truyền được trong chân không.
+C. bị phản xạ khi gặp vật cản.
+D. có thể giao thoa với nhau.
+Lời giải
+Sóng cơ không truyền được trong chân không; sóng điện từ truyền được trong mọi môi trường, kể cả chân không. Các tính chất ở ba phương án còn lại là chung cho cả hai loại sóng.
+
+Câu 10. [TH] Trong sóng điện từ, tại mỗi điểm, các vectơ $\vec{E}$ và $\vec{B}$
+*A. vuông góc với nhau và cùng vuông góc với phương truyền sóng.
+B. cùng phương với nhau và vuông góc với phương truyền sóng.
+C. vuông góc với nhau, $\vec{E}$ cùng phương truyền sóng.
+D. cùng phương với nhau và cùng phương truyền sóng.
+Lời giải
+$\vec{E} \perp \vec{B}$ và cả hai vectơ đều vuông góc với phương truyền sóng.
+
+Câu 11. [TH] Điện trường xoáy khác điện trường của điện tích đứng yên ở chỗ điện trường xoáy
+A. không tác dụng lực lên điện tích.
+B. có đường sức đi ra từ điện tích dương.
+C. chỉ tồn tại bên trong dây dẫn.
+*D. do từ trường biến thiên sinh ra và có đường sức khép kín.
+Lời giải
+Điện trường tĩnh có đường sức đi ra từ điện tích dương, kết thúc ở điện tích âm; điện trường xoáy do từ trường biến thiên sinh ra, đường sức khép kín, vẫn tác dụng lực lên điện tích.
+
+Câu 12. [TH] Trường hợp nào sau đây KHÔNG sinh ra điện trường xoáy?
+A. Nam châm rơi qua một ống dây.
+B. Dòng điện xoay chiều chạy trong cuộn dây.
+*C. Nam châm vĩnh cửu đặt đứng yên.
+D. Đóng khóa K của mạch nam châm điện.
+Lời giải
+Điện trường xoáy chỉ xuất hiện ở nơi có từ trường biến thiên theo thời gian; từ trường của nam châm đứng yên không đổi.
+
+Câu 13. [TH] Theo SGK, sóng điện từ có tần số càng cao thì
+*A. khả năng truyền càng xa.
+B. tốc độ trong chân không càng lớn.
+C. bước sóng càng lớn.
+D. chu kì càng lớn.
+Lời giải
+Sóng có tần số càng cao thì khả năng truyền càng xa. Tốc độ trong chân không luôn bằng $c$; $f$ tăng thì $\lambda$ và $T$ giảm.
+
+Câu 14. [TH] Chảo ăng-ten thu sóng truyền hình vệ tinh có dạng mặt parabol để tập trung sóng điện từ về đầu thu đặt ở tiêu điểm. Chảo hoạt động dựa trên hiện tượng
+A. khúc xạ sóng điện từ.
+*B. phản xạ sóng điện từ.
+C. nhiễu xạ sóng điện từ.
+D. giao thoa sóng điện từ.
+Lời giải
+Mặt chảo kim loại phản xạ sóng điện từ và hội tụ sóng về tiêu điểm, giống gương cầu lõm với ánh sáng.
+
+Câu 15. [TH] Khi sóng điện từ truyền từ không khí vào nước thì đại lượng không thay đổi là
+A. tốc độ truyền sóng.
+B. bước sóng.
+C. tốc độ và bước sóng.
+*D. tần số.
+Lời giải
+Khi sóng truyền qua các môi trường, tần số không đổi; tốc độ và bước sóng thay đổi.
+
+Câu 16. [TH] Phát biểu nào sau đây SAI về bước sóng của sóng điện từ trong chân không?
+A. Bước sóng là quãng đường sóng truyền được trong một chu kì.
+*B. Tần số của sóng càng lớn thì bước sóng càng lớn.
+C. Hai sóng cùng tần số thì có cùng bước sóng.
+D. Bước sóng được tính bằng $\lambda = \dfrac{c}{f}$.
+Lời giải
+$\lambda = \dfrac{c}{f}$: tần số càng lớn thì bước sóng càng nhỏ.
+
+Câu 17. [VD] Một đài phát thanh FM phát sóng có tần số 100 MHz. Bước sóng của sóng này trong không khí (coi như chân không) là
+A. 0,3 m.
+B. 30 m.
+*C. 3 m.
+D. 300 m.
+Lời giải
+$\lambda = \dfrac{c}{f} = \dfrac{3 \cdot 10^8}{10^8} = 3$ m.
+
+Câu 18. [VD] Sóng điện từ trong chân không có bước sóng 0,5 m. Tần số của sóng là
+*A. 600 MHz.
+B. 60 MHz.
+C. 6 MHz.
+D. 150 MHz.
+Lời giải
+$f = \dfrac{c}{\lambda} = \dfrac{3 \cdot 10^8}{0,5} = 6 \cdot 10^8$ Hz $= 600$ MHz.
+
+Câu 19. [VD] Sóng điện từ trong chân không có bước sóng 600 m. Chu kì của sóng là
+A. $1,8 \cdot 10^{11}$ s.
+B. $5 \cdot 10^5$ s.
+C. $2 \cdot 10^{-3}$ s.
+*D. $2 \cdot 10^{-6}$ s.
+Lời giải
+$T = \dfrac{\lambda}{c} = \dfrac{600}{3 \cdot 10^8} = 2 \cdot 10^{-6}$ s.
+
+Câu 20. [VD] Khoảng cách từ Trái Đất đến Mặt Trăng khoảng 384 000 km. Thời gian để tín hiệu vô tuyến đi từ Trái Đất đến Mặt Trăng là
+A. 0,128 s.
+*B. 1,28 s.
+C. 2,56 s.
+D. 12,8 s.
+Lời giải
+$t = \dfrac{s}{c} = \dfrac{3,84 \cdot 10^8}{3 \cdot 10^8} = 1,28$ s.
+
+Câu 21. [VD] Một máy radar phát sóng điện từ về phía máy bay, sau $2 \cdot 10^{-4}$ s thì nhận được sóng phản xạ trở về. Khoảng cách từ radar đến máy bay là
+A. 60 km.
+B. 600 km.
+*C. 30 km.
+D. 3 km.
+Lời giải
+Sóng đi và về nên $d = \dfrac{ct}{2} = \dfrac{3 \cdot 10^8 \cdot 2 \cdot 10^{-4}}{2} = 3 \cdot 10^4$ m $= 30$ km.
+
+Câu 22. [VD] Một đài phát sóng AM tần số 990 kHz và một đài phát sóng FM tần số 99 MHz. Tỉ số bước sóng $\dfrac{\lambda_{AM}}{\lambda_{FM}}$ là
+*A. 100.
+B. 0,01.
+C. 10.
+D. 1 000.
+Lời giải
+$\dfrac{\lambda_{AM}}{\lambda_{FM}} = \dfrac{f_{FM}}{f_{AM}} = \dfrac{99 \cdot 10^6}{990 \cdot 10^3} = 100$.
+
+Câu 23. [TF] [TH] Về điện từ trường:
+*A. Từ trường biến thiên theo thời gian sinh ra điện trường xoáy.
+*B. Điện trường biến thiên theo thời gian sinh ra từ trường.
+C. Điện trường xoáy chỉ xuất hiện khi trong vùng đó có dây dẫn kín.
+*D. Tại mỗi điểm, vectơ cảm ứng từ luôn vuông góc với vectơ cường độ điện trường.
+Lời giải
+A, B, D đúng. C sai vì theo Maxwell, điện trường xoáy xuất hiện cả khi không có dây dẫn; vòng dây chỉ giúp ta nhận biết nó.
+
+Câu 24. [TF] [TH] Về sóng điện từ:
+*A. Sóng điện từ là sóng ngang.
+B. Sóng điện từ có tần số càng lớn thì tốc độ lan truyền trong chân không càng lớn.
+*C. Sóng điện từ mang năng lượng khi lan truyền.
+D. Sóng điện từ không bị phản xạ khi gặp vật cản kim loại.
+Lời giải
+A, C đúng. B sai vì mọi sóng điện từ trong chân không đều có tốc độ $c$. D sai vì sóng điện từ tuân theo quy luật phản xạ giống sóng cơ (radar dùng sóng phản xạ).
+
+Câu 25. [TF] [TH] So sánh sóng điện từ với sóng cơ:
+*A. Cả hai loại sóng đều mang năng lượng.
+*B. Cả hai loại sóng đều tuân theo quy luật phản xạ và khúc xạ.
+*C. Sóng điện từ truyền được trong chân không với tốc độ bằng tốc độ ánh sáng.
+D. Sóng âm trong không khí là sóng ngang giống như sóng điện từ.
+Lời giải
+A, B, C đúng. D sai vì sóng âm trong không khí là sóng dọc.
+
+Câu 26. [TF] [VD] Sóng wifi có tần số 2,4 GHz. Lấy $c = 3 \cdot 10^8$ m/s.
+*A. Bước sóng của sóng wifi trong không khí là 12,5 cm.
+*B. Chu kì của sóng xấp xỉ $4,17 \cdot 10^{-10}$ s.
+C. Trong chân không, sóng wifi lan truyền chậm hơn ánh sáng nhìn thấy.
+*D. Trong 1 µs, sóng wifi truyền được quãng đường 300 m.
+Lời giải
+$\lambda = \dfrac{3 \cdot 10^8}{2,4 \cdot 10^9} = 0,125$ m; $T = \dfrac{1}{2,4 \cdot 10^9} \approx 4,17 \cdot 10^{-10}$ s; $s = ct = 3 \cdot 10^8 \cdot 10^{-6} = 300$ m. C sai vì mọi sóng điện từ trong chân không đều có tốc độ $c$.
+
+Câu 27. [TF] [VD] Một tụ điện phẳng đang được tích điện.
+*A. Điện trường giữa hai bản tụ đang tăng.
+*B. Giữa hai bản tụ xuất hiện từ trường.
+*C. Đường sức của từ trường đó bao quanh các đường sức điện và khép kín.
+*D. Khi tụ phóng điện, giữa hai bản tụ cũng xuất hiện từ trường.
+Lời giải
+Cả bốn ý đúng: khi tụ tích điện hoặc phóng điện, điện trường giữa hai bản biến thiên, tương đương dòng điện dịch, gây ra từ trường có đường sức khép kín bao quanh đường sức điện.
+
+Câu 28. [TF] [VD] Một radar phát sóng điện từ tới một máy bay và nhận sóng phản xạ sau 120 µs. Lấy $c = 3 \cdot 10^8$ m/s.
+*A. Máy bay cách radar 18 km.
+*B. Nếu máy bay cách radar 36 km thì thời gian từ lúc phát đến lúc nhận là 240 µs.
+*C. Radar hoạt động được nhờ sóng điện từ bị phản xạ khi gặp vật cản.
+D. Sóng radar lan truyền trong không khí với tốc độ xấp xỉ 340 m/s.
+Lời giải
+$d = \dfrac{ct}{2} = \dfrac{3 \cdot 10^8 \cdot 120 \cdot 10^{-6}}{2} = 18\,000$ m (A đúng); khoảng cách gấp đôi thì thời gian gấp đôi (B đúng); C đúng. D sai vì 340 m/s là tốc độ âm; sóng radar là sóng điện từ, tốc độ xấp xỉ $3 \cdot 10^8$ m/s.
+
+Câu 29. [TF] [VD] Một vệ tinh viễn thông ở độ cao 36 000 km phát tín hiệu xuống một trạm mặt đất ngay bên dưới. Lấy $c = 3 \cdot 10^8$ m/s.
+*A. Thời gian tín hiệu đi từ vệ tinh đến trạm là 0,12 s.
+B. Thời gian tín hiệu đi từ vệ tinh đến trạm là 1,2 s.
+C. Nếu vệ tinh ở độ cao gấp đôi thì thời gian tín hiệu đi tới trạm tăng gấp bốn.
+D. Tín hiệu từ vệ tinh truyền xuống mặt đất với tốc độ bằng tốc độ âm.
+Lời giải
+Chỉ A đúng: $t = \dfrac{3,6 \cdot 10^7}{3 \cdot 10^8} = 0,12$ s. B sai (1,2 s là kết quả khi đổi nhầm đơn vị). C sai vì thời gian tỉ lệ thuận với quãng đường, chỉ tăng gấp đôi. D sai vì tín hiệu là sóng điện từ, tốc độ xấp xỉ $c$.
+
+Câu 30. [TH] Một sóng điện từ có tần số 50 MHz. Tính bước sóng của nó trong chân không (theo đơn vị m).
+Trả lời: [[6]]
+Lời giải
+$\lambda = \dfrac{c}{f} = \dfrac{3 \cdot 10^8}{5 \cdot 10^7} = 6$ m.
+
+Câu 31. [TH] Một sóng điện từ trong chân không có bước sóng 1,5 m. Tính tần số của sóng (theo đơn vị MHz).
+Trả lời: [[200]]
+Lời giải
+$f = \dfrac{c}{\lambda} = \dfrac{3 \cdot 10^8}{1,5} = 2 \cdot 10^8$ Hz $= 200$ MHz.
+
+Câu 32. [TH] Một sóng điện từ trong chân không có bước sóng 30 cm. Tính tần số của sóng (theo đơn vị GHz).
+Trả lời: [[1]]
+Lời giải
+$f = \dfrac{3 \cdot 10^8}{0,3} = 10^9$ Hz $= 1$ GHz.
+
+Câu 33. [VD] Một đài phát sóng ngắn có bước sóng 25 m trong không khí (coi như chân không). Tính chu kì của sóng (theo đơn vị ns, làm tròn đến một chữ số thập phân).
+Trả lời: [[83,3]]
+Lời giải
+$T = \dfrac{\lambda}{c} = \dfrac{25}{3 \cdot 10^8} \approx 8,33 \cdot 10^{-8}$ s $\approx 83,3$ ns.
+
+Câu 34. [VD] Một tàu thăm dò vũ trụ đang cách Trái Đất $2,25 \cdot 10^8$ km. Lấy $c = 3 \cdot 10^8$ m/s. Tính thời gian tín hiệu vô tuyến đi từ tàu về Trái Đất (theo đơn vị phút, làm tròn đến một chữ số thập phân).
+Trả lời: [[12,5]]
+Lời giải
+$t = \dfrac{2,25 \cdot 10^{11}}{3 \cdot 10^8} = 750$ s $= 12,5$ phút.
+
+Câu 35. [VD] Một sóng điện từ có tần số 1 MHz truyền trong không khí (coi như chân không). Quãng đường 1,5 km dài gấp bao nhiêu lần bước sóng (theo đơn vị lần)?
+Trả lời: [[5]]
+Lời giải
+$\lambda = \dfrac{3 \cdot 10^8}{10^6} = 300$ m; số bước sóng $\dfrac{1500}{300} = 5$.
+
+Câu 36. [VD] Lò vi sóng dùng sóng điện từ tần số 2 450 MHz. Trong lò hình thành sóng dừng, khoảng cách giữa hai điểm nóng nhất liền kề (hai bụng sóng liền kề) bằng nửa bước sóng. Tính khoảng cách đó (theo đơn vị cm, làm tròn đến một chữ số thập phân).
+Trả lời: [[6,1]]
+Lời giải
+$\lambda = \dfrac{3 \cdot 10^8}{2,45 \cdot 10^9} \approx 0,1224$ m; $\dfrac{\lambda}{2} \approx 0,0612$ m $\approx 6,1$ cm.
+
+Câu 37. [VD] Ánh sáng (sóng điện từ) đi từ Mặt Trời đến Trái Đất mất khoảng 500 s. Lấy $c = 3 \cdot 10^8$ m/s. Tính khoảng cách từ Mặt Trời đến Trái Đất (theo đơn vị triệu km).
+Trả lời: [[150]]
+Lời giải
+$s = ct = 3 \cdot 10^8 \cdot 500 = 1,5 \cdot 10^{11}$ m $= 150$ triệu km.
+
+Câu 38. [VD] Trên một phương truyền sóng điện từ, khoảng cách giữa hai điểm gần nhau nhất mà tại đó vectơ cường độ điện trường dao động cùng pha bằng một bước sóng. Sóng có tần số 600 kHz truyền trong không khí (coi như chân không). Tính khoảng cách đó (theo đơn vị m).
+Trả lời: [[500]]
+Lời giải
+$\lambda = \dfrac{c}{f} = \dfrac{3 \cdot 10^8}{6 \cdot 10^5} = 500$ m.
+
 @bai 20 | Bài tập về từ trường
+Câu 1. [NB] Chiều đường sức từ của dòng điện chạy trong dây dẫn thẳng dài được xác định bằng quy tắc
+A. bàn tay trái.
+B. bàn tay phải đặt ngửa.
+*C. nắm bàn tay phải.
+D. nắm bàn tay trái.
+Lời giải
+Giơ ngón cái tay phải theo chiều dòng điện, khum bốn ngón quanh dây thì chiều từ cổ tay đến các ngón là chiều đường sức từ.
+
+Câu 2. [NB] Chiều lực từ tác dụng lên đoạn dây dẫn mang dòng điện đặt trong từ trường được xác định bằng quy tắc
+*A. bàn tay trái.
+B. nắm bàn tay trái.
+C. bàn tay phải.
+D. nắm bàn tay phải.
+Lời giải
+Chiều lực từ tác dụng lên dòng điện xác định theo quy tắc bàn tay trái.
+
+Câu 3. [NB] Suất điện động cảm ứng trong cuộn dây $N$ vòng, khi từ thông qua mỗi vòng biến thiên một lượng $\Delta\Phi$ trong thời gian $\Delta t$, là
+*A. $e = -N\dfrac{\Delta\Phi}{\Delta t}$.
+B. $e = -\dfrac{\Delta\Phi}{N\Delta t}$.
+C. $e = -N\Delta\Phi\Delta t$.
+D. $e = -\dfrac{N\Delta t}{\Delta\Phi}$.
+Lời giải
+Theo định luật Faraday (kể đến định luật Lenz): $e = -N\dfrac{\Delta\Phi}{\Delta t}$.
+
+Câu 4. [NB] Khung dây $N$ vòng, diện tích mỗi vòng $S$, quay đều với tốc độ góc $\omega$ quanh trục vuông góc với từ trường đều $B$. Suất điện động cực đại trong khung là
+A. $E_0 = \dfrac{NBS}{\omega}$.
+B. $E_0 = NBS$.
+C. $E_0 = \dfrac{BS\omega}{N}$.
+*D. $E_0 = NBS\omega$.
+Lời giải
+$E_0 = NBS\omega$.
+
+Câu 5. [NB] Đơn vị của cảm ứng từ và của từ thông trong hệ SI lần lượt là
+A. tesla (T) và tesla trên mét vuông (T/m²).
+B. weber (Wb) và tesla (T).
+C. tesla (T) và vôn (V).
+*D. tesla (T) và weber (Wb).
+Lời giải
+Cảm ứng từ đo bằng tesla, từ thông đo bằng weber ($1\,\text{Wb} = 1\,\text{T·m}^2$).
+
+Câu 6. [NB] Một khung dây phẳng đặt trong từ trường đều. Từ thông qua khung có độ lớn cực đại khi
+*A. mặt phẳng khung vuông góc với đường sức từ.
+B. mặt phẳng khung hợp với đường sức từ góc $45^\circ$.
+C. vectơ pháp tuyến của khung vuông góc với đường sức từ.
+D. mặt phẳng khung song song với đường sức từ.
+Lời giải
+Mặt phẳng khung vuông góc với $\vec{B}$ thì pháp tuyến song song với $\vec{B}$, $|\cos\alpha| = 1$, từ thông cực đại.
+
+Câu 7. [NB] Thiết bị nào sau đây hoạt động chủ yếu dựa trên lực từ tác dụng lên dòng điện?
+A. Máy biến áp.
+B. Máy phát điện xoay chiều.
+*C. Động cơ điện.
+D. Bếp từ.
+Lời giải
+Động cơ điện quay nhờ lực từ tác dụng lên các cuộn dây có dòng điện; các thiết bị còn lại dựa trên hiện tượng cảm ứng điện từ.
+
+Câu 8. [NB] Từ trường bên trong lòng một ống dây dài có dòng điện không đổi chạy qua là
+A. từ trường có đường sức tròn đồng tâm.
+*B. từ trường gần như đều.
+C. từ trường bằng 0.
+D. từ trường biến thiên theo thời gian.
+Lời giải
+Đường sức trong lòng ống dây gần như song song, cách đều: từ trường gần như đều.
+
+Câu 9. [TH] Đưa một nam châm lại gần một cuộn dây kín. Dòng điện cảm ứng trong cuộn dây có cường độ lớn hơn khi
+A. cuộn dây có ít vòng dây hơn.
+B. nam châm được đưa lại gần chậm hơn.
+C. cuộn dây có điện trở lớn hơn.
+*D. nam châm được đưa lại gần nhanh hơn.
+Lời giải
+Đưa nhanh hơn thì từ thông biến thiên nhanh hơn, suất điện động $|e| = N\left|\dfrac{\Delta\Phi}{\Delta t}\right|$ lớn hơn nên dòng điện cảm ứng lớn hơn.
+
+Câu 10. [TH] Máy biến áp lí tưởng có số vòng cuộn thứ cấp gấp đôi cuộn sơ cấp, bỏ qua mọi hao phí. So với cường độ hiệu dụng trong cuộn sơ cấp, cường độ hiệu dụng trong cuộn thứ cấp
+A. gấp bốn.
+B. gấp đôi.
+C. bằng nhau.
+*D. bằng một nửa.
+Lời giải
+$U_2 = 2U_1$ và $U_1I_1 = U_2I_2$ nên $I_2 = \dfrac{I_1}{2}$.
+
+Câu 11. [TH] Một khung dây hình chữ nhật có dòng điện đặt trong từ trường đều, mặt phẳng khung vuông góc với đường sức từ. Các lực từ tác dụng lên các cạnh của khung
+A. làm khung quay quanh một cạnh.
+*B. có hợp lực bằng 0.
+C. bằng 0 ở mọi cạnh của khung.
+D. đẩy khung dọc theo đường sức từ.
+Lời giải
+Mỗi cạnh vuông góc với $\vec{B}$ chịu lực nằm trong mặt phẳng khung; lực ở hai cạnh đối diện ngược chiều nên hợp lực bằng 0, chúng chỉ làm dãn hoặc nén khung.
+
+Câu 12. [TH] Từ thông qua một khung dây quay đều biến thiên theo $\Phi = \Phi_0\cos\omega t$. Suất điện động trong khung có độ lớn cực đại tại thời điểm
+A. từ thông có độ lớn cực đại.
+B. từ thông bằng $\dfrac{\Phi_0}{2}$.
+*C. từ thông bằng 0.
+D. từ thông bằng $\dfrac{\Phi_0}{\sqrt{2}}$.
+Lời giải
+$e = \omega\Phi_0\sin\omega t$ cực đại khi $\sin\omega t = \pm 1$, khi đó $\cos\omega t = 0$, tức $\Phi = 0$.
+
+Câu 13. [TH] Thí nghiệm đo lực từ với $B$, $L$ không đổi, dây vuông góc với đường sức. Đồ thị $F$ theo $I$ là đường thẳng qua gốc tọa độ có hệ số góc bằng
+A. $BI$.
+B. $\dfrac{B}{L}$.
+*C. $BL$.
+D. $\dfrac{L}{B}$.
+Lời giải
+$F = (BL) \cdot I$ nên hệ số góc là $BL$; từ đó tính được $B = \dfrac{\text{hệ số góc}}{L}$.
+
+Câu 14. [TH] Đặt nam châm lên một cân điện tử, đoạn dây dẫn được giữ cố định phía trên, nằm ngang và vuông góc với đường sức từ. Khi cho dòng điện qua dây, số chỉ của cân thay đổi vì
+A. dòng điện làm nam châm nặng thêm.
+B. dây bị hút xuống chạm vào cân.
+C. từ trường làm cân bị nhiễm điện.
+*D. nam châm chịu phản lực của lực từ.
+Lời giải
+Theo định luật III Newton, dây chịu lực từ thì nam châm chịu lực cùng độ lớn, ngược chiều; độ thay đổi số chỉ của cân cho biết độ lớn lực từ.
+
+Câu 15. [TH] Khung dây quay đều có từ thông $\Phi = \Phi_0\cos\omega t$ thì suất điện động $e = E_0\cos\left(\omega t + \varphi\right)$ với
+A. $\varphi = 0$.
+*B. $\varphi = -\dfrac{\pi}{2}$.
+C. $\varphi = \pi$.
+D. $\varphi = +\dfrac{\pi}{2}$.
+Lời giải
+$e = -\dfrac{\Delta\Phi}{\Delta t} = \omega\Phi_0\sin\omega t = \omega\Phi_0\cos\left(\omega t - \dfrac{\pi}{2}\right)$: suất điện động trễ pha $\dfrac{\pi}{2}$ so với từ thông.
+
+Câu 16. [TH] Một thanh kim loại thẳng chuyển động tịnh tiến trong từ trường đều, thanh luôn vuông góc với cả vận tốc của nó và đường sức từ. Trong thanh KHÔNG xuất hiện suất điện động cảm ứng khi vận tốc của thanh
+*A. song song với đường sức từ.
+B. hợp với đường sức từ góc $60^\circ$.
+C. vuông góc với đường sức từ.
+D. hợp với đường sức từ góc $30^\circ$.
+Lời giải
+Khi vận tốc song song với đường sức thì thanh không "cắt" đường sức, từ thông qua mạch không đổi, không có suất điện động cảm ứng.
+
+Câu 17. [VD] Đoạn dây dẫn dài 15 cm có dòng điện 5 A, đặt vuông góc với đường sức từ của từ trường đều $B = 0,04$ T. Lực từ tác dụng lên đoạn dây là
+*A. 0,03 N.
+B. 3 N.
+C. 0,3 N.
+D. 0,0012 N.
+Lời giải
+$F = BIL = 0,04 \cdot 5 \cdot 0,15 = 0,03$ N.
+
+Câu 18. [VD] Đoạn dây dài 20 cm có dòng điện 4 A đặt trong từ trường đều $B = 0,05$ T chịu lực từ 0,02 N. Góc nhọn giữa đoạn dây và vectơ cảm ứng từ là
+A. $60^\circ$.
+*B. $30^\circ$.
+C. $90^\circ$.
+D. $45^\circ$.
+Lời giải
+$\sin\alpha = \dfrac{F}{BIL} = \dfrac{0,02}{0,05 \cdot 4 \cdot 0,2} = 0,5$ nên góc nhọn $\alpha = 30^\circ$.
+
+Câu 19. [VD] Một khung dây phẳng diện tích 50 cm² đặt trong từ trường đều $B = 0,4$ T, mặt phẳng khung hợp với vectơ cảm ứng từ góc $60^\circ$. Độ lớn từ thông qua khung là
+A. $1 \cdot 10^{-3}$ Wb.
+*B. $1,73 \cdot 10^{-3}$ Wb.
+C. $2 \cdot 10^{-3}$ Wb.
+D. $1,73 \cdot 10^{-1}$ Wb.
+Lời giải
+Góc giữa $\vec{B}$ và pháp tuyến là $30^\circ$: $\Phi = 0,4 \cdot 50 \cdot 10^{-4} \cdot \cos 30^\circ \approx 1,73 \cdot 10^{-3}$ Wb.
+
+Câu 20. [VD] Khung dây 120 vòng, diện tích mỗi vòng 40 cm², quay đều với tốc độ 1 500 vòng/phút quanh trục vuông góc với từ trường đều $B = 0,25$ T. Suất điện động cực đại trong khung xấp xỉ
+A. 0,12 V.
+B. 180 V.
+C. 3 V.
+*D. 18,8 V.
+Lời giải
+$\omega = 2\pi \cdot \dfrac{1500}{60} = 50\pi$ rad/s; $E_0 = NBS\omega = 120 \cdot 0,25 \cdot 0,004 \cdot 50\pi \approx 18,8$ V.
+
+Câu 21. [VD] Từ thông qua một cuộn dây (tính cho cả cuộn) biến thiên theo $\Phi = 0,05\cos(100\pi t)$ (Wb). Suất điện động cực đại trong cuộn dây xấp xỉ
+*A. 15,7 V.
+B. 5 V.
+C. 314 V.
+D. 0,05 V.
+Lời giải
+$E_0 = \omega\Phi_0 = 100\pi \cdot 0,05 = 5\pi \approx 15,7$ V.
+
+Câu 22. [VD] Trong thí nghiệm đo lực từ, đoạn dây dài 2 cm vuông góc với đường sức từ của nam châm; khi cường độ dòng điện là 4 A thì lực từ đo được là 0,016 N. Độ lớn cảm ứng từ của nam châm là
+A. 20 T.
+B. 0,002 T.
+*C. 0,2 T.
+D. 0,08 T.
+Lời giải
+$B = \dfrac{F}{IL} = \dfrac{0,016}{4 \cdot 0,02} = 0,2$ T.
+
+Câu 23. [TF] [TH] Tổng hợp về từ trường và cảm ứng điện từ:
+*A. Đường sức từ của dòng điện thẳng dài là những đường tròn đồng tâm có tâm nằm trên dây.
+B. Lực từ tác dụng lên đoạn dây song song với đường sức từ có độ lớn cực đại.
+C. Dòng điện cảm ứng xuất hiện khi mạch kín được đặt trong một từ trường mạnh.
+D. Sóng điện từ không truyền được trong chân không.
+Lời giải
+Chỉ A đúng. B sai vì khi dây song song với đường sức thì lực từ bằng 0. C sai vì dòng điện cảm ứng chỉ xuất hiện khi từ thông qua mạch biến thiên. D sai vì sóng điện từ truyền được trong chân không.
+
+Câu 24. [TF] [TH] Đưa cực Bắc của nam châm lại gần một vòng dây kín, nhẹ, treo bằng sợi chỉ, trục nam châm trùng với trục vòng dây:
+*A. Mặt vòng dây đối diện với nam châm là mặt Bắc.
+*B. Vòng dây bị đẩy ra xa nam châm.
+C. Nếu vòng dây bị cắt hở thì vòng vẫn bị đẩy mạnh như khi kín.
+*D. Khi rút nam châm ra xa, vòng dây bị hút theo nam châm.
+Lời giải
+A, B, D đúng theo định luật Lenz. C sai vì vòng hở không có dòng điện cảm ứng nên không bị đẩy (bỏ qua tác dụng rất yếu khác).
+
+Câu 25. [TF] [TH] Về đơn vị của các đại lượng trong chương Từ trường:
+*A. $1\,\text{T} = 1\,\text{N/(A·m)}$.
+*B. $1\,\text{Wb} = 1\,\text{T·m}^2$.
+C. $1\,\text{V} = 1\,\text{Wb·s}$.
+D. $1\,\text{T} = 1\,\text{N·m/A}$.
+Lời giải
+A, B đúng (từ $F = BIL$ và $\Phi = BS$). C sai vì $e = \dfrac{\Delta\Phi}{\Delta t}$ nên $1\,\text{V} = 1\,\text{Wb/s}$. D sai vì $1\,\text{T} = 1\,\text{N/(A·m)}$.
+
+Câu 26. [TF] [VD] Khung dây 200 vòng, diện tích mỗi vòng 100 cm², quay đều 50 vòng/giây quanh trục vuông góc với từ trường đều $B = 0,05$ T. Chọn $t = 0$ lúc vectơ pháp tuyến của khung cùng chiều với $\vec{B}$.
+*A. Từ thông cực đại qua cả khung là 0,1 Wb.
+*B. Tốc độ góc của khung là $100\pi$ rad/s.
+*C. Suất điện động cực đại xấp xỉ 31,4 V.
+D. Biểu thức suất điện động là $e = 31,4\cos(100\pi t)$ (V).
+Lời giải
+$N\Phi_0 = NBS = 200 \cdot 0,05 \cdot 0,01 = 0,1$ Wb; $\omega = 2\pi \cdot 50 = 100\pi$ rad/s; $E_0 = \omega N\Phi_0 = 10\pi \approx 31,4$ V. D sai vì $\Phi = 0,1\cos(100\pi t)$ nên $e = 31,4\cos\left(100\pi t - \dfrac{\pi}{2}\right)$ (V).
+
+Câu 27. [TF] [VD] Nam châm đặt trên cân điện tử, đoạn dây dài 4 cm được giữ cố định ngay phía trên, nằm ngang, vuông góc với đường sức từ. Khi chưa có dòng điện cân chỉ 200,00 g; khi cho dòng điện 3 A qua dây thì cân chỉ 201,20 g. Lấy $g = 10$ m/s².
+*A. Lực từ tác dụng lên đoạn dây hướng lên trên.
+*B. Độ lớn lực từ là 0,012 N.
+*C. Cảm ứng từ của nam châm là 0,1 T.
+D. Nếu đổi chiều dòng điện thì cân vẫn chỉ 201,20 g.
+Lời giải
+Cân chỉ tăng nên nam châm bị đẩy xuống, theo định luật III Newton dây bị đẩy lên (A đúng). $F = 0,0012 \cdot 10 = 0,012$ N (B đúng). $B = \dfrac{0,012}{3 \cdot 0,04} = 0,1$ T (C đúng). Đổi chiều dòng điện thì lực đổi chiều, cân chỉ 198,80 g (D sai).
+
+Câu 28. [TF] [VD] Máy phát điện có điện áp hiệu dụng 220 V nối với cuộn sơ cấp của máy biến áp lí tưởng có $N_1 = 500$ vòng, $N_2 = 50$ vòng; cuộn thứ cấp nối với điện trở $11\,\Omega$. Bỏ qua mọi hao phí.
+*A. Điện áp hiệu dụng ở hai đầu điện trở là 22 V.
+B. Cường độ hiệu dụng qua điện trở là 0,5 A.
+*C. Cường độ hiệu dụng trong cuộn sơ cấp là 0,2 A.
+D. Tần số dòng điện qua điện trở nhỏ hơn tần số của máy phát 10 lần.
+Lời giải
+$U_2 = 220 \cdot \dfrac{50}{500} = 22$ V (A đúng); $I_2 = \dfrac{22}{11} = 2$ A (B sai); $I_1 = \dfrac{22 \cdot 2}{220} = 0,2$ A (C đúng). D sai vì máy biến áp không làm thay đổi tần số.
+
+Câu 29. [TF] [VD] Một đài phát thanh FM phát sóng điện từ tần số 90 MHz. Lấy $c = 3 \cdot 10^8$ m/s.
+*A. Bước sóng của sóng trong không khí xấp xỉ 3,33 m.
+B. Chu kì của sóng là $9 \cdot 10^{-8}$ s.
+*C. Tại mỗi điểm, $\vec{E}$ và $\vec{B}$ vuông góc với phương truyền sóng.
+D. Sóng truyền được 30 km trong 1 ms.
+Lời giải
+$\lambda = \dfrac{3 \cdot 10^8}{9 \cdot 10^7} \approx 3,33$ m (A đúng). $T = \dfrac{1}{9 \cdot 10^7} \approx 1,1 \cdot 10^{-8}$ s (B sai). C đúng. Trong 1 ms sóng đi $3 \cdot 10^8 \cdot 10^{-3} = 3 \cdot 10^5$ m $= 300$ km (D sai).
+
+Câu 30. [TH] Đoạn dây dài 30 cm có dòng điện 2 A, đặt trong từ trường đều $B = 0,1$ T, hợp với đường sức từ góc $30^\circ$. Tính độ lớn lực từ tác dụng lên đoạn dây (theo đơn vị mN).
+Trả lời: [[30]]
+Lời giải
+$F = BIL\sin\alpha = 0,1 \cdot 2 \cdot 0,3 \cdot 0,5 = 0,03$ N $= 30$ mN.
+
+Câu 31. [TH] Một khung dây phẳng diện tích 25 cm² đặt trong từ trường đều $B = 0,8$ T, mặt phẳng khung vuông góc với đường sức từ. Tính từ thông qua khung (theo đơn vị mWb).
+Trả lời: [[2]]
+Lời giải
+$\Phi = BS = 0,8 \cdot 25 \cdot 10^{-4} = 2 \cdot 10^{-3}$ Wb $= 2$ mWb.
+
+Câu 32. [TH] Từ thông qua một vòng dây kín giảm đều từ 0,8 Wb xuống 0,2 Wb trong 0,3 s. Tính độ lớn suất điện động cảm ứng trong vòng dây (theo đơn vị V).
+Trả lời: [[2]]
+Lời giải
+$|e| = \dfrac{|\Delta\Phi|}{\Delta t} = \dfrac{0,6}{0,3} = 2$ V.
+
+Câu 33. [VD] Thí nghiệm đo cảm ứng từ: đoạn dây dài 1,5 cm vuông góc với đường sức từ. Kết quả (I – F): 2 A – 0,0060 N; 4 A – 0,0125 N; 6 A – 0,0180 N; 8 A – 0,0235 N. Tính cảm ứng từ ở mỗi lần đo rồi lấy giá trị trung bình (theo đơn vị mT, làm tròn đến hàng đơn vị).
+Trả lời: [[201]]
+Lời giải
+$B_i = \dfrac{F_i}{I_iL}$: 200 mT; 208,3 mT; 200 mT; 195,8 mT. Trung bình $\bar{B} \approx 201$ mT.
+
+Câu 34. [VD] Cuộn dây 500 vòng, diện tích mỗi vòng 40 cm², điện trở $4\,\Omega$, hai đầu nối kín, đặt trong từ trường đều có $\vec{B}$ vuông góc với mặt phẳng các vòng. Cảm ứng từ tăng đều với tốc độ 0,2 T/s. Tính cường độ dòng điện cảm ứng (theo đơn vị mA).
+Trả lời: [[100]]
+Lời giải
+$|e| = NS\dfrac{\Delta B}{\Delta t} = 500 \cdot 0,004 \cdot 0,2 = 0,4$ V; $I = \dfrac{0,4}{4} = 0,1$ A $= 100$ mA.
+
+Câu 35. [VD] Thanh kim loại dài 0,4 m, đặt vuông góc với hai thanh ray, trượt đều với tốc độ 5 m/s trên hai thanh ray song song nối với điện trở $2\,\Omega$ (bỏ qua điện trở thanh và ray), trong từ trường đều $B = 0,5$ T vuông góc với mặt phẳng ray. Tính độ lớn lực từ tác dụng lên thanh (theo đơn vị N).
+Trả lời: [[0,1]]
+Lời giải
+$e = Blv = 0,5 \cdot 0,4 \cdot 5 = 1$ V; $I = \dfrac{1}{2} = 0,5$ A; $F = BIl = 0,5 \cdot 0,5 \cdot 0,4 = 0,1$ N.
+
+Câu 36. [VD] Cần một máy biến áp lí tưởng hạ điện áp hiệu dụng 220 V xuống 9 V; cuộn sơ cấp có 1 320 vòng. Tính số vòng cuộn thứ cấp (theo đơn vị vòng).
+Trả lời: [[54]]
+Lời giải
+$N_2 = 1320 \cdot \dfrac{9}{220} = 54$ vòng.
+
+Câu 37. [VD] Radar nhận được sóng phản xạ từ một máy bay sau 150 µs kể từ lúc phát. Lấy $c = 3 \cdot 10^8$ m/s. Tính khoảng cách từ radar đến máy bay (theo đơn vị km, làm tròn đến một chữ số thập phân).
+Trả lời: [[22,5]]
+Lời giải
+$d = \dfrac{ct}{2} = \dfrac{3 \cdot 10^8 \cdot 150 \cdot 10^{-6}}{2} = 22\,500$ m $= 22,5$ km.
+
+Câu 38. [VD] Vòng dây kín diện tích 0,02 m², điện trở $0,1\,\Omega$, đặt trong từ trường đều có $\vec{B}$ vuông góc với mặt phẳng vòng. Cảm ứng từ đổi chiều: từ 0,6 T theo một chiều thành 0,6 T theo chiều ngược lại. Tính điện lượng chuyển qua tiết diện dây (theo đơn vị C).
+Trả lời: [[0,24]]
+Lời giải
+$|\Delta\Phi| = 2BS = 2 \cdot 0,6 \cdot 0,02 = 0,024$ Wb; $q = \dfrac{|\Delta\Phi|}{R} = \dfrac{0,024}{0,1} = 0,24$ C.
+
 
 @chuong IV | Vật lí hạt nhân
 
