@@ -1979,7 +1979,7 @@ Câu 4. [NB] Nhiệt độ của khí càng cao thì các phân tử khí chuy�
 A. càng chậm.
 B. với tốc độ không đổi.
 *C. càng nhanh.
-D. càng dừng lại.
+D. theo cùng một hướng.
 Lời giải
 Nhiệt độ của khí càng cao thì tốc độ chuyển động hỗn loạn của các phân tử khí càng lớn.
 
@@ -2188,7 +2188,7 @@ Trả lời: [[400]]
 Lời giải
 $\bar{v} = \dfrac{300 + 350 + 400 + 450 + 500}{5} = \dfrac{2000}{5} = 400$ m/s.
 
-Câu 31. [TH] Một phân tử oxygen chuyển động thẳng đều với tốc độ 400 m/s giữa hai va chạm liên tiếp, quãng đường đi được là 0,2 m. Tính thời gian giữa hai va chạm đó (theo đơn vị ms, làm tròn đến một chữ số thập phân).
+Câu 31. [TH] Trong một bình chứa khí oxygen rất loãng, một phân tử oxygen chuyển động thẳng đều với tốc độ 400 m/s giữa hai va chạm liên tiếp, quãng đường đi được là 0,2 m. Tính thời gian giữa hai va chạm đó (theo đơn vị ms, làm tròn đến một chữ số thập phân).
 Trả lời: [[0,5]]
 Lời giải
 $t = \dfrac{s}{v} = \dfrac{0,2}{400} = 5 \cdot 10^{-4}$ s $= 0,5$ ms.
