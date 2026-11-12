@@ -6396,8 +6396,1116 @@ $v' = \dfrac{0,40 \cdot 0,50}{0,50} = 0,40$ m/s nên $t' = \dfrac{d}{v'} = \dfra
 
 @chuong VI | Chuyển động tròn
 @bai 31 | Động học của chuyển động tròn đều
+Câu 1. [NB] Chuyển động tròn đều là chuyển động có
+A. quỹ đạo là đường tròn và vận tốc không đổi.
+*B. quỹ đạo là đường tròn và tốc độ không đổi.
+C. quỹ đạo là đường thẳng và tốc độ không đổi.
+D. quỹ đạo là đường tròn và gia tốc bằng không.
+Lời giải
+Chuyển động tròn đều có quỹ đạo là đường tròn và tốc độ không đổi. Vận tốc vẫn thay đổi vì hướng của nó luôn đổi.
+
+Câu 2. [NB] Trong hệ SI, đơn vị đo tốc độ góc là
+A. m/s.
+B. rad.
+*C. rad/s.
+D. vòng/phút.
+Lời giải
+Tốc độ góc $\omega = \dfrac{\Delta\theta}{\Delta t}$ với $\Delta\theta$ đo bằng rad và $\Delta t$ đo bằng s nên đơn vị là rad/s.
+
+Câu 3. [NB] Một rađian (1 rad) là góc ở tâm chắn cung tròn có độ dài
+*A. bằng bán kính đường tròn.
+B. bằng đường kính đường tròn.
+C. bằng một nửa chu vi đường tròn.
+D. bằng chu vi đường tròn.
+Lời giải
+Theo định nghĩa, 1 rad là góc ở tâm chắn cung có độ dài bằng bán kính: $\theta = \dfrac{s}{r} = 1$ khi $s = r$.
+
+Câu 4. [NB] Công thức liên hệ giữa tốc độ dài $v$, tốc độ góc $\omega$ và bán kính quỹ đạo $r$ của chuyển động tròn đều là
+A. $v = \dfrac{\omega}{r}$.
+B. $v = \dfrac{r}{\omega}$.
+C. $v = \omega r^2$.
+*D. $v = \omega r$.
+Lời giải
+$v = \dfrac{\Delta s}{\Delta t} = r \cdot \dfrac{\Delta\theta}{\Delta t} = \omega r$.
+
+Câu 5. [NB] Chu kì của chuyển động tròn đều là
+A. số vòng quay được trong một giây.
+*B. thời gian quay hết một vòng.
+C. góc quay được trong một giây.
+D. quãng đường đi được trong một giây.
+Lời giải
+Chu kì $T$ là thời gian chất điểm quay hết một vòng; số vòng quay được trong một giây là tần số.
+
+Câu 6. [NB] Mối liên hệ giữa chu kì $T$ và tần số $f$ của chuyển động tròn đều là
+A. $T = f$.
+B. $T = 2\pi f$.
+*C. $T = \dfrac{1}{f}$.
+D. $T = f^2$.
+Lời giải
+Tần số là số vòng quay trong một giây, mỗi vòng mất $T$ giây nên $f = \dfrac{1}{T}$ hay $T = \dfrac{1}{f}$.
+
+Câu 7. [NB] Trong chuyển động tròn đều, tại mỗi điểm trên quỹ đạo, vectơ vận tốc của chất điểm có phương
+*A. tiếp tuyến với quỹ đạo.
+B. đi qua tâm của quỹ đạo.
+C. không đổi theo thời gian.
+D. vuông góc với mặt phẳng quỹ đạo.
+Lời giải
+Vận tốc của chất điểm luôn có phương tiếp tuyến với quỹ đạo tại điểm đang xét nên phương của nó thay đổi liên tục.
+
+Câu 8. [NB] Trong chuyển động tròn đều, đại lượng nào sau đây có giá trị không đổi theo thời gian?
+A. Vectơ vận tốc.
+B. Vị trí của chất điểm trên quỹ đạo.
+C. Góc quay tính từ lúc bắt đầu chuyển động.
+*D. Tốc độ góc.
+Lời giải
+Chất điểm quay được những góc bằng nhau trong những khoảng thời gian bằng nhau nên tốc độ góc không đổi. Các đại lượng còn lại đều thay đổi.
+
+Câu 9. [TH] Một chất điểm chuyển động tròn đều trên đường tròn có bán kính không đổi. Khi tốc độ góc tăng 3 lần thì
+A. tốc độ dài tăng 3 lần, chu kì tăng 3 lần.
+B. tốc độ dài giảm 3 lần, chu kì giảm 3 lần.
+*C. tốc độ dài tăng 3 lần, chu kì giảm 3 lần.
+D. tốc độ dài không đổi, chu kì giảm 3 lần.
+Lời giải
+$v = \omega r$ với $r$ không đổi nên $v$ tăng 3 lần; $T = \dfrac{2\pi}{\omega}$ nên $T$ giảm 3 lần.
+
+Câu 10. [TH] Góc 1 rad xấp xỉ bằng
+A. 3,14°.
+*B. 57,3°.
+C. 180°.
+D. 360°.
+Lời giải
+$\pi$ rad tương ứng với 180° nên $1 \text{ rad} = \dfrac{180°}{\pi} \approx 57,3°$.
+
+Câu 11. [TH] Góc 135° tương ứng với bao nhiêu rađian?
+*A. $\dfrac{3\pi}{4}$ rad.
+B. $\dfrac{2\pi}{3}$ rad.
+C. $\dfrac{3\pi}{2}$ rad.
+D. $\dfrac{\pi}{4}$ rad.
+Lời giải
+$135° = 135 \cdot \dfrac{\pi}{180} = \dfrac{3\pi}{4}$ rad.
+
+Câu 12. [TH] Một chất điểm chuyển động tròn đều trên đường tròn bán kính $R$. Trong khoảng thời gian bằng nửa chu kì, quãng đường chất điểm đi được và độ lớn độ dịch chuyển của nó lần lượt là
+A. $2R$ và $\pi R$.
+B. $\pi R$ và $0$.
+C. $2\pi R$ và $0$.
+*D. $\pi R$ và $2R$.
+Lời giải
+Sau nửa chu kì chất điểm đi được nửa vòng: quãng đường bằng nửa chu vi, tức $\pi R$; vị trí cuối đối xứng với vị trí đầu qua tâm nên độ dịch chuyển có độ lớn bằng đường kính $2R$.
+
+Câu 13. [TH] Một chất điểm chuyển động tròn đều với tần số 4 Hz. Chu kì chuyển động của chất điểm là
+A. 0,125 s.
+B. 0,20 s.
+*C. 0,25 s.
+D. 4,0 s.
+Lời giải
+$T = \dfrac{1}{f} = \dfrac{1}{4} = 0,25$ s.
+
+Câu 14. [TH] Một đĩa quay đều, trong 6 s quay được 3 vòng. Tốc độ góc của đĩa là
+*A. $\pi$ rad/s.
+B. $2\pi$ rad/s.
+C. $4\pi$ rad/s.
+D. $6\pi$ rad/s.
+Lời giải
+Tần số $f = \dfrac{3}{6} = 0,5$ Hz nên $\omega = 2\pi f = \pi$ rad/s.
+
+Câu 15. [TH] Phát biểu nào sau đây về chuyển động tròn đều là đúng?
+A. Vận tốc không đổi vì tốc độ không đổi.
+*B. Vận tốc đổi hướng nhưng không đổi độ lớn.
+C. Tốc độ góc càng lớn thì chu kì càng lớn.
+D. Tốc độ dài không phụ thuộc vào bán kính quỹ đạo.
+Lời giải
+Độ lớn vận tốc (tốc độ dài) không đổi nhưng hướng luôn thay đổi. Vì $T = \dfrac{2\pi}{\omega}$ nên $\omega$ càng lớn thì $T$ càng nhỏ; và $v = \omega r$ phụ thuộc vào $r$.
+
+Câu 16. [VD] Một chất điểm chuyển động tròn đều trên đường tròn bán kính 0,4 m, quay được 5 vòng trong 4 s. Tốc độ dài của chất điểm xấp xỉ
+A. 0,50 m/s.
+B. 1,57 m/s.
+C. 2,00 m/s.
+*D. 3,14 m/s.
+Lời giải
+Chu kì $T = \dfrac{4}{5} = 0,8$ s nên $v = \dfrac{2\pi r}{T} = \dfrac{2\pi \cdot 0,4}{0,8} = \pi \approx 3,14$ m/s.
+
+Câu 17. [VD] Một vận động viên chạy đều trên đường chạy vòng tròn bán kính 36 m với tốc độ 6 m/s. Thời gian vận động viên chạy hết nửa vòng là
+A. 6,0 s.
+B. 9,4 s.
+*C. 18,8 s.
+D. 37,7 s.
+Lời giải
+Quãng đường nửa vòng $s = \pi r = 36\pi$ m nên $t = \dfrac{s}{v} = \dfrac{36\pi}{6} = 6\pi \approx 18,8$ s.
+
+Câu 18. [VD] Một đĩa quay đều, trong 2 s quay được 5 vòng. Góc mà một điểm trên đĩa quay được trong 0,6 s là
+A. $1,5\pi$ rad.
+*B. $3\pi$ rad.
+C. $6\pi$ rad.
+D. $15\pi$ rad.
+Lời giải
+Tần số $f = \dfrac{5}{2} = 2,5$ Hz nên $\omega = 2\pi f = 5\pi$ rad/s; góc quay trong 0,6 s là $\theta = \omega t = 5\pi \cdot 0,6 = 3\pi$ rad.
+
+Câu 19. [VD] Hai chất điểm chuyển động tròn đều trên hai đường tròn có bán kính $r_1 = 2r_2$ với cùng tốc độ dài. Quan hệ giữa các tốc độ góc $\omega_1$ và $\omega_2$ của chúng là
+*A. $\omega_1 = \dfrac{\omega_2}{2}$.
+B. $\omega_1 = 2\omega_2$.
+C. $\omega_1 = \omega_2$.
+D. $\omega_1 = 4\omega_2$.
+Lời giải
+$v = \omega_1 r_1 = \omega_2 r_2$ nên $\omega_1 = \omega_2 \cdot \dfrac{r_2}{r_1} = \dfrac{\omega_2}{2}$.
+
+Câu 20. [VD] Một điểm trên vành bánh đà có bán kính 0,50 m chuyển động tròn đều với tốc độ dài $2\pi$ m/s. Chu kì quay của bánh đà là
+A. 0,08 s.
+B. 0,25 s.
+*C. 0,50 s.
+D. 12,6 s.
+Lời giải
+$T = \dfrac{2\pi r}{v} = \dfrac{2\pi \cdot 0,50}{2\pi} = 0,50$ s.
+
+Câu 21. [VD] Một điểm trên vành ròng rọc chuyển động tròn đều với tốc độ dài 8 m/s, tốc độ góc của ròng rọc là 20 rad/s. Đường kính của ròng rọc là
+A. 0,4 m.
+B. 2,5 m.
+C. 0,2 m.
+*D. 0,8 m.
+Lời giải
+Bán kính $r = \dfrac{v}{\omega} = \dfrac{8}{20} = 0,4$ m nên đường kính $d = 2r = 0,8$ m.
+
+Câu 22. [VD] Một chất điểm chuyển động tròn đều với chu kì 12 s. Sau khoảng thời gian 2 s, vectơ vận tốc của chất điểm đã quay đi một góc
+A. 30°.
+*B. 60°.
+C. 90°.
+D. 120°.
+Lời giải
+Vectơ vận tốc luôn tiếp tuyến với quỹ đạo nên nó quay cùng một góc với bán kính nối chất điểm với tâm: $\theta = \dfrac{2}{12} \cdot 360° = 60°$.
+
+Câu 23. [TF] [TH] Một chất điểm chuyển động tròn đều trên đường tròn bán kính 2,0 m với chu kì 4,0 s.
+*A. Tần số của chuyển động là 0,25 Hz.
+*B. Tốc độ góc của chất điểm là $\dfrac{\pi}{2}$ rad/s.
+C. Tốc độ dài của chất điểm là $4\pi$ m/s.
+*D. Sau 1,0 s, bán kính nối chất điểm với tâm quay được một góc 90°.
+Lời giải
+c) Sai: $v = \omega r = \dfrac{\pi}{2} \cdot 2,0 = \pi$ m/s (khoảng 3,14 m/s). Các ý còn lại đúng: $f = \dfrac{1}{T} = 0,25$ Hz; $\omega = \dfrac{2\pi}{T} = \dfrac{\pi}{2}$ rad/s; sau 1 s góc quay $\theta = \omega t = \dfrac{\pi}{2}$ rad = 90°.
+
+Câu 24. [TF] [TH] Về các đại lượng đặc trưng của chuyển động tròn đều:
+*A. Tốc độ góc bằng thương số giữa góc quay được và thời gian quay góc đó.
+B. Vectơ vận tốc của chất điểm có hướng không đổi.
+C. Chu kì tỉ lệ thuận với tần số.
+*D. Tần số có đơn vị là héc (Hz), ứng với một vòng quay trong mỗi giây.
+Lời giải
+b) Sai: vận tốc có độ lớn không đổi nhưng hướng luôn thay đổi theo tiếp tuyến của quỹ đạo. c) Sai: $T = \dfrac{1}{f}$ nên chu kì tỉ lệ nghịch với tần số.
+
+Câu 25. [TF] [TH] Một đồng hồ có kim giờ dài 8 cm và kim phút dài 12 cm (tính từ trục quay đến mút kim), các kim quay đều.
+*A. Chu kì quay của kim giờ gấp 12 lần chu kì quay của kim phút.
+*B. Tốc độ góc của kim phút gấp 12 lần tốc độ góc của kim giờ.
+*C. Mút kim phút có tốc độ dài lớn hơn mút kim giờ.
+D. Mút kim phút và mút kim giờ có cùng tốc độ dài.
+Lời giải
+d) Sai: kim phút có tốc độ góc gấp 12 lần và bán kính gấp $\dfrac{12}{8} = 1,5$ lần nên tốc độ dài của mút kim phút gấp $12 \cdot 1,5 = 18$ lần tốc độ dài của mút kim giờ.
+
+Câu 26. [TF] [VD] Hai bánh xe A và B được nối với nhau bằng một dây curoa không trượt. Bán kính bánh A là 10 cm, bán kính bánh B là 25 cm; bánh A quay đều với tốc độ 150 vòng/phút.
+*A. Các điểm trên dây và các điểm ở mép hai bánh có cùng tốc độ dài.
+B. Tốc độ dài của dây curoa xấp xỉ 15,7 m/s.
+C. Hai bánh xe có cùng tốc độ góc.
+D. Bánh B quay với tốc độ 375 vòng/phút.
+Lời giải
+Bánh A có $\omega_A = 150 \cdot \dfrac{2\pi}{60} = 5\pi$ rad/s nên $v = \omega_A r_A = 5\pi \cdot 0,10 \approx 1,57$ m/s (ý b sai, không phải 15,7 m/s). Hai bánh có cùng $v$ nhưng bán kính khác nhau nên tốc độ góc khác nhau (ý c sai): $\omega_B = \dfrac{v}{r_B} = \dfrac{1,57}{0,25} \approx 6,28$ rad/s, tức 60 vòng/phút chứ không phải 375 vòng/phút (ý d sai).
+
+Câu 27. [TF] [VD] Một đĩa tròn bán kính 20 cm quay đều quanh trục đi qua tâm đĩa, mỗi phút quay được 90 vòng.
+*A. Tốc độ góc của đĩa là $3\pi$ rad/s.
+*B. Tần số quay của đĩa là 1,5 Hz.
+C. Tốc độ dài của điểm ở mép đĩa là 1,2 m/s.
+D. Điểm cách tâm đĩa 10 cm có cùng tốc độ dài với điểm ở mép đĩa.
+Lời giải
+$f = \dfrac{90}{60} = 1,5$ Hz và $\omega = 2\pi f = 3\pi$ rad/s. c) Sai: $v = \omega r = 3\pi \cdot 0,20 \approx 1,88$ m/s. d) Sai: hai điểm có cùng tốc độ góc, bán kính chỉ bằng một nửa nên tốc độ dài cũng chỉ bằng một nửa.
+
+Câu 28. [TF] [VD] Một vòng đu quay có bán kính 20 m, quay đều, mỗi vòng mất 4 phút. Xét một người ngồi ở mép vòng đu quay (coi là chất điểm).
+*A. Tốc độ góc của người đó xấp xỉ 0,026 rad/s.
+*B. Tốc độ dài của người đó xấp xỉ 0,52 m/s.
+*C. Sau 1 phút, bán kính nối người đó với tâm quay được góc $\dfrac{\pi}{2}$ rad.
+D. Nếu chu kì không đổi thì tốc độ dài của người đó tỉ lệ nghịch với khoảng cách từ người đó đến trục quay.
+Lời giải
+$T = 240$ s nên $\omega = \dfrac{2\pi}{240} \approx 0,026$ rad/s, $v = \omega r \approx 0,026 \cdot 20 \approx 0,52$ m/s; sau 60 s góc quay là $\dfrac{60}{240}$ vòng, tức $\dfrac{\pi}{2}$ rad. d) Sai: $v = \dfrac{2\pi r}{T}$ nên với $T$ không đổi, $v$ tỉ lệ thuận với $r$.
+
+Câu 29. [TF] [VD] Một chất điểm chuyển động tròn đều trên đường tròn bán kính 2,0 m, đi được cung dài 6,0 m trong 4,0 s.
+*A. Tốc độ dài của chất điểm là 1,5 m/s.
+*B. Tốc độ góc của chất điểm là 0,75 rad/s.
+*C. Trong 4,0 s, bán kính nối chất điểm với tâm quay được góc 3,0 rad.
+*D. Chu kì của chuyển động xấp xỉ 8,4 s.
+Lời giải
+Cả bốn ý đều đúng: $v = \dfrac{s}{t} = \dfrac{6,0}{4,0} = 1,5$ m/s; $\omega = \dfrac{v}{r} = 0,75$ rad/s; $\theta = \dfrac{s}{r} = 3,0$ rad; $T = \dfrac{2\pi}{\omega} = \dfrac{2\pi}{0,75} \approx 8,4$ s.
+
+Câu 30. [TH] Một quạt trần quay đều, trong 1 phút quay được 150 vòng. Tính chu kì quay của cánh quạt (theo đơn vị s).
+Trả lời: [[0,4]]
+Lời giải
+Mỗi vòng mất $T = \dfrac{60}{150} = 0,4$ s.
+
+Câu 31. [TH] Một chất điểm chuyển động tròn đều trên đường tròn bán kính 1,5 m, đi được cung dài 3 m. Tính góc ở tâm mà bán kính nối chất điểm với tâm đã quét được (theo đơn vị rad).
+Trả lời: [[2]]
+Lời giải
+$\theta = \dfrac{s}{r} = \dfrac{3}{1,5} = 2$ rad.
+
+Câu 32. [TH] Kim giây của một đồng hồ quay đều. Tính tốc độ góc của kim giây (theo đơn vị rad/s), làm tròn đến hai chữ số thập phân.
+Trả lời: [[0,10]]
+Lời giải
+Kim giây quay một vòng trong 60 s nên $\omega = \dfrac{2\pi}{60} \approx 0,10$ rad/s.
+
+Câu 33. [VD] Một quạt quay đều với tốc độ 450 vòng/phút. Đầu cánh quạt cách trục quay 0,40 m. Tính tốc độ dài của đầu cánh quạt (theo đơn vị m/s), làm tròn đến một chữ số thập phân.
+Trả lời: [[18,8]]
+Lời giải
+$\omega = 450 \cdot \dfrac{2\pi}{60} = 15\pi$ rad/s nên $v = \omega r = 15\pi \cdot 0,40 = 6\pi \approx 18,8$ m/s.
+
+Câu 34. [VD] Một vệ tinh nhân tạo chuyển động tròn đều quanh Trái Đất trên quỹ đạo có bán kính 6800 km, chu kì 92 phút. Tính tốc độ dài của vệ tinh (theo đơn vị km/s), làm tròn đến một chữ số thập phân.
+Trả lời: [[7,7]]
+Lời giải
+$T = 92 \cdot 60 = 5520$ s nên $v = \dfrac{2\pi r}{T} = \dfrac{2\pi \cdot 6800}{5520} \approx 7,7$ km/s.
+
+Câu 35. [VD] Bánh xe của một xe máy có đường kính 60 cm, lăn không trượt khi xe chạy với tốc độ 54 km/h. Tính số vòng bánh xe quay được trong mỗi giây (theo đơn vị vòng/s), làm tròn đến hàng đơn vị.
+Trả lời: [[8]]
+Lời giải
+$v = 54$ km/h $= 15$ m/s và $r = 0,30$ m nên $\omega = \dfrac{v}{r} = 50$ rad/s; tần số $f = \dfrac{\omega}{2\pi} = \dfrac{50}{2\pi} \approx 8$ vòng/s.
+
+Câu 36. [VD] Một chất điểm chuyển động tròn đều trên đường tròn bán kính 0,50 m với tốc độ dài 2,0 m/s. Tính số vòng chất điểm quay được trong 1 phút (theo đơn vị vòng), làm tròn đến một chữ số thập phân.
+Trả lời: [[38,2]]
+Lời giải
+$\omega = \dfrac{v}{r} = 4$ rad/s nên $f = \dfrac{\omega}{2\pi} = \dfrac{4}{2\pi} \approx 0,637$ Hz; số vòng trong 60 s là $60 \cdot 0,637 \approx 38,2$.
+
+Câu 37. [VD] Lúc 12 giờ đúng, kim giờ và kim phút của một đồng hồ chạy đều trùng nhau. Tính khoảng thời gian ngắn nhất từ lúc đó đến lần trùng nhau kế tiếp (theo đơn vị phút), làm tròn đến một chữ số thập phân.
+Trả lời: [[65,5]]
+Lời giải
+Kim phút quay 1 vòng trong 60 phút, kim giờ quay 1 vòng trong 720 phút. Kim phút phải quay hơn kim giờ đúng 1 vòng: $\left(\dfrac{1}{60} - \dfrac{1}{720}\right)t = 1$ nên $t = \dfrac{720}{11} \approx 65,5$ phút.
+
+Câu 38. [VD] Trái Đất tự quay quanh trục với chu kì 24 giờ. Coi Trái Đất là hình cầu bán kính 6400 km. Tính tốc độ dài của một điểm trên xích đạo (theo đơn vị m/s), làm tròn đến hàng đơn vị.
+Trả lời: [[465]]
+Lời giải
+$T = 24 \cdot 3600 = 86400$ s nên $v = \dfrac{2\pi R}{T} = \dfrac{2\pi \cdot 6,4 \cdot 10^6}{86400} \approx 465$ m/s.
+
 @bai 32 | Lực hướng tâm và gia tốc hướng tâm
+Câu 1. [NB] Gia tốc hướng tâm của chất điểm chuyển động tròn đều có phương chiều
+*A. hướng vào tâm quỹ đạo.
+B. cùng hướng với vectơ vận tốc.
+C. ngược hướng với vectơ vận tốc.
+D. hướng ra xa tâm quỹ đạo.
+Lời giải
+Trong chuyển động tròn đều, gia tốc luôn hướng vào tâm quỹ đạo nên gọi là gia tốc hướng tâm.
+
+Câu 2. [NB] Công thức tính độ lớn gia tốc hướng tâm theo tốc độ dài $v$ và bán kính quỹ đạo $r$ là
+A. $a_{ht} = \dfrac{v}{r}$.
+B. $a_{ht} = \dfrac{r}{v^2}$.
+C. $a_{ht} = v^2 r$.
+*D. $a_{ht} = \dfrac{v^2}{r}$.
+Lời giải
+$a_{ht} = \dfrac{v^2}{r}$.
+
+Câu 3. [NB] Công thức tính độ lớn gia tốc hướng tâm theo tốc độ góc $\omega$ và bán kính quỹ đạo $r$ là
+A. $a_{ht} = \omega r$.
+*B. $a_{ht} = \omega^2 r$.
+C. $a_{ht} = \dfrac{\omega^2}{r}$.
+D. $a_{ht} = \dfrac{\omega}{r^2}$.
+Lời giải
+Thay $v = \omega r$ vào $a_{ht} = \dfrac{v^2}{r}$ được $a_{ht} = \omega^2 r$.
+
+Câu 4. [NB] Trong hệ SI, đơn vị của gia tốc hướng tâm là
+A. rad/s.
+B. m/s.
+*C. m/s².
+D. rad/s².
+Lời giải
+Gia tốc có đơn vị m/s²; từ $a_{ht} = \dfrac{v^2}{r}$ cũng được $\dfrac{(\text{m/s})^2}{\text{m}} = \text{m/s}^2$.
+
+Câu 5. [NB] Lực hướng tâm là
+*A. hợp lực gây ra gia tốc hướng tâm cho vật.
+B. một loại lực riêng, tác dụng thêm lên vật chuyển động tròn.
+C. lực hướng ra xa tâm, cân bằng với lực hấp dẫn.
+D. lực do vật chuyển động tròn tác dụng lên vật khác.
+Lời giải
+Lực hướng tâm không phải là một loại lực mới: đó là lực (hay hợp lực của các lực) tác dụng lên vật, hướng vào tâm quỹ đạo và gây ra gia tốc hướng tâm.
+
+Câu 6. [NB] Công thức tính độ lớn lực hướng tâm tác dụng lên vật khối lượng $m$ chuyển động tròn đều với tốc độ $v$ trên quỹ đạo bán kính $r$ là
+A. $F_{ht} = \dfrac{mv}{r}$.
+B. $F_{ht} = mv^2 r$.
+*C. $F_{ht} = \dfrac{mv^2}{r}$.
+D. $F_{ht} = m\omega r$.
+Lời giải
+Theo định luật 2 Newton, $F_{ht} = ma_{ht} = \dfrac{mv^2}{r}$.
+
+Câu 7. [NB] Lực đóng vai trò lực hướng tâm giữ cho Mặt Trăng chuyển động gần tròn quanh Trái Đất là
+A. lực đẩy của Trái Đất lên Mặt Trăng.
+B. lực ma sát giữa Mặt Trăng và không gian.
+C. phản lực của quỹ đạo tác dụng lên Mặt Trăng.
+*D. lực hấp dẫn của Trái Đất.
+Lời giải
+Lực hấp dẫn của Trái Đất tác dụng lên Mặt Trăng hướng vào tâm quỹ đạo nên đóng vai trò lực hướng tâm.
+
+Câu 8. [NB] Một vật nhỏ đặt trên mặt bàn nằm ngang đang quay đều và vật không trượt so với bàn. Lực đóng vai trò lực hướng tâm là
+A. trọng lực của vật.
+*B. lực ma sát nghỉ giữa vật và mặt bàn.
+C. phản lực của mặt bàn lên vật.
+D. lực ma sát trượt giữa vật và mặt bàn quay.
+Lời giải
+Trọng lực và phản lực cân bằng nhau theo phương thẳng đứng; lực ma sát nghỉ nằm ngang, hướng vào trục quay, đóng vai trò lực hướng tâm.
+
+Câu 9. [TH] Một chất điểm chuyển động tròn đều. Nếu giữ nguyên bán kính quỹ đạo và tăng tốc độ dài lên 2 lần thì gia tốc hướng tâm
+A. tăng 2 lần.
+*B. tăng 4 lần.
+C. giảm 2 lần.
+D. không đổi.
+Lời giải
+$a_{ht} = \dfrac{v^2}{r}$ tỉ lệ với $v^2$ nên khi $v$ tăng 2 lần thì $a_{ht}$ tăng 4 lần.
+
+Câu 10. [TH] Gia tốc hướng tâm của chất điểm chuyển động tròn đều có
+A. độ lớn thay đổi, hướng không đổi.
+B. độ lớn không đổi, hướng không đổi.
+C. độ lớn thay đổi, hướng thay đổi.
+*D. độ lớn không đổi, hướng thay đổi.
+Lời giải
+$a_{ht} = \dfrac{v^2}{r}$ có độ lớn không đổi, nhưng luôn hướng vào tâm nên hướng của nó thay đổi theo vị trí của chất điểm.
+
+Câu 11. [TH] Phát biểu nào sau đây về lực hướng tâm trong chuyển động tròn đều là đúng?
+A. Lực hướng tâm làm tăng tốc độ dài của vật theo thời gian.
+B. Lực hướng tâm làm thay đổi cả độ lớn lẫn hướng của vận tốc.
+*C. Lực hướng tâm chỉ làm đổi hướng vận tốc.
+D. Lực hướng tâm cùng hướng với vận tốc của vật.
+Lời giải
+Lực hướng tâm vuông góc với vận tốc nên chỉ làm đổi hướng của vận tốc, không làm đổi độ lớn của nó.
+
+Câu 12. [TH] Buộc một vật nhỏ vào đầu một sợi dây rồi quay đều vật trên mặt bàn nằm ngang nhẵn. Lực đóng vai trò lực hướng tâm là
+*A. lực căng của dây.
+B. trọng lực của vật.
+C. phản lực của mặt bàn.
+D. hợp lực của trọng lực và phản lực của mặt bàn.
+Lời giải
+Trọng lực và phản lực của mặt bàn cân bằng nhau (hợp lực bằng 0); lực nằm ngang duy nhất là lực căng của dây, hướng vào tâm quỹ đạo.
+
+Câu 13. [TH] Một chất điểm chuyển động tròn đều trên đường tròn bán kính 2 m với tốc độ 4 m/s. Gia tốc hướng tâm của chất điểm là
+A. 2 m/s².
+B. 4 m/s².
+*C. 8 m/s².
+D. 16 m/s².
+Lời giải
+$a_{ht} = \dfrac{v^2}{r} = \dfrac{4^2}{2} = 8$ m/s².
+
+Câu 14. [TH] Một vật chuyển động tròn đều trên đường tròn bán kính 0,5 m với tốc độ góc 3 rad/s. Gia tốc hướng tâm của vật là
+A. 1,5 m/s².
+B. 2,25 m/s².
+C. 3,0 m/s².
+*D. 4,5 m/s².
+Lời giải
+$a_{ht} = \omega^2 r = 3^2 \cdot 0,5 = 4,5$ m/s².
+
+Câu 15. [TH] Một vật khối lượng 0,5 kg chuyển động tròn đều với gia tốc hướng tâm 6 m/s². Độ lớn lực hướng tâm tác dụng lên vật là
+A. 1,5 N.
+*B. 3 N.
+C. 6 N.
+D. 12 N.
+Lời giải
+$F_{ht} = ma_{ht} = 0,5 \cdot 6 = 3$ N.
+
+Câu 16. [VD] Một vật khối lượng 2 kg chuyển động tròn đều với chu kì 4 s trên đường tròn bán kính 3 m. Độ lớn lực hướng tâm tác dụng lên vật xấp xỉ
+A. 4,7 N.
+B. 9,4 N.
+*C. 14,8 N.
+D. 29,6 N.
+Lời giải
+$\omega = \dfrac{2\pi}{T} = \dfrac{\pi}{2}$ rad/s nên $F_{ht} = m\omega^2 r = 2 \cdot \dfrac{\pi^2}{4} \cdot 3 = 1,5\pi^2 \approx 14,8$ N.
+
+Câu 17. [VD] Một vật nhỏ khối lượng 0,5 kg buộc vào đầu một sợi dây dài 0,4 m rồi quay đều trên mặt bàn nằm ngang nhẵn. Dây chịu được lực căng tối đa 10 N. Tốc độ dài lớn nhất của vật để dây không đứt là
+*A. 2,8 m/s.
+B. 4,0 m/s.
+C. 8,0 m/s.
+D. 20 m/s.
+Lời giải
+Lực căng dây là lực hướng tâm: $T = \dfrac{mv^2}{r}$ nên $v = \sqrt{\dfrac{Tr}{m}} = \sqrt{\dfrac{10 \cdot 0,4}{0,5}} = \sqrt{8} \approx 2,8$ m/s.
+
+Câu 18. [VD] Coi Trái Đất chuyển động tròn đều quanh Mặt Trời trên quỹ đạo bán kính $1,5 \cdot 10^{11}$ m, chu kì 365 ngày. Gia tốc hướng tâm của Trái Đất xấp xỉ
+A. $1,5 \cdot 10^{-4}$ m/s².
+*B. $6,0 \cdot 10^{-3}$ m/s².
+C. $6,0 \cdot 10^{-2}$ m/s².
+D. $1,5 \cdot 10^{-2}$ m/s².
+Lời giải
+$T = 365 \cdot 86400 \approx 3,15 \cdot 10^7$ s nên $a_{ht} = \dfrac{4\pi^2 r}{T^2} = \dfrac{4\pi^2 \cdot 1,5 \cdot 10^{11}}{(3,15 \cdot 10^7)^2} \approx 6,0 \cdot 10^{-3}$ m/s².
+
+Câu 19. [VD] Buộc một quả cầu khối lượng 0,3 kg vào đầu sợi dây dài 1,0 m rồi quay trong mặt phẳng thẳng đứng. Khi quả cầu qua điểm thấp nhất với tốc độ 4 m/s, lấy $g = 10$ m/s², lực căng của dây khi đó là
+A. 1,8 N.
+B. 3,0 N.
+C. 4,8 N.
+*D. 7,8 N.
+Lời giải
+Tại điểm thấp nhất, lực căng hướng lên còn trọng lực hướng xuống nên hợp lực hướng tâm là $T - mg = \dfrac{mv^2}{r}$. Suy ra $T = m\left(g + \dfrac{v^2}{r}\right) = 0,3 \cdot (10 + 16) = 7,8$ N.
+
+Câu 20. [VD] Ô tô chạy trên đường vòng nằm ngang có bán kính 40 m. Hệ số ma sát nghỉ giữa lốp xe và mặt đường là 0,5; lấy $g = 10$ m/s². Tốc độ lớn nhất để xe không bị trượt ra ngoài đường vòng là
+A. 7,1 m/s.
+B. 10,0 m/s.
+*C. 14,1 m/s.
+D. 20,0 m/s.
+Lời giải
+Lực ma sát nghỉ cực đại là lực hướng tâm lớn nhất: $\mu mg = \dfrac{mv^2}{r}$ nên $v = \sqrt{\mu g r} = \sqrt{0,5 \cdot 10 \cdot 40} = \sqrt{200} \approx 14,1$ m/s.
+
+Câu 21. [VD] Một bánh đà bán kính 0,3 m quay đều với tốc độ 600 vòng/phút. Gia tốc hướng tâm của một điểm trên vành bánh đà xấp xỉ
+*A. $1,2 \cdot 10^3$ m/s².
+B. $1,9 \cdot 10^1$ m/s².
+C. $3,8 \cdot 10^2$ m/s².
+D. $1,1 \cdot 10^5$ m/s².
+Lời giải
+$\omega = 600 \cdot \dfrac{2\pi}{60} = 20\pi$ rad/s nên $a_{ht} = \omega^2 r = (20\pi)^2 \cdot 0,3 \approx 1,2 \cdot 10^3$ m/s².
+
+Câu 22. [VD] Một vật chuyển động tròn đều trên đường tròn có bán kính không đổi. Nếu khối lượng vật tăng 2 lần và tốc độ góc tăng 2 lần thì độ lớn lực hướng tâm tăng
+A. 4 lần.
+*B. 8 lần.
+C. 6 lần.
+D. 16 lần.
+Lời giải
+$F_{ht} = m\omega^2 r$ nên khi $m$ tăng 2 lần và $\omega$ tăng 2 lần thì $F_{ht}$ tăng $2 \cdot 2^2 = 8$ lần.
+
+Câu 23. [TF] [TH] Một vật nhỏ khối lượng 0,2 kg chuyển động tròn đều trên đường tròn bán kính 0,5 m với tốc độ 2 m/s.
+*A. Gia tốc hướng tâm của vật là 8 m/s².
+*B. Độ lớn lực hướng tâm tác dụng lên vật là 1,6 N.
+C. Gia tốc hướng tâm của vật cùng hướng với vận tốc.
+*D. Nếu tốc độ tăng gấp đôi (bán kính giữ nguyên) thì lực hướng tâm tăng gấp 4 lần.
+Lời giải
+$a_{ht} = \dfrac{v^2}{r} = \dfrac{4}{0,5} = 8$ m/s² và $F_{ht} = ma_{ht} = 1,6$ N; vì $F_{ht}$ tỉ lệ với $v^2$ nên ý d đúng. c) Sai: gia tốc hướng tâm hướng vào tâm, vuông góc với vận tốc.
+
+Câu 24. [TF] [TH] Về lực hướng tâm:
+*A. Lực hướng tâm là lực (hay hợp lực của các lực) hướng vào tâm quỹ đạo và gây ra gia tốc hướng tâm.
+B. Lực hướng tâm là một loại lực mới, xuất hiện thêm bên cạnh các lực tác dụng lên vật.
+C. Lực hướng tâm có cùng hướng với vận tốc của vật.
+*D. Khi ô tô chạy trên đường vòng nằm ngang, lực ma sát nghỉ giữa lốp xe và mặt đường đóng vai trò lực hướng tâm.
+Lời giải
+b) Sai: lực hướng tâm là tên gọi theo tác dụng của lực (hay hợp lực), không phải lực thêm vào. c) Sai: lực hướng tâm vuông góc với vận tốc.
+
+Câu 25. [TF] [TH] Coi Mặt Trăng chuyển động tròn đều quanh Trái Đất.
+*A. Lực hấp dẫn của Trái Đất lên Mặt Trăng đóng vai trò lực hướng tâm.
+B. Gia tốc của Mặt Trăng bằng 0 vì tốc độ của nó không đổi.
+C. Lực hấp dẫn của Trái Đất lên Mặt Trăng cùng hướng với vận tốc của Mặt Trăng.
+D. Ngoài lực hấp dẫn, Mặt Trăng còn chịu thêm một lực hướng tâm riêng.
+Lời giải
+b) Sai: vận tốc đổi hướng nên gia tốc (gia tốc hướng tâm) khác 0. c) Sai: lực hấp dẫn hướng vào tâm, vuông góc với vận tốc. d) Sai: lực hấp dẫn chính là lực hướng tâm, không có lực nào khác thêm vào.
+
+Câu 26. [TF] [VD] Một vật nhỏ khối lượng 0,4 kg buộc vào sợi dây dài 0,5 m, quay đều trên mặt bàn nằm ngang nhẵn với tốc độ góc 6 rad/s.
+*A. Tốc độ dài của vật là 3 m/s.
+*B. Gia tốc hướng tâm của vật là 18 m/s².
+*C. Lực căng của dây là 7,2 N.
+*D. Nếu tốc độ góc tăng gấp đôi thì lực căng của dây là 28,8 N.
+Lời giải
+Cả bốn ý đều đúng: $v = \omega r = 6 \cdot 0,5 = 3$ m/s; $a_{ht} = \omega^2 r = 36 \cdot 0,5 = 18$ m/s²; $T = F_{ht} = ma_{ht} = 0,4 \cdot 18 = 7,2$ N; với $\omega = 12$ rad/s thì $T = 0,4 \cdot 144 \cdot 0,5 = 28,8$ N.
+
+Câu 27. [TF] [VD] Một ô tô khối lượng 800 kg chạy với tốc độ 36 km/h vào đoạn đường vòng nằm ngang bán kính 40 m. Hệ số ma sát nghỉ giữa lốp xe và mặt đường là 0,2; lấy $g = 10$ m/s².
+*A. Tốc độ của xe là 10 m/s.
+*B. Gia tốc hướng tâm của xe là 2,5 m/s².
+*C. Lực ma sát nghỉ cần thiết để xe đi vòng là 2000 N.
+D. Xe đi qua đoạn đường vòng này mà không bị trượt.
+Lời giải
+$a_{ht} = \dfrac{10^2}{40} = 2,5$ m/s² và $F_{ht} = 800 \cdot 2,5 = 2000$ N. d) Sai: lực ma sát nghỉ cực đại là $\mu mg = 0,2 \cdot 800 \cdot 10 = 1600$ N, nhỏ hơn 2000 N nên xe bị trượt ra ngoài.
+
+Câu 28. [TF] [VD] Một vật nhỏ khối lượng 0,2 kg đặt cách trục quay 0,25 m trên một bàn nằm ngang quay đều với tốc độ góc 4 rad/s, vật không trượt trên bàn.
+*A. Gia tốc hướng tâm của vật là 4 m/s².
+*B. Lực ma sát nghỉ tác dụng lên vật là 0,8 N.
+C. Lực ma sát nghỉ tác dụng lên vật là 2 N (bằng trọng lượng của vật).
+D. Hệ số ma sát nghỉ giữa vật và bàn phải nhỏ hơn 0,4.
+Lời giải
+$a_{ht} = \omega^2 r = 16 \cdot 0,25 = 4$ m/s² và $F_{ms} = ma_{ht} = 0,8$ N. c) Sai: lực ma sát nghỉ chỉ cần bằng lực hướng tâm, không liên quan đến trọng lượng. d) Sai: cần $\mu mg \ge 0,8$ N, tức $\mu \ge 0,4$.
+
+Câu 29. [TF] [VD] Một vệ tinh nhân tạo khối lượng 100 kg chuyển động tròn đều quanh Trái Đất trên quỹ đạo bán kính $7,2 \cdot 10^6$ m với tốc độ 7,4 km/s.
+*A. Gia tốc hướng tâm của vệ tinh xấp xỉ 7,6 m/s².
+*B. Lực hấp dẫn của Trái Đất tác dụng lên vệ tinh xấp xỉ 760 N.
+*C. Chu kì chuyển động của vệ tinh xấp xỉ $6,1 \cdot 10^3$ s.
+D. Gia tốc hướng tâm của vệ tinh cùng hướng với vận tốc của nó.
+Lời giải
+$a_{ht} = \dfrac{v^2}{r} = \dfrac{7400^2}{7,2 \cdot 10^6} \approx 7,6$ m/s²; lực hấp dẫn là lực hướng tâm nên $F = ma_{ht} \approx 760$ N; $T = \dfrac{2\pi r}{v} \approx 6,1 \cdot 10^3$ s. d) Sai: gia tốc hướng tâm hướng vào tâm, vuông góc với vận tốc.
+
+Câu 30. [TH] Một vật chuyển động tròn đều trên đường tròn bán kính 0,5 m với tốc độ 3 m/s; lực hướng tâm tác dụng lên vật là 9 N. Tính khối lượng của vật (theo đơn vị kg).
+Trả lời: [[0,5]]
+Lời giải
+$F_{ht} = \dfrac{mv^2}{r}$ nên $m = \dfrac{F_{ht} r}{v^2} = \dfrac{9 \cdot 0,5}{3^2} = 0,5$ kg.
+
+Câu 31. [TH] Một vật khối lượng 2 kg chuyển động tròn đều trên đường tròn bán kính 0,5 m với tốc độ góc 4 rad/s. Tính độ lớn lực hướng tâm tác dụng lên vật (theo đơn vị N).
+Trả lời: [[16]]
+Lời giải
+$F_{ht} = m\omega^2 r = 2 \cdot 4^2 \cdot 0,5 = 16$ N.
+
+Câu 32. [TH] Một điểm chuyển động tròn đều trên đường tròn bán kính 0,4 m với gia tốc hướng tâm 3,6 m/s². Tính tốc độ dài của điểm đó (theo đơn vị m/s).
+Trả lời: [[1,2]]
+Lời giải
+$a_{ht} = \dfrac{v^2}{r}$ nên $v = \sqrt{a_{ht} r} = \sqrt{3,6 \cdot 0,4} = \sqrt{1,44} = 1,2$ m/s.
+
+Câu 33. [VD] Một ô tô khối lượng 1 tấn chạy với tốc độ 54 km/h qua một đoạn đường vòng có bán kính 100 m. Tính độ lớn lực hướng tâm tác dụng lên xe (theo đơn vị N).
+Trả lời: [[2250]]
+Lời giải
+$v = 54$ km/h $= 15$ m/s nên $F_{ht} = \dfrac{mv^2}{r} = \dfrac{1000 \cdot 15^2}{100} = 2250$ N.
+
+Câu 34. [VD] Một vật nhỏ khối lượng 0,5 kg buộc vào sợi dây dài 0,8 m, quay đều trên mặt bàn nằm ngang nhẵn. Lực căng của dây là 10 N. Tính chu kì quay của vật (theo đơn vị s), làm tròn đến một chữ số thập phân.
+Trả lời: [[1,3]]
+Lời giải
+Lực căng dây là lực hướng tâm: $F = m\omega^2 r$ nên $\omega = \sqrt{\dfrac{10}{0,5 \cdot 0,8}} = 5$ rad/s; chu kì $T = \dfrac{2\pi}{\omega} = \dfrac{2\pi}{5} \approx 1,3$ s.
+
+Câu 35. [VD] Một vật nhỏ buộc vào đầu một sợi dây dài 1,25 m, đầu kia cố định, quay đều trong mặt phẳng nằm ngang sao cho dây lệch khỏi phương thẳng đứng một góc $\alpha$ với $\cos\alpha = 0,8$. Bỏ qua khối lượng của dây và lực cản; lấy $g = 10$ m/s². Tính tốc độ góc của vật (theo đơn vị rad/s), làm tròn đến một chữ số thập phân.
+Trả lời: [[3,2]]
+Lời giải
+Gọi $T$ là lực căng dây. Theo phương thẳng đứng: $T\cos\alpha = mg$. Theo phương ngang, thành phần $T\sin\alpha$ là lực hướng tâm với bán kính $r = \ell\sin\alpha$: $T\sin\alpha = m\omega^2 \ell\sin\alpha$, suy ra $T = m\omega^2\ell$. Do đó $\cos\alpha = \dfrac{g}{\omega^2\ell}$ và $\omega = \sqrt{\dfrac{g}{\ell\cos\alpha}} = \sqrt{\dfrac{10}{1,25 \cdot 0,8}} = \sqrt{10} \approx 3,2$ rad/s.
+
+Câu 36. [VD] Ô tô khối lượng 1 tấn chạy với tốc độ 36 km/h qua điểm cao nhất của một cầu vồng lên (cầu cong lồi) có bán kính 50 m. Lấy $g = 10$ m/s². Tính độ lớn áp lực của ô tô lên mặt cầu tại điểm đó (theo đơn vị N).
+Trả lời: [[8000]]
+Lời giải
+Tại điểm cao nhất, hợp lực hướng tâm (hướng xuống) là $mg - N = \dfrac{mv^2}{r}$. Với $v = 10$ m/s: $N = m\left(g - \dfrac{v^2}{r}\right) = 1000 \cdot \left(10 - \dfrac{100}{50}\right) = 8000$ N. Áp lực của xe lên cầu có độ lớn bằng $N$.
+
+Câu 37. [VD] Một vật nhỏ khối lượng 0,1 kg đặt cách trục của một bàn nằm ngang 0,2 m. Bàn quay đều với tốc độ 60 vòng/phút và vật không trượt trên bàn. Tính độ lớn lực ma sát nghỉ tác dụng lên vật (theo đơn vị N), làm tròn đến hai chữ số thập phân.
+Trả lời: [[0,79]]
+Lời giải
+$\omega = 60 \cdot \dfrac{2\pi}{60} = 2\pi$ rad/s nên $F_{ms} = m\omega^2 r = 0,1 \cdot (2\pi)^2 \cdot 0,2 \approx 0,79$ N.
+
+Câu 38. [VD] Một quả cầu buộc vào đầu sợi dây dài 0,9 m rồi quay trong mặt phẳng thẳng đứng. Lấy $g = 10$ m/s². Tại điểm cao nhất dây vừa đủ căng (lực căng bằng 0). Tính tốc độ của quả cầu tại điểm đó (theo đơn vị m/s).
+Trả lời: [[3]]
+Lời giải
+Khi lực căng bằng 0, chỉ có trọng lực đóng vai trò lực hướng tâm: $mg = \dfrac{mv^2}{r}$ nên $v = \sqrt{gr} = \sqrt{10 \cdot 0,9} = 3$ m/s.
+
 
 @chuong VII | Biến dạng của vật rắn. Áp suất chất lỏng
 @bai 33 | Biến dạng của vật rắn
+Câu 1. [NB] Biến dạng của vật rắn là hiện tượng
+A. vật bị thay đổi màu sắc hoặc mùi vị khi chịu tác dụng của lực.
+B. vật chuyển từ thể rắn sang thể lỏng khi chịu tác dụng của lực.
+*C. vật bị thay đổi hình dạng hoặc kích thước khi chịu lực.
+D. khối lượng của vật tăng hoặc giảm khi chịu tác dụng của lực.
+Lời giải
+Khi chịu lực tác dụng, vật rắn bị thay đổi hình dạng hoặc kích thước: đó là biến dạng của vật rắn.
+
+Câu 2. [NB] Sợi dây cáp treo buồng thang máy đang đứng yên chịu loại biến dạng nào?
+*A. Biến dạng kéo.
+B. Biến dạng nén.
+C. Không bị biến dạng vì thang máy đứng yên.
+D. Biến dạng nén và biến dạng kéo như nhau.
+Lời giải
+Dây cáp bị trọng lượng của buồng thang kéo dãn ra nên chịu biến dạng kéo. Đứng yên không có nghĩa là không biến dạng: dây vẫn dài ra một chút.
+
+Câu 3. [NB] Cột bê tông chống đỡ mái nhà chịu loại biến dạng nào?
+A. Biến dạng kéo.
+B. Không bị biến dạng vì cột đứng yên.
+C. Đầu trên bị nén, đầu dưới bị kéo.
+*D. Biến dạng nén.
+Lời giải
+Mái nhà ép xuống làm cột bị ngắn lại một chút, đó là biến dạng nén.
+
+Câu 4. [NB] Biến dạng đàn hồi là biến dạng mà
+A. khi ngừng tác dụng lực, vật vẫn giữ nguyên hình dạng đã bị biến đổi.
+*B. khi ngừng tác dụng lực, vật lấy lại hình dạng và kích thước ban đầu.
+C. vật bị đứt hoặc vỡ ngay khi chịu lực.
+D. vật chỉ bị thay đổi nhiệt độ mà không đổi hình dạng.
+Lời giải
+Biến dạng đàn hồi là biến dạng mất đi khi ngừng tác dụng lực, vật trở về hình dạng và kích thước ban đầu.
+
+Câu 5. [NB] Giới hạn đàn hồi của một vật rắn là
+*A. độ biến dạng lớn nhất mà vật còn lấy lại kích thước cũ.
+B. độ biến dạng nhỏ nhất làm cho vật bắt đầu bị biến dạng.
+C. lực nhỏ nhất làm cho vật bị đứt sau một thời gian dài.
+D. khoảng thời gian lớn nhất mà vật chịu được lực tác dụng.
+Lời giải
+Trong giới hạn đàn hồi, khi ngừng lực vật trở về kích thước ban đầu; vượt quá giới hạn đó vật không còn lấy lại được kích thước cũ.
+
+Câu 6. [NB] Lực đàn hồi của lò xo xuất hiện khi
+A. lò xo đang chuyển động nhanh.
+B. lò xo ở trạng thái tự nhiên, không bị biến dạng.
+*C. lò xo bị biến dạng (bị dãn hoặc bị nén).
+D. lò xo bị nung nóng.
+Lời giải
+Lực đàn hồi chỉ xuất hiện khi lò xo bị biến dạng; lò xo ở chiều dài tự nhiên thì lực đàn hồi bằng 0.
+
+Câu 7. [NB] Phát biểu nào sau đây là nội dung của định luật Hooke?
+A. Trong giới hạn đàn hồi, độ lớn lực đàn hồi của lò xo tỉ lệ nghịch với độ biến dạng của lò xo.
+*B. Trong giới hạn đàn hồi, độ lớn lực đàn hồi của lò xo tỉ lệ thuận với độ biến dạng của lò xo.
+C. Trong giới hạn đàn hồi, độ lớn lực đàn hồi của lò xo tỉ lệ thuận với bình phương độ biến dạng.
+D. Với mọi độ biến dạng, độ lớn lực đàn hồi của lò xo tỉ lệ thuận với độ biến dạng của lò xo.
+Lời giải
+Định luật Hooke chỉ đúng trong giới hạn đàn hồi: lực đàn hồi tỉ lệ thuận với độ biến dạng.
+
+Câu 8. [NB] Trong hệ SI, đơn vị của độ cứng của lò xo là
+A. N·m.
+B. N/m².
+C. m/N.
+*D. N/m.
+Lời giải
+Từ $k = \dfrac{F_{đh}}{|\Delta l|}$ nên đơn vị của $k$ là niutơn trên mét (N/m).
+
+Câu 9. [TH] Biểu thức nào sau đây cho độ lớn lực đàn hồi của lò xo trong giới hạn đàn hồi?
+*A. $F_{đh} = k|\Delta l|$.
+B. $F_{đh} = \dfrac{k}{|\Delta l|}$.
+C. $F_{đh} = k|\Delta l|^2$.
+D. $F_{đh} = \dfrac{|\Delta l|}{k}$.
+Lời giải
+Định luật Hooke: $F_{đh} = k|\Delta l|$, với $k$ là độ cứng và $|\Delta l|$ là độ biến dạng của lò xo.
+
+Câu 10. [TH] Độ cứng $k$ của một lò xo phụ thuộc vào
+A. độ lớn của lực tác dụng lên lò xo trong từng lần đo.
+B. độ biến dạng của lò xo tại thời điểm đang xét.
+*C. chất liệu và kích thước của lò xo.
+D. khối lượng của vật treo vào đầu lò xo.
+Lời giải
+$k$ là đặc trưng của lò xo, phụ thuộc chất liệu và kích thước của nó; không phụ thuộc lực tác dụng hay độ biến dạng.
+
+Câu 11. [TH] Trong giới hạn đàn hồi, đồ thị biểu diễn độ lớn lực đàn hồi theo độ biến dạng của lò xo là
+A. đường parabol có đỉnh tại gốc tọa độ.
+B. đường thẳng nằm ngang song song với trục hoành.
+C. đường hypebol nằm trong góc phần tư thứ nhất.
+*D. đoạn thẳng đi qua gốc tọa độ.
+Lời giải
+$F_{đh} = k|\Delta l|$ là hàm bậc nhất đi qua gốc tọa độ nên đồ thị là đoạn thẳng có độ dốc $k$.
+
+Câu 12. [TH] Lò xo A có độ cứng lớn hơn lò xo B. Khi tác dụng cùng một lực kéo (trong giới hạn đàn hồi) thì
+A. lò xo A dãn nhiều hơn lò xo B.
+*B. lò xo A dãn ít hơn lò xo B.
+C. hai lò xo dãn như nhau.
+D. lò xo A bị đứt trước lò xo B.
+Lời giải
+$|\Delta l| = \dfrac{F}{k}$: cùng $F$, $k$ càng lớn thì độ dãn càng nhỏ.
+
+Câu 13. [TH] Một vật nặng treo vào đầu dưới của lò xo treo thẳng đứng và đứng yên. Lực đàn hồi của lò xo tác dụng lên vật
+*A. hướng thẳng đứng lên trên và có độ lớn bằng trọng lượng của vật.
+B. hướng thẳng đứng xuống dưới và có độ lớn bằng trọng lượng của vật.
+C. hướng thẳng đứng lên trên và có độ lớn lớn hơn trọng lượng của vật.
+D. hướng thẳng đứng lên trên và có độ lớn nhỏ hơn trọng lượng của vật.
+Lời giải
+Vật đứng yên nên lực đàn hồi cân bằng với trọng lực: ngược hướng (lên trên) và bằng độ lớn.
+
+Câu 14. [TH] Khi lò xo bị nén, lực đàn hồi do lò xo tác dụng lên vật tiếp xúc với nó có xu hướng
+A. kéo vật lại gần để nén lò xo thêm.
+B. giữ nguyên độ nén của lò xo.
+C. làm vật chuyển động theo phương vuông góc với trục lò xo.
+*D. đẩy vật ra xa, làm lò xo trở về chiều dài tự nhiên.
+Lời giải
+Lực đàn hồi luôn chống lại biến dạng: lò xo bị nén thì đẩy vật ra xa để trở về chiều dài tự nhiên.
+
+Câu 15. [TH] Nếu kéo dãn một lò xo vượt quá giới hạn đàn hồi rồi thả ra thì
+A. lò xo luôn trở về đúng chiều dài tự nhiên ban đầu.
+B. lò xo luôn bị đứt ngay lập tức khi thả ra.
+*C. lò xo không còn trở về đúng chiều dài ban đầu.
+D. độ cứng của lò xo tăng lên gấp đôi so với trước.
+Lời giải
+Vượt quá giới hạn đàn hồi, lò xo bị biến dạng nên không lấy lại được chiều dài ban đầu (không nhất thiết bị đứt).
+
+Câu 16. [VD] Lò xo có độ cứng 100 N/m bị dãn 5 cm (trong giới hạn đàn hồi). Độ lớn lực đàn hồi của lò xo là
+A. 500 N.
+*B. 5 N.
+C. 20 N.
+D. 0,05 N.
+Lời giải
+Đổi $|\Delta l| = 5$ cm $= 0,05$ m. $F_{đh} = k|\Delta l| = 100 \cdot 0,05 = 5$ N. Quên đổi cm sang m sẽ ra 500 N.
+
+Câu 17. [VD] Lò xo có chiều dài tự nhiên 20 cm, độ cứng 200 N/m. Treo thẳng đứng vào lò xo vật khối lượng 0,5 kg, lấy $g = 10$ m/s². Khi vật đứng yên, chiều dài của lò xo là
+A. 2,5 cm.
+B. 17,5 cm.
+*C. 22,5 cm.
+D. 25 cm.
+Lời giải
+$F_{đh} = P = mg = 5$ N. $|\Delta l| = \dfrac{F_{đh}}{k} = \dfrac{5}{200} = 0,025$ m $= 2,5$ cm. Lò xo dãn nên chiều dài $= 20 + 2,5 = 22,5$ cm.
+
+Câu 18. [VD] Hai lò xo có độ cứng $k_1 = 50$ N/m và $k_2 = 200$ N/m cùng bị kéo bởi lực có độ lớn như nhau (trong giới hạn đàn hồi). Gọi $\Delta l_1$, $\Delta l_2$ là độ dãn của hai lò xo. Kết luận nào đúng?
+*A. $\Delta l_1$ gấp 4 lần $\Delta l_2$.
+B. $\Delta l_1$ bằng $\dfrac{1}{4}$ $\Delta l_2$.
+C. $\Delta l_1$ gấp 2 lần $\Delta l_2$.
+D. $\Delta l_1$ bằng $\Delta l_2$.
+Lời giải
+$\Delta l = \dfrac{F}{k}$ nên $\dfrac{\Delta l_1}{\Delta l_2} = \dfrac{k_2}{k_1} = \dfrac{200}{50} = 4$.
+
+Câu 19. [VD] Đồ thị lực đàn hồi theo độ biến dạng của một lò xo là đoạn thẳng qua gốc tọa độ; điểm có độ biến dạng 3 cm ứng với lực đàn hồi 6 N. Độ cứng của lò xo là
+A. 2 N/m.
+B. 18 N/m.
+C. 0,5 N/m.
+*D. 200 N/m.
+Lời giải
+$k = \dfrac{F}{|\Delta l|} = \dfrac{6}{0,03} = 200$ N/m (nhớ đổi 3 cm $= 0,03$ m).
+
+Câu 20. [VD] Lò xo có chiều dài tự nhiên 30 cm. Khi bị nén bởi lực 12 N thì chiều dài của lò xo là 27 cm (trong giới hạn đàn hồi). Độ cứng của lò xo là
+A. 4 N/m.
+*B. 400 N/m.
+C. 36 N/m.
+D. 40 N/m.
+Lời giải
+Độ nén $|\Delta l| = 30 - 27 = 3$ cm $= 0,03$ m. $k = \dfrac{F}{|\Delta l|} = \dfrac{12}{0,03} = 400$ N/m.
+
+Câu 21. [VD] Một lò xo dãn 3 cm khi chịu lực kéo 6 N. Trong giới hạn đàn hồi, khi lực kéo là 15 N thì lò xo dãn
+A. 12 cm.
+B. 45 cm.
+*C. 7,5 cm.
+D. 1,2 cm.
+Lời giải
+Độ dãn tỉ lệ thuận với lực: $\dfrac{\Delta l_2}{\Delta l_1} = \dfrac{F_2}{F_1}$ nên $\Delta l_2 = 3 \cdot \dfrac{15}{6} = 7,5$ cm. Không được cộng thêm độ chênh lực vào độ dãn.
+
+Câu 22. [VD] Treo vật khối lượng 200 g vào đầu dưới lò xo thì lò xo dãn 4 cm. Nếu treo thêm vật khối lượng 300 g nữa vào vật trên (trong giới hạn đàn hồi) thì lò xo dãn thêm
+*A. 6 cm.
+B. 10 cm.
+C. 12 cm.
+D. 8 cm.
+Lời giải
+Độ dãn tỉ lệ với khối lượng treo. Tổng khối lượng 500 g nên độ dãn tổng là $4 \cdot \dfrac{0,5}{0,2} = 10$ cm. Dãn thêm: $10 - 4 = 6$ cm. Đáp án 10 cm là độ dãn tổng, không phải độ dãn thêm.
+
+Câu 23. [TF] [TH] Một lò xo treo thẳng đứng, đầu dưới gắn vật nặng. Lò xo bị dãn và vật đứng yên.
+*A. Lò xo chịu biến dạng kéo.
+*B. Độ lớn lực đàn hồi của lò xo tác dụng lên vật bằng trọng lượng của vật.
+C. Lực đàn hồi của lò xo tác dụng lên vật hướng thẳng đứng xuống dưới.
+D. Độ lớn lực đàn hồi không phụ thuộc vào độ dãn của lò xo.
+Lời giải
+Lò xo bị dãn nên chịu biến dạng kéo. Vật đứng yên nên lực đàn hồi cân bằng với trọng lực: hướng lên và có độ lớn bằng trọng lượng. Ý C sai vì lực đàn hồi hướng lên. Ý D sai vì $F_{đh} = k|\Delta l|$ phụ thuộc độ dãn.
+
+Câu 24. [TF] [TH] Về biến dạng đàn hồi và giới hạn đàn hồi của lò xo:
+*A. Trong giới hạn đàn hồi, khi ngừng tác dụng lực thì lò xo trở về chiều dài tự nhiên.
+B. Kéo lò xo vượt quá giới hạn đàn hồi rồi thả ra thì lò xo vẫn trở về đúng chiều dài tự nhiên.
+C. Định luật Hooke đúng với mọi độ biến dạng của lò xo.
+D. Mọi lò xo đều có giới hạn đàn hồi như nhau.
+Lời giải
+Chỉ ý A đúng. Ý B sai vì vượt giới hạn đàn hồi lò xo không trở về đúng chiều dài cũ. Ý C sai vì định luật Hooke chỉ đúng trong giới hạn đàn hồi. Ý D sai vì giới hạn đàn hồi phụ thuộc chất liệu và kích thước của từng lò xo.
+
+Câu 25. [TF] [TH] Về độ cứng $k$ của lò xo:
+*A. Đơn vị của $k$ trong hệ SI là N/m.
+*B. Lò xo có $k$ lớn hơn thì cứng hơn, tức khó biến dạng hơn.
+*C. Hai lò xo cùng chất liệu và cùng kích thước thì có cùng độ cứng.
+D. Lò xo càng bị dãn nhiều thì độ cứng $k$ càng lớn.
+Lời giải
+Ba ý đầu đúng. Ý D sai vì $k$ là đặc trưng của lò xo (chất liệu, kích thước), không thay đổi theo độ dãn.
+
+Câu 26. [TF] [VD] Lò xo có chiều dài tự nhiên 30 cm, độ cứng 100 N/m, treo thẳng đứng; vật nặng khối lượng 0,6 kg gắn vào đầu dưới và đứng yên. Lấy $g = 10$ m/s², lò xo luôn trong giới hạn đàn hồi.
+*A. Độ lớn lực đàn hồi của lò xo là 6 N.
+*B. Lò xo dãn 6 cm.
+*C. Chiều dài của lò xo khi đó là 36 cm.
+*D. Nếu thay vật bằng vật có khối lượng 1,2 kg thì lò xo dãn 12 cm.
+Lời giải
+$F_{đh} = mg = 6$ N. $|\Delta l| = \dfrac{6}{100} = 0,06$ m $= 6$ cm. Chiều dài $= 30 + 6 = 36$ cm. Khối lượng gấp đôi thì độ dãn gấp đôi: 12 cm. Cả bốn ý đều đúng.
+
+Câu 27. [TF] [VD] Đồ thị độ lớn lực đàn hồi theo độ biến dạng của một lò xo là đoạn thẳng qua gốc tọa độ và qua điểm ($\Delta l = 4$ cm; $F = 8$ N).
+*A. Độ cứng của lò xo là 200 N/m.
+*B. Lò xo dãn 6 cm thì lực đàn hồi là 12 N.
+C. Lò xo dãn 10 cm thì lực đàn hồi là 10 N.
+D. Lò xo dãn 2 cm thì lực đàn hồi là 2 N.
+Lời giải
+$k = \dfrac{8}{0,04} = 200$ N/m. Dãn 6 cm: $F = 200 \cdot 0,06 = 12$ N (ý B đúng). Dãn 10 cm: $F = 200 \cdot 0,1 = 20$ N chứ không phải 10 N (ý C sai). Dãn 2 cm: $F = 4$ N chứ không phải 2 N (ý D sai).
+
+Câu 28. [TF] [VD] Lò xo nằm ngang, một đầu cố định, đầu kia tì vào một vật. Lò xo có chiều dài tự nhiên 20 cm, độ cứng 250 N/m và đang bị nén còn 16 cm (trong giới hạn đàn hồi).
+*A. Độ nén của lò xo là 4 cm.
+*B. Độ lớn lực đàn hồi của lò xo là 10 N.
+*C. Lực đàn hồi tác dụng lên vật có xu hướng đẩy vật ra xa đầu cố định của lò xo.
+D. Nếu nén lò xo còn 12 cm thì độ lớn lực đàn hồi giảm đi.
+Lời giải
+$|\Delta l| = 20 - 16 = 4$ cm. $F_{đh} = 250 \cdot 0,04 = 10$ N. Lò xo bị nén thì đẩy vật ra xa. Nén còn 12 cm thì độ nén là 8 cm, $F_{đh} = 20$ N, tăng lên chứ không giảm (ý D sai).
+
+Câu 29. [TF] [VD] Hai lò xo có độ cứng $k_1 = 100$ N/m và $k_2 = 300$ N/m cùng bị kéo bởi lực 6 N (trong giới hạn đàn hồi).
+*A. Lò xo 1 dãn 6 cm.
+B. Lò xo 2 dãn 6 cm.
+*C. Lò xo 2 cứng hơn lò xo 1.
+D. Hai lò xo dãn như nhau vì cùng chịu lực kéo 6 N.
+Lời giải
+Lò xo 1: $\dfrac{6}{100} = 0,06$ m $= 6$ cm (ý A đúng). Lò xo 2: $\dfrac{6}{300} = 0,02$ m $= 2$ cm (ý B sai, ý D sai). $k_2 > k_1$ nên lò xo 2 cứng hơn (ý C đúng).
+
+Câu 30. [TH] Lò xo có độ cứng 250 N/m bị dãn 4 cm (trong giới hạn đàn hồi). Tính độ lớn lực đàn hồi (theo đơn vị N).
+Trả lời: [[10]]
+Lời giải
+$F_{đh} = k|\Delta l| = 250 \cdot 0,04 = 10$ N.
+
+Câu 31. [TH] Một lò xo bị dãn 2 cm khi chịu lực kéo 8 N (trong giới hạn đàn hồi). Tính độ cứng của lò xo (theo đơn vị N/m).
+Trả lời: [[400]]
+Lời giải
+$k = \dfrac{F}{|\Delta l|} = \dfrac{8}{0,02} = 400$ N/m.
+
+Câu 32. [TH] Lò xo có độ cứng 80 N/m. Để lò xo dãn ra (trong giới hạn đàn hồi) người ta kéo bằng lực 2,4 N. Tính độ dãn của lò xo (theo đơn vị cm).
+Trả lời: [[3]]
+Lời giải
+$|\Delta l| = \dfrac{F}{k} = \dfrac{2,4}{80} = 0,03$ m $= 3$ cm.
+
+Câu 33. [VD] Lò xo có chiều dài tự nhiên 25 cm, độ cứng 100 N/m. Treo thẳng đứng vật khối lượng 0,3 kg vào đầu dưới của lò xo, lấy $g = 10$ m/s². Khi vật đứng yên, tính chiều dài của lò xo (theo đơn vị cm).
+Trả lời: [[28]]
+Lời giải
+$F_{đh} = mg = 3$ N. $|\Delta l| = \dfrac{3}{100} = 0,03$ m $= 3$ cm. Chiều dài $= 25 + 3 = 28$ cm.
+
+Câu 34. [VD] Một vật trượt thẳng đều trên mặt bàn nằm ngang nhờ một lò xo nằm ngang kéo vật. Lò xo có độ cứng 600 N/m và dãn 3 cm. Coi lực kéo của lò xo cân bằng với lực ma sát. Tính độ lớn lực ma sát tác dụng lên vật (theo đơn vị N).
+Trả lời: [[18]]
+Lời giải
+Vật chuyển động thẳng đều nên lực ma sát cân bằng với lực kéo của lò xo: $F_{ms} = k|\Delta l| = 600 \cdot 0,03 = 18$ N.
+
+Câu 35. [VD] Lò xo có chiều dài tự nhiên 30 cm, độ cứng 150 N/m, bị nén còn 24 cm (trong giới hạn đàn hồi). Tính độ lớn lực đàn hồi của lò xo (theo đơn vị N).
+Trả lời: [[9]]
+Lời giải
+Độ nén $|\Delta l| = 30 - 24 = 6$ cm $= 0,06$ m. $F_{đh} = 150 \cdot 0,06 = 9$ N.
+
+Câu 36. [VD] Treo một vật vào đầu dưới lò xo có độ cứng 200 N/m thì lò xo dãn 5 cm khi vật đứng yên. Lấy $g = 10$ m/s². Tính khối lượng của vật (theo đơn vị kg).
+Trả lời: [[1]]
+Lời giải
+$P = F_{đh} = k|\Delta l| = 200 \cdot 0,05 = 10$ N. $m = \dfrac{P}{g} = \dfrac{10}{10} = 1$ kg.
+
+Câu 37. [VD] Treo vật khối lượng 0,2 kg vào lò xo thì lò xo có chiều dài 20 cm; treo vật khối lượng 0,4 kg thì chiều dài là 24 cm (trong giới hạn đàn hồi, lấy $g = 10$ m/s²). Tính chiều dài tự nhiên của lò xo (theo đơn vị cm).
+Trả lời: [[16]]
+Lời giải
+Lực treo tăng $2$ N làm lò xo dài thêm $0,04$ m nên $k = \dfrac{2}{0,04} = 50$ N/m. Với vật 0,2 kg: $|\Delta l| = \dfrac{2}{50} = 0,04$ m $= 4$ cm nên $l_0 = 20 - 4 = 16$ cm.
+
+Câu 38. [VD] Lò xo có chiều dài tự nhiên 25 cm. Khi bị kéo bởi một lực $F$ thì lò xo dài 28 cm. Nếu thay bằng lực nén có cùng độ lớn $F$ (trong giới hạn đàn hồi) thì lò xo dài bao nhiêu (theo đơn vị cm)?
+Trả lời: [[22]]
+Lời giải
+Cùng độ lớn lực thì độ biến dạng như nhau: khi kéo dãn $28 - 25 = 3$ cm nên khi nén ngắn đi 3 cm. Chiều dài $= 25 - 3 = 22$ cm.
+
 @bai 34 | Khối lượng riêng. Áp suất chất lỏng
+Câu 1. [NB] Khối lượng riêng của một chất được xác định bằng
+*A. thương số giữa khối lượng và thể tích của vật làm bằng chất đó.
+B. tích số giữa khối lượng và thể tích của vật làm bằng chất đó.
+C. thương số giữa thể tích và khối lượng của vật làm bằng chất đó.
+D. tổng khối lượng và thể tích của vật làm bằng chất đó.
+Lời giải
+Khối lượng riêng $\rho = \dfrac{m}{V}$: khối lượng của một đơn vị thể tích chất đó.
+
+Câu 2. [NB] Trong hệ SI, đơn vị của khối lượng riêng là
+A. kg·m³.
+B. N/m³.
+C. g/m².
+*D. kg/m³.
+Lời giải
+Từ $\rho = \dfrac{m}{V}$ với $m$ tính bằng kg, $V$ tính bằng m³ nên đơn vị là kg/m³.
+
+Câu 3. [NB] Áp suất là đại lượng được tính bằng
+A. tích số giữa độ lớn áp lực vuông góc với mặt bị ép và diện tích mặt bị ép.
+*B. độ lớn áp lực vuông góc với mặt bị ép trên một đơn vị diện tích.
+C. thương số giữa diện tích mặt bị ép và độ lớn áp lực vuông góc với mặt bị ép.
+D. tổng của độ lớn áp lực vuông góc với mặt bị ép và diện tích mặt bị ép.
+Lời giải
+Áp suất $p = \dfrac{F}{S}$ với $F$ là độ lớn áp lực vuông góc mặt bị ép, $S$ là diện tích mặt bị ép.
+
+Câu 4. [NB] Trong hệ SI, đơn vị của áp suất là pascan (Pa). Một pascan bằng
+A. 1 N·m.
+B. 1 N/m.
+*C. 1 N/m².
+D. 1 kg/m³.
+Lời giải
+$1\ \text{Pa} = 1\ \dfrac{\text{N}}{\text{m}^2}$: áp lực 1 N tác dụng đều lên diện tích 1 m².
+
+Câu 5. [NB] Áp suất tại một điểm ở độ sâu $h$ trong chất lỏng đứng yên (khối lượng riêng $\rho$, mặt thoáng chịu áp suất khí quyển $p_{a}$) được tính bằng
+A. $p = p_{a} - \rho g h$.
+B. $p = p_{a} \cdot \rho g h$.
+C. $p = \dfrac{p_{a}}{\rho g h}$.
+*D. $p = p_{a} + \rho g h$.
+Lời giải
+Áp suất (kể cả khí quyển) tại độ sâu $h$ bằng áp suất khí quyển cộng áp suất do cột chất lỏng gây ra: $p = p_{a} + \rho g h$.
+
+Câu 6. [NB] Khi độ sâu trong chất lỏng đứng yên tăng lên thì áp suất do chất lỏng gây ra
+*A. tăng lên.
+B. giảm đi.
+C. không đổi.
+D. lúc tăng lúc giảm.
+Lời giải
+Áp suất do chất lỏng gây ra $\rho g h$ tỉ lệ thuận với độ sâu $h$ nên tăng khi độ sâu tăng.
+
+Câu 7. [NB] Chất lỏng đựng trong bình gây ra áp suất lên
+A. chỉ đáy bình và các vật đặt dưới đáy bình.
+B. chỉ thành bình và mặt thoáng của chất lỏng.
+*C. đáy, thành bình và vật nhúng trong nó.
+D. chỉ các vật nằm ở đáy bình chứa chất lỏng.
+Lời giải
+Chất lỏng gây áp suất theo mọi phương: lên đáy bình, thành bình và các vật ở trong lòng nó.
+
+Câu 8. [NB] Trong cùng một chất lỏng đứng yên, những điểm nằm trên cùng một mặt phẳng nằm ngang thì có
+A. áp suất khác nhau.
+*B. áp suất bằng nhau.
+C. áp suất bằng 0.
+D. áp suất lớn hơn áp suất khí quyển ở điểm gần thành bình.
+Lời giải
+Áp suất chỉ phụ thuộc độ sâu: cùng độ sâu thì cùng áp suất.
+
+Câu 9. [TH] Khối lượng riêng của nước là $1000$ kg/m³. Giá trị này bằng
+*A. 1 g/cm³.
+B. 10 g/cm³.
+C. 0,1 g/cm³.
+D. 1000 g/cm³.
+Lời giải
+$1\ \text{g/cm}^3 = \dfrac{10^{-3}\ \text{kg}}{10^{-6}\ \text{m}^3} = 1000\ \text{kg/m}^3$ nên $1000$ kg/m³ $= 1$ g/cm³.
+
+Câu 10. [TH] Người ta làm bánh xích rộng bản cho xe tăng, xe ủi để
+A. tăng áp suất lên mặt đất để xe bám đường tốt hơn.
+*B. giảm áp suất lên mặt đất nên xe không bị lún.
+C. giảm khối lượng của xe để xe chạy nhanh hơn.
+D. tăng áp lực lên mặt đất để xe chạy êm hơn.
+Lời giải
+Cùng áp lực (trọng lượng xe), diện tích tiếp xúc càng lớn thì $p = \dfrac{F}{S}$ càng nhỏ, xe ít bị lún.
+
+Câu 11. [TH] Khối lượng riêng của một chất phụ thuộc vào
+A. khối lượng của vật làm bằng chất đó.
+B. thể tích của vật làm bằng chất đó.
+C. hình dạng của vật làm bằng chất đó.
+*D. bản chất của chất đó.
+Lời giải
+$\rho$ là đặc trưng của chất. Một chất cho khối lượng và thể tích lớn hơn thì tỉ số $\dfrac{m}{V}$ vẫn không đổi.
+
+Câu 12. [TH] Hai khối vật liệu có cùng thể tích. Khối A có khối lượng riêng lớn hơn khối B thì
+A. khối lượng của khối A nhỏ hơn khối lượng của khối B.
+B. khối lượng của hai khối bằng nhau.
+*C. khối lượng của khối A lớn hơn khối lượng của khối B.
+D. khối A chắc chắn có kích thước lớn hơn khối B.
+Lời giải
+$m = \rho V$: cùng $V$ thì $\rho$ lớn hơn cho $m$ lớn hơn.
+
+Câu 13. [TH] Áp suất do chất lỏng đứng yên gây ra tại một điểm phụ thuộc vào
+*A. khối lượng riêng và độ sâu của điểm đó.
+B. hình dạng của bình chứa chất lỏng đó.
+C. tổng lượng chất lỏng chứa trong bình đó.
+D. diện tích đáy của bình chứa chất lỏng đó.
+Lời giải
+$p = \rho g h$ chỉ phụ thuộc $\rho$ và độ sâu $h$ (và $g$), không phụ thuộc hình dạng bình hay lượng chất lỏng.
+
+Câu 14. [TH] Hai điểm M và N trong cùng một chất lỏng đứng yên, điểm N ở sâu hơn điểm M. Kết luận nào đúng?
+A. Áp suất tại N nhỏ hơn áp suất tại M.
+B. Áp suất tại hai điểm bằng nhau.
+C. Áp suất tại N bằng không.
+*D. Áp suất tại N lớn hơn áp suất tại M.
+Lời giải
+Độ sâu lớn hơn thì áp suất lớn hơn; hiệu áp suất giữa hai điểm là $\Delta p = \rho g \Delta h$.
+
+Câu 15. [TH] Một khối sắt có khối lượng riêng $7800$ kg/m³. Giá trị đó tính theo g/cm³ là
+A. 78 g/cm³.
+B. 0,78 g/cm³.
+*C. 7,8 g/cm³.
+D. 7800 g/cm³.
+Lời giải
+$1000$ kg/m³ $= 1$ g/cm³ nên $7800$ kg/m³ $= 7,8$ g/cm³.
+
+Câu 16. [VD] Một vật đặc có khối lượng 540 g và thể tích 200 cm³. Khối lượng riêng của chất làm vật là
+A. 0,37 g/cm³.
+*B. 2,7 g/cm³.
+C. 2700 g/cm³.
+D. 0,27 g/cm³.
+Lời giải
+$\rho = \dfrac{m}{V} = \dfrac{540}{200} = 2,7$ g/cm³ $= 2700$ kg/m³.
+
+Câu 17. [VD] Một vật có trọng lượng 600 N đặt trên mặt bàn nằm ngang, diện tích tiếp xúc với mặt bàn là 0,03 m². Áp suất vật tác dụng lên mặt bàn là
+*A. 20000 Pa.
+B. 18 Pa.
+C. 2000 Pa.
+D. 200 Pa.
+Lời giải
+Áp lực lên mặt bàn bằng trọng lượng. $p = \dfrac{F}{S} = \dfrac{600}{0,03} = 20000$ Pa.
+
+Câu 18. [VD] Một bể chứa nước ($\rho = 1000$ kg/m³), lấy $g = 10$ m/s². Áp suất do nước gây ra tại điểm ở độ sâu 2 m là
+A. 120000 Pa.
+B. 2000 Pa.
+C. 200000 Pa.
+*D. 20000 Pa.
+Lời giải
+$p = \rho g h = 1000 \cdot 10 \cdot 2 = 20000$ Pa (đây là áp suất do nước gây ra, chưa cộng áp suất khí quyển).
+
+Câu 19. [VD] Một hồ nước ($\rho = 1000$ kg/m³) có mặt thoáng chịu áp suất khí quyển $p_{a} = 1,0 \cdot 10^5$ Pa. Lấy $g = 10$ m/s². Áp suất (kể cả khí quyển) tại điểm ở độ sâu 5 m là
+A. $0,5 \cdot 10^5$ Pa.
+*B. $1,5 \cdot 10^5$ Pa.
+C. $1,05 \cdot 10^5$ Pa.
+D. $2,0 \cdot 10^5$ Pa.
+Lời giải
+$p = p_{a} + \rho g h = 1,0 \cdot 10^5 + 1000 \cdot 10 \cdot 5 = 1,0 \cdot 10^5 + 0,5 \cdot 10^5 = 1,5 \cdot 10^5$ Pa.
+
+Câu 20. [VD] Một thùng chứa dầu có khối lượng riêng 800 kg/m³. Lấy $g = 10$ m/s². Áp suất do dầu gây ra tại đáy thùng, cách mặt dầu 0,5 m, là
+A. 8000 Pa.
+B. 400 Pa.
+*C. 4000 Pa.
+D. 40 Pa.
+Lời giải
+$p = \rho g h = 800 \cdot 10 \cdot 0,5 = 4000$ Pa.
+
+Câu 21. [VD] Một lồng bè nuôi cá đặt ở độ sâu 8 m dưới mặt biển. Nước biển có khối lượng riêng $\rho = 1030$ kg/m³, lấy $g = 10$ m/s². Áp suất do nước biển gây ra tại độ sâu đó là
+A. $8 \cdot 10^4$ Pa.
+B. $82,4 \cdot 10^4$ Pa.
+*C. $8,24 \cdot 10^4$ Pa.
+D. $0,82 \cdot 10^4$ Pa.
+Lời giải
+$p = \rho g h = 1030 \cdot 10 \cdot 8 = 82400$ Pa $= 8,24 \cdot 10^4$ Pa.
+
+Câu 22. [VD] Trong một bể nước đứng yên, áp suất do nước gây ra tại điểm M ở độ sâu $h$ là $3 \cdot 10^4$ Pa. Áp suất do nước gây ra tại điểm N ở độ sâu $2,5h$ là
+A. $6 \cdot 10^4$ Pa.
+B. $9 \cdot 10^4$ Pa.
+C. $1,2 \cdot 10^4$ Pa.
+*D. $7,5 \cdot 10^4$ Pa.
+Lời giải
+Áp suất do chất lỏng gây ra tỉ lệ thuận với độ sâu: $p_N = 2,5\,p_M = 2,5 \cdot 3 \cdot 10^4 = 7,5 \cdot 10^4$ Pa.
+
+Câu 23. [TF] [TH] Về khối lượng riêng:
+*A. Công thức tính khối lượng riêng là $\rho = \dfrac{m}{V}$.
+*B. $1$ g/cm³ bằng $1000$ kg/m³.
+C. Khối lượng riêng của một chất tỉ lệ thuận với khối lượng của vật làm bằng chất đó.
+D. Hai vật làm cùng một chất, thể tích khác nhau thì có khối lượng riêng khác nhau.
+Lời giải
+Ý A, B đúng. Ý C sai vì $\rho$ là đặc trưng của chất, không đổi khi khối lượng vật thay đổi. Ý D sai vì cùng chất thì cùng $\rho$ dù thể tích khác nhau.
+
+Câu 24. [TF] [TH] Về áp suất và áp lực:
+*A. $1$ Pa bằng $1$ N/m².
+B. Cùng một áp lực, diện tích bị ép càng lớn thì áp suất càng lớn.
+C. Nếu áp lực và diện tích bị ép đều tăng gấp đôi thì áp suất tăng gấp 4 lần.
+D. Áp suất có đơn vị là N·m.
+Lời giải
+Chỉ ý A đúng. Ý B sai vì $p = \dfrac{F}{S}$: $S$ lớn thì $p$ nhỏ. Ý C sai vì $F$ và $S$ cùng gấp đôi thì $p$ không đổi. Ý D sai vì đơn vị của áp suất là N/m² (Pa).
+
+Câu 25. [TF] [TH] Về áp suất trong chất lỏng đứng yên:
+*A. Áp suất do chất lỏng gây ra tăng theo độ sâu.
+*B. Hai điểm cùng độ sâu trong cùng một chất lỏng thì có cùng áp suất.
+*C. Chất lỏng gây áp suất lên thành bình chứa nó.
+D. Áp suất do chất lỏng gây ra tại một điểm phụ thuộc vào hình dạng của bình chứa.
+Lời giải
+Ba ý đầu đúng. Ý D sai vì $p = \rho g h$ chỉ phụ thuộc khối lượng riêng và độ sâu.
+
+Câu 26. [TF] [VD] Một hồ nước ($\rho = 1000$ kg/m³) có mặt thoáng chịu áp suất khí quyển $p_{a} = 1,0 \cdot 10^5$ Pa. Lấy $g = 10$ m/s².
+*A. Áp suất do nước gây ra tại độ sâu 10 m là $1 \cdot 10^5$ Pa.
+*B. Áp suất (kể cả khí quyển) tại độ sâu 10 m là $2 \cdot 10^5$ Pa.
+*C. Áp suất (kể cả khí quyển) tại độ sâu 20 m là $3 \cdot 10^5$ Pa.
+D. Áp suất (kể cả khí quyển) tại độ sâu 20 m gấp đôi áp suất (kể cả khí quyển) tại độ sâu 10 m.
+Lời giải
+$\rho g h = 1000\cdot10\cdot10 = 1\cdot10^5$ Pa (ý A). Áp suất (kể cả khí quyển) 10 m: $1,0\cdot10^5 + 1\cdot10^5 = 2\cdot10^5$ Pa (ý B). Độ sâu 20 m: $1,0\cdot10^5 + 2\cdot10^5 = 3\cdot10^5$ Pa (ý C). Tỉ số $3:2 = 1,5$ chứ không phải 2 (ý D sai) vì áp suất khí quyển không tăng theo độ sâu.
+
+Câu 27. [TF] [VD] Một khối lập phương đặc cạnh 20 cm làm bằng vật liệu có khối lượng riêng 2700 kg/m³, đặt trên mặt bàn nằm ngang. Lấy $g = 10$ m/s².
+*A. Thể tích của khối là $8 \cdot 10^{-3}$ m³.
+*B. Khối lượng của khối là 21,6 kg.
+*C. Áp lực của khối lên mặt bàn là 216 N.
+*D. Áp suất khối tác dụng lên mặt bàn là 5400 Pa.
+Lời giải
+$V = a^3 = 0,2^3 = 8\cdot10^{-3}$ m³. $m = \rho V = 2700\cdot0,008 = 21,6$ kg. Áp lực $F = P = mg = 216$ N. Diện tích đáy $S = a^2 = 0,04$ m². $p = \dfrac{F}{S} = \dfrac{216}{0,04} = 5400$ Pa. Cả bốn ý đều đúng.
+
+Câu 28. [TF] [VD] Bình 1 chứa nước ($\rho = 1000$ kg/m³) cao 0,4 m; bình 2 chứa dầu ($\rho = 800$ kg/m³) cao 0,5 m (độ cao tính từ đáy lên mặt thoáng). Hai mặt thoáng đều chịu cùng áp suất khí quyển, lấy $g = 10$ m/s².
+*A. Áp suất do nước gây ra tại đáy bình 1 là 4000 Pa.
+*B. Áp suất do dầu gây ra tại đáy bình 2 là 4000 Pa.
+C. Vì dầu nhẹ hơn nước nên áp suất tại đáy bình 2 nhỏ hơn áp suất tại đáy bình 1.
+D. Nếu cột dầu chỉ cao 0,3 m thì áp suất do dầu gây ra tại đáy bình 2 bằng áp suất do nước gây ra tại đáy bình 1.
+Lời giải
+Nước: $\rho g h = 1000\cdot10\cdot0,4 = 4000$ Pa. Dầu: $800\cdot10\cdot0,5 = 4000$ Pa. Hai áp suất bằng nhau nên ý C sai (dầu nhẹ hơn nhưng cột dầu cao hơn). Cột dầu 0,3 m: $800\cdot10\cdot0,3 = 2400$ Pa khác 4000 Pa nên ý D sai.
+
+Câu 29. [TF] [VD] Một thợ lặn xuống độ sâu 15 m dưới mặt biển gần đảo Phú Quý. Nước biển có khối lượng riêng $1030$ kg/m³, áp suất khí quyển ở mặt biển $p_{a} = 1,0 \cdot 10^5$ Pa, lấy $g = 10$ m/s².
+*A. Áp suất do nước biển gây ra tại độ sâu đó là $1,545 \cdot 10^5$ Pa.
+*B. Áp suất (kể cả khí quyển) tại độ sâu đó là $2,545 \cdot 10^5$ Pa.
+*C. Áp suất do nước biển gây ra lớn hơn áp suất do nước ngọt ($1000$ kg/m³) gây ra tại cùng độ sâu 15 m.
+D. Áp suất (kể cả khí quyển) tại độ sâu đó gấp 3 lần áp suất khí quyển.
+Lời giải
+$\rho g h = 1030\cdot10\cdot15 = 154500$ Pa $= 1,545\cdot10^5$ Pa (ý A). Áp suất (kể cả khí quyển) $= 1,0\cdot10^5 + 1,545\cdot10^5 = 2,545\cdot10^5$ Pa (ý B). Nước ngọt: $150000$ Pa < 154500 Pa (ý C đúng). $2,545$ lần $p_{a}$ chứ không phải 3 lần (ý D sai).
+
+Câu 30. [TH] Một vật đặc có khối lượng 450 g và thể tích 150 cm³. Tính khối lượng riêng của chất làm vật (theo đơn vị g/cm³).
+Trả lời: [[3]]
+Lời giải
+$\rho = \dfrac{m}{V} = \dfrac{450}{150} = 3$ g/cm³.
+
+Câu 31. [TH] Áp lực 240 N tác dụng vuông góc lên mặt có diện tích 0,012 m². Tính áp suất tác dụng lên mặt đó (theo đơn vị kPa).
+Trả lời: [[20]]
+Lời giải
+$p = \dfrac{F}{S} = \dfrac{240}{0,012} = 20000$ Pa $= 20$ kPa.
+
+Câu 32. [TH] Một can chứa 5 lít dầu có khối lượng riêng 800 kg/m³ (1 lít $= 10^{-3}$ m³). Tính khối lượng dầu trong can (theo đơn vị kg).
+Trả lời: [[4]]
+Lời giải
+$m = \rho V = 800 \cdot 5 \cdot 10^{-3} = 4$ kg.
+
+Câu 33. [VD] Một thợ lặn ở độ sâu 12 m trong hồ nước ($\rho = 1000$ kg/m³). Áp suất khí quyển ở mặt hồ là $1,0 \cdot 10^5$ Pa, lấy $g = 10$ m/s². Tính áp suất (kể cả khí quyển) tại độ sâu đó (theo đơn vị kPa).
+Trả lời: [[220]]
+Lời giải
+$p = p_{a} + \rho g h = 100000 + 1000 \cdot 10 \cdot 12 = 220000$ Pa $= 220$ kPa.
+
+Câu 34. [VD] Trong hồ nước ($\rho = 1000$ kg/m³), lấy $g = 10$ m/s². Tính độ sâu của điểm mà tại đó áp suất do nước gây ra bằng $2,5 \cdot 10^5$ Pa (theo đơn vị m).
+Trả lời: [[25]]
+Lời giải
+$h = \dfrac{p}{\rho g} = \dfrac{2,5 \cdot 10^5}{1000 \cdot 10} = 25$ m.
+
+Câu 35. [VD] Đáy một bể cá nằm ngang có diện tích 0,5 m², nước trong bể ($\rho = 1000$ kg/m³) cao 0,6 m. Lấy $g = 10$ m/s². Tính áp lực do nước tác dụng lên đáy bể, không kể áp suất khí quyển (theo đơn vị N).
+Trả lời: [[3000]]
+Lời giải
+$p = \rho g h = 1000 \cdot 10 \cdot 0,6 = 6000$ Pa. $F = pS = 6000 \cdot 0,5 = 3000$ N.
+
+Câu 36. [VD] Áp suất do nước biển gây ra tại đáy một lồng bè nuôi cá là 61800 Pa. Nước biển có khối lượng riêng 1030 kg/m³, lấy $g = 10$ m/s². Tính độ sâu của đáy lồng bè (theo đơn vị m).
+Trả lời: [[6]]
+Lời giải
+$h = \dfrac{p}{\rho g} = \dfrac{61800}{1030 \cdot 10} = 6$ m.
+
+Câu 37. [VD] Trong một bể chứa dầu đứng yên có khối lượng riêng 900 kg/m³, điểm A nằm trên điểm B và cách B 4 m theo phương thẳng đứng. Lấy $g = 10$ m/s². Tính hiệu áp suất giữa B và A (theo đơn vị kPa).
+Trả lời: [[36]]
+Lời giải
+$\Delta p = \rho g \Delta h = 900 \cdot 10 \cdot 4 = 36000$ Pa $= 36$ kPa.
+
+Câu 38. [VD] Một khối kim loại hình lập phương cạnh 10 cm, khối lượng 7,8 kg, đặt trên mặt bàn nằm ngang. Lấy $g = 10$ m/s². Tính áp suất khối kim loại tác dụng lên mặt bàn (theo đơn vị Pa).
+Trả lời: [[7800]]
+Lời giải
+Áp lực $F = P = mg = 78$ N. Diện tích tiếp xúc $S = a^2 = 0,01$ m². $p = \dfrac{F}{S} = \dfrac{78}{0,01} = 7800$ Pa.
+
