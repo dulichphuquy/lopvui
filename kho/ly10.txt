@@ -2255,8 +2255,706 @@ Khí cầu chuyển động thẳng đều nên hợp lực bằng 0: $F_{đẩy
 
 @chuong V | Động lượng
 @bai 28 | Động lượng
+Câu 1. [NB] Động lượng của một vật có khối lượng $m$ đang chuyển động với vận tốc $v$ được xác định bằng công thức
+A. $p = mv^2$.
+*B. $p = mv$.
+C. $p = \dfrac{m}{v}$.
+D. $p = \dfrac{1}{2}mv^2$.
+Lời giải
+Động lượng có công thức $\vec{p} = m\vec{v}$. Công thức $\dfrac{1}{2}mv^2$ là công thức của động năng.
+
+Câu 2. [NB] Động lượng là đại lượng
+A. vô hướng, luôn dương.
+B. vô hướng, có thể âm.
+C. vectơ, cùng hướng với lực tác dụng lên vật.
+*D. vectơ, cùng hướng với vận tốc của vật.
+Lời giải
+Vì $\vec{p} = m\vec{v}$ với $m > 0$ nên động lượng là vectơ cùng hướng với vận tốc.
+
+Câu 3. [NB] Trong hệ SI, đơn vị của động lượng là
+*A. kg.m/s.
+B. kg.m/s².
+C. kg.m²/s².
+D. kg.m²/s.
+Lời giải
+Từ $p = mv$, đơn vị là kg.m/s (cũng bằng N.s).
+
+Câu 4. [NB] Khi một lực $\vec{F}$ không đổi tác dụng lên vật trong khoảng thời gian ngắn $\Delta t$, xung lượng của lực trong khoảng thời gian đó là
+A. $\dfrac{F}{\Delta t}$.
+B. $F \cdot \Delta t^2$.
+*C. $F \cdot \Delta t$.
+D. $F \cdot v$.
+Lời giải
+Xung lượng của lực là tích $F \cdot \Delta t$.
+
+Câu 5. [NB] Đơn vị của xung lượng của lực là
+A. N/s.
+B. N.m.
+*C. N.s.
+D. J.
+Lời giải
+Xung lượng $F \cdot \Delta t$ có đơn vị N.s.
+
+Câu 6. [NB] Độ biến thiên động lượng của một vật trong một khoảng thời gian bằng
+*A. xung lượng của lực tác dụng lên vật trong khoảng thời gian đó.
+B. công của lực tác dụng lên vật trong khoảng thời gian đó.
+C. tích của khối lượng và gia tốc của vật trong khoảng thời gian đó.
+D. thương số giữa lực tác dụng và khối lượng của vật.
+Lời giải
+$\vec{F}\Delta t = \Delta \vec{p}$: xung lượng của lực bằng độ biến thiên động lượng.
+
+Câu 7. [NB] Động lượng là đại lượng đặc trưng cho
+A. khả năng sinh công của vật khi vật chuyển động trên mặt phẳng nhẵn.
+B. mức độ chuyển động nhanh hay chậm của vật khi vật chịu lực tác dụng.
+C. khả năng biến dạng của vật khi vật va chạm với vật khác.
+*D. khả năng truyền chuyển động của vật khi tương tác với vật khác.
+Lời giải
+Vật có khối lượng và vận tốc càng lớn thì sự truyền chuyển động trong tương tác càng mạnh, tức là động lượng càng lớn.
+
+Câu 8. [NB] Xe tải và ô tô con chạy cạnh nhau với cùng vận tốc. Khi gặp đèn đỏ, xe tải cần lực hãm lớn hơn để dừng lại trong cùng một khoảng thời gian vì
+A. xe tải có thể tích lớn hơn nên chịu lực cản của không khí lớn hơn.
+*B. xe tải có khối lượng lớn hơn nên có động lượng lớn hơn.
+C. xe tải chịu lực ma sát lăn nhỏ hơn xe con.
+D. xe tải chịu lực cản của không khí nhỏ hơn.
+Lời giải
+Cùng vận tốc nhưng khối lượng lớn hơn thì động lượng lớn hơn, độ biến thiên động lượng lớn hơn nên cần xung lượng (lực hãm) lớn hơn.
+
+Câu 9. [TH] Phát biểu nào sau đây SAI khi nói về động lượng?
+*A. Động lượng của một vật chỉ phụ thuộc vào vận tốc của vật đó.
+B. Động lượng đặc trưng cho trạng thái chuyển động của vật tại mỗi thời điểm.
+C. Động lượng là đại lượng vectơ.
+D. Động lượng có đơn vị là kg.m/s.
+Lời giải
+Động lượng $p = mv$ phụ thuộc cả khối lượng và vận tốc.
+
+Câu 10. [TH] Vật A có khối lượng gấp đôi vật B, vận tốc của vật A bằng một nửa vận tốc của vật B và hai vật chuyển động cùng hướng. Kết luận nào đúng?
+A. $p_A = 2p_B$.
+B. $p_A = \dfrac{p_B}{2}$.
+*C. $p_A = p_B$.
+D. $p_A = 4p_B$.
+Lời giải
+$p_A = m_A v_A = 2m_B \cdot \dfrac{v_B}{2} = m_B v_B = p_B$.
+
+Câu 11. [TH] Quả bóng khối lượng $m$ bay ngang với tốc độ $v$ đập vuông góc vào tường rồi bật ngược trở lại với cùng tốc độ $v$. Độ lớn độ biến thiên động lượng của quả bóng là
+A. 0.
+B. $mv$.
+C. $\dfrac{mv}{2}$.
+*D. $2mv$.
+Lời giải
+Chọn chiều dương là chiều bay tới: $\Delta p = (-mv) - mv = -2mv$, độ lớn là $2mv$.
+
+Câu 12. [TH] Khi bắt bóng, thủ môn thường co tay lại và lùi người một chút theo hướng bay của bóng. Làm như vậy là để
+A. làm giảm độ biến thiên động lượng của quả bóng khi bóng chạm vào tay thủ môn.
+*B. kéo dài thời gian bóng tác dụng lên tay để giảm lực trung bình lên tay.
+C. làm tăng xung lượng của lực do bóng tác dụng lên tay thủ môn.
+D. làm giảm khối lượng của quả bóng khi bóng chạm tay thủ môn.
+Lời giải
+Bóng vẫn phải dừng lại nên độ biến thiên động lượng không đổi. Theo $F\Delta t = \Delta p$, thời gian $\Delta t$ dài hơn thì lực trung bình $F$ nhỏ hơn.
+
+Câu 13. [TH] Chọn chiều dương là chiều chuyển động của xe A. Xe B chuyển động ngược chiều với xe A. Động lượng của xe B
+A. có giá trị dương.
+*B. có giá trị âm.
+C. bằng 0.
+D. có độ lớn luôn nhỏ hơn độ lớn động lượng của xe A.
+Lời giải
+Vận tốc của xe B ngược chiều dương nên $v_B < 0$, do đó $p_B = m_B v_B < 0$.
+
+Câu 14. [TH] Hợp lực $F$ không đổi tác dụng lên vật khối lượng $m$ đang đứng yên trong khoảng thời gian $\Delta t$. Vận tốc của vật ngay sau đó là
+*A. $v = \dfrac{F \Delta t}{m}$.
+B. $v = F m \Delta t$.
+C. $v = \dfrac{F}{m \Delta t}$.
+D. $v = \dfrac{m}{F \Delta t}$.
+Lời giải
+$F\Delta t = \Delta p = mv - 0$ nên $v = \dfrac{F\Delta t}{m}$.
+
+Câu 15. [TH] Đại lượng nào sau đây KHÔNG phải là đại lượng vectơ?
+A. Động lượng.
+B. Xung lượng của lực.
+C. Độ biến thiên động lượng.
+*D. Động năng.
+Lời giải
+Động năng $\dfrac{1}{2}mv^2$ là đại lượng vô hướng; động lượng, xung lượng và độ biến thiên động lượng đều là vectơ.
+
+Câu 16. [TH] Một vật có động lượng $p$. Nếu khối lượng của vật giảm đi một nửa và vận tốc tăng lên gấp 3 lần thì động lượng mới của vật là
+A. $\dfrac{p}{6}$.
+B. $3p$.
+*C. $1,5p$.
+D. $6p$.
+Lời giải
+$p' = \dfrac{m}{2} \cdot 3v = 1,5mv = 1,5p$.
+
+Câu 17. [VD] Một vật khối lượng 3 kg đang chuyển động thẳng với vận tốc 2 m/s thì chịu tác dụng của hợp lực không đổi 12 N cùng hướng chuyển động. Sau khoảng thời gian bao lâu kể từ lúc đó vận tốc của vật đạt 8 m/s?
+*A. 1,5 s.
+B. 0,5 s.
+C. 4,0 s.
+D. 3,0 s.
+Lời giải
+$F\Delta t = m(v_2 - v_1)$ nên $\Delta t = \dfrac{3 \cdot (8-2)}{12} = 1,5$ s.
+
+Câu 18. [VD] Một vật có khối lượng 1 kg đang chuyển động với vận tốc 3 m/s về hướng Đông. Sau một tương tác ngắn, vật chuyển động với vận tốc 4 m/s về hướng Bắc. Độ lớn độ biến thiên động lượng của vật là
+A. 1 kg.m/s.
+B. 7 kg.m/s.
+*C. 5 kg.m/s.
+D. 12 kg.m/s.
+Lời giải
+$\Delta\vec{p} = \vec{p}_2 - \vec{p}_1$ với hai vectơ vuông góc: $|\Delta p| = \sqrt{3^2 + 4^2} = 5$ kg.m/s.
+
+Câu 19. [VD] Một ô tô khối lượng 1,2 tấn đang chạy với tốc độ 54 km/h. Động lượng của ô tô có độ lớn là
+A. 64800 kg.m/s.
+B. 18 kg.m/s.
+C. 233280 kg.m/s.
+*D. 18000 kg.m/s.
+Lời giải
+$m = 1200$ kg, $v = 54 \text{ km/h} = 15$ m/s, nên $p = 1200 \cdot 15 = 18000$ kg.m/s.
+
+Câu 20. [VD] Hai quả bóng giống hệt nhau cùng bay tới đập vuông góc vào tường với cùng tốc độ. Quả thứ nhất bật ngược trở lại với cùng tốc độ đó; quả thứ hai làm bằng đất sét nên dính vào tường. Tỉ số độ lớn xung lượng của lực do tường tác dụng lên quả thứ nhất so với quả thứ hai là
+A. $\dfrac{1}{2}$.
+B. 1.
+C. 4.
+*D. 2.
+Lời giải
+Quả thứ nhất: $|\Delta p| = mv - (-mv) = 2mv$. Quả thứ hai: $|\Delta p| = mv - 0 = mv$. Tỉ số bằng 2.
+
+Câu 21. [VD] Hai vật 1 và 2 đang đứng yên có khối lượng $m_1 = 2m_2$. Hợp lực tác dụng lên mỗi vật có cùng độ lớn, cùng phương, trong cùng khoảng thời gian $\Delta t$. Ngay sau đó
+*A. $p_1 = p_2$ và $v_2 = 2v_1$.
+B. $p_1 = 2p_2$ và $v_1 = v_2$.
+C. $p_1 = \dfrac{p_2}{2}$ và $v_1 = v_2$.
+D. $p_1 = p_2$ và $v_1 = 2v_2$.
+Lời giải
+Xung lượng bằng nhau nên độ biến thiên động lượng bằng nhau: $p_1 = p_2$. Từ $m_1 v_1 = m_2 v_2$ và $m_1 = 2m_2$ suy ra $v_2 = 2v_1$.
+
+Câu 22. [VD] Trái Đất có khối lượng khoảng $6,0 \cdot 10^{24}$ kg chuyển động quanh Mặt Trời với tốc độ khoảng 30 km/s. Độ lớn động lượng của Trái Đất là
+A. $1,8 \cdot 10^{26}$ kg.m/s.
+*B. $1,8 \cdot 10^{29}$ kg.m/s.
+C. $1,8 \cdot 10^{32}$ kg.m/s.
+D. $2,0 \cdot 10^{20}$ kg.m/s.
+Lời giải
+$v = 30 \text{ km/s} = 3,0 \cdot 10^4$ m/s nên $p = 6,0 \cdot 10^{24} \cdot 3,0 \cdot 10^4 = 1,8 \cdot 10^{29}$ kg.m/s.
+
+Câu 23. [TF] [TH] Xét động lượng của một vật:
+*A. Động lượng của vật cùng hướng với vận tốc của vật.
+B. Động lượng của vật tỉ lệ thuận với khối lượng và tỉ lệ thuận với bình phương vận tốc.
+C. Hai vật có cùng tốc độ thì động lượng của chúng luôn bằng nhau.
+*D. Vật đang đứng yên có động lượng bằng 0.
+Lời giải
+$\vec{p} = m\vec{v}$ nên cùng hướng với $\vec{v}$, tỉ lệ thuận với $v$ (không phải $v^2$) và bằng 0 khi $v = 0$. Hai vật cùng tốc độ nhưng khác khối lượng thì động lượng khác nhau.
+
+Câu 24. [TF] [TH] Một vật chỉ chịu tác dụng của lực $\vec{F}$ không đổi trong khoảng thời gian ngắn $\Delta t$:
+*A. Xung lượng của lực có độ lớn $F\Delta t$.
+*B. Xung lượng của lực cùng hướng với lực $\vec{F}$.
+*C. Xung lượng của lực bằng độ biến thiên động lượng của vật.
+D. Nếu $\Delta t$ càng nhỏ thì xung lượng của lực luôn càng lớn.
+Lời giải
+Xung lượng $\vec{F}\Delta t$ cùng hướng với $\vec{F}$ và bằng $\Delta\vec{p}$. Với cùng lực $F$, thời gian $\Delta t$ nhỏ hơn thì xung lượng nhỏ hơn.
+
+Câu 25. [TF] [TH] Khung xe ô tô được thiết kế có vùng thép mềm dễ biến dạng khi va chạm. Khi xe va chạm:
+*A. Vùng này biến dạng làm tăng thời gian giảm tốc của xe.
+B. Vùng này làm cho độ biến thiên động lượng của xe bằng 0.
+C. Với cùng độ biến thiên động lượng, thời gian va chạm dài hơn thì lực trung bình tác dụng lên xe lớn hơn.
+D. Vùng này làm tăng lực trung bình tác dụng lên người ngồi trong xe.
+Lời giải
+Xe vẫn phải dừng lại nên $\Delta p$ không đổi. Thời gian va chạm dài hơn thì $F = \dfrac{\Delta p}{\Delta t}$ nhỏ hơn, giúp giảm chấn thương cho người.
+
+Câu 26. [TF] [VD] Quả bóng khối lượng 0,5 kg bay ngang với vận tốc 8 m/s đập vuông góc vào tường rồi bật ngược lại với tốc độ 6 m/s. Thời gian va chạm là 0,05 s. Chọn chiều dương là chiều bay tới tường.
+*A. Động lượng của bóng trước va chạm là 4 kg.m/s.
+*B. Động lượng của bóng sau va chạm là $-3$ kg.m/s.
+*C. Xung lượng của lực do tường tác dụng lên bóng có độ lớn 7 N.s.
+*D. Lực trung bình do tường tác dụng lên bóng có độ lớn 140 N.
+Lời giải
+$p_1 = 0,5 \cdot 8 = 4$; $p_2 = 0,5 \cdot (-6) = -3$. $\Delta p = -3 - 4 = -7$ kg.m/s nên xung lượng có độ lớn 7 N.s và $F = \dfrac{7}{0,05} = 140$ N.
+
+Câu 27. [TF] [VD] Ô tô khối lượng 1,5 tấn đang chạy với tốc độ 72 km/h thì phanh và dừng lại sau 5 s. Coi lực hãm không đổi.
+*A. Động lượng của ô tô trước khi phanh là 30000 kg.m/s.
+*B. Độ lớn xung lượng của lực hãm là 30000 N.s.
+*C. Độ lớn lực hãm là 6000 N.
+D. Nếu thời gian dừng giảm xuống còn một nửa thì lực hãm giảm xuống còn một nửa.
+Lời giải
+$v = 20$ m/s nên $p = 1500 \cdot 20 = 30000$ kg.m/s. Xe dừng nên $|\Delta p| = 30000$ N.s và $F = \dfrac{30000}{5} = 6000$ N. Thời gian dừng giảm một nửa thì lực hãm tăng gấp đôi.
+
+Câu 28. [TF] [VD] Xe tải khối lượng 2 tấn chạy với tốc độ 36 km/h; ô tô con khối lượng 800 kg chạy ngược chiều với tốc độ 90 km/h.
+*A. Độ lớn động lượng của hai xe bằng nhau.
+B. Hai vectơ động lượng của hai xe cùng hướng.
+C. Ô tô con có động lượng lớn hơn vì có tốc độ lớn hơn.
+*D. Để làm mỗi xe dừng lại cần các xung lượng của lực hãm có độ lớn bằng nhau.
+Lời giải
+Xe tải: $2000 \cdot 10 = 20000$ kg.m/s; ô tô con: $800 \cdot 25 = 20000$ kg.m/s. Hai xe chuyển động ngược chiều nên vectơ động lượng ngược hướng. Mỗi xe dừng lại cần $|\Delta p| = 20000$ N.s.
+
+Câu 29. [TF] [VD] Vật khối lượng 2 kg đang chuyển động thẳng đều với vận tốc 5 m/s trên mặt phẳng ngang nhẵn, sau đó chịu tác dụng của lực kéo 4 N cùng hướng chuyển động trong 3 s.
+*A. Động lượng ban đầu của vật là 10 kg.m/s.
+B. Độ biến thiên động lượng của vật là 4 kg.m/s.
+C. Vận tốc của vật sau 3 s là 8 m/s.
+D. Động lượng của vật sau 3 s là 14 kg.m/s.
+Lời giải
+$p_1 = 2 \cdot 5 = 10$. $\Delta p = F\Delta t = 4 \cdot 3 = 12$ kg.m/s nên $p_2 = 22$ kg.m/s và $v_2 = \dfrac{22}{2} = 11$ m/s.
+
+Câu 30. [TH] Một viên đá khối lượng 800 g chuyển động với tốc độ 15 m/s. Tính độ lớn động lượng của viên đá (theo đơn vị kg.m/s).
+Trả lời: [[12]]
+Lời giải
+$p = mv = 0,8 \cdot 15 = 12$ kg.m/s.
+
+Câu 31. [TH] Một vật khối lượng 12 kg có động lượng độ lớn 30 kg.m/s. Tính tốc độ của vật (theo đơn vị m/s).
+Trả lời: [[2,5]]
+Lời giải
+$v = \dfrac{p}{m} = \dfrac{30}{12} = 2,5$ m/s.
+
+Câu 32. [TH] Một lực không đổi 25 N tác dụng lên vật trong khoảng thời gian 0,4 s. Tính độ lớn xung lượng của lực (theo đơn vị N.s).
+Trả lời: [[10]]
+Lời giải
+$F\Delta t = 25 \cdot 0,4 = 10$ N.s.
+
+Câu 33. [VD] Vật khối lượng 2,5 kg đang đứng yên trên mặt phẳng ngang nhẵn thì chịu tác dụng của lực kéo nằm ngang 20 N trong 0,5 s. Tính tốc độ của vật ngay sau đó (theo đơn vị m/s).
+Trả lời: [[4]]
+Lời giải
+$F\Delta t = mv - 0$ nên $v = \dfrac{20 \cdot 0,5}{2,5} = 4$ m/s.
+
+Câu 34. [VD] Một vật khối lượng 2 kg có động lượng độ lớn 12 kg.m/s. Tính động năng của vật (theo đơn vị J).
+Trả lời: [[36]]
+Lời giải
+$v = \dfrac{p}{m} = 6$ m/s nên $W_{đ} = \dfrac{1}{2}mv^2 = \dfrac{1}{2} \cdot 2 \cdot 36 = 36$ J (hoặc $W_{đ} = \dfrac{p^2}{2m} = \dfrac{144}{4}$).
+
+Câu 35. [VD] Một người nhảy từ trên cao xuống đất. Nếu giữ chân thẳng thì thời gian va chạm với đất là 0,02 s; nếu gập gối thì thời gian va chạm là 0,2 s. Coi độ biến thiên động lượng của người trong hai trường hợp là như nhau. Lực trung bình của đất tác dụng lên người khi gập gối nhỏ hơn bao nhiêu lần so với khi giữ chân thẳng (theo đơn vị lần)?
+Trả lời: [[10]]
+Lời giải
+$F = \dfrac{\Delta p}{\Delta t}$ với cùng $\Delta p$ nên $\dfrac{F_1}{F_2} = \dfrac{0,2}{0,02} = 10$.
+
+Câu 36. [VD] Vật khối lượng 0,5 kg rơi tự do trong 3 s, lấy $g = 10$ m/s². Tính độ biến thiên động lượng của vật trong thời gian này (theo đơn vị kg.m/s).
+Trả lời: [[15]]
+Lời giải
+Vật rơi tự do từ trạng thái nghỉ nên $v = gt = 30$ m/s và $\Delta p = mv = 0,5 \cdot 30 = 15$ kg.m/s (cũng bằng xung lượng của trọng lực $mg \cdot t$).
+
+Câu 37. [VD] Vật khối lượng 2 kg đang đứng yên trên mặt phẳng ngang nhẵn. Tác dụng lên vật lực nằm ngang 15 N hướng Đông trong 0,5 s, ngay sau đó tác dụng lực nằm ngang 20 N hướng Bắc trong 0,5 s (trong mỗi giai đoạn chỉ có lực này là lực nằm ngang tác dụng lên vật). Tính độ lớn động lượng của vật sau tổng cộng 1 s (theo đơn vị kg.m/s).
+Trả lời: [[12,5]]
+Lời giải
+Sau giai đoạn đầu vật có động lượng $15 \cdot 0,5 = 7,5$ kg.m/s hướng Đông; giai đoạn sau thêm $20 \cdot 0,5 = 10$ kg.m/s hướng Bắc. Hai vectơ vuông góc nên $p = \sqrt{7,5^2 + 10^2} = 12,5$ kg.m/s.
+
+Câu 38. [VD] Quả bóng khối lượng 0,25 kg rơi tự do từ độ cao 3,2 m xuống sàn rồi bật lên với tốc độ 6 m/s. Thời gian bóng tiếp xúc với sàn là 0,02 s. Lấy $g = 10$ m/s², bỏ qua trọng lực trong lúc va chạm. Tính độ lớn lực trung bình do sàn tác dụng lên bóng (theo đơn vị N).
+Trả lời: [[175]]
+Lời giải
+Tốc độ ngay trước va chạm: $v = \sqrt{2gh} = \sqrt{2 \cdot 10 \cdot 3,2} = 8$ m/s. Chọn chiều dương hướng lên: $\Delta p = 0,25 \cdot (6 - (-8)) = 3,5$ kg.m/s nên $F = \dfrac{3,5}{0,02} = 175$ N.
+
 @bai 29 | Định luật bảo toàn động lượng
+Câu 1. [NB] Một hệ nhiều vật được gọi là hệ kín khi
+A. hệ gồm hai vật chuyển động ngược chiều và va chạm với nhau.
+B. hệ chịu tác dụng của các ngoại lực có hợp lực khác 0 trong suốt quá trình.
+*C. hệ không chịu ngoại lực, hoặc các ngoại lực cân bằng nhau.
+D. hệ gồm các vật chuyển động thẳng đều với cùng vận tốc.
+Lời giải
+Hệ kín (hệ cô lập) là hệ không có ngoại lực tác dụng, hoặc các ngoại lực cân bằng nhau.
+
+Câu 2. [NB] Phát biểu nào sau đây là nội dung của định luật bảo toàn động lượng?
+*A. Động lượng toàn phần của một hệ kín là một đại lượng bảo toàn.
+B. Động năng toàn phần của một hệ kín luôn là một đại lượng bảo toàn.
+C. Động lượng của từng vật trong hệ kín luôn không đổi.
+D. Động lượng toàn phần của hệ kín chỉ bảo toàn khi các vật chuyển động thẳng đều.
+Lời giải
+Chỉ có động lượng toàn phần (tổng vectơ động lượng của các vật) của hệ kín được bảo toàn.
+
+Câu 3. [NB] Hai vật có khối lượng $m_1$, $m_2$ va chạm với nhau trong một hệ kín. Gọi $\vec{v}_1$, $\vec{v}_2$ là vận tốc trước va chạm và $\vec{v}_1'$, $\vec{v}_2'$ là vận tốc sau va chạm. Biểu thức của định luật bảo toàn động lượng là
+A. $m_1\vec{v}_1 + m_2\vec{v}_2 = 0$.
+B. $\vec{v}_1 + \vec{v}_2 = \vec{v}_1' + \vec{v}_2'$.
+C. $m_1v_1^2 + m_2v_2^2 = m_1v_1'^2 + m_2v_2'^2$.
+*D. $m_1\vec{v}_1 + m_2\vec{v}_2 = m_1\vec{v}_1' + m_2\vec{v}_2'$.
+Lời giải
+Động lượng toàn phần trước va chạm bằng động lượng toàn phần sau va chạm.
+
+Câu 4. [NB] Va chạm mềm là va chạm mà sau va chạm
+A. hai vật bật ra xa nhau với cùng tốc độ như trước khi va chạm.
+*B. hai vật dính vào nhau và chuyển động với cùng một vận tốc.
+C. một vật đứng yên còn vật kia chuyển động.
+D. hai vật đổi chiều chuyển động.
+Lời giải
+Trong va chạm mềm, hai vật dính vào nhau sau va chạm.
+
+Câu 5. [NB] Trong va chạm đàn hồi của hai vật (hệ kín)
+*A. tổng động năng của hệ trước và sau va chạm bằng nhau.
+B. hai vật dính vào nhau sau va chạm.
+C. một phần động lượng toàn phần của hệ chuyển thành nhiệt sau va chạm.
+D. tổng động năng của hệ giảm đi.
+Lời giải
+Va chạm đàn hồi bảo toàn cả động lượng và động năng.
+
+Câu 6. [NB] Trong các quá trình va chạm, đạn nổ, pháo nổ, người ta có thể coi hệ là kín vì
+A. ngoại lực lớn hơn nội lực rất nhiều trong suốt thời gian tương tác.
+B. các ngoại lực luôn bằng 0.
+*C. nội lực lớn hơn ngoại lực rất nhiều trong thời gian ngắn.
+D. các vật trong hệ chuyển động với cùng vận tốc.
+Lời giải
+Khi nội lực lớn hơn ngoại lực rất nhiều thì có thể bỏ qua ngoại lực và coi hệ là kín.
+
+Câu 7. [NB] Động lượng toàn phần của một hệ hai vật là
+A. tổng độ lớn động lượng của hai vật.
+*B. tổng vectơ động lượng của hai vật.
+C. động lượng của vật có khối lượng lớn hơn.
+D. hiệu độ lớn động lượng của hai vật.
+Lời giải
+$\vec{p} = \vec{p}_1 + \vec{p}_2$ là tổng vectơ, không phải tổng độ lớn.
+
+Câu 8. [NB] Chuyển động phản lực (ví dụ chuyển động của tên lửa) dựa trên
+A. định luật vạn vật hấp dẫn của Newton.
+B. định luật 1 Newton (định luật quán tính).
+C. định luật Hooke về lực đàn hồi của lò xo.
+*D. định luật bảo toàn động lượng.
+Lời giải
+Khí phụt ra phía sau mang động lượng, nên tên lửa nhận động lượng ngược lại theo định luật bảo toàn động lượng.
+
+Câu 9. [TH] Nói về va chạm mềm của hai vật trong hệ kín, phát biểu nào sau đây đúng?
+*A. Động lượng toàn phần của hệ được bảo toàn, còn động năng toàn phần của hệ giảm.
+B. Động lượng toàn phần của hệ giảm, còn động năng toàn phần của hệ được bảo toàn.
+C. Cả động lượng và động năng toàn phần của hệ đều được bảo toàn.
+D. Cả động lượng và động năng toàn phần của hệ đều giảm.
+Lời giải
+Hệ kín nên động lượng được bảo toàn. Một phần động năng chuyển thành nội năng (biến dạng, nhiệt) nên động năng giảm.
+
+Câu 10. [TH] Người đứng trong thuyền nhỏ đang đứng yên trên mặt nước, khi bước về phía bờ thì thuyền bị lùi lại (bỏ qua lực cản của nước). Nguyên nhân chủ yếu là
+A. nước tác dụng lực đẩy lên thuyền theo chiều ngược lại với chiều bước đi của người trên thuyền.
+B. trọng lực của người làm thuyền chìm xuống và trượt ra xa bờ.
+*C. tổng động lượng của người và thuyền bằng 0 và bảo toàn nên thuyền nhận động lượng ngược người.
+D. thuyền bị mất cân bằng do người đứng không đúng vị trí giữa thuyền.
+Lời giải
+Bỏ qua lực cản của nước, hệ (người + thuyền) là hệ kín theo phương ngang và có động lượng toàn phần bằng 0, nên $\vec{p}_{người} = -\vec{p}_{thuyền}$.
+
+Câu 11. [TH] Hai người đứng yên trên sân băng nhẵn, dùng tay đẩy vào nhau. Người có khối lượng nhỏ hơn lùi ra xa với tốc độ lớn hơn vì
+A. lực mà người nhẹ chịu lớn hơn lực mà người nặng chịu, nên người nhẹ có gia tốc lớn hơn nhiều.
+B. người nhẹ nhận được xung lượng lớn hơn người nặng trong cùng thời gian đẩy nhau.
+C. động lượng của người nhẹ lớn hơn động lượng của người nặng sau khi đẩy nhau.
+*D. hai người có động lượng cùng độ lớn (tổng bằng 0), mà $p = mv$ nên $m$ nhỏ thì $v$ lớn.
+Lời giải
+Theo định luật 3 Newton, lực và thời gian tương tác của hai người như nhau nên xung lượng cùng độ lớn, động lượng cùng độ lớn. Vì $m_1v_1 = m_2v_2$ nên $m$ nhỏ thì $v$ lớn.
+
+Câu 12. [TH] Súng giật lùi khi bắn vì
+A. không khí bị đẩy ra phía trước nên tác dụng lên súng một lực đẩy ngược về phía sau.
+*B. tổng động lượng của súng và đạn bằng 0 nên súng nhận động lượng ngược đạn.
+C. thuốc súng cháy làm khối lượng của súng tăng lên nên súng bị kéo lùi.
+D. ma sát giữa tay người bắn và súng tăng lên khi viên đạn rời nòng súng.
+Lời giải
+Động lượng toàn phần của hệ súng + đạn được bảo toàn và bằng 0 nên $\vec{p}_{súng} = -\vec{p}_{đạn}$.
+
+Câu 13. [TH] Hai xe va chạm với nhau trên mặt đường ngang có ma sát nhỏ. Có thể áp dụng định luật bảo toàn động lượng cho hệ hai xe ngay trước và sau va chạm vì
+*A. trong thời gian va chạm rất ngắn, nội lực rất lớn so với ngoại lực.
+B. ma sát giữa xe và mặt đường bằng 0 tuyệt đối trong suốt thời gian va chạm.
+C. khối lượng hai xe bằng nhau.
+D. hai xe luôn chuyển động ngược chiều nhau.
+Lời giải
+Nội lực rất lớn so với ngoại lực (ma sát) trong thời gian va chạm ngắn nên có thể coi hệ là kín.
+
+Câu 14. [TH] Hai vật khối lượng $m_1$, $m_2$ chuyển động ngược chiều với tốc độ $v_1$, $v_2$ rồi va chạm mềm. Chọn chiều dương là chiều chuyển động của vật 1. Vận tốc của hai vật sau va chạm là
+A. $\dfrac{m_1v_1 + m_2v_2}{m_1 + m_2}$.
+B. $\dfrac{m_1v_1 - m_2v_2}{m_1 - m_2}$.
+*C. $\dfrac{m_1v_1 - m_2v_2}{m_1 + m_2}$.
+D. $\dfrac{m_2v_2 - m_1v_1}{m_1 + m_2}$.
+Lời giải
+Vật 2 ngược chiều dương nên có vận tốc $-v_2$: $m_1v_1 - m_2v_2 = (m_1 + m_2)v$.
+
+Câu 15. [TH] Trường hợp nào sau đây động lượng toàn phần của hệ KHÔNG được bảo toàn?
+A. Hai viên bi va chạm với nhau trên mặt bàn ngang nhẵn.
+B. Một quả pháo nổ trên không trung (xét ngay trước và sau khi nổ).
+C. Hai xe trượt va chạm với nhau trên đệm khí nằm ngang.
+*D. Hệ chỉ gồm một quả táo đang rơi tự do.
+Lời giải
+Quả táo chịu tác dụng của trọng lực (ngoại lực, không cân bằng) nên động lượng của nó tăng dần, hệ không kín.
+
+Câu 16. [TH] Con lắc Newton gồm các quả cầu thép giống nhau treo sát nhau. Kéo quả cầu ngoài cùng bên trái lên độ cao $h$ rồi thả, quả cầu ngoài cùng bên phải bật lên gần đúng độ cao $h$, các quả cầu ở giữa gần như đứng yên. Điều đó cho thấy va chạm giữa các quả cầu gần đúng là
+A. va chạm mềm.
+*B. va chạm đàn hồi.
+C. va chạm không tuân theo định luật bảo toàn động lượng.
+D. va chạm làm mất hoàn toàn động năng.
+Lời giải
+Quả cầu cuối lên được độ cao $h$ nên động năng gần như bảo toàn, đây là va chạm đàn hồi.
+
+Câu 17. [VD] Xe A khối lượng 2 kg chuyển động với vận tốc 3 m/s tới va chạm mềm với xe B khối lượng 1 kg đang đứng yên. Vận tốc của hai xe sau va chạm là
+A. 1,0 m/s.
+*B. 2,0 m/s.
+C. 3,0 m/s.
+D. 1,5 m/s.
+Lời giải
+$2 \cdot 3 = (2 + 1)v$ nên $v = 2$ m/s.
+
+Câu 18. [VD] Xe A khối lượng 3 kg chuyển động với vận tốc 4 m/s tới va chạm mềm với xe B khối lượng 5 kg đang chuyển động ngược chiều với vận tốc 2 m/s. Sau va chạm, hai xe chuyển động
+*A. với vận tốc 0,25 m/s cùng chiều chuyển động ban đầu của xe A.
+B. với vận tốc 0,25 m/s cùng chiều chuyển động ban đầu của xe B.
+C. với vận tốc 2,75 m/s cùng chiều chuyển động ban đầu của xe A.
+D. với vận tốc 0,5 m/s cùng chiều chuyển động ban đầu của xe B.
+Lời giải
+Chọn chiều dương là chiều xe A: $3 \cdot 4 - 5 \cdot 2 = (3 + 5)v$ nên $v = 0,25$ m/s, dương nên cùng chiều xe A.
+
+Câu 19. [VD] Hai người đứng yên trên sân băng nhẵn, đẩy vào nhau. Người thứ nhất khối lượng 60 kg lùi với tốc độ 1,5 m/s. Người thứ hai có khối lượng 45 kg sẽ lùi với tốc độ
+A. 1,125 m/s.
+B. 1,5 m/s.
+*C. 2,0 m/s.
+D. 2,67 m/s.
+Lời giải
+$60 \cdot 1,5 = 45 \cdot v$ nên $v = 2$ m/s.
+
+Câu 20. [VD] Viên đạn khối lượng 10 g bay ngang với tốc độ 300 m/s cắm vào khối gỗ khối lượng 2,99 kg đang đứng yên trên mặt phẳng ngang nhẵn. Tốc độ của khối gỗ cùng viên đạn ngay sau đó là
+A. 0,5 m/s.
+B. 1,5 m/s.
+C. 3,0 m/s.
+*D. 1,0 m/s.
+Lời giải
+$0,01 \cdot 300 = (0,01 + 2,99)v$ nên $v = 1$ m/s.
+
+Câu 21. [VD] Xe A khối lượng $m$ chuyển động với tốc độ $v$ tới va chạm mềm với xe B cùng khối lượng $m$ đang đứng yên. Tỉ số giữa động năng của hệ sau va chạm và trước va chạm là
+*A. $\dfrac{1}{2}$.
+B. 1.
+C. $\dfrac{1}{4}$.
+D. 2.
+Lời giải
+Sau va chạm: $mv = 2mv'$ nên $v' = \dfrac{v}{2}$. Động năng sau: $\dfrac{1}{2} \cdot 2m \cdot \dfrac{v^2}{4} = \dfrac{1}{4}mv^2$; trước: $\dfrac{1}{2}mv^2$. Tỉ số là $\dfrac{1}{2}$.
+
+Câu 22. [VD] Viên đạn khối lượng 20 g bay ngang với tốc độ 400 m/s cắm vào bao cát khối lượng 1,98 kg treo bằng dây dài. Sau va chạm, hệ đạn và bao cát lên được độ cao cực đại bao nhiêu so với vị trí ban đầu? Lấy $g = 10$ m/s², bỏ qua lực cản không khí.
+A. 0,2 m.
+B. 0,4 m.
+*C. 0,8 m.
+D. 1,6 m.
+Lời giải
+Va chạm mềm: $0,02 \cdot 400 = 2v$ nên $v = 4$ m/s. Sau đó cơ năng bảo toàn: $h = \dfrac{v^2}{2g} = \dfrac{16}{20} = 0,8$ m.
+
+Câu 23. [TF] [TH] Xét hệ kín:
+*A. Hệ gồm hai xe trượt trên đệm khí nằm ngang, bỏ qua ma sát, có thể coi là hệ kín theo phương ngang.
+*B. Trong hệ kín, tổng vectơ các nội lực tác dụng lên các vật của hệ bằng 0.
+C. Hệ kín chỉ có thể gồm hai vật.
+D. Trong hệ kín, động lượng của từng vật luôn không đổi.
+Lời giải
+Trọng lực cân bằng với phản lực nên không có ngoại lực theo phương ngang. Các nội lực xuất hiện thành từng cặp trực đối (định luật 3 Newton) nên tổng bằng 0; nhưng động lượng của từng vật vẫn thay đổi, chỉ có động lượng toàn phần không đổi.
+
+Câu 24. [TF] [TH] Về hai loại va chạm:
+*A. Trong va chạm mềm, hai vật dính vào nhau sau va chạm.
+*B. Trong va chạm đàn hồi, tổng động năng của hệ được bảo toàn.
+C. Trong va chạm mềm, tổng động năng của hệ được bảo toàn.
+*D. Trong cả hai loại va chạm, nếu hệ kín thì động lượng toàn phần được bảo toàn.
+Lời giải
+Hệ kín thì động lượng luôn bảo toàn. Động năng chỉ bảo toàn trong va chạm đàn hồi; ở va chạm mềm động năng giảm.
+
+Câu 25. [TF] [TH] Một người đứng trong thuyền đang đứng yên trên mặt hồ phẳng lặng, bỏ qua lực cản của nước. Người bước đi về phía đầu thuyền:
+*A. Thuyền chuyển động về phía đuôi.
+B. Động lượng toàn phần của hệ người và thuyền tăng dần.
+C. Động lượng của người bằng động lượng của thuyền (hai vectơ bằng nhau).
+D. Khi người dừng lại thì thuyền tiếp tục chuyển động ngược chiều với tốc độ không đổi.
+Lời giải
+Tổng động lượng của hệ luôn bằng 0 nên $\vec{p}_{người} = -\vec{p}_{thuyền}$ (hai vectơ đối nhau). Khi người dừng lại thì động lượng của người bằng 0, nên động lượng của thuyền cũng bằng 0, thuyền dừng.
+
+Câu 26. [TF] [VD] Xe A khối lượng 4 kg chuyển động với vận tốc 3 m/s tới va chạm trực diện với xe B khối lượng 2 kg chuyển động ngược chiều với vận tốc 6 m/s. Sau va chạm hai xe dính vào nhau. Chọn chiều dương là chiều chuyển động của xe A.
+*A. Động lượng của xe A trước va chạm là 12 kg.m/s.
+*B. Động lượng của xe B trước va chạm là $-12$ kg.m/s.
+*C. Tổng động lượng của hệ trước va chạm bằng 0.
+*D. Sau va chạm hai xe dừng lại.
+Lời giải
+$p_A = 4 \cdot 3 = 12$; $p_B = 2 \cdot (-6) = -12$ kg.m/s nên tổng bằng 0. Động lượng được bảo toàn nên $(4 + 2)v = 0$, $v = 0$: hai xe dừng lại.
+
+Câu 27. [TF] [VD] Súng khối lượng 4 kg đang đứng yên bắn ra một viên đạn khối lượng 10 g với tốc độ 800 m/s (so với mặt đất). Bỏ qua ngoại lực theo phương bắn.
+*A. Độ lớn động lượng của viên đạn là 8 kg.m/s.
+*B. Súng giật lùi với tốc độ 2 m/s.
+*C. Độ lớn động lượng của súng bằng độ lớn động lượng của đạn.
+D. Động năng của súng bằng động năng của đạn.
+Lời giải
+$p_{đạn} = 0,01 \cdot 800 = 8$ kg.m/s, súng có $4v = 8$ nên $v = 2$ m/s. Động năng đạn: $\dfrac{1}{2} \cdot 0,01 \cdot 800^2 = 3200$ J, động năng súng: $\dfrac{1}{2} \cdot 4 \cdot 2^2 = 8$ J, khác nhau.
+
+Câu 28. [TF] [VD] Xe 1 khối lượng 2 kg chuyển động với vận tốc 3 m/s tới va chạm đàn hồi trực diện với xe 2 có cùng khối lượng đang đứng yên.
+*A. Sau va chạm xe 1 đứng yên.
+*B. Sau va chạm xe 2 chuyển động với tốc độ 3 m/s.
+C. Tổng động năng của hệ sau va chạm nhỏ hơn trước va chạm.
+D. Động lượng toàn phần của hệ sau va chạm bằng 12 kg.m/s.
+Lời giải
+Hai xe cùng khối lượng va chạm đàn hồi thì trao đổi vận tốc: $v_1' = 0$, $v_2' = 3$ m/s. Động năng bảo toàn. Động lượng toàn phần là $2 \cdot 3 = 6$ kg.m/s (không phải 12).
+
+Câu 29. [TF] [VD] Viên bi 1 khối lượng 1 kg chuyển động với vận tốc 5 m/s đuổi theo viên bi 2 khối lượng 3 kg đang chuyển động cùng chiều với vận tốc 1 m/s. Sau va chạm hai viên bi dính vào nhau.
+*A. Vận tốc của hai viên bi sau va chạm là 2 m/s.
+B. Động năng của hệ sau va chạm bằng động năng trước va chạm.
+C. Động năng của hệ giảm đi 8 J.
+D. Động lượng toàn phần của hệ sau va chạm là 6 kg.m/s.
+Lời giải
+$1 \cdot 5 + 3 \cdot 1 = 8 = (1 + 3)v$ nên $v = 2$ m/s và động lượng toàn phần là 8 kg.m/s. Động năng trước: $12,5 + 1,5 = 14$ J; sau: $\dfrac{1}{2} \cdot 4 \cdot 4 = 8$ J nên giảm 6 J.
+
+Câu 30. [TH] Hai vật chuyển động ngược chiều nhau, có động lượng độ lớn lần lượt là 6 kg.m/s và 4 kg.m/s. Tính độ lớn động lượng toàn phần của hệ (theo đơn vị kg.m/s).
+Trả lời: [[2]]
+Lời giải
+Hai vectơ ngược hướng nên độ lớn tổng là $6 - 4 = 2$ kg.m/s.
+
+Câu 31. [TH] Hai vật trong một hệ kín va chạm mềm. Động lượng toàn phần của hệ trước va chạm là 14 kg.m/s và tổng khối lượng của hai vật là 4 kg. Tính tốc độ của hai vật sau va chạm (theo đơn vị m/s).
+Trả lời: [[3,5]]
+Lời giải
+Động lượng được bảo toàn nên $14 = 4v$, suy ra $v = 3,5$ m/s.
+
+Câu 32. [TH] Xe 1 khối lượng 2 kg chuyển động với tốc độ 3 m/s và xe 2 khối lượng 4 kg chuyển động với tốc độ 1 m/s cùng chiều với xe 1. Tính độ lớn động lượng toàn phần của hệ hai xe (theo đơn vị kg.m/s).
+Trả lời: [[10]]
+Lời giải
+Hai vectơ động lượng cùng hướng nên $p = 2 \cdot 3 + 4 \cdot 1 = 10$ kg.m/s.
+
+Câu 33. [VD] Toa tàu 1 khối lượng 15 tấn chuyển động với tốc độ 0,6 m/s tới va chạm và móc vào toa tàu 2 khối lượng 10 tấn đang đứng yên. Tính tốc độ của hai toa sau khi móc vào nhau (theo đơn vị m/s).
+Trả lời: [[0,36]]
+Lời giải
+$15000 \cdot 0,6 = (15000 + 10000)v$ nên $v = \dfrac{9000}{25000} = 0,36$ m/s.
+
+Câu 34. [VD] Xe chở cát khối lượng 90 kg chạy trên đường ray nhẵn nằm ngang với tốc độ 4 m/s. Một bao cát khối lượng 30 kg rơi thẳng đứng vào xe và nằm yên trên xe. Tính tốc độ của xe ngay sau đó (theo đơn vị m/s).
+Trả lời: [[3]]
+Lời giải
+Theo phương ngang không có ngoại lực nên động lượng theo phương ngang được bảo toàn: $90 \cdot 4 = (90 + 30)v$ nên $v = 3$ m/s.
+
+Câu 35. [VD] Viên đạn khối lượng 10 g bay ngang với tốc độ 500 m/s xuyên qua khối gỗ khối lượng 1 kg đang đứng yên trên mặt phẳng ngang nhẵn rồi bay ra khỏi khối gỗ với tốc độ 100 m/s. Tính tốc độ của khối gỗ ngay sau khi đạn bay ra (theo đơn vị m/s, coi khối lượng khối gỗ không đổi).
+Trả lời: [[4]]
+Lời giải
+$0,01 \cdot 500 = 0,01 \cdot 100 + 1 \cdot v$ nên $v = 5 - 1 = 4$ m/s.
+
+Câu 36. [VD] Viên đạn khối lượng 3 kg đang bay ngang với tốc độ 40 m/s thì nổ thành hai mảnh. Mảnh thứ nhất khối lượng 2 kg bay tiếp theo hướng ban đầu với tốc độ 50 m/s. Tính tốc độ của mảnh thứ hai theo hướng ban đầu (theo đơn vị m/s).
+Trả lời: [[20]]
+Lời giải
+Khi nổ, nội lực rất lớn nên động lượng bảo toàn: $3 \cdot 40 = 2 \cdot 50 + 1 \cdot v_2$ nên $v_2 = 20$ m/s, cùng hướng ban đầu.
+
+Câu 37. [VD] Tên lửa có tổng khối lượng 600 kg đang đứng yên trong không gian, phụt tức thời ra phía sau 100 kg khí với tốc độ 300 m/s (so với một hệ quy chiếu đứng yên). Tính tốc độ của phần tên lửa còn lại (theo đơn vị m/s).
+Trả lời: [[60]]
+Lời giải
+Phần tên lửa còn lại có khối lượng 500 kg. Động lượng bảo toàn: $0 = 100 \cdot 300 - 500v$ nên $v = 60$ m/s.
+
+Câu 38. [VD] Người khối lượng 50 kg đứng trên xe goòng khối lượng 100 kg đang chạy với tốc độ 2 m/s trên đường ray nhẵn nằm ngang. Người nhảy ra phía trước (cùng chiều chuyển động của xe) với tốc độ 4 m/s so với mặt đất. Tính tốc độ của xe ngay sau khi người nhảy (theo đơn vị m/s).
+Trả lời: [[1]]
+Lời giải
+Động lượng theo phương ngang được bảo toàn: $(50 + 100) \cdot 2 = 50 \cdot 4 + 100v$ nên $v = \dfrac{300 - 200}{100} = 1$ m/s, xe vẫn chuyển động cùng chiều ban đầu.
+
 @bai 30 | Thực hành: Xác định động lượng của vật trước và sau va chạm
+Câu 1. [NB] Trong thí nghiệm xác định động lượng của hai xe trước và sau va chạm, băng đệm khí được dùng để
+A. tăng lực ma sát giữa xe và băng để xe dừng nhanh.
+*B. giảm lực ma sát giữa xe và băng đến mức rất nhỏ.
+C. đo vận tốc của xe.
+D. làm tăng khối lượng của xe.
+Lời giải
+Luồng khí nén tạo đệm khí nâng xe lên nên ma sát rất nhỏ, có thể coi hệ hai xe là hệ kín theo phương ngang.
+
+Câu 2. [NB] Đồng hồ đo thời gian hiện số nối với cổng quang điện dùng để đo
+A. khối lượng của xe.
+B. quãng đường xe đã đi được trên băng đệm khí trong lúc va chạm.
+C. độ dài của tấm cản quang.
+*D. thời gian tấm cản quang chắn tia sáng của cổng quang điện.
+Lời giải
+Đồng hồ ghi khoảng thời gian $t$ mà tấm cản quang che chắn cổng quang điện.
+
+Câu 3. [NB] Cân điện tử trong thí nghiệm dùng để
+*A. đo khối lượng của xe (kể cả tấm cản quang và gia trọng).
+B. đo vận tốc của xe trước va chạm và sau va chạm bằng cách đọc số chỉ.
+C. đo lực tác dụng lên xe.
+D. đo thời gian xe chuyển động.
+Lời giải
+Cần biết khối lượng $m$ của mỗi xe để tính động lượng $p = mv$.
+
+Câu 4. [NB] Gọi $d$ là độ dài tấm cản quang và $t$ là thời gian tấm cản quang chắn cổng quang điện. Vận tốc của xe khi đi qua cổng quang điện được tính bằng
+A. $v = dt$.
+B. $v = \dfrac{t}{d}$.
+*C. $v = \dfrac{d}{t}$.
+D. $v = \dfrac{d}{t^2}$.
+Lời giải
+Trong khoảng thời gian $t$, xe đi được quãng đường bằng đúng độ dài $d$ của tấm cản quang nên $v = \dfrac{d}{t}$.
+
+Câu 5. [TH] Cần điều chỉnh để băng đệm khí nằm ngang nhằm
+A. xe chuyển động nhanh hơn trên băng nên thời gian chắn cổng quang ngắn hơn.
+B. tấm cản quang chắn được cổng quang điện lâu hơn và đồng hồ đo chính xác hơn.
+*C. không có thành phần trọng lực dọc theo băng làm thay đổi động lượng của hệ.
+D. luồng khí từ băng đệm khí thổi mạnh hơn nên xe trượt dễ dàng hơn.
+Lời giải
+Nếu băng nghiêng, thành phần của trọng lực dọc theo băng là ngoại lực làm thay đổi động lượng của hệ.
+
+Câu 6. [TH] Hai xe trượt trên băng đệm khí được coi gần đúng là hệ kín theo phương ngang vì
+*A. trọng lực cân bằng với phản lực của luồng khí, còn ma sát rất nhỏ.
+B. không có lực nào tác dụng lên hai xe trong suốt quá trình chuyển động.
+C. hai xe có khối lượng bằng nhau.
+D. hai xe luôn chuyển động ngược chiều nhau.
+Lời giải
+Theo phương ngang chỉ còn ma sát rất nhỏ nên hệ gần như không có ngoại lực.
+
+Câu 7. [TH] Trong thí nghiệm va chạm mềm (hai xe dính vào nhau), nếu định luật bảo toàn động lượng được nghiệm đúng thì
+A. động lượng sau va chạm nhỏ hơn rất nhiều động lượng trước va chạm.
+B. động lượng sau va chạm lớn hơn động lượng trước va chạm.
+C. vận tốc sau va chạm bằng vận tốc của xe chuyển động trước va chạm.
+*D. động lượng của hệ trước và sau va chạm xấp xỉ bằng nhau.
+Lời giải
+Hai kết quả chỉ chênh nhau trong phạm vi sai số của phép đo (ma sát, đọc thời gian, đo khối lượng).
+
+Câu 8. [TH] Trong thí nghiệm thứ hai, hai xe ban đầu đứng yên được buộc vào nhau và nén lò xo ở giữa. Cắt dây, hai xe chuyển động về hai phía ngược nhau. Theo định luật bảo toàn động lượng, sau khi cắt dây
+A. hai xe có động lượng bằng nhau về độ lớn và cùng hướng chuyển động.
+*B. hai xe có động lượng cùng độ lớn nhưng ngược hướng.
+C. xe nhẹ hơn có động lượng lớn hơn.
+D. xe nặng hơn có tốc độ lớn hơn.
+Lời giải
+Tổng động lượng trước khi cắt dây bằng 0 nên $\vec{p}_1' + \vec{p}_2' = 0$. Vì $m_1v_1' = m_2v_2'$ nên xe nhẹ hơn có tốc độ lớn hơn.
+
+Câu 9. [TH] Tấm cản quang dài 2,0 cm chắn cổng quang điện trong 0,040 s. Tốc độ của xe khi qua cổng quang điện là
+*A. 0,5 m/s.
+B. 5,0 m/s.
+C. 50 m/s.
+D. 0,0008 m/s.
+Lời giải
+$v = \dfrac{d}{t} = \dfrac{0,020}{0,040} = 0,5$ m/s.
+
+Câu 10. [VD] Trong thí nghiệm va chạm mềm, hai xe có khối lượng 0,20 kg mỗi xe. Sau va chạm, tấm cản quang dài 2,0 cm chắn cổng quang điện trong 0,080 s. Động lượng của hệ hai xe sau va chạm là
+A. 0,05 kg.m/s.
+*B. 0,10 kg.m/s.
+C. 0,40 kg.m/s.
+D. 0,25 kg.m/s.
+Lời giải
+$v' = \dfrac{0,020}{0,080} = 0,25$ m/s và khối lượng hệ là 0,40 kg nên $p' = 0,40 \cdot 0,25 = 0,10$ kg.m/s.
+
+Câu 11. [VD] Trong một lần đo, động lượng của hệ trước va chạm là 0,100 kg.m/s, sau va chạm là 0,096 kg.m/s. Độ lệch tương đối giữa hai giá trị (so với giá trị trước va chạm) là
+A. 0,4%.
+B. 96%.
+*C. 4%.
+D. 0,04%.
+Lời giải
+$\dfrac{0,100 - 0,096}{0,100} = 0,04 = 4\%$.
+
+Câu 12. [VD] Hai xe ban đầu đứng yên, bị nén lò xo ở giữa. Sau khi cắt dây, xe 1 khối lượng 0,30 kg có tốc độ 0,40 m/s. Nếu động lượng toàn phần được bảo toàn thì xe 2 khối lượng 0,20 kg có tốc độ
+A. 0,27 m/s.
+B. 0,40 m/s.
+C. 0,12 m/s.
+*D. 0,60 m/s.
+Lời giải
+$0 = m_1v_1' - m_2v_2'$ (độ lớn) nên $v_2' = \dfrac{0,30 \cdot 0,40}{0,20} = 0,60$ m/s.
+
+Câu 13. [TF] [TH] Về cách tiến hành thí nghiệm với băng đệm khí:
+*A. Cần cân khối lượng mỗi xe (kể cả tấm cản quang và chốt cắm) trước khi tiến hành.
+*B. Tấm cản quang cần được đặt song song với băng đệm khí để chắn đúng tia sáng của cổng quang điện.
+C. Không cần đo khối lượng xe vì chỉ cần vận tốc là tính được động lượng.
+D. Không cần ấn nút Reset nếu đồng hồ đang hiển thị số liệu của lần đo trước.
+Lời giải
+Động lượng $p = mv$ cần cả khối lượng và vận tốc. Phải đưa đồng hồ về 0,000 (Reset) trước mỗi lần đo để không lẫn số liệu.
+
+Câu 14. [TF] [VD] Hai xe ban đầu đứng yên trên băng đệm khí, bị nén lò xo ở giữa. Xe 1 khối lượng 0,25 kg, xe 2 khối lượng 0,15 kg. Sau khi cắt dây, xe 1 chuyển động sang trái với tốc độ 0,30 m/s. Chọn chiều dương hướng sang phải.
+*A. Tổng động lượng của hai xe trước khi cắt dây bằng 0.
+*B. Động lượng của xe 1 sau khi cắt dây là $-0,075$ kg.m/s.
+*C. Xe 2 chuyển động sang phải với tốc độ 0,50 m/s.
+D. Tổng động năng của hai xe trước và sau khi cắt dây bằng nhau.
+Lời giải
+Trước khi cắt dây hai xe đứng yên nên tổng động lượng bằng 0. $p_1' = 0,25 \cdot (-0,30) = -0,075$ kg.m/s nên $p_2' = +0,075$ kg.m/s và $v_2' = \dfrac{0,075}{0,15} = 0,5$ m/s. Động năng trước bằng 0, sau lớn hơn 0 (do thế năng đàn hồi của lò xo chuyển hóa).
+
+Câu 15. [TF] [VD] Trong thí nghiệm va chạm mềm, xe 1 khối lượng 0,30 kg chuyển động với tốc độ 0,40 m/s tới va chạm với xe 2 khối lượng 0,20 kg đang đứng yên. Sau va chạm đo được tốc độ chung của hai xe là 0,23 m/s.
+*A. Động lượng của hệ trước va chạm là 0,12 kg.m/s.
+B. Động lượng của hệ sau va chạm đo được là 0,150 kg.m/s.
+C. Động lượng của hệ sau va chạm lớn hơn động lượng trước va chạm.
+D. Độ lệch tương đối giữa động lượng trước và sau va chạm xấp xỉ 20%.
+Lời giải
+$p = 0,30 \cdot 0,40 = 0,12$ kg.m/s; $p' = (0,30 + 0,20) \cdot 0,23 = 0,115$ kg.m/s, nhỏ hơn $p$. Độ lệch tương đối: $\dfrac{0,12 - 0,115}{0,12} \approx 4,2\%$.
+
+Câu 16. [TH] Xe 1 khối lượng 0,25 kg mang tấm cản quang dài 3,0 cm. Thời gian tấm cản quang chắn cổng quang điện là 0,050 s. Tính động lượng của xe 1 (theo đơn vị kg.m/s).
+Trả lời: [[0,15]]
+Lời giải
+$v = \dfrac{0,030}{0,050} = 0,6$ m/s nên $p = mv = 0,25 \cdot 0,6 = 0,15$ kg.m/s.
+
+Câu 17. [TH] Xe khối lượng 0,35 kg chuyển động với tốc độ 0,40 m/s. Tính động lượng của xe (theo đơn vị kg.m/s).
+Trả lời: [[0,14]]
+Lời giải
+$p = mv = 0,35 \cdot 0,40 = 0,14$ kg.m/s.
+
+Câu 18. [VD] Trong thí nghiệm va chạm mềm, xe 1 khối lượng 0,30 kg chuyển động với tốc độ 0,50 m/s tới va chạm với xe 2 khối lượng 0,20 kg đang đứng yên, sau đó hai xe dính vào nhau. Tính tốc độ của hai xe sau va chạm theo định luật bảo toàn động lượng (theo đơn vị m/s).
+Trả lời: [[0,3]]
+Lời giải
+$0,30 \cdot 0,50 = (0,30 + 0,20)v$ nên $v = \dfrac{0,15}{0,50} = 0,3$ m/s.
+
+Câu 19. [VD] Hai xe ban đầu đứng yên, bị nén lò xo ở giữa. Sau khi cắt dây, xe 1 khối lượng 0,40 kg có tốc độ 0,30 m/s và xe 2 khối lượng 0,20 kg có tốc độ 0,60 m/s. Tính tổng động năng của hai xe sau khi cắt dây (theo đơn vị mJ).
+Trả lời: [[54]]
+Lời giải
+$W_1 = \dfrac{1}{2} \cdot 0,40 \cdot 0,30^2 = 0,018$ J; $W_2 = \dfrac{1}{2} \cdot 0,20 \cdot 0,60^2 = 0,036$ J. Tổng $= 0,054$ J $= 54$ mJ.
+
+Câu 20. [VD] Trong thí nghiệm va chạm mềm, xe 1 khối lượng 0,40 kg chuyển động với tốc độ 0,50 m/s tới va chạm với xe 2 khối lượng 0,10 kg đang đứng yên rồi dính vào nhau. Tấm cản quang trên hệ dài 2,0 cm. Nếu định luật bảo toàn động lượng nghiệm đúng thì đồng hồ hiển thị thời gian chắn cổng quang sau va chạm là bao nhiêu mili giây (theo đơn vị ms, làm tròn đến hàng đơn vị)?
+Trả lời: [[50]]
+Lời giải
+$v' = \dfrac{0,40 \cdot 0,50}{0,50} = 0,40$ m/s nên $t' = \dfrac{d}{v'} = \dfrac{0,020}{0,40} = 0,050$ s $= 50$ ms.
 
 @chuong VI | Chuyển động tròn
 @bai 31 | Động học của chuyển động tròn đều
