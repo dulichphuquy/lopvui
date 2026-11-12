@@ -5570,7 +5570,1392 @@ $|\Delta\Phi| = 2BS = 2 \cdot 0,6 \cdot 0,02 = 0,024$ Wb; $q = \dfrac{|\Delta\Ph
 @chuong IV | Vật lí hạt nhân
 
 @bai 21 | Cấu trúc hạt nhân
+Câu 1. [NB] Trong thí nghiệm tán xạ hạt alpha, Rutherford đã bắn chùm hạt alpha vào
+A. một khối khí loãng.
+*B. một lá vàng rất mỏng.
+C. một tấm chì dày.
+D. một màn huỳnh quang.
+Lời giải
+Rutherford dùng chùm hạt alpha bắn vào lá vàng rất mỏng đặt trong hộp chân không.
+
+Câu 2. [NB] Hạt alpha dùng trong thí nghiệm của Rutherford chính là
+A. chùm electron chuyển động nhanh.
+B. hạt nhân nguyên tử hydrogen.
+*C. hạt nhân nguyên tử helium.
+D. chùm neutron chuyển động chậm.
+Lời giải
+Hạt alpha mang điện tích dương, chính là hạt nhân nguyên tử $\text{He}$.
+
+Câu 3. [NB] Hạt nhân nguyên tử được cấu tạo từ
+*A. proton và neutron.
+B. proton và electron.
+C. neutron và electron.
+D. proton, neutron và electron.
+Lời giải
+Hạt nhân gồm hai loại hạt là proton và neutron, gọi chung là nucleon. Electron ở lớp vỏ nguyên tử.
+
+Câu 4. [NB] Trong kí hiệu hạt nhân ${}^{A}_{Z}\text{X}$, số $A$ là
+A. số proton.
+B. số neutron.
+C. số electron.
+*D. số nucleon.
+Lời giải
+$A$ là tổng số nucleon trong hạt nhân, gọi là số khối; $Z$ là số proton.
+
+Câu 5. [NB] Các hạt nhân đồng vị là những hạt nhân có
+A. cùng số khối, khác số proton.
+B. cùng số neutron, khác số proton.
+*C. cùng số proton, khác số neutron.
+D. cùng số nucleon, khác số neutron.
+Lời giải
+Đồng vị là các hạt nhân có cùng $Z$ (cùng số proton) nhưng khác $A$, tức khác số neutron.
+
+Câu 6. [NB] Đơn vị khối lượng nguyên tử (amu) có giá trị bằng
+A. khối lượng của một proton.
+*B. $\dfrac{1}{12}$ khối lượng nguyên tử của đồng vị carbon-12.
+C. khối lượng của một nguyên tử hydrogen.
+D. $\dfrac{1}{16}$ khối lượng nguyên tử của đồng vị oxygen-16.
+Lời giải
+Theo định nghĩa, 1 amu bằng $\dfrac{1}{12}$ khối lượng nguyên tử đồng vị carbon-12, xấp xỉ $1,66054 \cdot 10^{-27}$ kg.
+
+Câu 7. [NB] Hạt neutron
+A. mang điện tích $+e$.
+B. mang điện tích $-e$.
+C. có khối lượng rất nhỏ so với proton.
+*D. không mang điện.
+Lời giải
+Neutron trung hòa về điện và có khối lượng xấp xỉ khối lượng proton.
+
+Câu 8. [NB] So với kích thước nguyên tử, kích thước hạt nhân
+*A. nhỏ hơn cỡ $10^4$ lần.
+B. nhỏ hơn cỡ 10 lần.
+C. lớn hơn cỡ $10^4$ lần.
+D. xấp xỉ bằng nhau.
+Lời giải
+Hạt nhân có kích thước nhỏ hơn nguyên tử cỡ $10^4$ lần (khoảng 0,0001 lần).
+
+Câu 9. [TH] Trong thí nghiệm tán xạ hạt alpha, hầu hết các hạt alpha đi thẳng qua lá vàng. Điều đó chứng tỏ
+A. hạt nhân vàng mang điện tích âm.
+B. nguyên tử vàng có khối lượng rất nhỏ.
+*C. phần lớn không gian bên trong nguyên tử là khoảng trống.
+D. lá vàng đã bị các hạt alpha xuyên thủng thành lỗ.
+Lời giải
+Hầu hết hạt alpha không bị lệch hướng chứng tỏ chúng không gặp vật cản, tức là phần lớn không gian nguyên tử là khoảng trống.
+
+Câu 10. [TH] Một số rất ít hạt alpha bị bật ngược trở lại khi bắn vào lá vàng. Kết luận nào sau đây rút ra được từ kết quả này?
+A. Electron trong nguyên tử vàng hút rất mạnh các hạt alpha bay tới gần.
+*B. Phần mang điện dương tập trung trong một vùng rất nhỏ, có khối lượng lớn.
+C. Điện tích dương phân bố đều trong toàn bộ thể tích của nguyên tử vàng.
+D. Lá vàng có rất nhiều lớp nguyên tử vàng xếp chồng sát nhau.
+Lời giải
+Hạt alpha chỉ bị bật ngược khi tới rất gần một vùng mang điện dương nhỏ và nặng (hạt nhân). Nếu điện tích dương phân bố đều như mô hình "bánh ngọt có mận khô" thì không có hạt nào bật ngược.
+
+Câu 11. [TH] Lực làm cho hạt alpha bị lệch hướng khi đến gần hạt nhân vàng là
+A. lực hấp dẫn giữa hạt alpha và hạt nhân vàng.
+B. lực hút tĩnh điện giữa hạt alpha và electron.
+*C. lực đẩy tĩnh điện giữa hạt alpha và hạt nhân vàng.
+D. lực hạt nhân hút hạt alpha về phía hạt nhân vàng.
+Lời giải
+Hạt alpha và hạt nhân vàng đều mang điện dương nên đẩy nhau bằng lực tĩnh điện (Coulomb); hiện tượng này gọi là tán xạ hạt alpha.
+
+Câu 12. [TH] Khối lượng của nguyên tử gần như tập trung toàn bộ ở hạt nhân vì
+*A. khối lượng electron rất nhỏ so với khối lượng các nucleon.
+B. số electron trong nguyên tử luôn ít hơn số nucleon.
+C. hạt nhân chiếm gần hết thể tích của nguyên tử.
+D. electron chuyển động rất nhanh nên không có khối lượng.
+Lời giải
+Electron có khối lượng rất nhỏ so với proton và neutron nên khối lượng nguyên tử gần bằng khối lượng hạt nhân.
+
+Câu 13. [TH] Đại lượng $N = A - Z$ trong kí hiệu hạt nhân cho biết
+A. số proton trong hạt nhân.
+*B. số neutron trong hạt nhân.
+C. số electron ở lớp vỏ nguyên tử.
+D. số nucleon trong hạt nhân.
+Lời giải
+$A$ là tổng số nucleon, $Z$ là số proton nên $A - Z$ là số neutron.
+
+Câu 14. [TH] Hydrogen có ba đồng vị ${}^{1}_{1}\text{H}$, ${}^{2}_{1}\text{H}$ (deuterium) và ${}^{3}_{1}\text{H}$ (tritium). Ba hạt nhân này khác nhau ở
+A. số proton.
+B. điện tích hạt nhân.
+C. số electron của nguyên tử trung hòa.
+*D. số neutron.
+Lời giải
+Ba đồng vị cùng $Z = 1$ (1 proton) nhưng có số neutron lần lượt là 0, 1, 2.
+
+Câu 15. [TH] Hai mẫu chất được tạo từ hai đồng vị khác nhau của cùng một nguyên tố có thể có khối lượng riêng khác nhau vì
+*A. khối lượng hạt nhân của hai đồng vị khác nhau.
+B. số electron của hai loại nguyên tử khác nhau.
+C. điện tích hạt nhân của hai đồng vị khác nhau.
+D. kích thước nguyên tử của hai đồng vị khác nhau rất nhiều.
+Lời giải
+Hai đồng vị khác số neutron nên khối lượng nguyên tử khác nhau, trong khi cấu trúc lớp vỏ (số electron) giống nhau, do đó khối lượng riêng có thể khác nhau.
+
+Câu 16. [VD] Hạt nhân ${}^{40}_{20}\text{Ca}$ có
+A. 20 proton và 40 neutron.
+*B. 20 proton và 20 neutron.
+C. 40 proton và 20 neutron.
+D. 20 neutron và 60 nucleon.
+Lời giải
+$Z = 20$ proton; $N = A - Z = 40 - 20 = 20$ neutron.
+
+Câu 17. [VD] Hạt nhân nitrogen có 7 proton và 14 nucleon. Kí hiệu của hạt nhân này là
+A. ${}^{7}_{14}\text{N}$.
+B. ${}^{21}_{7}\text{N}$.
+*C. ${}^{14}_{7}\text{N}$.
+D. ${}^{14}_{21}\text{N}$.
+Lời giải
+Số khối $A = 14$ ghi phía trên, số proton $Z = 7$ ghi phía dưới: ${}^{14}_{7}\text{N}$.
+
+Câu 18. [VD] Theo công thức $R = 1,2 \cdot 10^{-15} A^{\frac{1}{3}}$ (m), bán kính hạt nhân ${}^{125}_{52}\text{Te}$ là
+A. $1,2 \cdot 10^{-15}$ m.
+B. $4,5 \cdot 10^{-15}$ m.
+*C. $6,0 \cdot 10^{-15}$ m.
+D. $150 \cdot 10^{-15}$ m.
+Lời giải
+$A^{\frac{1}{3}} = 125^{\frac{1}{3}} = 5$ nên $R = 1,2 \cdot 10^{-15} \cdot 5 = 6,0 \cdot 10^{-15}$ m. Phương án D là kết quả khi quên lấy căn bậc ba.
+
+Câu 19. [VD] Hạt nhân ${}^{8}_{4}\text{Be}$ và hạt nhân ${}^{64}_{29}\text{Cu}$ có bán kính tỉ lệ với nhau theo tỉ số $\dfrac{R_{Be}}{R_{Cu}}$ bằng
+*A. $\dfrac{1}{2}$.
+B. $\dfrac{1}{8}$.
+C. $\dfrac{1}{4}$.
+D. $\dfrac{4}{29}$.
+Lời giải
+$\dfrac{R_{Be}}{R_{Cu}} = \left(\dfrac{8}{64}\right)^{\frac{1}{3}} = \dfrac{1}{2}$. Phương án B là tỉ số số khối, quên lấy căn bậc ba.
+
+Câu 20. [VD] Khối lượng proton là $1,67262 \cdot 10^{-27}$ kg; 1 amu $= 1,66054 \cdot 10^{-27}$ kg. Khối lượng proton tính theo amu xấp xỉ bằng
+A. 0,99280 amu.
+B. 1,00000 amu.
+C. 1,00866 amu.
+*D. 1,00727 amu.
+Lời giải
+$m_p = \dfrac{1,67262 \cdot 10^{-27}}{1,66054 \cdot 10^{-27}} \approx 1,00727$ amu. Giá trị 1,00866 amu là khối lượng neutron.
+
+Câu 21. [VD] Nguyên tử trung hòa có hạt nhân ${}^{65}_{30}\text{Zn}$ có tổng số hạt (proton, neutron, electron) là
+A. 65.
+*B. 95.
+C. 35.
+D. 100.
+Lời giải
+Có 30 proton, $65 - 30 = 35$ neutron và 30 electron (nguyên tử trung hòa). Tổng: $30 + 35 + 30 = 95$ hạt.
+
+Câu 22. [VD] Carbon có ba đồng vị ${}^{12}\text{C}$, ${}^{13}\text{C}$, ${}^{14}\text{C}$. Phát biểu nào sau đây đúng?
+A. Hạt nhân ${}^{14}\text{C}$ có 14 proton.
+B. Ba hạt nhân có cùng số neutron.
+C. Hạt nhân ${}^{13}\text{C}$ có nhiều proton hơn hạt nhân ${}^{12}\text{C}$.
+*D. Hạt nhân ${}^{14}\text{C}$ có 8 neutron.
+Lời giải
+Carbon có $Z = 6$ nên ${}^{14}\text{C}$ có $14 - 6 = 8$ neutron. Ba đồng vị cùng 6 proton, khác số neutron (6, 7, 8).
+
+Câu 23. [TF] [TH] Về thí nghiệm tán xạ hạt alpha của Rutherford:
+*A. Thí nghiệm được thực hiện trong hộp chân không.
+*B. Các hạt alpha được phát hiện nhờ đốm sáng khi chúng đập vào màn phủ chất huỳnh quang.
+C. Khi di chuyển kính hiển vi ra xa phương của chùm tia tới, số đốm sáng quan sát được tăng lên.
+*D. Kết quả thí nghiệm dẫn tới mô hình hành tinh nguyên tử.
+Lời giải
+A, B, D đúng. C sai vì càng xa phương chùm tia tới (vị trí đối diện nguồn), tần suất đốm sáng càng giảm rất nhanh.
+
+Câu 24. [TF] [TH] Về các nucleon:
+*A. Proton mang điện tích $+e = +1,6 \cdot 10^{-19}$ C.
+B. Khối lượng neutron nhỏ hơn khối lượng proton.
+C. Electron cũng là một loại nucleon.
+*D. Khối lượng mỗi nucleon xấp xỉ 1 amu.
+Lời giải
+A, D đúng. B sai vì neutron ($1,67493 \cdot 10^{-27}$ kg) nặng hơn proton ($1,67262 \cdot 10^{-27}$ kg) một chút. C sai vì nucleon chỉ gồm proton và neutron.
+
+Câu 25. [TF] [TH] Về đồng vị:
+*A. Các đồng vị của một nguyên tố có cùng vị trí trong bảng tuần hoàn.
+B. Mọi đồng vị đều bền vững, không phóng xạ.
+C. Các đồng vị của cùng một nguyên tố có cùng số khối.
+D. Mẫu chất trong tự nhiên thường chỉ chứa một đồng vị duy nhất.
+Lời giải
+Chỉ A đúng: cùng $Z$ nên cùng ô trong bảng tuần hoàn. B sai vì có đồng vị bền và đồng vị phóng xạ. C sai vì đồng vị khác số khối. D sai vì hầu hết mẫu chất tự nhiên là hỗn hợp nhiều đồng vị.
+
+Câu 26. [TF] [VD] Xét hạt nhân ${}^{27}_{13}\text{Al}$. Lấy $e = 1,6 \cdot 10^{-19}$ C.
+*A. Hạt nhân có 14 neutron.
+*B. Điện tích hạt nhân là $2,08 \cdot 10^{-18}$ C.
+*C. Khối lượng hạt nhân xấp xỉ 27 amu.
+*D. Nguyên tử nhôm trung hòa có 13 electron.
+Lời giải
+Cả bốn ý đúng: $N = 27 - 13 = 14$; $q = 13 \cdot 1,6 \cdot 10^{-19} = 2,08 \cdot 10^{-18}$ C; hạt nhân có 27 nucleon, mỗi nucleon xấp xỉ 1 amu; nguyên tử trung hòa có số electron bằng số proton.
+
+Câu 27. [TF] [VD] So sánh hai hạt nhân ${}^{16}_{8}\text{O}$ và ${}^{128}_{52}\text{Te}$ theo công thức $R = 1,2 \cdot 10^{-15} A^{\frac{1}{3}}$:
+*A. Số khối của Te gấp 8 lần số khối của O.
+B. Bán kính hạt nhân Te gấp 8 lần bán kính hạt nhân O.
+*C. Thể tích hạt nhân Te gấp 8 lần thể tích hạt nhân O.
+D. Hạt nhân Te có số neutron gấp 8 lần hạt nhân O.
+Lời giải
+A, C đúng. $R \sim A^{\frac{1}{3}}$ nên bán kính chỉ gấp $8^{\frac{1}{3}} = 2$ lần (B sai); thể tích $\sim R^3 \sim A$ nên gấp 8 lần. D sai: Te có 76 neutron, O có 8 neutron.
+
+Câu 28. [TF] [VD] Một nguyên tử có bán kính cỡ $10^{-10}$ m, hạt nhân của nó có bán kính cỡ $10^{-14}$ m.
+*A. Bán kính nguyên tử lớn hơn bán kính hạt nhân cỡ $10^4$ lần.
+B. Thể tích nguyên tử lớn hơn thể tích hạt nhân cỡ $10^4$ lần.
+*C. Có thể xếp khoảng $10^4$ hạt nhân thẳng hàng trên đường kính của nguyên tử.
+*D. Khối lượng riêng của chất hạt nhân lớn hơn rất nhiều khối lượng riêng trung bình của nguyên tử.
+Lời giải
+A, C, D đúng. B sai vì thể tích tỉ lệ với lập phương bán kính nên lớn hơn cỡ $10^{12}$ lần. D đúng vì hầu hết khối lượng tập trung trong thể tích rất nhỏ của hạt nhân.
+
+Câu 29. [TF] [VD] Về các mô hình nguyên tử:
+A. Trong mô hình "bánh ngọt có mận khô", phần mang điện dương chiếm thể tích rất nhỏ ở tâm nguyên tử.
+*B. Mô hình hành tinh nguyên tử của Rutherford không giải thích được sự tạo thành quang phổ vạch.
+C. Mô hình hành tinh nguyên tử ra đời trước mô hình "bánh ngọt có mận khô".
+*D. Trong mô hình đám mây electron, electron có thể xuất hiện ở mọi vị trí trong nguyên tử với một xác suất nào đó.
+Lời giải
+B, D đúng. A sai vì trong mô hình "bánh ngọt có mận khô" phần mang điện dương chiếm gần như toàn bộ thể tích nguyên tử. C sai vì mô hình hành tinh (1911) ra đời sau, dựa trên thí nghiệm tán xạ alpha đã bác bỏ mô hình "bánh ngọt có mận khô".
+
+Câu 30. [TH] Hạt nhân ${}^{56}_{26}\text{Fe}$ có bao nhiêu neutron?
+Trả lời: [[30]]
+Lời giải
+$N = A - Z = 56 - 26 = 30$.
+
+Câu 31. [TH] Tính điện tích của hạt nhân ${}^{16}_{8}\text{O}$ (theo đơn vị $10^{-19}$ C). Lấy $e = 1,6 \cdot 10^{-19}$ C.
+Trả lời: [[12,8]]
+Lời giải
+$q = Ze = 8 \cdot 1,6 \cdot 10^{-19} = 12,8 \cdot 10^{-19}$ C.
+
+Câu 32. [TH] Bán kính nguyên tử lớn hơn bán kính hạt nhân cỡ $10^4$ lần. Nếu phóng to hạt nhân thành một hạt có bán kính 1 mm thì nguyên tử có bán kính cỡ bao nhiêu (theo đơn vị m)?
+Trả lời: [[10]]
+Lời giải
+$R_{nt} = 10^4 \cdot 1$ mm $= 10^4$ mm $= 10$ m.
+
+Câu 33. [VD] Tính khối lượng hạt nhân ${}^{27}_{13}\text{Al}$, coi khối lượng mỗi nucleon xấp xỉ 1 amu $= 1,66054 \cdot 10^{-27}$ kg (theo đơn vị $10^{-26}$ kg, làm tròn đến hai chữ số thập phân).
+Trả lời: [[4,48]]
+Lời giải
+$m \approx 27 \cdot 1,66054 \cdot 10^{-27} \approx 4,48 \cdot 10^{-26}$ kg.
+
+Câu 34. [VD] Tính tổng số hạt mang điện trong một nguyên tử trung hòa có hạt nhân ${}^{238}_{92}\text{U}$.
+Trả lời: [[184]]
+Lời giải
+Hạt mang điện gồm 92 proton và 92 electron (nguyên tử trung hòa): $92 + 92 = 184$. Neutron không mang điện.
+
+Câu 35. [VD] Một hạt nhân X có bán kính gấp 2 lần bán kính hạt nhân ${}^{27}_{13}\text{Al}$. Tính số khối của hạt nhân X theo công thức $R = 1,2 \cdot 10^{-15} A^{\frac{1}{3}}$.
+Trả lời: [[216]]
+Lời giải
+$R \sim A^{\frac{1}{3}}$ nên $A_X = 27 \cdot 2^3 = 216$.
+
+Câu 36. [VD] Coi hạt nhân là quả cầu bán kính $R = 1,2 \cdot 10^{-15} A^{\frac{1}{3}}$ (m), khối lượng hạt nhân xấp xỉ $A$ amu với 1 amu $= 1,66 \cdot 10^{-27}$ kg. Tính khối lượng riêng của chất hạt nhân (theo đơn vị $10^{17}$ kg/m³, làm tròn đến một chữ số thập phân).
+Trả lời: [[2,3]]
+Lời giải
+$\rho = \dfrac{A \cdot 1,66 \cdot 10^{-27}}{\dfrac{4}{3}\pi (1,2 \cdot 10^{-15})^3 A} = \dfrac{1,66 \cdot 10^{-27}}{7,24 \cdot 10^{-45}} \approx 2,3 \cdot 10^{17}$ kg/m³; không phụ thuộc $A$.
+
+Câu 37. [VD] Hạt nhân X là đồng vị của ${}^{35}_{17}\text{Cl}$ và có nhiều hơn hạt nhân ${}^{35}_{17}\text{Cl}$ 2 neutron. Tìm số khối của hạt nhân X.
+Trả lời: [[37]]
+Lời giải
+Đồng vị có cùng 17 proton; số neutron $35 - 17 + 2 = 20$; số khối $A = 17 + 20 = 37$.
+
+Câu 38. [VD] Hạt nhân X có số khối 63, trong đó số neutron nhiều hơn số proton là 5. Tìm số proton của hạt nhân X.
+Trả lời: [[29]]
+Lời giải
+$Z + N = 63$, $N - Z = 5$ nên $Z = \dfrac{63 - 5}{2} = 29$ (hạt nhân ${}^{63}_{29}\text{Cu}$).
+
 @bai 22 | Phản ứng hạt nhân và năng lượng liên kết
+Câu 1. [NB] Phản ứng hạt nhân là
+A. sự kết hợp của các nguyên tử thành phân tử mới.
+*B. quá trình biến đổi hạt nhân này thành hạt nhân khác.
+C. sự trao đổi electron giữa các nguyên tử.
+D. sự thay đổi trạng thái của chất từ rắn sang khí.
+Lời giải
+Quá trình biến đổi hạt nhân này thành hạt nhân khác gọi là phản ứng hạt nhân. Các phương án còn lại mô tả quá trình hóa học hoặc sự chuyển thể.
+
+Câu 2. [NB] Trong phản ứng hạt nhân, đại lượng nào sau đây được bảo toàn?
+A. Số proton.
+B. Số neutron.
+*C. Số nucleon.
+D. Khối lượng nghỉ.
+Lời giải
+Phản ứng hạt nhân tuân theo định luật bảo toàn số nucleon (số khối $A$) và bảo toàn điện tích; số proton, số neutron và khối lượng nghỉ nói chung không bảo toàn.
+
+Câu 3. [NB] Lực tương tác giữa các nucleon trong hạt nhân là
+A. lực tĩnh điện.
+B. lực hấp dẫn.
+C. lực từ.
+*D. lực hạt nhân.
+Lời giải
+Các nucleon liên kết với nhau bằng lực hạt nhân, là lực hút có cường độ rất lớn.
+
+Câu 4. [NB] Lực hạt nhân chỉ đáng kể khi khoảng cách giữa các nucleon vào cỡ
+*A. $10^{-15}$ m.
+B. $10^{-10}$ m.
+C. $10^{-6}$ m.
+D. $10^{-2}$ m.
+Lời giải
+Bán kính tác dụng của lực hạt nhân cỡ $10^{-15}$ m, bằng hoặc nhỏ hơn kích thước hạt nhân.
+
+Câu 5. [NB] Hệ thức Einstein liên hệ giữa năng lượng $E$ và khối lượng $m$ của một vật là
+A. $E = mc$.
+*B. $E = mc^2$.
+C. $E = \dfrac{1}{2}mc^2$.
+D. $E = \dfrac{m}{c^2}$.
+Lời giải
+Theo thuyết tương đối, $E = mc^2$ với $c$ là tốc độ ánh sáng trong chân không.
+
+Câu 6. [NB] Đại lượng đặc trưng cho mức độ bền vững của hạt nhân là
+A. năng lượng liên kết.
+B. số khối.
+*C. năng lượng liên kết riêng.
+D. độ hụt khối.
+Lời giải
+Hạt nhân có năng lượng liên kết riêng $E_{lkr} = \dfrac{E_{lk}}{A}$ càng lớn thì càng bền vững.
+
+Câu 7. [NB] Phản ứng phân hạch là phản ứng trong đó
+A. hai hạt nhân nhẹ kết hợp thành một hạt nhân nặng hơn.
+B. một hạt nhân tự phát ra tia gamma.
+*C. một hạt nhân nặng vỡ thành hai hạt nhân nhẹ hơn.
+D. một hạt nhân hấp thụ electron.
+Lời giải
+Phân hạch là phản ứng một hạt nhân nặng vỡ thành hai hạt nhân có số khối trung bình, bền vững hơn.
+
+Câu 8. [NB] Phản ứng tổng hợp hạt nhân còn được gọi là phản ứng nhiệt hạch vì
+A. nó tỏa ra rất nhiều nhiệt.
+B. nó chỉ xảy ra trong lò phản ứng hạt nhân.
+C. nó cần cung cấp nhiệt để làm nóng chảy hạt nhân.
+*D. nó chỉ xảy ra ở nhiệt độ rất cao.
+Lời giải
+Muốn các hạt nhân nhẹ thắng lực đẩy Coulomb để kết hợp được thì cần nhiệt độ cỡ $10^7$ đến $10^8$ K, vì vậy gọi là phản ứng nhiệt hạch.
+
+Câu 9. [TH] Điểm khác nhau cơ bản giữa phản ứng hạt nhân và phản ứng hóa học là
+*A. phản ứng hạt nhân làm biến đổi hạt nhân, còn phản ứng hóa học thì không.
+B. phản ứng hạt nhân không tỏa năng lượng, còn phản ứng hóa học thì có.
+C. phản ứng hóa học tạo ra nguyên tố mới, còn phản ứng hạt nhân thì không.
+D. phản ứng hạt nhân chỉ xảy ra với các nguyên tố có hạt nhân nhẹ hơn sắt.
+Lời giải
+Trong phản ứng hóa học hạt nhân giữ nguyên, nguyên tố không đổi; phản ứng hạt nhân biến hạt nhân này thành hạt nhân khác (có thể tạo nguyên tố mới).
+
+Câu 10. [TH] Phát biểu nào sau đây về lực hạt nhân là đúng?
+*A. Lực hạt nhân không phụ thuộc vào điện tích của nucleon.
+B. Lực hạt nhân chỉ là lực đẩy giữa các proton với nhau.
+C. Lực hạt nhân có bản chất là lực tĩnh điện giữa các hạt.
+D. Lực hạt nhân yếu hơn lực hấp dẫn giữa các nucleon.
+Lời giải
+Lực hạt nhân là lực hút, không phải lực tĩnh điện, không phụ thuộc điện tích nucleon và mạnh hơn rất nhiều so với lực điện từ và lực hấp dẫn.
+
+Câu 11. [TH] Muốn tách các nucleon ra khỏi hạt nhân cần cung cấp năng lượng lớn vì
+A. các nucleon có khối lượng rất lớn so với electron.
+B. các proton trong hạt nhân đẩy nhau rất mạnh.
+*C. phải thắng lực hút rất mạnh giữa các nucleon.
+D. hạt nhân có kích thước rất nhỏ so với nguyên tử.
+Lời giải
+Các nucleon được giữ bằng lực hạt nhân rất mạnh; muốn tách chúng ra phải tốn năng lượng để thắng lực này. Lực đẩy giữa các proton (B) lại giúp tách chúng ra.
+
+Câu 12. [TH] Độ hụt khối của hạt nhân ${}^{A}_{Z}\text{X}$ được tính bằng
+A. $\Delta m = m_X - [Zm_p + (A - Z)m_n]$.
+B. $\Delta m = Zm_p + Am_n - m_X$.
+C. $\Delta m = Am_p + Zm_n - m_X$.
+*D. $\Delta m = [Zm_p + (A - Z)m_n] - m_X$.
+Lời giải
+Độ hụt khối là tổng khối lượng các nucleon tạo thành hạt nhân trừ khối lượng hạt nhân: $\Delta m = [Zm_p + (A - Z)m_n] - m_X > 0$.
+
+Câu 13. [TH] Phản ứng phân hạch và phản ứng tổng hợp hạt nhân đều tỏa năng lượng vì
+A. các hạt nhân sản phẩm có tổng số nucleon lớn hơn hạt nhân ban đầu.
+B. các hạt nhân sản phẩm có năng lượng liên kết riêng nhỏ hơn hạt nhân ban đầu.
+*C. các hạt nhân sản phẩm có năng lượng liên kết riêng lớn hơn hạt nhân ban đầu.
+D. các hạt nhân sản phẩm có tổng điện tích lớn hơn hạt nhân ban đầu.
+Lời giải
+Hạt nhân nặng vỡ thành hạt nhân có số khối trung bình, hoặc hạt nhân nhẹ kết hợp thành hạt nhân nặng hơn, đều tạo ra hạt nhân có $E_{lkr}$ lớn hơn nên phản ứng tỏa năng lượng. Số nucleon và điện tích được bảo toàn.
+
+Câu 14. [TH] Điều kiện để phản ứng phân hạch dây chuyền tự duy trì là hệ số $k$ (số neutron trung bình còn lại sau mỗi phân hạch gây được phân hạch mới) thỏa mãn
+*A. $k \ge 1$.
+B. $k < 1$.
+C. $0 < k < 1$.
+D. $k \le 0,5$.
+Lời giải
+$k < 1$: phản ứng dây chuyền tắt dần; $k \ge 1$: phản ứng tự duy trì ($k = 1$ được điều khiển trong lò phản ứng, $k > 1$ có thể gây bùng nổ).
+
+Câu 15. [TH] Để hai hạt nhân nhẹ có thể tổng hợp thành hạt nhân nặng hơn, cần cung cấp cho chúng động năng đủ lớn nhằm
+A. thắng lực hút hấp dẫn giữa hai hạt nhân.
+B. phá vỡ các hạt nhân thành các nucleon riêng lẻ.
+C. tăng khối lượng nghỉ của các hạt nhân.
+*D. thắng lực đẩy Coulomb giữa hai hạt nhân.
+Lời giải
+Các hạt nhân mang điện dương đẩy nhau; phải có động năng lớn để tiến tới khoảng cách mà lực hạt nhân phát huy tác dụng.
+
+Câu 16. [VD] Trong thí nghiệm của Blackett, hạt alpha bắn vào hạt nhân nitrogen: ${}^{4}_{2}\text{He} + {}^{14}_{7}\text{N} \to {}^{17}_{8}\text{O} + \text{X}$. Hạt X là
+*A. proton ${}^{1}_{1}\text{H}$.
+B. neutron ${}^{1}_{0}\text{n}$.
+C. deuterium ${}^{2}_{1}\text{H}$.
+D. hạt alpha ${}^{4}_{2}\text{He}$.
+Lời giải
+Bảo toàn số khối: $4 + 14 = 17 + A$ nên $A = 1$; bảo toàn điện tích: $2 + 7 = 8 + Z$ nên $Z = 1$. X là proton ${}^{1}_{1}\text{H}$.
+
+Câu 17. [VD] Cho phản ứng ${}^{4}_{2}\text{He} + {}^{27}_{13}\text{Al} \to \text{X} + {}^{1}_{0}\text{n}$. Hạt nhân X có
+A. $Z = 15$, $A = 31$.
+B. $Z = 14$, $A = 30$.
+*C. $Z = 15$, $A = 30$.
+D. $Z = 16$, $A = 30$.
+Lời giải
+$A = 4 + 27 - 1 = 30$; $Z = 2 + 13 - 0 = 15$. X là ${}^{30}_{15}\text{P}$ (phosphorus phóng xạ nhân tạo).
+
+Câu 18. [VD] Cho $m_p = 1,00728$ amu; $m_n = 1,00866$ amu; khối lượng hạt nhân deuterium ${}^{2}_{1}\text{H}$ là 2,01360 amu. Độ hụt khối của hạt nhân ${}^{2}_{1}\text{H}$ là
+A. 0,00468 amu.
+*B. 0,00234 amu.
+C. 2,01594 amu.
+D. 0,02340 amu.
+Lời giải
+$\Delta m = 1,00728 + 1,00866 - 2,01360 = 0,00234$ amu. Phương án C là tổng khối lượng các nucleon, quên trừ khối lượng hạt nhân.
+
+Câu 19. [VD] Hạt nhân X có năng lượng liên kết 492 MeV và số khối 56; hạt nhân Y có năng lượng liên kết 1 802 MeV và số khối 238. Kết luận nào sau đây đúng?
+A. Y bền vững hơn X vì có năng lượng liên kết lớn hơn.
+*B. X bền vững hơn Y vì có năng lượng liên kết riêng lớn hơn.
+C. Hai hạt nhân bền vững như nhau.
+D. Không so sánh được vì hai hạt nhân có số khối khác nhau.
+Lời giải
+$E_{lkr,X} = \dfrac{492}{56} \approx 8,79$ MeV/nucleon; $E_{lkr,Y} = \dfrac{1\,802}{238} \approx 7,57$ MeV/nucleon. X có $E_{lkr}$ lớn hơn nên bền vững hơn. Độ bền so sánh theo $E_{lkr}$, không theo $E_{lk}$.
+
+Câu 20. [VD] Năng lượng nghỉ của một vật có khối lượng 1 g là (lấy $c = 3 \cdot 10^8$ m/s)
+A. $3 \cdot 10^5$ J.
+B. $9 \cdot 10^{16}$ J.
+C. $3 \cdot 10^{8}$ J.
+*D. $9 \cdot 10^{13}$ J.
+Lời giải
+$E = mc^2 = 10^{-3} \cdot (3 \cdot 10^8)^2 = 9 \cdot 10^{13}$ J. Phương án B là kết quả khi quên đổi gam sang kilôgam.
+
+Câu 21. [VD] Cho phản ứng phân hạch ${}^{1}_{0}\text{n} + {}^{235}_{92}\text{U} \to {}^{140}_{54}\text{Xe} + {}^{94}_{38}\text{Sr} + k\,{}^{1}_{0}\text{n}$. Giá trị của $k$ là
+A. 1.
+*B. 2.
+C. 3.
+D. 4.
+Lời giải
+Bảo toàn số khối: $1 + 235 = 140 + 94 + k$ nên $k = 2$. Kiểm tra điện tích: $92 = 54 + 38$.
+
+Câu 22. [VD] Trên đồ thị năng lượng liên kết riêng theo số khối, các hạt nhân có năng lượng liên kết riêng lớn nhất (bền vững nhất) có số khối vào khoảng
+A. dưới 10.
+*B. từ 50 đến 80.
+C. từ 140 đến 160.
+D. trên 200.
+Lời giải
+Các hạt nhân có số khối trung bình (lân cận ${}^{56}\text{Fe}$, khoảng 50 đến 80) có năng lượng liên kết riêng lớn nhất, khoảng 8,8 MeV/nucleon, nên bền vững nhất. Hạt nhân rất nhẹ và rất nặng kém bền hơn.
+
+Câu 23. [TF] [TH] Về phản ứng hạt nhân:
+*A. Phân rã tự phát của một hạt nhân không bền cũng là một loại phản ứng hạt nhân.
+*B. Trong phản ứng hạt nhân, tổng đại số điện tích của các hạt được bảo toàn.
+C. Phản ứng hạt nhân không thể tạo ra nguyên tố hóa học mới.
+*D. Trong phản ứng hạt nhân, hệ các hạt tương tác được xem là hệ kín.
+Lời giải
+A, B, D đúng. C sai vì phản ứng hạt nhân biến hạt nhân này thành hạt nhân khác, có thể tạo nguyên tố mới (ví dụ ${}^{14}\text{N}$ thành ${}^{17}\text{O}$).
+
+Câu 24. [TF] [TH] Về năng lượng liên kết:
+A. Năng lượng liên kết của hạt nhân bằng tích độ hụt khối với $c$.
+*B. Khối lượng của một hạt nhân luôn nhỏ hơn tổng khối lượng các nucleon tạo thành nó.
+C. Hạt nhân có năng lượng liên kết càng lớn thì càng bền vững.
+D. Năng lượng liên kết riêng là năng lượng liên kết tính cho một proton.
+Lời giải
+Chỉ B đúng. A sai vì $E_{lk} = \Delta m \cdot c^2$. C sai vì độ bền phụ thuộc năng lượng liên kết riêng. D sai vì năng lượng liên kết riêng tính cho một nucleon: $E_{lkr} = \dfrac{E_{lk}}{A}$.
+
+Câu 25. [TF] [TH] So sánh phản ứng phân hạch và phản ứng tổng hợp hạt nhân:
+*A. Nhiên liệu của phản ứng phân hạch là các hạt nhân nặng như ${}^{235}\text{U}$, ${}^{239}\text{Pu}$.
+*B. Nhiên liệu của phản ứng tổng hợp là các hạt nhân nhẹ như đồng vị của hydrogen.
+C. Phản ứng phân hạch của ${}^{235}\text{U}$ chỉ xảy ra ở nhiệt độ cỡ $10^7$ K.
+D. Cả hai loại phản ứng đều thu năng lượng.
+Lời giải
+A, B đúng. C sai vì phân hạch ${}^{235}\text{U}$ được kích thích bằng neutron nhiệt, không cần nhiệt độ cao; nhiệt độ rất cao là điều kiện của phản ứng tổng hợp. D sai vì cả hai đều tỏa năng lượng.
+
+Câu 26. [TF] [VD] Cho $m_p = 1,00728$ amu; $m_n = 1,00866$ amu; khối lượng hạt nhân ${}^{16}_{8}\text{O}$ là 15,99492 amu; 1 amu $= 931,5$ MeV/$c^2$.
+*A. Độ hụt khối của hạt nhân ${}^{16}_{8}\text{O}$ là 0,1326 amu.
+*B. Năng lượng liên kết của hạt nhân ${}^{16}_{8}\text{O}$ xấp xỉ 123,5 MeV.
+*C. Năng lượng liên kết riêng của hạt nhân ${}^{16}_{8}\text{O}$ xấp xỉ 7,72 MeV/nucleon.
+D. Năng lượng liên kết riêng của hạt nhân ${}^{16}_{8}\text{O}$ xấp xỉ 15,4 MeV/nucleon.
+Lời giải
+$\Delta m = 8 \cdot 1,00728 + 8 \cdot 1,00866 - 15,99492 = 0,1326$ amu; $E_{lk} = 0,1326 \cdot 931,5 \approx 123,5$ MeV; $E_{lkr} = \dfrac{123,5}{16} \approx 7,72$ MeV/nucleon. D sai: đó là kết quả khi chia cho $Z = 8$ thay vì $A = 16$.
+
+Câu 27. [TF] [VD] Về phản ứng phân hạch ${}^{235}_{92}\text{U}$ khi hấp thụ neutron nhiệt:
+*A. Neutron nhiệt là neutron có động năng nhỏ, cỡ dưới 0,1 eV.
+*B. Mỗi phân hạch tỏa năng lượng khoảng 200 MeV.
+*C. Năng lượng tỏa ra chủ yếu dưới dạng động năng của các hạt sản phẩm.
+D. Các hạt nhân sản phẩm phân hạch đều là hạt nhân bền, không phóng xạ.
+Lời giải
+A, B, C đúng theo SGK. D sai vì các hạt nhân sản phẩm phân hạch hầu hết là hạt nhân phóng xạ.
+
+Câu 28. [TF] [VD] Xét phản ứng tổng hợp ${}^{2}_{1}\text{H} + {}^{3}_{1}\text{H} \to {}^{4}_{2}\text{He} + {}^{1}_{0}\text{n}$. Cho khối lượng hạt nhân: $m_D = 2,0136$ amu; $m_T = 3,0155$ amu; $m_{He} = 4,0015$ amu; $m_n = 1,0087$ amu; 1 amu $= 931,5$ MeV/$c^2$.
+*A. Phản ứng thỏa mãn định luật bảo toàn số khối và bảo toàn điện tích.
+*B. Tổng khối lượng các hạt sau phản ứng nhỏ hơn tổng khối lượng các hạt trước phản ứng.
+*C. Phản ứng tỏa năng lượng xấp xỉ 17,6 MeV.
+*D. Để phản ứng xảy ra cần nhiệt độ rất cao.
+Lời giải
+Cả bốn ý đúng: $2 + 3 = 4 + 1$, $1 + 1 = 2 + 0$; khối lượng trước 5,0291 amu, sau 5,0102 amu; $E = 0,0189 \cdot 931,5 \approx 17,6$ MeV; đây là phản ứng nhiệt hạch nên cần nhiệt độ rất cao.
+
+Câu 29. [TF] [VD] Về phản ứng phân hạch dây chuyền:
+A. Khi $k < 1$, phản ứng dây chuyền tự duy trì và tỏa năng lượng không đổi.
+B. Chất phân hạch có khối lượng càng nhỏ thì phản ứng dây chuyền càng dễ xảy ra.
+*C. Muốn phản ứng dây chuyền tự duy trì, khối lượng chất phân hạch phải lớn hơn khối lượng tới hạn.
+D. Mỗi phân hạch của ${}^{235}\text{U}$ luôn tạo ra đúng hai hạt nhân ${}^{140}\text{Xe}$ và ${}^{94}\text{Sr}$.
+Lời giải
+Chỉ C đúng. A sai vì $k < 1$ thì phản ứng tắt dần. B sai vì khối lượng nhỏ thì nhiều neutron thoát ra ngoài. D sai vì phân hạch có thể xảy ra theo nhiều cách vỡ khác nhau.
+
+Câu 30. [TH] Cho phản ứng ${}^{1}_{0}\text{n} + {}^{235}_{92}\text{U} \to {}^{139}_{53}\text{I} + {}^{A}_{39}\text{Y} + 3\,{}^{1}_{0}\text{n}$. Tìm số khối $A$ của hạt nhân Y.
+Trả lời: [[94]]
+Lời giải
+Bảo toàn số khối: $1 + 235 = 139 + A + 3$ nên $A = 94$.
+
+Câu 31. [TH] Cho phản ứng ${}^{2}_{1}\text{H} + {}^{2}_{1}\text{H} \to {}^{3}_{Z}\text{X} + {}^{1}_{0}\text{n}$. Tìm số proton $Z$ của hạt nhân X.
+Trả lời: [[2]]
+Lời giải
+Bảo toàn điện tích: $1 + 1 = Z + 0$ nên $Z = 2$ (X là ${}^{3}_{2}\text{He}$).
+
+Câu 32. [TH] Trong phản ứng ${}^{4}_{2}\text{He} + {}^{14}_{7}\text{N} \to {}^{17}_{8}\text{O} + {}^{1}_{1}\text{H}$, tính tổng số nucleon của các hạt sau phản ứng.
+Trả lời: [[18]]
+Lời giải
+$17 + 1 = 18$, bằng tổng số nucleon trước phản ứng $4 + 14 = 18$ (bảo toàn số khối).
+
+Câu 33. [VD] Cho $m_p = 1,00728$ amu; $m_n = 1,00866$ amu; khối lượng hạt nhân ${}^{4}_{2}\text{He}$ là 4,00150 amu; 1 amu $= 931,5$ MeV/$c^2$. Tính năng lượng liên kết của hạt nhân ${}^{4}_{2}\text{He}$ (theo đơn vị MeV, làm tròn đến một chữ số thập phân).
+Trả lời: [[28,3]]
+Lời giải
+$\Delta m = 0,03038$ amu; $E_{lk} = 0,03038 \cdot 931,5 \approx 28,3$ MeV.
+
+Câu 34. [VD] Cho $m_p = 1,00728$ amu; $m_n = 1,00866$ amu; khối lượng hạt nhân ${}^{7}_{3}\text{Li}$ là 7,01440 amu; 1 amu $= 931,5$ MeV/$c^2$. Tính năng lượng liên kết riêng của hạt nhân ${}^{7}_{3}\text{Li}$ (theo đơn vị MeV/nucleon, làm tròn đến một chữ số thập phân).
+Trả lời: [[5,6]]
+Lời giải
+$\Delta m = 3 \cdot 1,00728 + 4 \cdot 1,00866 - 7,0144 = 0,04208$ amu; $E_{lk} = 0,04208 \cdot 931,5 \approx 39,2$ MeV; $E_{lkr} = \dfrac{39,2}{7} \approx 5,6$ MeV/nucleon.
+
+Câu 35. [VD] Mỗi phân hạch ${}^{235}_{92}\text{U}$ tỏa ra năng lượng 200 MeV. Tính năng lượng tỏa ra khi phân hạch hoàn toàn 1 kg ${}^{235}\text{U}$ (theo đơn vị $10^{13}$ J, làm tròn đến một chữ số thập phân). Lấy $N_A = 6,02 \cdot 10^{23}$ mol$^{-1}$; 1 MeV $= 1,6 \cdot 10^{-13}$ J.
+Trả lời: [[8,2]]
+Lời giải
+$N = \dfrac{1000}{235} \cdot 6,02 \cdot 10^{23} \approx 2,56 \cdot 10^{24}$; $E = N \cdot 200 \cdot 1,6 \cdot 10^{-13} \approx 8,2 \cdot 10^{13}$ J.
+
+Câu 36. [VD] Năng lượng tỏa ra khi phân hạch hết 1 kg ${}^{235}\text{U}$ là $8,2 \cdot 10^{13}$ J. Năng suất tỏa nhiệt của than đá là 30 MJ/kg. Khối lượng than đá cần đốt để tỏa ra nhiệt lượng bằng năng lượng này là bao nhiêu (theo đơn vị nghìn tấn, làm tròn đến một chữ số thập phân)?
+Trả lời: [[2,7]]
+Lời giải
+$m = \dfrac{8,2 \cdot 10^{13}}{3 \cdot 10^7} \approx 2,73 \cdot 10^6$ kg $\approx 2,7$ nghìn tấn.
+
+Câu 37. [VD] Xét phản ứng ${}^{2}_{1}\text{H} + {}^{2}_{1}\text{H} \to {}^{3}_{2}\text{He} + {}^{1}_{0}\text{n}$ với khối lượng hạt nhân $m_D = 2,0136$ amu; $m_{He3} = 3,0149$ amu; $m_n = 1,0087$ amu; 1 amu $= 931,5$ MeV/$c^2$. Tính năng lượng tỏa ra của phản ứng (theo đơn vị MeV, làm tròn đến một chữ số thập phân).
+Trả lời: [[3,4]]
+Lời giải
+$\Delta m = 2 \cdot 2,0136 - (3,0149 + 1,0087) = 0,0036$ amu; $E = 0,0036 \cdot 931,5 \approx 3,4$ MeV.
+
+Câu 38. [VD] Một phản ứng tổng hợp hạt nhân tỏa năng lượng 17,6 MeV. Độ giảm khối lượng nghỉ của hệ trong phản ứng là bao nhiêu (theo đơn vị $10^{-30}$ kg, làm tròn đến một chữ số thập phân)? Lấy $c = 3 \cdot 10^8$ m/s; 1 MeV $= 1,6 \cdot 10^{-13}$ J.
+Trả lời: [[31,3]]
+Lời giải
+$\Delta m = \dfrac{E}{c^2} = \dfrac{17,6 \cdot 1,6 \cdot 10^{-13}}{9 \cdot 10^{16}} \approx 31,3 \cdot 10^{-30}$ kg.
+
 @bai 23 | Hiện tượng phóng xạ
+Câu 1. [NB] Hiện tượng phóng xạ là hiện tượng
+A. hạt nhân nặng hấp thụ neutron chậm rồi vỡ thành hai mảnh nhẹ hơn.
+*B. hạt nhân không bền tự phát biến đổi thành hạt nhân khác, phát ra tia phóng xạ.
+C. hai hạt nhân nhẹ kết hợp thành một hạt nhân nặng hơn ở nhiệt độ rất cao.
+D. nguyên tử phát sáng khi được chiếu bằng tia tử ngoại có bước sóng ngắn.
+Lời giải
+Phóng xạ là quá trình một hạt nhân không bền vững tự phát biến đổi thành hạt nhân khác và phát ra tia phóng xạ. A là phân hạch, C là tổng hợp hạt nhân.
+
+Câu 2. [NB] Quá trình phóng xạ
+A. xảy ra nhanh hơn khi tăng nhiệt độ của mẫu chất phóng xạ.
+B. có thể dừng lại bằng cách tăng áp suất lên mẫu chất phóng xạ.
+*C. có tính tự phát, không phụ thuộc nhiệt độ, áp suất bên ngoài.
+D. chỉ xảy ra khi có ánh sáng chiếu vào mẫu chất phóng xạ.
+Lời giải
+Phóng xạ là quá trình tự phát, không điều khiển được bằng các tác động bên ngoài như nhiệt độ, áp suất.
+
+Câu 3. [NB] Tia alpha là dòng các
+A. electron.
+B. positron.
+C. photon năng lượng cao.
+*D. hạt nhân ${}^{4}_{2}\text{He}$.
+Lời giải
+Tia $\alpha$ là các hạt nhân ${}^{4}_{2}\text{He}$ phóng ra từ hạt nhân mẹ với tốc độ khoảng $2 \cdot 10^7$ m/s.
+
+Câu 4. [NB] Tia $\beta^-$ là dòng các
+*A. electron.
+B. positron.
+C. proton.
+D. neutron.
+Lời giải
+Tia $\beta^-$ là dòng các electron ${}^{0}_{-1}e$; tia $\beta^+$ là dòng các positron ${}^{0}_{1}e$.
+
+Câu 5. [NB] Tia gamma có bản chất là
+A. dòng hạt nhân helium.
+*B. sóng điện từ có bước sóng rất ngắn.
+C. dòng electron chuyển động nhanh.
+D. sóng cơ có tần số rất lớn.
+Lời giải
+Tia $\gamma$ là sóng điện từ có bước sóng rất ngắn, cỡ nhỏ hơn $10^{-11}$ m.
+
+Câu 6. [NB] Chu kì bán rã của một chất phóng xạ là khoảng thời gian để
+A. toàn bộ số hạt nhân của mẫu chất bị phân rã hết.
+*B. một nửa số hạt nhân hiện có của chất đó bị phân rã.
+C. số hạt nhân của mẫu tăng lên gấp đôi.
+D. độ phóng xạ của mẫu giảm còn một phần tư.
+Lời giải
+Sau mỗi chu kì bán rã $T$, một nửa số hạt nhân hiện có bị phân rã, biến đổi thành hạt nhân khác.
+
+Câu 7. [NB] Đơn vị của độ phóng xạ trong hệ SI là
+A. gray (Gy).
+B. sievert (Sv).
+*C. becquerel (Bq).
+D. curie (Ci).
+Lời giải
+Đơn vị độ phóng xạ trong hệ SI là becquerel: 1 Bq = 1 phân rã/giây. Curie cũng là đơn vị độ phóng xạ nhưng không thuộc hệ SI; Gy và Sv là đơn vị liều.
+
+Câu 8. [NB] Nguyên tắc nào sau đây KHÔNG thuộc ba nguyên tắc an toàn phóng xạ?
+A. Giữ khoảng cách đủ xa đối với nguồn phóng xạ.
+B. Dùng tấm chắn đủ tốt giữa người và nguồn phóng xạ.
+C. Giảm thiểu thời gian tiếp xúc với nguồn phóng xạ.
+*D. Làm nóng nguồn phóng xạ để nó phân rã hết nhanh hơn.
+Lời giải
+Ba nguyên tắc an toàn: khoảng cách, che chắn, thời gian. Nhiệt độ không làm thay đổi tốc độ phân rã phóng xạ.
+
+Câu 9. [TH] Sắp xếp các tia phóng xạ theo thứ tự khả năng đâm xuyên tăng dần:
+*A. $\alpha$, $\beta$, $\gamma$.
+B. $\gamma$, $\beta$, $\alpha$.
+C. $\beta$, $\alpha$, $\gamma$.
+D. $\alpha$, $\gamma$, $\beta$.
+Lời giải
+Tia $\alpha$ bị tờ giấy chặn lại, tia $\beta$ bị tấm nhôm dày khoảng 1 mm chặn lại, muốn cản tia $\gamma$ thường dùng tấm chì dày khoảng 10 cm.
+
+Câu 10. [TH] Khi cho các tia phóng xạ đi qua điện trường giữa hai bản tụ điện, tia KHÔNG bị lệch là
+A. tia $\alpha$.
+B. tia $\beta^-$.
+C. tia $\beta^+$.
+*D. tia $\gamma$.
+Lời giải
+Tia $\gamma$ là sóng điện từ, không mang điện nên không bị lệch trong điện trường và từ trường.
+
+Câu 11. [TH] Trong phóng xạ $\alpha$, so với hạt nhân mẹ, hạt nhân con có
+*A. số khối giảm 4, số proton giảm 2.
+B. số khối giảm 2, số proton giảm 4.
+C. số khối không đổi, số proton tăng 1.
+D. số khối giảm 4, số proton không đổi.
+Lời giải
+${}^{A}_{Z}\text{X} \to {}^{A-4}_{Z-2}\text{Y} + {}^{4}_{2}\text{He}$: số khối giảm 4, số proton giảm 2.
+
+Câu 12. [TH] Trong phóng xạ $\beta^-$, so với hạt nhân mẹ, hạt nhân con có
+A. số khối giảm 1, số proton không đổi.
+B. số khối không đổi, số proton giảm 1.
+*C. số khối không đổi, số proton tăng 1.
+D. số khối tăng 1, số proton tăng 1.
+Lời giải
+${}^{A}_{Z}\text{X} \to {}^{A}_{Z+1}\text{Y} + {}^{0}_{-1}e$ + phản neutrino: số khối không đổi, số proton tăng 1.
+
+Câu 13. [TH] Nguồn phóng xạ $\alpha$ nằm ngoài cơ thể ít gây hại nhưng rất nguy hiểm khi lọt vào trong cơ thể vì tia $\alpha$
+A. có khả năng đâm xuyên rất mạnh qua các mô.
+B. không mang điện nên rất khó bị cản lại.
+*C. ion hóa rất mạnh nhưng đâm xuyên kém.
+D. có bước sóng rất ngắn nên dễ đi qua da.
+Lời giải
+Tia $\alpha$ đâm xuyên kém (bị da, tờ giấy chặn lại) nên ở ngoài cơ thể ít gây hại; nhưng ion hóa rất mạnh nên khi ở trong cơ thể sẽ phá hủy tế bào nghiêm trọng.
+
+Câu 14. [TH] Hằng số phóng xạ $\lambda$ liên hệ với chu kì bán rã $T$ theo công thức
+A. $\lambda = T \ln 2$.
+B. $\lambda = \dfrac{T}{\ln 2}$.
+C. $\lambda = \dfrac{1}{T}$.
+*D. $\lambda = \dfrac{\ln 2}{T}$.
+Lời giải
+$\lambda = \dfrac{\ln 2}{T}$, đơn vị $\text{s}^{-1}$; chất có chu kì bán rã càng ngắn thì $\lambda$ càng lớn.
+
+Câu 15. [TH] Một đầu thu Geiger–Müller đặt gần một nguồn phóng xạ đếm được số tia trong các khoảng 5 s liên tiếp lần lượt là 2; 0; 4; 1; 3. Kết quả này cho thấy
+A. thiết bị đếm đã bị hỏng vì số đếm trong các khoảng không đều nhau.
+*B. thời điểm phân rã của từng hạt nhân là ngẫu nhiên, không dự đoán được.
+C. nguồn phóng xạ đã phân rã hết hoàn toàn sau khoảng 10 s đầu tiên.
+D. độ phóng xạ của nguồn tăng dần theo thời gian rồi giảm dần.
+Lời giải
+Số phân rã trong các khoảng thời gian bằng nhau liên tiếp khác nhau một cách ngẫu nhiên: phân rã phóng xạ có tính ngẫu nhiên.
+
+Câu 16. [VD] Hạt nhân ${}^{238}_{92}\text{U}$ phóng xạ $\alpha$ tạo thành hạt nhân con là
+A. ${}^{234}_{92}\text{U}$.
+B. ${}^{238}_{90}\text{Th}$.
+C. ${}^{236}_{90}\text{Th}$.
+*D. ${}^{234}_{90}\text{Th}$.
+Lời giải
+${}^{238}_{92}\text{U} \to {}^{234}_{90}\text{Th} + {}^{4}_{2}\text{He}$ (bảo toàn số khối và điện tích).
+
+Câu 17. [VD] Hạt nhân ${}^{90}_{38}\text{Sr}$ phóng xạ $\beta^-$. Hạt nhân con có
+A. $Z = 37$, $A = 90$.
+*B. $Z = 39$, $A = 90$.
+C. $Z = 38$, $A = 89$.
+D. $Z = 36$, $A = 86$.
+Lời giải
+${}^{90}_{38}\text{Sr} \to {}^{90}_{39}\text{Y} + {}^{0}_{-1}e$ + phản neutrino: $A$ không đổi, $Z$ tăng 1.
+
+Câu 18. [VD] Hạt nhân ${}^{18}_{9}\text{F}$ phóng xạ $\beta^+$. Hạt nhân con là
+*A. ${}^{18}_{8}\text{O}$.
+B. ${}^{18}_{10}\text{Ne}$.
+C. ${}^{17}_{8}\text{O}$.
+D. ${}^{14}_{7}\text{N}$.
+Lời giải
+${}^{18}_{9}\text{F} \to {}^{18}_{8}\text{O} + {}^{0}_{1}e$ + neutrino: $A$ không đổi, $Z$ giảm 1. Phương án B ứng với phóng xạ $\beta^-$.
+
+Câu 19. [VD] Một mẫu chất phóng xạ có chu kì bán rã $T$. Sau thời gian $3T$, số hạt nhân chưa phân rã còn lại bằng bao nhiêu phần trăm số hạt nhân ban đầu?
+A. 33,3%.
+*B. 12,5%.
+C. 25%.
+D. 87,5%.
+Lời giải
+$\dfrac{N}{N_0} = 2^{-3} = \dfrac{1}{8} = 12,5\%$. Phương án D là phần trăm số hạt nhân đã bị phân rã.
+
+Câu 20. [VD] Iodine ${}^{131}\text{I}$ có chu kì bán rã 8 ngày. Sau bao lâu thì số hạt nhân ${}^{131}\text{I}$ trong một mẫu giảm còn $\dfrac{1}{16}$ số hạt nhân ban đầu?
+A. 16 ngày.
+B. 24 ngày.
+*C. 32 ngày.
+D. 128 ngày.
+Lời giải
+$\dfrac{1}{16} = 2^{-4}$ nên $t = 4T = 32$ ngày.
+
+Câu 21. [VD] Hai mẫu chất phóng xạ X và Y có cùng số hạt nhân tại cùng thời điểm; chu kì bán rã của X gấp 2 lần chu kì bán rã của Y. Tỉ số độ phóng xạ $\dfrac{H_X}{H_Y}$ tại thời điểm đó là
+*A. $\dfrac{1}{2}$.
+B. 2.
+C. 1.
+D. 4.
+Lời giải
+$H = \lambda N = \dfrac{\ln 2}{T}N$; cùng $N$ nên $\dfrac{H_X}{H_Y} = \dfrac{T_Y}{T_X} = \dfrac{1}{2}$.
+
+Câu 22. [VD] Một nhân viên đứng cách nguồn phóng xạ 1 m nhận liều hấp thụ trong 1 giờ là $D$. Nếu đứng cách nguồn 3 m trong cùng thời gian thì liều hấp thụ là
+A. $\dfrac{D}{3}$.
+B. $3D$.
+*C. $\dfrac{D}{9}$.
+D. $\dfrac{D}{6}$.
+Lời giải
+Liều hấp thụ tỉ lệ nghịch với bình phương khoảng cách tới nguồn: tăng khoảng cách 3 lần thì liều giảm 9 lần.
+
+Câu 23. [TF] [TH] Về các tia phóng xạ:
+*A. Tia $\alpha$ làm ion hóa mạnh không khí nên chỉ đi được vài cm trong không khí.
+*B. Tia $\beta$ phóng ra với tốc độ xấp xỉ tốc độ ánh sáng trong chân không.
+C. Tia $\gamma$ bị lệch về phía bản tích điện dương khi đi qua điện trường.
+*D. Tia phóng xạ có thể làm đen kính ảnh.
+Lời giải
+A, B, D đúng. C sai vì tia $\gamma$ không mang điện, không bị lệch trong điện trường.
+
+Câu 24. [TF] [TH] Về định luật phóng xạ:
+A. Số hạt nhân chưa phân rã giảm tuyến tính (bậc nhất) theo thời gian.
+*B. Độ phóng xạ của một lượng chất phóng xạ giảm theo thời gian theo cùng quy luật với số hạt nhân.
+C. Chu kì bán rã của một chất phóng xạ phụ thuộc vào khối lượng ban đầu của mẫu.
+D. Sau hai chu kì bán rã, mẫu chất phóng xạ đã phân rã hết.
+Lời giải
+Chỉ B đúng: $H = \lambda N$ nên $H = H_0e^{-\lambda t}$ cùng quy luật với $N$. A sai vì giảm theo hàm số mũ. C sai vì $T$ là đặc trưng của từng chất. D sai vì sau $2T$ còn lại 25%.
+
+Câu 25. [TF] [TH] Về an toàn phóng xạ:
+*A. Biển cảnh báo phóng xạ được đặt tại khu vực có nguồn phóng xạ hoặc trên vật chứa nguồn phóng xạ.
+*B. Tấm chắn có bề dày càng lớn, khối lượng riêng càng lớn thì cản tia phóng xạ càng mạnh.
+C. Con người chỉ bị nhiễm phóng xạ khi làm việc tại cơ sở có nguồn phóng xạ.
+D. Thấy biển cảnh báo phóng xạ, ta nên lại gần để xem nguồn phóng xạ đặt ở đâu.
+Lời giải
+A, B đúng. C sai vì con người luôn nhận phóng xạ thụ động từ không khí, đá, thực phẩm, tia vũ trụ (trung bình khoảng 2,4 mSv mỗi năm). D sai vì biển cảnh báo yêu cầu không tiếp cận nguồn phóng xạ.
+
+Câu 26. [TF] [VD] Một mẫu ${}^{131}\text{I}$ (chu kì bán rã 8 ngày) có độ phóng xạ ban đầu 800 Bq.
+*A. Sau 8 ngày, độ phóng xạ của mẫu là 400 Bq.
+*B. Sau 24 ngày, độ phóng xạ của mẫu là 100 Bq.
+*C. Sau 24 ngày, đã có 87,5% số hạt nhân ban đầu bị phân rã.
+D. Sau 16 ngày, độ phóng xạ của mẫu là 0 Bq.
+Lời giải
+A, B, C đúng: $H = 800 \cdot 2^{-1} = 400$ Bq; $H = 800 \cdot 2^{-3} = 100$ Bq; đã phân rã $1 - \dfrac{1}{8} = 87,5\%$. D sai: sau 16 ngày còn $800 \cdot 2^{-2} = 200$ Bq.
+
+Câu 27. [TF] [VD] Một mẫu chất phóng xạ có hằng số phóng xạ $\lambda = 2 \cdot 10^{-3}$ s$^{-1}$ và chứa $5 \cdot 10^{9}$ hạt nhân chưa phân rã.
+*A. Độ phóng xạ của mẫu là $10^7$ Bq.
+B. Chu kì bán rã của chất này xấp xỉ 500 s.
+C. Độ phóng xạ của mẫu xấp xỉ 0,27 Ci.
+*D. Chu kì bán rã của chất này xấp xỉ 347 s.
+Lời giải
+A, D đúng: $H = \lambda N = 2 \cdot 10^{-3} \cdot 5 \cdot 10^9 = 10^7$ Bq; $T = \dfrac{\ln 2}{\lambda} \approx 347$ s. B sai (đó là $\dfrac{1}{\lambda}$, quên nhân $\ln 2$). C sai: $\dfrac{10^7}{3,7 \cdot 10^{10}} \approx 2,7 \cdot 10^{-4}$ Ci.
+
+Câu 28. [TF] [VD] Cho phản ứng phóng xạ ${}^{226}_{88}\text{Ra} \to {}^{222}_{86}\text{Rn} + \text{X}$.
+*A. X là hạt $\alpha$.
+B. Hạt nhân con ${}^{222}_{86}\text{Rn}$ có 222 neutron.
+C. Đây là phóng xạ $\beta^-$.
+D. Hạt X phát ra không mang điện nên không bị lệch trong từ trường.
+Lời giải
+Chỉ A đúng: bảo toàn số khối và điện tích cho X là ${}^{4}_{2}\text{He}$. B sai: Rn có $222 - 86 = 136$ neutron. C sai vì đây là phóng xạ $\alpha$. D sai vì hạt $\alpha$ mang điện dương nên bị lệch trong từ trường.
+
+Câu 29. [TF] [VD] Phương pháp xác định tuổi bằng ${}^{14}\text{C}$ (chu kì bán rã 5 730 năm):
+*A. Khi sinh vật còn sống, tỉ lệ ${}^{14}\text{C}$ trong cơ thể được giữ không đổi nhờ trao đổi chất với môi trường.
+*B. Khi sinh vật chết, lượng ${}^{14}\text{C}$ trong cơ thể giảm dần do phân rã.
+*C. Một mẫu gỗ cổ có độ phóng xạ ${}^{14}\text{C}$ bằng một nửa mẫu gỗ cùng loại vừa chặt (cùng khối lượng) thì có tuổi khoảng 5 730 năm.
+*D. Một mẫu xương có độ phóng xạ ${}^{14}\text{C}$ bằng 25% mẫu xương tương tự còn sống thì có tuổi khoảng 11 460 năm.
+Lời giải
+Cả bốn ý đúng: độ phóng xạ giảm còn $\dfrac{1}{2}$ ứng với $t = T = 5\,730$ năm; còn $\dfrac{1}{4}$ ứng với $t = 2T = 11\,460$ năm.
+
+Câu 30. [TH] Iodine ${}^{131}\text{I}$ có chu kì bán rã 8 ngày. Sau 4 ngày, số hạt nhân ${}^{131}\text{I}$ còn lại bằng bao nhiêu phần trăm số hạt nhân ban đầu (làm tròn đến một chữ số thập phân)?
+Trả lời: [[70,7]]
+Lời giải
+$\dfrac{N}{N_0} = 2^{-\frac{4}{8}} = \dfrac{1}{\sqrt{2}} \approx 70,7\%$.
+
+Câu 31. [TH] Một mẫu chất phóng xạ có chu kì bán rã 2 giờ, chứa $10^{10}$ hạt nhân chưa phân rã. Tính độ phóng xạ của mẫu (theo đơn vị $10^5$ Bq, làm tròn đến hai chữ số thập phân).
+Trả lời: [[9,63]]
+Lời giải
+$H = \lambda N = \dfrac{\ln 2}{7\,200} \cdot 10^{10} \approx 9,63 \cdot 10^5$ Bq.
+
+Câu 32. [TH] Liều hấp thụ hiệu dụng $D_{hd} = D \cdot W$, với trọng số bức xạ toàn thân $W = 20$ đối với tia alpha. Một người hấp thụ liều $D = 2$ mGy do tia alpha. Tính liều hấp thụ hiệu dụng (theo đơn vị mSv).
+Trả lời: [[40]]
+Lời giải
+$D_{hd} = 2 \cdot 20 = 40$ mSv.
+
+Câu 33. [VD] Sau 30 ngày, 87,5% số hạt nhân của một mẫu chất phóng xạ đã bị phân rã. Tính chu kì bán rã của chất này (theo đơn vị ngày).
+Trả lời: [[10]]
+Lời giải
+Còn lại $12,5\% = 2^{-3}$ nên $30 = 3T$, suy ra $T = 10$ ngày.
+
+Câu 34. [VD] Đồng vị ${}^{18}\text{F}$ có chu kì bán rã 110 phút. Tính hằng số phóng xạ của nó (theo đơn vị $10^{-4}$ s$^{-1}$, làm tròn đến hai chữ số thập phân).
+Trả lời: [[1,05]]
+Lời giải
+$\lambda = \dfrac{\ln 2}{T} = \dfrac{0,693}{110 \cdot 60} \approx 1,05 \cdot 10^{-4}$ s$^{-1}$.
+
+Câu 35. [VD] Một liều dược chất chứa ${}^{18}\text{F}$ (chu kì bán rã 110 phút) có độ phóng xạ $10^6$ Bq. Tính số hạt nhân ${}^{18}\text{F}$ trong liều này (theo đơn vị $10^9$ hạt, làm tròn đến một chữ số thập phân).
+Trả lời: [[9,5]]
+Lời giải
+$N = \dfrac{H}{\lambda} = \dfrac{10^6 \cdot 110 \cdot 60}{\ln 2} \approx 9,5 \cdot 10^9$ hạt.
+
+Câu 36. [VD] Một mẫu xương cổ có độ phóng xạ ${}^{14}\text{C}$ bằng 12,5% độ phóng xạ của mẫu xương tương tự còn sống (cùng khối lượng). Chu kì bán rã của ${}^{14}\text{C}$ là 5 730 năm. Tính tuổi của mẫu xương (theo đơn vị nghìn năm, làm tròn đến một chữ số thập phân).
+Trả lời: [[17,2]]
+Lời giải
+$\dfrac{H}{H_0} = \dfrac{1}{8} = 2^{-3}$ nên $t = 3T = 17\,190$ năm $\approx 17,2$ nghìn năm.
+
+Câu 37. [VD] Nguồn ${}^{60}\text{Co}$ có chu kì bán rã 5,27 năm. Sau bao lâu thì độ phóng xạ của nguồn giảm đi 20% so với ban đầu (theo đơn vị năm, làm tròn đến một chữ số thập phân)?
+Trả lời: [[1,7]]
+Lời giải
+$\dfrac{H}{H_0} = 0,8 = 2^{-\frac{t}{T}}$ nên $t = T\log_2\dfrac{1}{0,8} = 5,27 \cdot 0,322 \approx 1,7$ năm.
+
+Câu 38. [VD] Ban đầu có 4,2 g ${}^{210}_{84}\text{Po}$ nguyên chất, phóng xạ $\alpha$ tạo thành hạt nhân bền ${}^{206}_{82}\text{Pb}$ với chu kì bán rã 138 ngày. Tính khối lượng chì tạo thành sau 276 ngày (theo đơn vị g, làm tròn đến hai chữ số thập phân). Coi khối lượng mol nguyên tử (g/mol) bằng số khối.
+Trả lời: [[3,09]]
+Lời giải
+$t = 2T$ nên số hạt nhân Po đã phân rã bằng $\dfrac{3}{4}$ ban đầu: $\dfrac{3}{4} \cdot \dfrac{4,2}{210} = 0,015$ mol. Số mol Pb tạo thành bằng số mol Po đã phân rã: $m_{Pb} = 0,015 \cdot 206 = 3,09$ g.
+
 @bai 24 | Công nghiệp hạt nhân
+Câu 1. [NB] Bộ phận chính của nhà máy điện hạt nhân là
+A. tua bin hơi nước.
+B. máy phát điện.
+*C. lò phản ứng hạt nhân.
+D. tháp làm mát.
+Lời giải
+Lò phản ứng hạt nhân là nơi khởi tạo và điều khiển phản ứng phân hạch dây chuyền, là bộ phận chính của nhà máy điện hạt nhân.
+
+Câu 2. [NB] Nhiên liệu phân hạch dùng trong phần lớn các lò phản ứng hạt nhân là
+A. ${}^{2}\text{H}$ hoặc ${}^{3}\text{H}$.
+*B. ${}^{235}\text{U}$ hoặc ${}^{239}\text{Pu}$.
+C. ${}^{12}\text{C}$ hoặc ${}^{14}\text{C}$.
+D. ${}^{56}\text{Fe}$ hoặc ${}^{60}\text{Co}$.
+Lời giải
+Nhiên liệu phân hạch trong phần lớn lò phản ứng là ${}^{235}\text{U}$ hay ${}^{239}\text{Pu}$. Đồng vị của hydrogen là nhiên liệu của phản ứng tổng hợp.
+
+Câu 3. [NB] Các thanh điều khiển trong lò phản ứng hạt nhân chứa bo (B) hay cadmium (Cd) có tác dụng
+A. làm tăng tốc độ của các neutron trong lò.
+B. làm nguội nhanh chất tải nhiệt sơ cấp.
+C. cung cấp thêm neutron để duy trì phản ứng.
+*D. hấp thụ bớt neutron để giữ $k = 1$.
+Lời giải
+Bo và cadmium hấp thụ neutron nhiệt. Khi số neutron tăng quá nhiều, người ta cho thanh điều khiển ngập sâu hơn để hấp thụ neutron thừa, giữ $k = 1$.
+
+Câu 4. [NB] Trong nhà máy điện hạt nhân, năng lượng hạt nhân được chuyển hóa thành điện năng theo trình tự
+*A. hạt nhân → nhiệt năng → cơ năng tua bin → điện năng.
+B. hạt nhân → điện năng trực tiếp, không qua tua bin.
+C. hạt nhân → quang năng → nhiệt năng → điện năng.
+D. hạt nhân → hóa năng → cơ năng tua bin → điện năng.
+Lời giải
+Nhiệt tỏa ra từ lò phản ứng làm nóng chất tải nhiệt, tạo hơi nước áp suất cao làm quay tua bin, tua bin kéo máy phát điện.
+
+Câu 5. [NB] Y học hạt nhân là lĩnh vực
+A. chế tạo thuốc kháng sinh từ các vật liệu hạt nhân.
+*B. dùng kiến thức vật lí hạt nhân để chẩn đoán, điều trị bệnh.
+C. dùng tia laser công suất lớn để phẫu thuật cho bệnh nhân.
+D. dùng sóng siêu âm để chụp ảnh các bộ phận trong cơ thể.
+Lời giải
+Y học hạt nhân khai thác tính chất của tia phóng xạ và đồng vị phóng xạ để chẩn đoán và điều trị bệnh.
+
+Câu 6. [NB] Chất được đưa vào cơ thể bệnh nhân để chụp ảnh phóng xạ hoặc điều trị gọi là
+A. chất làm chậm neutron.
+B. chất tải nhiệt.
+*C. dược chất phóng xạ.
+D. chất phân hạch.
+Lời giải
+Đồng vị phóng xạ được đưa vào cơ thể dưới dạng dược chất phóng xạ (uống hoặc tiêm).
+
+Câu 7. [NB] Kĩ thuật chụp ảnh PET dựa trên việc ghi nhận bức xạ từ dược chất chứa đồng vị phóng xạ
+A. $\alpha$.
+B. $\beta^-$.
+C. phát neutron.
+*D. $\beta^+$.
+Lời giải
+PET (Positron Emission Tomography) dùng đồng vị phóng xạ $\beta^+$ (phát positron), ví dụ ${}^{18}\text{F}$.
+
+Câu 8. [NB] Chiếu xạ thực phẩm (ví dụ vải thiều) bằng tia phóng xạ nhằm
+A. làm thực phẩm có tính phóng xạ để dễ kiểm tra.
+*B. diệt vi khuẩn có hại, kéo dài thời gian bảo quản.
+C. làm tăng khối lượng của thực phẩm.
+D. làm thực phẩm chín nhanh hơn.
+Lời giải
+Tia phóng xạ diệt vi trùng có hại, giúp thực phẩm tránh mọc mầm, phân hủy nên bảo quản được lâu hơn.
+
+Câu 9. [TH] Nhà máy điện hạt nhân thường được xây dựng cạnh sông, hồ hoặc bờ biển chủ yếu vì
+A. để dễ thải chất thải phóng xạ ra nước.
+B. để lấy nhiên liệu uranium từ nước.
+*C. cần một lượng lớn nước để làm mát.
+D. để giảm độ phóng xạ của lò phản ứng.
+Lời giải
+Hơi nước sau khi qua tua bin cần được làm ngưng tụ, nhà máy cần lượng nước làm mát rất lớn. Chất thải phóng xạ phải được bảo quản cách li, không thải ra nguồn nước.
+
+Câu 10. [TH] Ưu điểm nổi bật của nhà máy điện hạt nhân về môi trường so với nhà máy nhiệt điện than là
+A. không tạo ra chất thải phóng xạ.
+*B. không trực tiếp thải khí $\text{CO}_2$ khi vận hành.
+C. không cần dùng nước để làm mát lò phản ứng.
+D. không cần hệ thống an toàn và che chắn phóng xạ.
+Lời giải
+Nhà máy điện hạt nhân không trực tiếp phát thải khí gây ô nhiễm như $\text{CO}_2$, nhưng vẫn tạo ra chất thải phóng xạ cần xử lí phức tạp.
+
+Câu 11. [TH] Chất thải hạt nhân phải được bảo quản trong thiết bị rất bền trong hàng trăm năm vì
+A. chất thải có khối lượng và thể tích rất lớn.
+B. chất thải rất dễ cháy nổ khi gặp không khí.
+C. chất thải phát ra ánh sáng rất mạnh, gây chói mắt.
+*D. một số đồng vị trong chất thải có chu kì bán rã dài.
+Lời giải
+Các đồng vị như ${}^{90}\text{Sr}$, ${}^{137}\text{Cs}$ có chu kì bán rã khoảng 30 năm, cần hàng trăm năm để độ phóng xạ giảm xuống mức an toàn.
+
+Câu 12. [TH] Trong chụp ảnh phóng xạ cắt lớp, người ta ghi nhận tia gamma phát ra từ cơ thể vì tia gamma
+*A. đâm xuyên mạnh nên thoát ra ngoài cơ thể tới đầu thu.
+B. bị các mô trong cơ thể hấp thụ hoàn toàn.
+C. mang điện nên dễ đo bằng điện kế thông thường.
+D. không gây ion hóa nên hoàn toàn vô hại với cơ thể.
+Lời giải
+Tia gamma đâm xuyên mạnh nên thoát ra ngoài cơ thể và được thiết bị ghi nhận để dựng ảnh. Tia gamma vẫn gây ion hóa nên phải dùng liều thấp.
+
+Câu 13. [TH] Khi dùng máy xạ trị chiếu tia phóng xạ để tiêu diệt tế bào ung thư, bệnh nhân có thể bị mệt mỏi, rụng tóc, tổn thương da vì
+*A. tia phóng xạ cũng tác động lên các tế bào khỏe mạnh.
+B. tia phóng xạ làm nhiệt độ cơ thể tăng lên rất cao.
+C. bệnh nhân trở thành một nguồn phóng xạ rất mạnh.
+D. bệnh nhân bị dị ứng với dược chất gây mê khi chiếu.
+Lời giải
+Tia phóng xạ không chỉ phá hủy tế bào ung thư mà còn tác động lên tế bào khỏe mạnh ở vùng chiếu, gây tác dụng phụ.
+
+Câu 14. [TH] Phương pháp đánh dấu phóng xạ trong nông nghiệp (ví dụ bón phân có đồng vị ${}^{32}\text{P}$ phóng xạ $\beta$) giúp
+A. phân bón tan nhanh hơn trong nước và trong đất.
+B. tiêu diệt sâu bệnh và nấm hại trên cây trồng.
+C. cây trồng không cần tưới nước trong thời gian dài.
+*D. theo dõi đường đi của phân bón trong cây trồng.
+Lời giải
+Chụp ảnh phóng xạ cây ở các thời điểm khác nhau cho biết phân bón di chuyển và tích tụ ở đâu, từ đó có biện pháp chăm sóc phù hợp.
+
+Câu 15. [TH] Nhược điểm của thực phẩm chiếu xạ là
+A. thực phẩm trở thành một nguồn phóng xạ nguy hiểm.
+B. thực phẩm bị hỏng nhanh hơn so với khi không chiếu xạ.
+C. thực phẩm mất hết chất dinh dưỡng, không ăn được nữa.
+*D. có thể bị thay đổi màu sắc, hương vị và giá thành cao.
+Lời giải
+Một số thực phẩm chiếu xạ có thể bị thay đổi màu sắc, hương vị; chi phí chiếu xạ làm giá thành cao hơn.
+
+Câu 16. [VD] Một nhà máy điện hạt nhân có công suất phát điện 1 000 MW, hiệu suất 33%. Công suất nhiệt do lò phản ứng tỏa ra xấp xỉ
+A. 330 MW.
+B. 1 330 MW.
+*C. 3 030 MW.
+D. 670 MW.
+Lời giải
+$P_{nhiệt} = \dfrac{P_{điện}}{H} = \dfrac{1\,000}{0,33} \approx 3\,030$ MW. Phương án A là kết quả khi nhân thay vì chia cho hiệu suất.
+
+Câu 17. [VD] Mỗi phân hạch ${}^{235}\text{U}$ tỏa ra 200 MeV. Năng lượng này tính theo jun là (1 MeV $= 1,6 \cdot 10^{-13}$ J)
+A. $1,6 \cdot 10^{-11}$ J.
+*B. $3,2 \cdot 10^{-11}$ J.
+C. $3,2 \cdot 10^{-13}$ J.
+D. $1,25 \cdot 10^{15}$ J.
+Lời giải
+$E = 200 \cdot 1,6 \cdot 10^{-13} = 3,2 \cdot 10^{-11}$ J.
+
+Câu 18. [VD] Đồng vị ${}^{90}\text{Sr}$ trong chất thải hạt nhân có chu kì bán rã khoảng 30 năm. Sau 90 năm, độ phóng xạ của lượng ${}^{90}\text{Sr}$ đó còn lại
+*A. 12,5% so với ban đầu.
+B. 33,3% so với ban đầu.
+C. 25% so với ban đầu.
+D. 0% so với ban đầu.
+Lời giải
+$t = 3T$ nên $\dfrac{H}{H_0} = 2^{-3} = 12,5\%$. Phương án B là kết quả khi coi độ phóng xạ giảm tuyến tính.
+
+Câu 19. [VD] Dược chất ${}^{18}\text{F}$ dùng trong chụp ảnh PET có chu kì bán rã 110 phút. Vì sao dược chất này thường phải sản xuất ở cơ sở gần bệnh viện và dùng ngay trong ngày?
+A. Vì ${}^{18}\text{F}$ chỉ bền vững ở nhiệt độ rất thấp.
+B. Vì ${}^{18}\text{F}$ phát tia gamma rất mạnh, không vận chuyển được.
+*C. Vì chu kì bán rã ngắn nên độ phóng xạ giảm rất nhanh.
+D. Vì ${}^{18}\text{F}$ có chu kì bán rã rất dài nên khó bảo quản.
+Lời giải
+Sau 110 phút độ phóng xạ đã giảm một nửa, sau vài giờ chỉ còn một phần nhỏ, nên phải sản xuất gần nơi dùng và dùng ngay.
+
+Câu 20. [VD] Một nhà máy điện hạt nhân có công suất phát điện 1 000 MW hoạt động liên tục trong 1 năm (365 ngày). Điện năng nhà máy sản xuất xấp xỉ
+*A. $3,15 \cdot 10^{16}$ J.
+B. $8,76 \cdot 10^{12}$ J.
+C. $3,15 \cdot 10^{13}$ J.
+D. $8,64 \cdot 10^{13}$ J.
+Lời giải
+$W = Pt = 10^9 \cdot 365 \cdot 86\,400 \approx 3,15 \cdot 10^{16}$ J. Phương án C là kết quả khi dùng công suất 1 000 kW; D là điện năng của 1 ngày.
+
+Câu 21. [VD] So với nhà máy nhiệt điện than cùng công suất, lượng nhiên liệu nhà máy điện hạt nhân tiêu thụ mỗi năm
+A. lớn hơn rất nhiều vì phản ứng phân hạch tỏa ít năng lượng.
+B. xấp xỉ bằng nhau vì hai nhà máy có cùng công suất phát điện.
+*C. nhỏ hơn rất nhiều vì mỗi kg nhiên liệu hạt nhân tỏa năng lượng rất lớn.
+D. không so sánh được vì hai loại nhiên liệu có bản chất khác nhau.
+Lời giải
+1 kg ${}^{235}\text{U}$ phân hạch hoàn toàn tỏa khoảng $8,2 \cdot 10^{13}$ J, tương đương đốt khoảng 2 700 tấn than (30 MJ/kg).
+
+Câu 22. [VD] Một bệnh viện dùng nguồn ${}^{60}\text{Co}$ (chu kì bán rã 5,3 năm) cho máy xạ trị. Nếu chỉ thay nguồn khi độ phóng xạ đã giảm đi 75% so với ban đầu thì nguồn được dùng trong
+A. 3,98 năm.
+*B. 10,6 năm.
+C. 5,3 năm.
+D. 7,95 năm.
+Lời giải
+Giảm đi 75% tức còn lại $25\% = 2^{-2}$ nên $t = 2T = 10,6$ năm. Phương án A ứng với cách tính sai $0,75 \cdot 5,3$.
+
+Câu 23. [TF] [TH] Về nhà máy điện hạt nhân:
+*A. Nhà máy có thể phát điện liên tục nhiều năm trước khi phải thay nhiên liệu mới.
+*B. Năng lượng hạt nhân còn được dùng cho tàu ngầm, tàu phá băng.
+C. Nhà máy điện hạt nhân không tạo ra chất thải cần xử lí đặc biệt.
+*D. Việc xử lí chất thải hạt nhân đòi hỏi công nghệ phức tạp và chi phí cao.
+Lời giải
+A, B, D đúng. C sai vì nhiên liệu đã qua sử dụng chứa đồng vị phóng xạ có chu kì bán rã dài, phải xử lí và bảo quản rất lâu.
+
+Câu 24. [TF] [TH] Về y học hạt nhân:
+*A. Theo dõi vết phóng xạ giúp quan sát sự dịch chuyển của dược chất trong cơ thể.
+*B. Chụp ảnh phóng xạ cắt lớp thường được phối hợp với chụp CT hoặc MRI để tăng độ chi tiết.
+*C. Có thể dùng dược chất phóng xạ để tiêu diệt tế bào ung thư.
+*D. Tia phóng xạ còn được dùng để khử trùng dụng cụ y tế.
+Lời giải
+Cả bốn ý đúng theo các ứng dụng của y học hạt nhân: theo dõi vết phóng xạ, chụp SPECT/PET phối hợp CT/MRI, điều trị bằng dược chất phóng xạ, khử trùng bằng bức xạ.
+
+Câu 25. [TF] [TH] Về ứng dụng phóng xạ trong công nghệ sinh học:
+*A. Tia phóng xạ có thể hỗ trợ gây đột biến gene để tạo giống cây trồng mới.
+B. Cây trồng biến đổi gene không thể gây tác động xấu đến côn trùng.
+C. Thực phẩm sau khi chiếu xạ trở thành nguồn phóng xạ nguy hiểm.
+D. Phương pháp đánh dấu phóng xạ chỉ dùng được trong y học, không dùng được trong nông nghiệp.
+Lời giải
+Chỉ A đúng. B sai vì cây trồng biến đổi gene vẫn có thể tác động xấu đến côn trùng, hệ sinh thái. C sai vì chiếu xạ diệt vi khuẩn, không làm thực phẩm thành nguồn phóng xạ nguy hiểm. D sai vì đánh dấu phóng xạ dùng cả trong sinh học, nông nghiệp, lâm nghiệp.
+
+Câu 26. [TF] [VD] Một nhà máy điện hạt nhân có công suất phát điện 1 400 MW, hiệu suất 36%.
+*A. Mỗi ngày nhà máy sản xuất điện năng khoảng $1,21 \cdot 10^{14}$ J.
+B. Công suất nhiệt của lò phản ứng là 504 MW.
+*C. Công suất nhiệt thải ra môi trường (không thành điện năng) khoảng 2 490 MW.
+D. Phần năng lượng không chuyển thành điện năng bị biến mất hoàn toàn.
+Lời giải
+A, C đúng: $W = 1,4 \cdot 10^9 \cdot 86\,400 \approx 1,21 \cdot 10^{14}$ J; $P_{nhiệt} = \dfrac{1\,400}{0,36} \approx 3\,890$ MW nên công suất thải ra $3\,890 - 1\,400 \approx 2\,490$ MW. B sai: 504 MW là kết quả khi nhân với hiệu suất. D sai: năng lượng không biến mất mà tỏa ra môi trường dưới dạng nhiệt.
+
+Câu 27. [TF] [VD] Một liều dược chất ${}^{18}\text{F}$ (chu kì bán rã 110 phút) có độ phóng xạ 400 MBq lúc sản xuất.
+*A. Sau 110 phút, độ phóng xạ của liều còn 200 MBq.
+B. Sau 220 phút, độ phóng xạ của liều còn 0 MBq.
+C. Nếu tiêm chậm hơn thì bệnh nhân nhận độ phóng xạ lớn hơn.
+D. Sau 330 phút, độ phóng xạ của liều còn 100 MBq.
+Lời giải
+Chỉ A đúng. B sai: sau $2T$ còn 100 MBq. C sai: tiêm càng chậm, độ phóng xạ càng nhỏ. D sai: sau $3T$ còn 50 MBq.
+
+Câu 28. [TF] [VD] Trong lò phản ứng hạt nhân:
+*A. Chất làm chậm neutron giúp neutron nhanh trở thành neutron nhiệt để gây phân hạch ${}^{235}\text{U}$ hiệu quả.
+*B. Khi số neutron tăng quá nhiều, các thanh điều khiển được đưa ngập sâu hơn vào vùng nhiên liệu.
+C. Hệ số nhân neutron được giữ lớn hơn 1 để công suất lò luôn tăng.
+D. Thanh điều khiển làm bằng chất phát ra nhiều neutron.
+Lời giải
+A, B đúng. C sai: trong lò phản ứng hệ số nhân neutron được giữ bằng 1 để năng lượng tỏa ra không đổi. D sai: thanh điều khiển chứa bo, cadmium hấp thụ neutron.
+
+Câu 29. [TF] [VD] Đánh giá về điện hạt nhân:
+*A. Điện hạt nhân góp phần giảm phát thải khí nhà kính.
+*B. Một lượng nhỏ nhiên liệu hạt nhân tỏa năng lượng tương đương lượng rất lớn nhiên liệu hóa thạch.
+*C. Sự cố tại lò phản ứng có thể gây ô nhiễm phóng xạ diện rộng, ảnh hưởng sức khỏe con người.
+D. Nhà máy điện hạt nhân không cần nguồn nước làm mát.
+Lời giải
+A, B, C đúng. D sai: nhà máy cần lượng nước làm mát rất lớn nên thường xây cạnh sông, hồ, bờ biển.
+
+Câu 30. [TH] Phân hạch hết 1 kg ${}^{235}\text{U}$ tỏa năng lượng $8,2 \cdot 10^{13}$ J. Nhà máy điện hạt nhân có hiệu suất 30%. Tính điện năng sản xuất được từ 1 kg ${}^{235}\text{U}$ (theo đơn vị $10^{13}$ J, làm tròn đến hai chữ số thập phân).
+Trả lời: [[2,46]]
+Lời giải
+$W = 0,3 \cdot 8,2 \cdot 10^{13} = 2,46 \cdot 10^{13}$ J.
+
+Câu 31. [TH] Năng suất tỏa nhiệt của than đá là 30 MJ/kg. Tính nhiệt lượng tỏa ra khi đốt cháy hoàn toàn 1 tấn than đá (theo đơn vị $10^{10}$ J).
+Trả lời: [[3]]
+Lời giải
+$Q = 1\,000 \cdot 3 \cdot 10^7 = 3 \cdot 10^{10}$ J.
+
+Câu 32. [TH] Một nguồn ${}^{60}\text{Co}$ trong máy xạ trị có độ phóng xạ 2 000 Ci. Tính độ phóng xạ của nguồn (theo đơn vị $10^{13}$ Bq). Biết 1 Ci $= 3,7 \cdot 10^{10}$ Bq.
+Trả lời: [[7,4]]
+Lời giải
+$H = 2\,000 \cdot 3,7 \cdot 10^{10} = 7,4 \cdot 10^{13}$ Bq.
+
+Câu 33. [VD] Lò phản ứng có công suất nhiệt 3 000 MW; mỗi phân hạch ${}^{235}\text{U}$ tỏa 200 MeV. Tính số phân hạch xảy ra trong lò mỗi giây (theo đơn vị $10^{19}$, làm tròn đến một chữ số thập phân). Lấy 1 MeV $= 1,6 \cdot 10^{-13}$ J.
+Trả lời: [[9,4]]
+Lời giải
+$n = \dfrac{3 \cdot 10^9}{200 \cdot 1,6 \cdot 10^{-13}} = \dfrac{3 \cdot 10^9}{3,2 \cdot 10^{-11}} \approx 9,4 \cdot 10^{19}$ phân hạch/s.
+
+Câu 34. [VD] Lò phản ứng có công suất nhiệt 3 000 MW; mỗi phân hạch ${}^{235}\text{U}$ tỏa 200 MeV. Tính khối lượng ${}^{235}\text{U}$ lò tiêu thụ trong một ngày (theo đơn vị kg, làm tròn đến một chữ số thập phân). Lấy 1 MeV $= 1,6 \cdot 10^{-13}$ J; $N_A = 6,02 \cdot 10^{23}$ mol$^{-1}$; khối lượng mol ${}^{235}\text{U}$ là 235 g/mol.
+Trả lời: [[3,2]]
+Lời giải
+Số phân hạch trong một ngày: $9,375 \cdot 10^{19} \cdot 86\,400 \approx 8,1 \cdot 10^{24}$; $m = \dfrac{8,1 \cdot 10^{24}}{6,02 \cdot 10^{23}} \cdot 235 \approx 3\,162$ g $\approx 3,2$ kg.
+
+Câu 35. [VD] Đồng vị ${}^{137}\text{Cs}$ trong chất thải hạt nhân có chu kì bán rã 30 năm. Tính thời gian để độ phóng xạ của nó giảm còn $\dfrac{1}{1\,000}$ so với ban đầu (theo đơn vị năm, làm tròn đến hàng đơn vị).
+Trả lời: [[299]]
+Lời giải
+$2^{-\frac{t}{T}} = 10^{-3}$ nên $t = T\log_2 1\,000 = 30 \cdot 9,966 \approx 299$ năm. Vì vậy chất thải cần bảo quản hàng trăm năm.
+
+Câu 36. [VD] Bệnh nhân cần được tiêm liều ${}^{18}\text{F}$ (chu kì bán rã 110 phút) có độ phóng xạ 370 MBq lúc tiêm. Liều được chuẩn bị trước lúc tiêm 220 phút. Tính độ phóng xạ của liều lúc chuẩn bị (theo đơn vị MBq).
+Trả lời: [[1480]]
+Lời giải
+220 phút $= 2T$ nên $H_0 = 370 \cdot 2^2 = 1\,480$ MBq.
+
+Câu 37. [VD] Một trung tâm chiếu xạ dùng nguồn ${}^{60}\text{Co}$ (chu kì bán rã 5,3 năm). Lúc nguồn mới, chiếu xạ một lô hàng cần 2 giờ. Tính thời gian chiếu xạ lô hàng như vậy sau 10,6 năm để nhận cùng liều (theo đơn vị giờ).
+Trả lời: [[8]]
+Lời giải
+$t = 2T$ nên độ phóng xạ còn $\dfrac{1}{4}$; muốn cùng liều phải chiếu lâu gấp 4 lần: $2 \cdot 4 = 8$ giờ.
+
+Câu 38. [VD] Nhà máy điện hạt nhân có công suất phát điện 1 400 MW, hiệu suất 36%. Năng suất tỏa nhiệt của than đá là 30 MJ/kg. Nếu dùng than đá với cùng hiệu suất để sản xuất cùng lượng điện trong 1 năm (365 ngày) thì cần đốt bao nhiêu triệu tấn than (làm tròn đến một chữ số thập phân)?
+Trả lời: [[4,1]]
+Lời giải
+Nhiệt lượng cần trong 1 năm: $Q = \dfrac{1,4 \cdot 10^9 \cdot 365 \cdot 86\,400}{0,36} \approx 1,226 \cdot 10^{17}$ J; $m = \dfrac{Q}{3 \cdot 10^7} \approx 4,1 \cdot 10^9$ kg $= 4,1$ triệu tấn.
+
 @bai 25 | Bài tập về vật lí hạt nhân
+Câu 1. [NB] Hạt nhân ${}^{60}_{27}\text{Co}$ có số neutron là
+A. 27.
+B. 60.
+*C. 33.
+D. 87.
+Lời giải
+$N = A - Z = 60 - 27 = 33$.
+
+Câu 2. [NB] Hai định luật bảo toàn thường dùng để viết phương trình phản ứng hạt nhân là bảo toàn
+*A. số khối và điện tích.
+B. số proton và số neutron.
+C. khối lượng nghỉ và điện tích.
+D. số neutron và khối lượng nghỉ.
+Lời giải
+Phản ứng hạt nhân tuân theo định luật bảo toàn số nucleon (số khối) và bảo toàn điện tích; từ đó lập hệ phương trình tìm hạt chưa biết.
+
+Câu 3. [NB] Công thức nào sau đây biểu diễn định luật phóng xạ?
+A. $N = N_0 \cdot 2^{\frac{t}{T}}$.
+*B. $N = N_0 \cdot 2^{-\frac{t}{T}}$.
+C. $N = N_0 \cdot \dfrac{t}{T}$.
+D. $N = N_0 e^{\lambda t}$.
+Lời giải
+Số hạt nhân chưa phân rã giảm theo hàm số mũ: $N = N_0 \cdot 2^{-\frac{t}{T}} = N_0e^{-\lambda t}$.
+
+Câu 4. [NB] Số hạt nhân trong $m$ gam một chất có khối lượng mol $M$ (g/mol) là
+A. $N = \dfrac{M}{m}N_A$.
+B. $N = mMN_A$.
+C. $N = \dfrac{mM}{N_A}$.
+*D. $N = \dfrac{m}{M}N_A$.
+Lời giải
+Số mol $n = \dfrac{m}{M}$, số hạt $N = nN_A = \dfrac{m}{M}N_A$ với $N_A = 6,02 \cdot 10^{23}$ mol$^{-1}$.
+
+Câu 5. [NB] Năng lượng liên kết của hạt nhân được tính bằng
+A. $E_{lk} = \Delta m \cdot c$.
+B. $E_{lk} = \dfrac{\Delta m}{c^2}$.
+*C. $E_{lk} = \Delta m \cdot c^2$.
+D. $E_{lk} = \dfrac{1}{2}\Delta m \cdot c^2$.
+Lời giải
+Năng lượng liên kết bằng tích độ hụt khối với $c^2$.
+
+Câu 6. [NB] Số hạt nhân đã bị phân rã sau thời gian $t$ của một mẫu có $N_0$ hạt nhân ban đầu là
+A. $N_0e^{-\lambda t}$.
+*B. $N_0(1 - e^{-\lambda t})$.
+C. $N_0e^{\lambda t}$.
+D. $N_0(1 + e^{-\lambda t})$.
+Lời giải
+$\Delta N = N_0 - N = N_0(1 - e^{-\lambda t})$; đây cũng là số hạt nhân con tạo thành. Phương án A là số hạt nhân còn lại.
+
+Câu 7. [NB] Khi giải bài toán phóng xạ, thời gian $t$ và chu kì bán rã $T$
+*A. chỉ cần dùng cùng một đơn vị.
+B. bắt buộc phải đổi ra giây.
+C. bắt buộc phải đổi ra năm.
+D. phải có đơn vị khác nhau.
+Lời giải
+Trong công thức $2^{-\frac{t}{T}}$ chỉ có tỉ số $\dfrac{t}{T}$ nên $t$ và $T$ chỉ cần cùng đơn vị (giây, ngày, năm…). Riêng khi tính $H = \lambda N$ theo Bq thì $\lambda$ phải tính theo $\text{s}^{-1}$.
+
+Câu 8. [NB] Lực làm thay đổi phương chuyển động của hạt alpha khi bay gần hạt nhân vàng là
+A. lực hạt nhân hút hạt alpha.
+B. lực hấp dẫn giữa hai hạt nhân.
+C. lực hút tĩnh điện của electron.
+*D. lực đẩy tĩnh điện giữa hai hạt nhân.
+Lời giải
+Hạt alpha và hạt nhân vàng đều mang điện dương nên đẩy nhau bằng lực Coulomb. Lực hạt nhân chỉ đáng kể ở khoảng cách cỡ $10^{-15}$ m.
+
+Câu 9. [TH] Đưa một mẫu chất phóng xạ lại gần đầu một tĩnh điện kế đã tích điện thì kim tĩnh điện kế nhanh chóng trở về vạch 0. Nguyên nhân chủ yếu là
+A. tia phóng xạ mang điện trái dấu với tĩnh điện kế.
+*B. tia phóng xạ ion hóa không khí, làm không khí dẫn điện.
+C. tia phóng xạ làm nóng tĩnh điện kế.
+D. tia phóng xạ tạo ra từ trường làm lệch kim.
+Lời giải
+Tia phóng xạ ion hóa không khí nên điện tích của tĩnh điện kế bị dẫn ra môi trường. Nếu chỉ do điện tích trái dấu thì kim sẽ về 0 rồi lệch tiếp theo chiều ngược lại.
+
+Câu 10. [TH] Một mẫu phóng xạ có chu kì bán rã $T$. Phát biểu nào sau đây đúng?
+A. Sau thời gian $2T$, mẫu đã phân rã hết.
+B. Sau thời gian $T$, khối lượng mẫu giảm còn một nửa vì một nửa số hạt đã biến mất.
+*C. Sau thời gian $2T$, số hạt nhân chưa phân rã còn $\dfrac{1}{4}$ số hạt ban đầu.
+D. Độ phóng xạ của mẫu không đổi trong suốt thời gian $T$.
+Lời giải
+$N = N_0 \cdot 2^{-2} = \dfrac{N_0}{4}$. B sai vì các hạt nhân phân rã biến thành hạt nhân con chứ không biến mất. D sai vì độ phóng xạ giảm liên tục.
+
+Câu 11. [TH] Vì sao người ta dùng ${}^{14}\text{C}$ để xác định tuổi của các cổ vật gốc hữu cơ (gỗ, xương) mà không dùng cho đá, kim loại?
+A. Vì đá và kim loại hoàn toàn không chứa đồng vị carbon nào.
+B. Vì ${}^{14}\text{C}$ có chu kì bán rã quá ngắn, chỉ vài phút.
+C. Vì ${}^{14}\text{C}$ chỉ phân rã khi nằm trong đá hoặc kim loại.
+*D. Vì sinh vật hấp thụ ${}^{14}\text{C}$ khi sống, ngừng hấp thụ khi chết.
+Lời giải
+Khi còn sống, sinh vật trao đổi carbon với môi trường nên tỉ lệ ${}^{14}\text{C}$ không đổi; khi chết, lượng ${}^{14}\text{C}$ giảm dần theo định luật phóng xạ. Đá, kim loại dùng các đồng vị khác (U, K…).
+
+Câu 12. [TH] Hai hạt nhân X và Y có cùng năng lượng liên kết; số khối của X lớn hơn số khối của Y. Kết luận nào đúng?
+A. X bền vững hơn Y.
+*B. Y bền vững hơn X.
+C. X và Y bền vững như nhau.
+D. Chưa đủ dữ kiện để so sánh.
+Lời giải
+$E_{lkr} = \dfrac{E_{lk}}{A}$: cùng $E_{lk}$, Y có $A$ nhỏ hơn nên $E_{lkr}$ lớn hơn, Y bền vững hơn.
+
+Câu 13. [TH] Đồ thị độ phóng xạ của một mẫu theo thời gian có dạng
+A. đường thẳng đi lên.
+B. đường thẳng đi xuống, cắt trục thời gian.
+C. đường nằm ngang song song trục thời gian.
+*D. đường cong giảm dần theo hàm số mũ.
+Lời giải
+$H = H_0 \cdot 2^{-\frac{t}{T}}$ nên đồ thị là đường cong giảm dần, tiến dần về 0 nhưng không cắt trục thời gian.
+
+Câu 14. [TH] Một bệnh viện phải bảo dưỡng máy xạ trị dùng nguồn ${}^{60}\text{Co}$ theo định kì vì
+A. nguồn ${}^{60}\text{Co}$ tự tăng độ phóng xạ theo thời gian.
+B. tia gamma của nguồn đổi thành tia alpha sau một thời gian.
+*C. độ phóng xạ của nguồn giảm dần, phải hiệu chỉnh chùm tia.
+D. chu kì bán rã của ${}^{60}\text{Co}$ thay đổi theo mùa.
+Lời giải
+Độ phóng xạ giảm theo định luật phóng xạ nên phải hiệu chỉnh chùm tia định kì và thay nguồn khi độ phóng xạ giảm quá nhiều.
+
+Câu 15. [TH] Năng lượng 931,5 MeV tương ứng với khối lượng
+*A. 1 amu.
+B. 1 kg.
+C. 1 g.
+D. khối lượng một electron.
+Lời giải
+Từ $E = mc^2$, 1 amu $= 931,5$ MeV/$c^2$.
+
+Câu 16. [VD] Cho phản ứng ${}^{1}_{0}\text{n} + {}^{235}_{92}\text{U} \to {}^{144}_{56}\text{Ba} + {}^{89}_{36}\text{Kr} + x\,{}^{1}_{0}\text{n}$. Giá trị của $x$ là
+A. 1.
+B. 2.
+*C. 3.
+D. 4.
+Lời giải
+Bảo toàn số khối: $1 + 235 = 144 + 89 + x$ nên $x = 3$. Kiểm tra điện tích: $92 = 56 + 36$.
+
+Câu 17. [VD] Hạt nhân ${}^{238}_{92}\text{U}$ sau một chuỗi phóng xạ $\alpha$ và $\beta^-$ biến thành hạt nhân bền ${}^{206}_{82}\text{Pb}$. Số lần phóng xạ $\alpha$ là
+A. 6.
+*B. 8.
+C. 10.
+D. 32.
+Lời giải
+Chỉ phóng xạ $\alpha$ làm giảm số khối (mỗi lần 4): $\dfrac{238 - 206}{4} = 8$. Phương án D là độ giảm số khối, quên chia cho 4.
+
+Câu 18. [VD] Một chất phóng xạ có chu kì bán rã 6 giờ. Sau 18 giờ, tỉ số giữa số hạt nhân đã phân rã và số hạt nhân còn lại là
+*A. 7.
+B. 8.
+C. $\dfrac{1}{8}$.
+D. 3.
+Lời giải
+$t = 3T$: còn lại $\dfrac{1}{8}$, đã phân rã $\dfrac{7}{8}$; tỉ số $\dfrac{7/8}{1/8} = 7$.
+
+Câu 19. [VD] Độ phóng xạ của một mẫu đo được ở các thời điểm: $t = 0$: 160 Bq; $t = 30$ s: 113 Bq; $t = 60$ s: 80 Bq; $t = 120$ s: 40 Bq. Chu kì bán rã của chất này xấp xỉ
+A. 30 s.
+B. 120 s.
+*C. 60 s.
+D. 90 s.
+Lời giải
+Từ 160 Bq xuống 80 Bq (một nửa) mất 60 s; từ 80 Bq xuống 40 Bq cũng mất 60 s. Vậy $T \approx 60$ s.
+
+Câu 20. [VD] Số nguyên tử có trong 3 mg ${}^{60}\text{Co}$ là (lấy $N_A = 6,02 \cdot 10^{23}$ mol$^{-1}$; khối lượng mol 60 g/mol)
+A. $1,08 \cdot 10^{26}$.
+B. $3,01 \cdot 10^{22}$.
+C. $1,81 \cdot 10^{21}$.
+*D. $3,01 \cdot 10^{19}$.
+Lời giải
+$N = \dfrac{3 \cdot 10^{-3}}{60} \cdot 6,02 \cdot 10^{23} = 3,01 \cdot 10^{19}$. Phương án B là kết quả khi coi 3 mg là 3 g.
+
+Câu 21. [VD] Iodine ${}^{131}\text{I}$ có chu kì bán rã 8 ngày. Sau bao lâu độ phóng xạ của một mẫu ${}^{131}\text{I}$ giảm còn $\dfrac{1}{32}$ độ phóng xạ ban đầu?
+A. 32 ngày.
+*B. 40 ngày.
+C. 256 ngày.
+D. 4 ngày.
+Lời giải
+$\dfrac{1}{32} = 2^{-5}$ nên $t = 5T = 40$ ngày. Phương án C là kết quả khi nhân 8 với 32.
+
+Câu 22. [VD] Cho $m_p = 1,00728$ amu; $m_n = 1,00866$ amu; khối lượng hạt nhân ${}^{12}_{6}\text{C}$ là 11,99670 amu; 1 amu $= 931,5$ MeV/$c^2$. Năng lượng liên kết riêng của hạt nhân ${}^{12}_{6}\text{C}$ xấp xỉ
+*A. 7,68 MeV/nucleon.
+B. 92,2 MeV/nucleon.
+C. 15,4 MeV/nucleon.
+D. 0,0989 MeV/nucleon.
+Lời giải
+$\Delta m = 6 \cdot 1,00728 + 6 \cdot 1,00866 - 11,9967 = 0,09894$ amu; $E_{lk} \approx 92,2$ MeV; $E_{lkr} = \dfrac{92,2}{12} \approx 7,68$ MeV/nucleon. B là năng lượng liên kết; C là kết quả khi chia cho $Z$.
+
+Câu 23. [TF] [TH] Các lưu ý khi giải bài tập vật lí hạt nhân:
+*A. Khi viết phương trình phản ứng, dùng bảo toàn số khối và bảo toàn điện tích để tìm hạt chưa biết.
+*B. Hạt electron trong phương trình phản ứng được kí hiệu ${}^{0}_{-1}e$.
+*C. Khi $t$ là bội số nguyên của $T$, dùng công thức $N = N_0 \cdot 2^{-\frac{t}{T}}$ tính nhanh hơn.
+D. Trong phản ứng hạt nhân, tổng khối lượng nghỉ của các hạt luôn được bảo toàn.
+Lời giải
+A, B, C đúng. D sai vì khối lượng nghỉ không bảo toàn; độ chênh lệch khối lượng ứng với năng lượng tỏa ra hoặc thu vào.
+
+Câu 24. [TF] [TH] Một mẫu chất phóng xạ nguyên chất có chu kì bán rã $T$:
+A. Độ phóng xạ của mẫu tỉ lệ nghịch với số hạt nhân còn lại.
+*B. Số hạt nhân con tạo thành bằng số hạt nhân mẹ đã phân rã.
+C. Mẫu có khối lượng lớn hơn thì chu kì bán rã dài hơn.
+D. Sau thời gian $T$, độ phóng xạ của mẫu bằng 0.
+Lời giải
+Chỉ B đúng. A sai vì $H = \lambda N$ tỉ lệ thuận với $N$. C sai vì $T$ không phụ thuộc khối lượng mẫu. D sai: sau $T$ độ phóng xạ còn một nửa.
+
+Câu 25. [TF] [TH] Về ứng dụng của vật lí hạt nhân:
+*A. Máy xạ trị dùng nguồn ${}^{60}\text{Co}$ phát tia gamma để tiêu diệt tế bào ung thư.
+B. Nguồn phóng xạ dùng trong y tế phát lượng tia nhỏ nên không cần biển cảnh báo.
+C. Thanh nhiên liệu đã qua sử dụng không còn tính phóng xạ.
+*D. Có thể xác định tuổi mẫu gỗ cổ nhờ đo độ phóng xạ ${}^{14}\text{C}$.
+Lời giải
+A, D đúng. B sai vì mọi nguồn phóng xạ đều phải được bảo quản trong thiết bị chuyên dụng và có biển cảnh báo. C sai vì nhiên liệu đã qua sử dụng chứa nhiều đồng vị phóng xạ có chu kì bán rã dài.
+
+Câu 26. [TF] [VD] Nguồn ${}^{60}\text{Co}$ trong máy xạ trị có chu kì bán rã 5,3 năm. Máy phải được bảo dưỡng trước khi độ phóng xạ giảm đi 5% và thay nguồn khi độ phóng xạ giảm đi 50%.
+*A. Thời gian giữa hai lần thay nguồn là 5,3 năm.
+*B. Thời gian để độ phóng xạ giảm đi 5% xấp xỉ 4,7 tháng.
+C. Thời gian để độ phóng xạ giảm đi 5% đúng bằng 5% của 5,3 năm.
+*D. Sau 4 tháng, độ phóng xạ của nguồn giảm chưa tới 5%.
+Lời giải
+A, B, D đúng: $t = T\log_2\dfrac{1}{0,95} \approx 0,392$ năm $\approx 4,7$ tháng; sau 4 tháng ($\dfrac{1}{3}$ năm) độ phóng xạ giảm $1 - 2^{-\frac{1/3}{5,3}} \approx 4,3\%$. C sai vì độ phóng xạ không giảm tuyến tính theo thời gian (5% của 5,3 năm là 3,2 tháng).
+
+Câu 27. [TF] [VD] Cho phản ứng ${}^{1}_{0}\text{n} + {}^{235}_{92}\text{U} \to {}^{140}_{58}\text{Ce} + {}^{93}_{41}\text{Nb} + x\,{}^{1}_{0}\text{n} + y\,{}^{0}_{-1}e$.
+*A. $x = 3$.
+B. $y = 6$.
+*C. $y = 7$.
+D. Phản ứng này là phản ứng tổng hợp hạt nhân.
+Lời giải
+A, C đúng. Bảo toàn số khối: $236 = 140 + 93 + x$ nên $x = 3$; bảo toàn điện tích: $92 = 58 + 41 - y$ nên $y = 7$. D sai: đây là phản ứng phân hạch.
+
+Câu 28. [TF] [VD] Một mẫu gỗ cổ cho số đếm phóng xạ ${}^{14}\text{C}$ là 12 phân rã/phút trên mỗi gam carbon, trong khi gỗ tươi cùng loại cho 15 phân rã/phút trên mỗi gam carbon. Chu kì bán rã của ${}^{14}\text{C}$ là 5 730 năm.
+*A. Số hạt nhân ${}^{14}\text{C}$ trong mỗi gam carbon của mẫu cổ bằng 80% của gỗ tươi.
+B. Tuổi của mẫu gỗ lớn hơn 5 730 năm.
+*C. Tuổi của mẫu gỗ xấp xỉ 1 845 năm.
+D. Nếu mẫu gỗ có khối lượng lớn gấp đôi thì tuổi tính được gấp đôi.
+Lời giải
+A, C đúng: $\dfrac{H}{H_0} = \dfrac{12}{15} = 0,8$; $t = 5\,730 \cdot \log_2\dfrac{15}{12} \approx 1\,845$ năm. B sai vì độ phóng xạ chưa giảm tới một nửa. D sai vì số đếm đã tính trên mỗi gam carbon, tuổi không phụ thuộc khối lượng mẫu.
+
+Câu 29. [TF] [VD] Radium ${}^{226}_{88}\text{Ra}$ có chu kì bán rã 1 600 năm, phóng xạ $\alpha$. Lấy 1 năm $= 365$ ngày; $N_A = 6,02 \cdot 10^{23}$ mol$^{-1}$; 1 Ci $= 3,7 \cdot 10^{10}$ Bq.
+*A. Hạt nhân con là ${}^{222}_{86}\text{Rn}$.
+*B. Hằng số phóng xạ của radium xấp xỉ $1,37 \cdot 10^{-11}$ s$^{-1}$.
+*C. Độ phóng xạ của 1 g radium xấp xỉ $3,66 \cdot 10^{10}$ Bq.
+*D. Độ phóng xạ của 1 g radium xấp xỉ 1 Ci.
+Lời giải
+Cả bốn ý đúng: ${}^{226}_{88}\text{Ra} \to {}^{222}_{86}\text{Rn} + {}^{4}_{2}\text{He}$; $\lambda = \dfrac{0,693}{1\,600 \cdot 365 \cdot 86\,400} \approx 1,37 \cdot 10^{-11}$ s$^{-1}$; $N = \dfrac{1}{226} \cdot 6,02 \cdot 10^{23} \approx 2,66 \cdot 10^{21}$; $H = \lambda N \approx 3,66 \cdot 10^{10}$ Bq $\approx 1$ Ci.
+
+Câu 30. [TH] Năm 1932, Chadwick phát hiện neutron nhờ phản ứng ${}^{4}_{2}\text{He} + {}^{9}_{4}\text{Be} \to {}^{A}_{Z}\text{X} + {}^{1}_{0}\text{n}$. Tìm số proton $Z$ của hạt nhân X.
+Trả lời: [[6]]
+Lời giải
+Bảo toàn điện tích: $2 + 4 = Z + 0$ nên $Z = 6$ (X là ${}^{12}_{6}\text{C}$).
+
+Câu 31. [TH] Một hạt nhân có độ hụt khối 0,1 amu. Tính năng lượng liên kết của hạt nhân này (theo đơn vị MeV, làm tròn đến một chữ số thập phân). Lấy 1 amu $= 931,5$ MeV/$c^2$.
+Trả lời: [[93,2]]
+Lời giải
+$E_{lk} = 0,1 \cdot 931,5 = 93,15 \approx 93,2$ MeV.
+
+Câu 32. [TH] Một mẫu chất phóng xạ nguyên chất có $4 \cdot 10^{20}$ hạt nhân. Tính số hạt nhân con được tạo thành sau thời gian bằng hai chu kì bán rã (theo đơn vị $10^{20}$ hạt).
+Trả lời: [[3]]
+Lời giải
+Số hạt nhân còn lại $\dfrac{4 \cdot 10^{20}}{4} = 10^{20}$; số hạt nhân con bằng số hạt nhân đã phân rã: $4 \cdot 10^{20} - 10^{20} = 3 \cdot 10^{20}$.
+
+Câu 33. [VD] Iodine ${}^{131}\text{I}$ có chu kì bán rã 8 ngày. Tính thời gian để độ phóng xạ của một mẫu ${}^{131}\text{I}$ giảm từ 1 000 Bq xuống 100 Bq (theo đơn vị ngày, làm tròn đến một chữ số thập phân).
+Trả lời: [[26,6]]
+Lời giải
+$2^{-\frac{t}{8}} = 0,1$ nên $t = 8\log_2 10 \approx 26,6$ ngày.
+
+Câu 34. [VD] Hai bệnh nhân cùng cân nặng cần tiêm cùng độ phóng xạ ${}^{18}\text{F}$ (chu kì bán rã 110 phút) lấy từ cùng một lọ dược chất. Người thứ hai được tiêm sau người thứ nhất 55 phút. Lượng dược chất tiêm cho người thứ hai nhiều hơn người thứ nhất bao nhiêu phần trăm (làm tròn đến một chữ số thập phân)?
+Trả lời: [[41,4]]
+Lời giải
+Sau 55 phút, độ phóng xạ mỗi mL giảm còn $2^{-\frac{55}{110}} = \dfrac{1}{\sqrt{2}}$; lượng cần tiêm gấp $\sqrt{2} \approx 1,414$ lần, tức nhiều hơn 41,4%.
+
+Câu 35. [VD] Polonium ${}^{210}\text{Po}$ có chu kì bán rã 138 ngày. Tính độ phóng xạ của 1 mg ${}^{210}\text{Po}$ (theo đơn vị $10^{11}$ Bq, làm tròn đến hai chữ số thập phân). Lấy $N_A = 6,02 \cdot 10^{23}$ mol$^{-1}$; khối lượng mol 210 g/mol.
+Trả lời: [[1,67]]
+Lời giải
+$\lambda = \dfrac{\ln 2}{138 \cdot 86\,400} \approx 5,81 \cdot 10^{-8}$ s$^{-1}$; $N = \dfrac{10^{-3}}{210} \cdot 6,02 \cdot 10^{23} \approx 2,87 \cdot 10^{18}$; $H = \lambda N \approx 1,67 \cdot 10^{11}$ Bq.
+
+Câu 36. [VD] Một mẫu đá chứa ${}^{238}\text{U}$ (chu kì bán rã 4,5 tỉ năm) và chì ${}^{206}\text{Pb}$ là sản phẩm cuối cùng của chuỗi phân rã. Lúc hình thành, mẫu đá không có chì. Hiện nay số nguyên tử ${}^{206}\text{Pb}$ bằng số nguyên tử ${}^{238}\text{U}$. Tính tuổi mẫu đá (theo đơn vị tỉ năm).
+Trả lời: [[4,5]]
+Lời giải
+Số hạt U đã phân rã bằng số hạt Pb tạo thành, bằng số hạt U còn lại, nên U còn một nửa: $t = T = 4,5$ tỉ năm.
+
+Câu 37. [VD] Nhà máy điện hạt nhân có công suất phát điện 1 000 MW, hiệu suất 33%, dùng nhiên liệu ${}^{235}\text{U}$; mỗi phân hạch tỏa 200 MeV. Tính khối lượng ${}^{235}\text{U}$ nhà máy tiêu thụ trong 1 năm (365 ngày), theo đơn vị kg, làm tròn đến hàng đơn vị. Lấy 1 MeV $= 1,6 \cdot 10^{-13}$ J; $N_A = 6,02 \cdot 10^{23}$ mol$^{-1}$.
+Trả lời: [[1166]]
+Lời giải
+$P_{nhiệt} = \dfrac{10^9}{0,33} \approx 3,03 \cdot 10^9$ W; năng lượng một năm $E \approx 9,556 \cdot 10^{16}$ J; số phân hạch $\dfrac{E}{3,2 \cdot 10^{-11}} \approx 2,986 \cdot 10^{27}$; $m = \dfrac{2,986 \cdot 10^{27}}{6,02 \cdot 10^{23}} \cdot 235 \approx 1,166 \cdot 10^6$ g $\approx 1\,166$ kg.
+
+Câu 38. [VD] Hạt nhân ${}^{232}_{90}\text{Th}$ sau một chuỗi phóng xạ $\alpha$ và $\beta^-$ biến thành hạt nhân bền ${}^{208}_{82}\text{Pb}$. Tính số lần phóng xạ $\beta^-$.
+Trả lời: [[4]]
+Lời giải
+Số lần phóng xạ $\alpha$: $\dfrac{232 - 208}{4} = 6$, làm $Z$ giảm 12. Mỗi lần $\beta^-$ làm $Z$ tăng 1: $90 - 12 + n_\beta = 82$ nên $n_\beta = 4$.
+
