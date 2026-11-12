@@ -2238,13 +2238,2067 @@ Lời giải
 Khí cầu chuyển động thẳng đều nên hợp lực bằng 0: $F_{đẩy} = P + F_{cản}$, suy ra $F_{cản} = 6200 - 600 \cdot 10 = 200$ N.
 
 @bai 15 | Định luật 2 Newton
+Câu 1. [NB] Biểu thức của định luật 2 Newton là
+A. $\vec{F} = \dfrac{\vec{a}}{m}$.
+B. $m = \vec{F} \cdot \vec{a}$.
+C. $\vec{a} = m\vec{F}$.
+*D. $\vec{a} = \dfrac{\vec{F}}{m}$.
+Lời giải
+Gia tốc của vật tỉ lệ thuận với hợp lực tác dụng lên vật và tỉ lệ nghịch với khối lượng của vật: $\vec{a} = \dfrac{\vec{F}}{m}$.
+
+Câu 2. [NB] Gia tốc của một vật luôn có hướng
+A. cùng hướng với vận tốc của vật.
+*B. cùng hướng với hợp lực tác dụng lên vật.
+C. vuông góc với hợp lực tác dụng lên vật.
+D. ngược hướng với vận tốc của vật.
+Lời giải
+Theo định luật 2 Newton, gia tốc cùng hướng với hợp lực. Hướng của gia tốc có thể khác hướng của vận tốc (ví dụ khi vật chuyển động chậm dần).
+
+Câu 3. [NB] Một newton (1 N) là độ lớn của lực truyền cho vật có khối lượng 1 kg
+A. gia tốc 9,8 m/s².
+B. vận tốc 1 m/s.
+*C. gia tốc 1 m/s².
+D. quãng đường 1 m sau thời gian 1 s.
+Lời giải
+Theo định nghĩa: $1\ \text{N} = 1\ \text{kg} \cdot 1\ \text{m/s}^2$.
+
+Câu 4. [NB] Cùng chịu tác dụng của một lực, vật có khối lượng lớn hơn sẽ có gia tốc
+A. lớn hơn.
+B. bằng nhau.
+C. bằng 0.
+*D. nhỏ hơn.
+Lời giải
+Gia tốc tỉ lệ nghịch với khối lượng: $a = \dfrac{F}{m}$.
+
+Câu 5. [NB] Trong định luật 2 Newton, khối lượng là đại lượng đặc trưng cho
+A. tốc độ chuyển động của vật.
+B. độ lớn của lực tác dụng lên vật.
+*C. mức quán tính của vật.
+D. thể tích của vật.
+Lời giải
+Khối lượng càng lớn thì vật càng khó thay đổi vận tốc, tức là mức quán tính càng lớn.
+
+Câu 6. [NB] Trong biểu thức $\vec{a} = \dfrac{\vec{F}}{m}$, đại lượng $\vec{F}$ là
+A. lực lớn nhất trong các lực tác dụng lên vật.
+*B. hợp lực của tất cả các lực tác dụng lên vật.
+C. lực do vật tác dụng lên các vật xung quanh.
+D. lực ma sát tác dụng lên vật.
+Lời giải
+$\vec{F}$ là hợp lực của tất cả các lực tác dụng lên vật.
+
+Câu 7. [NB] Khi hợp lực tác dụng lên vật bằng 0 thì gia tốc của vật
+A. bằng gia tốc rơi tự do $g$.
+B. tăng dần theo thời gian.
+C. ngược hướng với vận tốc.
+*D. bằng 0.
+Lời giải
+$a = \dfrac{F}{m}$, với $F = 0$ thì $a = 0$: vật đứng yên hoặc chuyển động thẳng đều.
+
+Câu 8. [NB] Vật chịu tác dụng của hợp lực không đổi và khác 0 thì gia tốc của vật
+*A. không đổi.
+B. tăng dần theo thời gian.
+C. giảm dần theo thời gian.
+D. bằng 0.
+Lời giải
+Gia tốc $a = \dfrac{F}{m}$, với $F$ và $m$ không đổi thì $a$ không đổi.
+
+Câu 9. [TH] Giữ khối lượng của vật không đổi. Nếu độ lớn hợp lực tác dụng lên vật tăng gấp đôi thì gia tốc của vật
+A. giảm đi một nửa.
+*B. tăng gấp đôi.
+C. không đổi.
+D. tăng gấp bốn.
+Lời giải
+Gia tốc tỉ lệ thuận với hợp lực khi khối lượng không đổi.
+
+Câu 10. [TH] Giữ lực tác dụng không đổi. Nếu khối lượng của vật tăng gấp ba thì độ lớn gia tốc của vật
+A. tăng lên 3 lần.
+*B. giảm đi 3 lần.
+C. giảm đi 9 lần.
+D. không đổi.
+Lời giải
+Gia tốc tỉ lệ nghịch với khối lượng: khối lượng tăng 3 lần thì gia tốc giảm 3 lần.
+
+Câu 11. [TH] Vật đang chuyển động thẳng, hợp lực tác dụng lên vật có độ lớn không đổi và cùng hướng với vận tốc. Vật sẽ
+A. chuyển động chậm dần đều.
+B. chuyển động thẳng đều.
+*C. chuyển động nhanh dần đều.
+D. dừng lại sau một khoảng thời gian.
+Lời giải
+Gia tốc không đổi và cùng hướng với vận tốc nên tốc độ tăng đều theo thời gian.
+
+Câu 12. [TH] Vật đang chuyển động thẳng đều dưới tác dụng của ba lực cân bằng $\vec{F}_1$, $\vec{F}_2$, $\vec{F}_3$. Nếu đột ngột bỏ lực $\vec{F}_1$ thì sau đó gia tốc của vật có hướng
+*A. ngược hướng với $\vec{F}_1$.
+B. cùng hướng với $\vec{F}_1$.
+C. cùng hướng với vận tốc của vật.
+D. không xác định vì vật vẫn chuyển động thẳng đều.
+Lời giải
+Hợp lực của $\vec{F}_2$ và $\vec{F}_3$ bằng $-\vec{F}_1$ nên gia tốc ngược hướng với $\vec{F}_1$.
+
+Câu 13. [TH] Hai vật có khối lượng $m_1 = 2m_2$ chịu tác dụng của hai lực có cùng độ lớn. Tỉ số $\dfrac{a_1}{a_2}$ bằng
+A. 2.
+B. 4.
+*C. $\dfrac{1}{2}$.
+D. $\dfrac{1}{4}$.
+Lời giải
+$a = \dfrac{F}{m}$ nên $\dfrac{a_1}{a_2} = \dfrac{m_2}{m_1} = \dfrac{1}{2}$.
+
+Câu 14. [TH] Vật có khối lượng $m$ không đổi chịu tác dụng của hợp lực có độ lớn $F$. Đồ thị biểu diễn gia tốc $a$ theo $F$ là
+*A. đường thẳng đi qua gốc tọa độ, hệ số góc bằng $\dfrac{1}{m}$.
+B. đường thẳng đi qua gốc tọa độ, hệ số góc bằng $m$.
+C. đường parabol đi qua gốc tọa độ.
+D. đường thẳng song song với trục $F$.
+Lời giải
+$a = \dfrac{1}{m}F$ là hàm bậc nhất không có số hạng tự do nên đồ thị là đường thẳng qua gốc tọa độ, hệ số góc $\dfrac{1}{m}$.
+
+Câu 15. [TH] Khi bỏ qua lực cản của không khí, mọi vật rơi tự do tại cùng một nơi đều có gia tốc $g$ như nhau vì
+*A. trọng lực tỉ lệ thuận với khối lượng nên $m$ bị triệt tiêu trong $a = \dfrac{P}{m}$.
+B. mọi vật đều chịu tác dụng của trọng lực có độ lớn bằng nhau tại nơi đó.
+C. mọi vật khi rơi đều có cùng khối lượng và cùng thể tích.
+D. Trái Đất truyền cho mọi vật rơi cùng một vận tốc ban đầu.
+Lời giải
+$a = \dfrac{P}{m} = \dfrac{mg}{m} = g$, không phụ thuộc khối lượng.
+
+Câu 16. [TH] Phát biểu nào sau đây SAI?
+A. Lực là nguyên nhân gây ra gia tốc cho vật khi lực đó là hợp lực khác 0.
+*B. Vật chuyển động theo hướng nào thì hợp lực phải hướng theo hướng đó.
+C. Cùng một lực, vật có khối lượng nhỏ hơn thu được gia tốc lớn hơn.
+D. Gia tốc của vật cùng hướng với hợp lực tác dụng lên vật đó.
+Lời giải
+Hợp lực quyết định hướng của gia tốc chứ không quyết định hướng của vận tốc (vật ném lên vẫn đi lên dù hợp lực hướng xuống).
+
+Câu 17. [VD] Vật khối lượng 2 kg chịu tác dụng đồng thời của hai lực cùng phương, ngược chiều, có độ lớn 10 N và 4 N. Gia tốc của vật có độ lớn là
+A. 7 m/s².
+B. 5 m/s².
+C. 2 m/s².
+*D. 3 m/s².
+Lời giải
+Hợp lực $F = 10 - 4 = 6$ N nên $a = \dfrac{6}{2} = 3$ m/s².
+
+Câu 18. [VD] Xe có khối lượng 1000 kg bắt đầu chuyển động từ trạng thái nghỉ trên đường nằm ngang. Lực kéo của động cơ là 2000 N, tổng lực cản là 500 N. Tốc độ của xe sau 4 s là
+*A. 6 m/s.
+B. 8 m/s.
+C. 10 m/s.
+D. 1,5 m/s.
+Lời giải
+Hợp lực $F = 2000 - 500 = 1500$ N nên $a = 1,5$ m/s². Sau 4 s: $v = at = 1,5 \cdot 4 = 6$ m/s.
+
+Câu 19. [VD] Dưới tác dụng của cùng một lực $F$, vật khối lượng $m_1$ có gia tốc 6 m/s², vật khối lượng $m_2$ có gia tốc 3 m/s². Nếu gắn chặt hai vật thành một vật rồi cho chịu tác dụng của lực $F$ đó thì gia tốc của vật mới là
+A. 4,5 m/s².
+*B. 2 m/s².
+C. 9 m/s².
+D. 3 m/s².
+Lời giải
+$m_1 = \dfrac{F}{6}$, $m_2 = \dfrac{F}{3}$ nên $a = \dfrac{F}{m_1 + m_2} = \dfrac{F}{F/6 + F/3} = \dfrac{1}{1/6 + 1/3} = 2$ m/s².
+
+Câu 20. [VD] Vật khối lượng 3 kg chuyển động thẳng, tốc độ tăng đều từ 2 m/s lên 8 m/s trong 3 s. Độ lớn hợp lực tác dụng lên vật là
+A. 8 N.
+B. 18 N.
+*C. 6 N.
+D. 2 N.
+Lời giải
+$a = \dfrac{8 - 2}{3} = 2$ m/s² nên $F = ma = 3 \cdot 2 = 6$ N.
+
+Câu 21. [VD] Vật khối lượng 4 kg chịu tác dụng đồng thời của hai lực vuông góc với nhau có độ lớn 6 N và 8 N. Độ lớn gia tốc của vật là
+*A. 2,5 m/s².
+B. 3,5 m/s².
+C. 0,5 m/s².
+D. 5 m/s².
+Lời giải
+Hợp lực $F = \sqrt{6^2 + 8^2} = 10$ N nên $a = \dfrac{10}{4} = 2,5$ m/s².
+
+Câu 22. [VD] Vật khối lượng 5 kg đang nằm yên trên mặt phẳng ngang nhẵn, bắt đầu chịu lực kéo nằm ngang có độ lớn 20 N. Quãng đường vật đi được sau 3 s là
+A. 12 m.
+B. 36 m.
+C. 6 m.
+*D. 18 m.
+Lời giải
+$a = \dfrac{20}{5} = 4$ m/s². $s = \dfrac{1}{2}at^2 = \dfrac{1}{2} \cdot 4 \cdot 3^2 = 18$ m.
+
+Câu 23. [TF] [TH] Về định luật 2 Newton:
+*A. Khi khối lượng không đổi, gia tốc của vật tỉ lệ thuận với độ lớn hợp lực tác dụng lên vật.
+*B. Khi hợp lực không đổi, gia tốc của vật tỉ lệ nghịch với khối lượng của vật.
+*C. Khối lượng của vật càng lớn thì vật càng khó thay đổi vận tốc.
+D. Vật chuyển động nhanh dần thì hợp lực tác dụng lên vật phải ngược hướng với vận tốc.
+Lời giải
+Vật chuyển động nhanh dần thì gia tốc cùng hướng với vận tốc nên hợp lực cũng cùng hướng với vận tốc.
+
+Câu 24. [TF] [TH] Vật khối lượng $m$ chịu tác dụng của hợp lực $\vec{F} \neq \vec{0}$:
+*A. Vật có gia tốc cùng hướng với $\vec{F}$.
+B. Vận tốc của vật chắc chắn cùng hướng với $\vec{F}$.
+C. Vật chắc chắn chuyển động thẳng đều.
+*D. Nếu khối lượng của vật giảm đi một nửa (giữ nguyên $\vec{F}$) thì độ lớn gia tốc tăng gấp đôi.
+Lời giải
+Hợp lực quyết định gia tốc chứ không quyết định hướng vận tốc. Vì $\vec{F} \neq \vec{0}$ nên vật có gia tốc, không thể chuyển động thẳng đều.
+
+Câu 25. [TF] [TH] Về đơn vị, khối lượng và lực:
+*A. $1\ \text{N} = 1\ \text{kg} \cdot \text{m/s}^2$.
+B. Khối lượng của vật thay đổi theo vị trí đặt vật trên Trái Đất.
+C. Khối lượng và trọng lượng của một vật là cùng một đại lượng.
+D. Lực tác dụng lên vật càng lớn thì khối lượng của vật càng lớn.
+Lời giải
+Khối lượng là số đo mức quán tính, không đổi theo vị trí và không phụ thuộc lực tác dụng. Trọng lượng là độ lớn của trọng lực, có thể thay đổi theo nơi đặt vật.
+
+Câu 26. [TF] [VD] Vật khối lượng 2 kg nằm yên trên mặt phẳng ngang nhẵn, bắt đầu chịu lực kéo nằm ngang 10 N:
+*A. Gia tốc của vật là 5 m/s².
+*B. Sau 2 s vật có tốc độ 10 m/s.
+*C. Trong 2 s đầu vật đi được quãng đường 10 m.
+*D. Nếu khối lượng của vật tăng gấp đôi (cùng lực kéo) thì gia tốc là 2,5 m/s².
+Lời giải
+$a = \dfrac{10}{2} = 5$ m/s²; $v = at = 10$ m/s; $s = \dfrac{1}{2} \cdot 5 \cdot 2^2 = 10$ m; khối lượng 4 kg thì $a = \dfrac{10}{4} = 2,5$ m/s².
+
+Câu 27. [TF] [VD] Ô tô khối lượng 1,5 tấn đang chạy với tốc độ 15 m/s thì hãm phanh, dừng lại sau 5 s. Coi lực hãm không đổi:
+*A. Độ lớn gia tốc của ô tô là 3 m/s².
+B. Lực hãm có độ lớn 450 N.
+C. Quãng đường ô tô đi được từ lúc hãm phanh đến lúc dừng là 75 m.
+*D. Lực hãm có độ lớn 4500 N.
+Lời giải
+$a = \dfrac{15}{5} = 3$ m/s²; $F = 1500 \cdot 3 = 4500$ N; $s = \dfrac{15 \cdot 5}{2} = 37,5$ m.
+
+Câu 28. [TF] [VD] Vật khối lượng 4 kg đang nằm yên trên sàn ngang thì bắt đầu chịu lực kéo ngang 20 N; lực ma sát trượt ngược hướng chuyển động có độ lớn 8 N:
+*A. Hợp lực tác dụng lên vật theo phương ngang có độ lớn 12 N.
+*B. Gia tốc của vật là 3 m/s².
+*C. Sau 2 s vật có tốc độ 6 m/s.
+D. Nếu bỏ qua ma sát thì gia tốc của vật vẫn là 3 m/s².
+Lời giải
+$F = 20 - 8 = 12$ N; $a = \dfrac{12}{4} = 3$ m/s²; $v = 3 \cdot 2 = 6$ m/s. Nếu không có ma sát thì $a = \dfrac{20}{4} = 5$ m/s².
+
+Câu 29. [TF] [VD] Vật khối lượng 3 kg đang chuyển động với tốc độ 2 m/s trên mặt phẳng ngang nhẵn thì chịu lực kéo ngang 12 N cùng hướng với vận tốc:
+*A. Gia tốc của vật là 4 m/s².
+B. Sau 2 s tốc độ của vật là 8 m/s.
+C. Vật chuyển động chậm dần.
+D. Quãng đường vật đi được trong 2 s đầu là 10 m.
+Lời giải
+$a = \dfrac{12}{3} = 4$ m/s² cùng hướng với vận tốc nên vật nhanh dần. $v = 2 + 4 \cdot 2 = 10$ m/s; $s = 2 \cdot 2 + \dfrac{1}{2} \cdot 4 \cdot 2^2 = 12$ m.
+
+Câu 30. [TH] Vật khối lượng 4 kg chịu tác dụng của hợp lực 10 N. Tính độ lớn gia tốc của vật (theo đơn vị m/s²).
+Trả lời: [[2,5]]
+Lời giải
+$a = \dfrac{F}{m} = \dfrac{10}{4} = 2,5$ m/s².
+
+Câu 31. [TH] Lực 15 N truyền cho một vật gia tốc 3 m/s². Tính khối lượng của vật (theo đơn vị kg).
+Trả lời: [[5]]
+Lời giải
+$m = \dfrac{F}{a} = \dfrac{15}{3} = 5$ kg.
+
+Câu 32. [TH] Vật có khối lượng 0,5 kg chuyển động với gia tốc 8 m/s². Tính độ lớn hợp lực tác dụng lên vật (theo đơn vị N).
+Trả lời: [[4]]
+Lời giải
+$F = ma = 0,5 \cdot 8 = 4$ N.
+
+Câu 33. [VD] Xe khối lượng 600 kg bắt đầu chuyển động từ trạng thái nghỉ, sau 10 s đạt tốc độ 15 m/s. Coi hợp lực tác dụng lên xe không đổi. Tính độ lớn hợp lực (theo đơn vị N).
+Trả lời: [[900]]
+Lời giải
+$a = \dfrac{15}{10} = 1,5$ m/s² nên $F = ma = 600 \cdot 1,5 = 900$ N.
+
+Câu 34. [VD] Vật khối lượng 5 kg đang nằm yên trên mặt phẳng ngang thì bắt đầu chịu lực kéo ngang 20 N; lực cản ngược hướng chuyển động có độ lớn 10 N. Tính tốc độ của vật sau khi đi được quãng đường 9 m (theo đơn vị m/s).
+Trả lời: [[6]]
+Lời giải
+Hợp lực $F = 20 - 10 = 10$ N nên $a = \dfrac{10}{5} = 2$ m/s². $v^2 = 2as = 2 \cdot 2 \cdot 9 = 36$ nên $v = 6$ m/s.
+
+Câu 35. [VD] Lực $F$ truyền cho vật khối lượng $m$ gia tốc 2 m/s², truyền cho vật khối lượng $(m + 3)$ kg gia tốc 1,25 m/s². Tính $m$ (theo đơn vị kg).
+Trả lời: [[5]]
+Lời giải
+$F = 2m = 1,25(m + 3)$, suy ra $0,75m = 3,75$ và $m = 5$ kg.
+
+Câu 36. [VD] Hai lực vuông góc với nhau có độ lớn 9 N và 12 N cùng tác dụng lên vật khối lượng 3 kg. Tính độ lớn gia tốc của vật (theo đơn vị m/s²).
+Trả lời: [[5]]
+Lời giải
+$F = \sqrt{9^2 + 12^2} = 15$ N nên $a = \dfrac{15}{3} = 5$ m/s².
+
+Câu 37. [VD] Vật khối lượng 1,2 kg đang chuyển động thẳng với tốc độ 8 m/s trên mặt phẳng ngang thì chỉ còn chịu lực cản ngược hướng chuyển động có độ lớn 3 N. Tính thời gian từ lúc đó đến khi vật dừng lại (theo đơn vị s, làm tròn đến một chữ số thập phân).
+Trả lời: [[3,2]]
+Lời giải
+$a = \dfrac{3}{1,2} = 2,5$ m/s² (chậm dần). $t = \dfrac{v}{a} = \dfrac{8}{2,5} = 3,2$ s.
+
+Câu 38. [VD] Ô tô khối lượng 2 tấn đang chạy với tốc độ 54 km/h thì hãm phanh, đi thêm 25 m thì dừng. Coi lực hãm không đổi. Tính độ lớn lực hãm (theo đơn vị N).
+Trả lời: [[9000]]
+Lời giải
+$v = 15$ m/s. $a = \dfrac{v^2}{2s} = \dfrac{15^2}{2 \cdot 25} = 4,5$ m/s². $F = ma = 2000 \cdot 4,5 = 9000$ N.
+
 @bai 16 | Định luật 3 Newton
+Câu 1. [NB] Khi vật A tác dụng lên vật B một lực thì vật B cũng tác dụng lại vật A một lực. Theo định luật 3 Newton, hai lực này
+A. cùng giá, cùng chiều, độ lớn khác nhau.
+*B. cùng giá, cùng độ lớn, ngược chiều.
+C. khác giá, cùng độ lớn, ngược chiều.
+D. cùng giá, cùng độ lớn, cùng chiều.
+Lời giải
+Hai lực trực đối: cùng giá, cùng độ lớn và ngược chiều.
+
+Câu 2. [NB] Biểu thức nào sau đây diễn tả đúng định luật 3 Newton?
+A. $\vec{F}_{AB} = \vec{F}_{BA}$.
+*B. $\vec{F}_{AB} = -\vec{F}_{BA}$.
+C. $F_{AB} = 2F_{BA}$.
+D. $\vec{F}_{AB} + \vec{F}_{BA} = m\vec{a}$.
+Lời giải
+Lực do A tác dụng lên B và lực do B tác dụng lên A là hai vectơ đối nhau: $\vec{F}_{AB} = -\vec{F}_{BA}$.
+
+Câu 3. [NB] Lực và phản lực trong định luật 3 Newton có đặc điểm nào sau đây?
+*A. Xuất hiện và mất đi đồng thời.
+B. Lực xuất hiện trước, phản lực xuất hiện sau.
+C. Có độ lớn khác nhau nếu hai vật có khối lượng khác nhau.
+D. Đặt vào cùng một vật.
+Lời giải
+Lực và phản lực xuất hiện và mất đi đồng thời, đặt vào hai vật khác nhau và có độ lớn bằng nhau.
+
+Câu 4. [NB] Lực và phản lực không phải là hai lực cân bằng vì chúng
+A. có độ lớn khác nhau.
+*B. đặt vào hai vật khác nhau.
+C. cùng chiều với nhau.
+D. không cùng giá với nhau.
+Lời giải
+Hai lực cân bằng phải đặt vào cùng một vật, còn lực và phản lực đặt vào hai vật khác nhau.
+
+Câu 5. [NB] Người đẩy vào bức tường bằng một lực. Theo định luật 3 Newton, bức tường tác dụng lên người một lực
+A. có độ lớn nhỏ hơn lực của người đẩy tường.
+B. có độ lớn lớn hơn lực của người đẩy tường.
+*C. có độ lớn bằng lực của người đẩy tường và ngược chiều.
+D. bằng 0 vì bức tường đứng yên.
+Lời giải
+Tường tác dụng lên người phản lực cùng độ lớn, ngược chiều với lực người đẩy tường.
+
+Câu 6. [NB] Lực và phản lực luôn
+A. khác loại (khác bản chất).
+B. có điểm đặt trùng nhau.
+*C. cùng loại (cùng bản chất).
+D. tác dụng lên cùng một vật.
+Lời giải
+Lực và phản lực luôn cùng loại: nếu lực là lực tiếp xúc thì phản lực cũng là lực tiếp xúc, nếu lực là lực hấp dẫn thì phản lực cũng là lực hấp dẫn.
+
+Câu 7. [NB] Hiện tượng nào sau đây là ví dụ của định luật 3 Newton?
+A. Hành khách bị chúi về phía trước khi xe phanh gấp.
+B. Quả táo rơi từ cành xuống đất.
+C. Xe chạy chậm dần khi tắt máy.
+*D. Tên lửa phụt khí mạnh ra phía sau thì tiến về phía trước.
+Lời giải
+Tên lửa đẩy khí ra sau thì khí đẩy tên lửa tiến lên: đó là cặp lực và phản lực. Các hiện tượng còn lại giải thích bằng quán tính, trọng lực, lực cản.
+
+Câu 8. [NB] Lực mà vật A tác dụng lên vật B và lực mà vật B tác dụng lại vật A trong định luật 3 Newton được gọi là
+*A. một cặp lực và phản lực.
+B. một cặp lực cân bằng.
+C. hai thành phần của hợp lực.
+D. hai lực ma sát.
+Lời giải
+Hai lực tương tác giữa hai vật theo định luật 3 Newton gọi là cặp lực và phản lực.
+
+Câu 9. [TH] Khi bơi, người đẩy nước về phía sau. Lực làm người tiến lên phía trước là lực do
+A. người tác dụng lên nước.
+B. trọng lực của người.
+*C. nước tác dụng lên người.
+D. lực ma sát của đáy hồ tác dụng lên người.
+Lời giải
+Người đẩy nước về sau thì nước đẩy người về phía trước (phản lực).
+
+Câu 10. [TH] Quả bóng đang bay tới đập vào bức tường rồi nảy ngược trở lại. Gọi $F_1$ là độ lớn lực bóng tác dụng lên tường, $F_2$ là độ lớn lực tường tác dụng lên bóng. Ta có
+A. $F_1 > F_2$ vì bóng đang chuyển động.
+B. $F_1 < F_2$ vì tường cứng hơn bóng.
+C. $F_1 = 0$ vì tường đứng yên.
+*D. $F_1 = F_2$.
+Lời giải
+Hai lực này là cặp lực và phản lực nên luôn có độ lớn bằng nhau.
+
+Câu 11. [TH] Quyển sách nằm yên trên mặt bàn nằm ngang. Phản lực của trọng lực $\vec{P}$ (lực Trái Đất hút sách) là lực
+*A. sách hút Trái Đất.
+B. mặt bàn đỡ quyển sách.
+C. sách ép lên mặt bàn.
+D. ma sát giữa sách và mặt bàn.
+Lời giải
+Trọng lực là lực Trái Đất hút sách, phản lực của nó là lực sách hút Trái Đất. Lực đỡ của mặt bàn $\vec{N}$ chỉ cân bằng với $\vec{P}$ chứ không phải phản lực của $\vec{P}$.
+
+Câu 12. [TH] Người ngồi trên thuyền dùng sào chống mạnh vào bờ thì thuyền rời xa bờ. Lực làm cho hệ (người, sào và thuyền) chuyển động ra xa bờ là lực do
+*A. bờ tác dụng lên sào.
+B. sào tác dụng lên bờ.
+C. nước tác dụng lên thuyền.
+D. thuyền tác dụng lên nước.
+Lời giải
+Sào đẩy bờ thì bờ đẩy lại sào (phản lực); phản lực này làm hệ rời xa bờ.
+
+Câu 13. [TH] Xe tải nặng đâm vào xe con nhẹ hơn. Trong lúc va chạm, độ lớn lực xe tải tác dụng lên xe con
+A. lớn hơn độ lớn lực xe con tác dụng lên xe tải.
+*B. bằng độ lớn lực xe con tác dụng lên xe tải.
+C. nhỏ hơn độ lớn lực xe con tác dụng lên xe tải.
+D. bằng 0 vì xe tải không bị hư hại.
+Lời giải
+Theo định luật 3 Newton, lực và phản lực luôn bằng nhau về độ lớn, bất kể khối lượng của hai xe.
+
+Câu 14. [TH] Hai vật A và B tương tác với nhau, khối lượng $m_A > m_B$. Trong thời gian tương tác, so với vật A thì vật B có
+*A. gia tốc có độ lớn lớn hơn.
+B. gia tốc có độ lớn nhỏ hơn.
+C. gia tốc có độ lớn bằng nhau.
+D. lực tác dụng lớn hơn.
+Lời giải
+Lực tương tác có độ lớn bằng nhau, mà $a = \dfrac{F}{m}$ nên vật có khối lượng nhỏ hơn có gia tốc lớn hơn.
+
+Câu 15. [TH] Khi bắn súng, súng bị giật lùi về phía sau. Nguyên nhân là
+A. súng có quán tính lớn nên giữ nguyên trạng thái chuyển động.
+*B. đạn đẩy súng về phía sau với lực bằng lực súng đẩy đạn về phía trước.
+C. lực cản của không khí tác dụng lên súng.
+D. trọng lực của súng lớn hơn lực của đạn.
+Lời giải
+Súng đẩy đạn ra phía trước thì đạn đẩy lại súng về phía sau (định luật 3 Newton).
+
+Câu 16. [TH] Phát biểu nào sau đây về cặp lực và phản lực là SAI?
+A. Lực và phản lực có cùng độ lớn tại mọi thời điểm tương tác.
+B. Lực và phản lực cùng giá và ngược chiều nhau khi hai vật tương tác.
+*C. Lực và phản lực có độ lớn bằng nhau và ngược chiều nên triệt tiêu nhau.
+D. Lực và phản lực xuất hiện đồng thời và mất đi đồng thời.
+Lời giải
+Lực và phản lực đặt vào hai vật khác nhau nên không thể triệt tiêu nhau như hai lực cân bằng.
+
+Câu 17. [VD] Hai vật A (4 kg) và B (3 kg) đặt trên mặt phẳng ngang nhẵn, đẩy nhau bằng một lực có độ lớn 12 N (không có lực ngang nào khác). Gia tốc của vật A có độ lớn
+A. 4 m/s².
+B. 1 m/s².
+C. 12 m/s².
+*D. 3 m/s².
+Lời giải
+Phản lực của B tác dụng lên A cũng có độ lớn 12 N nên $a_A = \dfrac{12}{4} = 3$ m/s².
+
+Câu 18. [VD] Hai người, mỗi người nắm một đầu của một lực kế nhẹ rồi cùng kéo ra xa nhau, mỗi người kéo bằng lực 50 N, lực kế đứng yên. Số chỉ của lực kế là
+A. 100 N.
+B. 25 N.
+C. 0 N.
+*D. 50 N.
+Lời giải
+Lực kế đo độ lớn lực căng của lò xo ở mỗi đầu. Mỗi đầu chịu lực kéo 50 N (người kia kéo bằng 50 N thì phản lực cũng 50 N) nên số chỉ là 50 N.
+
+Câu 19. [VD] Một người có khối lượng 70 kg đứng yên trên mặt sàn nằm ngang. Lấy $g = 10$ m/s². Lực mà người ép lên mặt sàn có độ lớn
+*A. 700 N.
+B. 70 N.
+C. 7000 N.
+D. 0 N.
+Lời giải
+Sàn đỡ người bằng phản lực $N = P = mg = 700$ N; theo định luật 3 Newton, người ép lên sàn một lực cũng có độ lớn 700 N.
+
+Câu 20. [VD] Quả bóng khối lượng 0,4 kg đập vào tường. Trong thời gian va chạm 0,05 s, bóng tác dụng lên tường lực trung bình 100 N (coi không đổi). Độ lớn độ biến thiên vận tốc của bóng là
+A. 5 m/s.
+*B. 12,5 m/s.
+C. 2 m/s.
+D. 50 m/s.
+Lời giải
+Tường tác dụng lên bóng phản lực 100 N. Gia tốc của bóng $a = \dfrac{100}{0,4} = 250$ m/s², nên $\Delta v = at = 250 \cdot 0,05 = 12,5$ m/s.
+
+Câu 21. [VD] Khi bắn, súng (qua khí thuốc súng) tác dụng lên viên đạn một lực 400 N. Súng có khối lượng 5 kg và chuyển động tự do (bỏ qua mọi lực cản). Gia tốc của súng (giật lùi) có độ lớn
+A. 20000 m/s².
+B. 8 m/s².
+*C. 80 m/s².
+D. 0,0125 m/s².
+Lời giải
+Đạn tác dụng lại súng một lực cùng độ lớn 400 N, ngược chiều, nên $a = \dfrac{400}{5} = 80$ m/s².
+
+Câu 22. [VD] Hai xe lăn khối lượng 0,5 kg và 1,5 kg đặt trên mặt phẳng ngang nhẵn, ép sát vào hai đầu một lò xo bị nén. Thả tay thì xe 0,5 kg có gia tốc ban đầu 9 m/s². Gia tốc ban đầu của xe 1,5 kg là
+A. 27 m/s².
+B. 4,5 m/s².
+C. 9 m/s².
+*D. 3 m/s².
+Lời giải
+Lực đàn hồi tác dụng lên hai xe có độ lớn bằng nhau: $m_1a_1 = m_2a_2$ nên $a_2 = \dfrac{0,5 \cdot 9}{1,5} = 3$ m/s².
+
+Câu 23. [TF] [TH] Về lực và phản lực trong định luật 3 Newton:
+*A. Lực và phản lực có cùng độ lớn.
+*B. Lực và phản lực cùng giá và ngược chiều.
+*C. Lực và phản lực xuất hiện và mất đi đồng thời.
+D. Lực và phản lực là hai lực cân bằng nhau.
+Lời giải
+Lực và phản lực đặt vào hai vật khác nhau nên không phải là hai lực cân bằng.
+
+Câu 24. [TF] [TH] Quyển sách nằm yên trên mặt bàn nằm ngang, chịu trọng lực $\vec{P}$ và phản lực $\vec{N}$ của mặt bàn:
+*A. $\vec{P}$ và $\vec{N}$ là hai lực cân bằng.
+B. $\vec{P}$ và $\vec{N}$ là một cặp lực và phản lực theo định luật 3 Newton.
+*C. Phản lực của $\vec{N}$ là lực ép của sách lên mặt bàn.
+D. Lực ép của sách lên mặt bàn lớn hơn $\vec{N}$.
+Lời giải
+$\vec{P}$ và $\vec{N}$ cùng đặt vào sách nên là hai lực cân bằng, không phải cặp lực và phản lực. Lực ép của sách lên bàn và $\vec{N}$ mới là cặp lực và phản lực nên có độ lớn bằng nhau.
+
+Câu 25. [TF] [TH] Người đạp mạnh vào thuyền để nhảy từ thuyền lên bờ:
+*A. Khi người đạp thuyền về phía sau, thuyền đẩy người về phía trước.
+B. Lực người tác dụng lên thuyền lớn hơn lực thuyền tác dụng lên người.
+C. Nếu thuyền nặng hơn người thì gia tốc của thuyền lớn hơn gia tốc của người.
+D. Hai lực tương tác cân bằng nhau nên thuyền không chuyển động.
+Lời giải
+Hai lực tương tác luôn bằng nhau về độ lớn nhưng đặt vào hai vật khác nhau nên không cân bằng. Vì $a = \dfrac{F}{m}$ nên thuyền nặng hơn thì gia tốc nhỏ hơn.
+
+Câu 26. [TF] [VD] Hai vật A (2 kg) và B (3 kg) đặt trên mặt phẳng ngang nhẵn, đẩy nhau bằng một lực có độ lớn 6 N:
+*A. Lực do B tác dụng lên A có độ lớn 6 N.
+*B. Gia tốc của A có độ lớn 3 m/s².
+*C. Gia tốc của B có độ lớn 2 m/s².
+*D. Tỉ số độ lớn gia tốc $\dfrac{a_A}{a_B} = \dfrac{3}{2}$.
+Lời giải
+Lực và phản lực cùng độ lớn 6 N nên $a_A = \dfrac{6}{2} = 3$ m/s², $a_B = \dfrac{6}{3} = 2$ m/s² và $\dfrac{a_A}{a_B} = \dfrac{m_B}{m_A} = \dfrac{3}{2}$.
+
+Câu 27. [TF] [VD] Người khối lượng 60 kg đứng yên trên sàn, dùng tay đẩy vào bức tường thẳng đứng bằng một lực ngang có độ lớn 150 N:
+*A. Tường tác dụng lên người một lực ngang có độ lớn 150 N.
+B. Tường tác dụng lên người lực lớn hơn 150 N vì tường nặng hơn người.
+*C. Sàn tác dụng lên người lực ma sát nghỉ có độ lớn 150 N theo phương ngang.
+D. Hợp lực tác dụng lên người khác 0 vì người đang đẩy tường.
+Lời giải
+Phản lực của tường có độ lớn 150 N. Người đứng yên nên hợp lực bằng 0, theo phương ngang lực ma sát nghỉ của sàn cân bằng với phản lực của tường nên có độ lớn 150 N.
+
+Câu 28. [TF] [VD] Một lực kế nhẹ có một đầu móc vào bức tường cố định, người kéo đầu kia bằng lực 40 N, lực kế đứng yên:
+*A. Lực kế chỉ 40 N.
+*B. Tường tác dụng lên lực kế một lực có độ lớn 40 N.
+*C. Lực kéo của người lên lực kế và lực của lực kế lên người có cùng độ lớn 40 N.
+D. Lực kế chỉ 0 vì tường đứng yên.
+Lời giải
+Lực kế đứng yên nên chịu hai lực cân bằng 40 N ở hai đầu và chỉ 40 N, dù tường đứng yên.
+
+Câu 29. [TF] [VD] Hai xe lăn $m_1 = 1$ kg và $m_2 = 2$ kg đặt trên mặt phẳng ngang nhẵn, đẩy nhau. Xe 1 có gia tốc độ lớn 4 m/s²:
+*A. Xe 2 có gia tốc độ lớn 2 m/s².
+B. Lực tương tác giữa hai xe có độ lớn 2 N.
+C. Hai xe có gia tốc cùng độ lớn 4 m/s².
+D. Lực tác dụng lên xe 2 nhỏ hơn lực tác dụng lên xe 1.
+Lời giải
+Lực tương tác $F = m_1a_1 = 4$ N, hai xe chịu lực cùng độ lớn nên $a_2 = \dfrac{4}{2} = 2$ m/s².
+
+Câu 30. [TH] Một người đẩy vào bức tường bằng lực có độ lớn 120 N. Tính độ lớn lực mà bức tường tác dụng lên người (theo đơn vị N).
+Trả lời: [[120]]
+Lời giải
+Theo định luật 3 Newton, phản lực của tường có cùng độ lớn với lực người đẩy tường: 120 N.
+
+Câu 31. [TH] Vật A tác dụng lên vật B một lực 8 N làm B thu được gia tốc 4 m/s². Tính khối lượng của vật B (theo đơn vị kg).
+Trả lời: [[2]]
+Lời giải
+$m_B = \dfrac{F}{a_B} = \dfrac{8}{4} = 2$ kg.
+
+Câu 32. [TH] Quả táo khối lượng 0,25 kg rơi tự do xuống đất. Lấy $g = 10$ m/s². Tính độ lớn lực mà quả táo hút Trái Đất (theo đơn vị N).
+Trả lời: [[2,5]]
+Lời giải
+Trái Đất hút táo bằng trọng lực $P = mg = 0,25 \cdot 10 = 2,5$ N. Theo định luật 3 Newton, táo hút Trái Đất bằng lực có độ lớn 2,5 N.
+
+Câu 33. [VD] Hai vật tương tác với nhau, vật 1 có khối lượng 2 kg và gia tốc 7,5 m/s², vật 2 có khối lượng 5 kg. Tính độ lớn gia tốc của vật 2 (theo đơn vị m/s²).
+Trả lời: [[3]]
+Lời giải
+Lực tương tác $F = m_1a_1 = 2 \cdot 7,5 = 15$ N nên $a_2 = \dfrac{15}{5} = 3$ m/s².
+
+Câu 34. [VD] Người khối lượng 60 kg đứng trên sàn thang máy đang đi lên nhanh dần đều với gia tốc 2 m/s². Lấy $g = 10$ m/s². Tính độ lớn lực mà người ép lên sàn thang máy (theo đơn vị N).
+Trả lời: [[720]]
+Lời giải
+Sàn tác dụng lên người phản lực $N$. Theo định luật 2 Newton: $N - P = ma$ nên $N = m(g + a) = 60 \cdot 12 = 720$ N. Theo định luật 3 Newton, lực người ép lên sàn cũng bằng 720 N.
+
+Câu 35. [VD] Khẩu súng khối lượng 5 kg bắn viên đạn khối lượng 25 g, trong lúc bắn đạn có gia tốc 8000 m/s². Bỏ qua mọi lực cản. Tính độ lớn gia tốc của súng (theo đơn vị m/s²).
+Trả lời: [[40]]
+Lời giải
+Súng (qua khí thuốc) tác dụng lên đạn lực $F = 0,025 \cdot 8000 = 200$ N; đạn tác dụng lại súng lực cũng 200 N nên $a = \dfrac{200}{5} = 40$ m/s².
+
+Câu 36. [VD] Thuyền A có khối lượng 120 kg và thuyền B có khối lượng 80 kg nổi trên mặt nước. Người trên thuyền A kéo dây buộc vào thuyền B bằng lực căng 60 N. Bỏ qua lực cản của nước. Tính độ lớn gia tốc của thuyền B (theo đơn vị m/s²).
+Trả lời: [[0,75]]
+Lời giải
+Dây kéo thuyền B bằng lực 60 N (và kéo thuyền A bằng lực 60 N ngược chiều). Gia tốc của thuyền B: $a_B = \dfrac{60}{80} = 0,75$ m/s².
+
+Câu 37. [VD] Xe A khối lượng 1 kg đập vào xe B khối lượng 0,5 kg đang đứng yên trên mặt phẳng ngang nhẵn. Trong 0,1 s va chạm, lực tương tác giữa hai xe có độ lớn không đổi 3 N. Tính độ lớn độ biến thiên vận tốc của xe A (theo đơn vị m/s).
+Trả lời: [[0,3]]
+Lời giải
+$a_A = \dfrac{3}{1} = 3$ m/s² nên $\Delta v_A = a_At = 3 \cdot 0,1 = 0,3$ m/s.
+
+Câu 38. [VD] Búa khối lượng 2 kg đang chuyển động với tốc độ 5 m/s thì đập vào đầu đinh và dừng lại sau 0,01 s. Coi lực tương tác không đổi trong thời gian này. Tính độ lớn lực mà búa tác dụng lên đinh (theo đơn vị N).
+Trả lời: [[1000]]
+Lời giải
+Gia tốc của búa có độ lớn $a = \dfrac{5}{0,01} = 500$ m/s² nên đinh tác dụng lên búa lực $F = ma = 2 \cdot 500 = 1000$ N. Theo định luật 3 Newton, búa tác dụng lên đinh lực cũng có độ lớn 1000 N.
+
 @bai 17 | Trọng lực và lực căng
+Câu 1. [NB] Trọng lực tác dụng lên một vật là lực
+A. đẩy của Trái Đất tác dụng lên vật.
+B. do vật tác dụng lên mặt đất.
+*C. hút của Trái Đất tác dụng lên vật.
+D. ma sát giữa vật và không khí.
+Lời giải
+Trọng lực là lực hút của Trái Đất tác dụng lên vật.
+
+Câu 2. [NB] Biểu thức tính độ lớn trọng lực tác dụng lên vật khối lượng $m$ tại nơi có gia tốc rơi tự do $g$ là
+A. $P = \dfrac{m}{g}$.
+B. $P = \dfrac{g}{m}$.
+*C. $P = mg$.
+D. $P = m + g$.
+Lời giải
+Theo định luật 2 Newton với gia tốc $g$: $P = mg$.
+
+Câu 3. [NB] Trọng lực có phương và chiều
+A. thẳng đứng, hướng lên.
+B. nằm ngang, hướng từ Trái Đất ra xa.
+C. dọc theo mặt phẳng mà vật đặt lên.
+*D. thẳng đứng, hướng xuống.
+Lời giải
+Trọng lực có phương thẳng đứng và chiều hướng xuống phía Trái Đất.
+
+Câu 4. [NB] Điểm đặt của trọng lực tác dụng lên một vật là
+*A. trọng tâm của vật.
+B. điểm tiếp xúc giữa vật và mặt đất.
+C. điểm thấp nhất của vật.
+D. điểm cao nhất của vật.
+Lời giải
+Trọng lực coi như đặt tại trọng tâm của vật.
+
+Câu 5. [NB] Trọng lượng của một vật là
+A. lượng chất chứa trong vật, đo bằng cân.
+*B. độ lớn của trọng lực tác dụng lên vật.
+C. thể tích phần không gian vật chiếm chỗ.
+D. số đo mức quán tính của vật khi chuyển động.
+Lời giải
+Trọng lượng là độ lớn của trọng lực tác dụng lên vật: $P = mg$.
+
+Câu 6. [NB] Dụng cụ dùng để đo trọng lượng của vật là
+*A. lực kế.
+B. cân đồng hồ.
+C. thước dây.
+D. nhiệt kế.
+Lời giải
+Lực kế dùng để đo độ lớn của lực, trong đó có trọng lượng.
+
+Câu 7. [NB] Lực căng dây tác dụng lên vật có phương và chiều
+A. vuông góc với sợi dây, hướng ra ngoài.
+B. thẳng đứng, hướng xuống.
+C. dọc theo sợi dây, hướng đẩy vật ra xa sợi dây.
+*D. dọc theo sợi dây, hướng từ vật vào phía dây (kéo vật).
+Lời giải
+Dây chỉ có thể kéo vật nên lực căng có phương trùng với dây và hướng về phía dây.
+
+Câu 8. [NB] Gia tốc rơi tự do ở gần mặt đất có giá trị xấp xỉ
+A. 98 m/s².
+B. 0,98 m/s².
+*C. 9,8 m/s².
+D. 1,6 m/s².
+Lời giải
+Gần mặt đất $g \approx 9,8$ m/s² (thường lấy xấp xỉ 10 m/s² khi tính nhanh).
+
+Câu 9. [TH] Hai vật có khối lượng $m_1 = 2m_2$ đặt ở cùng một nơi trên mặt đất. Tỉ số trọng lượng $\dfrac{P_1}{P_2}$ bằng
+A. $\dfrac{1}{2}$.
+B. 1.
+C. 4.
+*D. 2.
+Lời giải
+Cùng một nơi thì $g$ như nhau nên $\dfrac{P_1}{P_2} = \dfrac{m_1g}{m_2g} = \dfrac{m_1}{m_2} = 2$.
+
+Câu 10. [TH] Vật nhỏ được treo đứng yên vào một sợi dây nhẹ thẳng đứng. Phát biểu nào sau đây đúng?
+A. Độ lớn lực căng của dây lớn hơn trọng lực tác dụng lên vật.
+*B. Độ lớn lực căng của dây bằng độ lớn trọng lực tác dụng lên vật.
+C. Độ lớn lực căng của dây nhỏ hơn trọng lực tác dụng lên vật.
+D. Dây không tác dụng lực lên vật vì vật đứng yên.
+Lời giải
+Vật đứng yên nên hợp lực bằng 0: lực căng $\vec{T}$ cân bằng với trọng lực $\vec{P}$.
+
+Câu 11. [TH] Với dây nhẹ, không dãn, lực căng dây tại hai đầu dây
+A. có độ lớn khác nhau.
+*B. có độ lớn như nhau.
+C. bằng 0.
+D. luôn bằng trọng lượng của vật treo.
+Lời giải
+Dây nhẹ nên khối lượng của dây không đáng kể, lực căng có cùng độ lớn tại mọi điểm trên dây.
+
+Câu 12. [TH] Một vật có trọng lượng lớn nhất khi được đặt ở
+*A. cực của Trái Đất.
+B. xích đạo của Trái Đất.
+C. đỉnh núi cao.
+D. độ cao 100 km so với mặt đất.
+Lời giải
+Gia tốc rơi tự do $g$ lớn nhất ở cực và giảm khi lên cao nên trọng lượng của vật ở cực là lớn nhất.
+
+Câu 13. [TH] Đưa một vật từ Trái Đất lên Mặt Trăng (gia tốc rơi tự do ở Mặt Trăng nhỏ hơn ở Trái Đất). Phát biểu nào sau đây đúng?
+A. Khối lượng giảm, trọng lượng không đổi.
+B. Khối lượng và trọng lượng đều không đổi.
+C. Khối lượng và trọng lượng đều giảm.
+*D. Khối lượng không đổi, trọng lượng giảm.
+Lời giải
+Khối lượng là số đo mức quán tính nên không đổi; trọng lượng $P = mg$ giảm vì $g$ giảm.
+
+Câu 14. [TH] Treo vật vào lực kế, khi vật đứng yên thì số chỉ của lực kế bằng
+A. khối lượng của vật tính theo kilôgam.
+*B. độ lớn trọng lực tác dụng lên vật (trọng lượng).
+C. thể tích của vật.
+D. gia tốc rơi tự do tại nơi đặt vật.
+Lời giải
+Vật đứng yên nên lực lò xo của lực kế (lực căng) cân bằng với trọng lực, do đó số chỉ bằng trọng lượng.
+
+Câu 15. [TH] Trọng tâm của một chiếc thước thẳng đồng chất, tiết diện đều nằm ở
+A. đầu thước.
+*B. trung điểm của thước.
+C. điểm cách đầu thước một phần ba chiều dài.
+D. mặt tiếp xúc giữa thước và mặt bàn.
+Lời giải
+Với vật đồng chất có dạng đối xứng thì trọng tâm nằm ở tâm đối xứng, tức trung điểm của thước.
+
+Câu 16. [TH] Phát biểu nào sau đây SAI?
+A. Trọng lực là lực hút của Trái Đất tác dụng lên mọi vật ở gần nó.
+B. Trọng lượng của vật được đo bằng lực kế khi vật đứng yên.
+*C. Khối lượng và trọng lượng của một vật là hai đại lượng như nhau, có cùng đơn vị.
+D. Trọng lực tác dụng lên vật có phương thẳng đứng, chiều xuống.
+Lời giải
+Khối lượng (đơn vị kg) khác trọng lượng (đơn vị N): $P = mg$.
+
+Câu 17. [VD] Vật khối lượng 3 kg ở nơi có $g = 10$ m/s². Trọng lượng của vật là
+*A. 30 N.
+B. 0,3 N.
+C. 3 N.
+D. 13 N.
+Lời giải
+$P = mg = 3 \cdot 10 = 30$ N.
+
+Câu 18. [VD] Vật khối lượng 2,5 kg được treo đứng yên vào một sợi dây nhẹ thẳng đứng, lấy $g = 10$ m/s². Lực căng của dây có độ lớn
+*A. 25 N.
+B. 2,5 N.
+C. 250 N.
+D. 12,5 N.
+Lời giải
+Vật cân bằng nên $T = P = mg = 2,5 \cdot 10 = 25$ N.
+
+Câu 19. [VD] Vắt một sợi dây nhẹ, không dãn qua ròng rọc cố định nhẹ. Hai đầu dây treo hai vật giống nhau, mỗi vật khối lượng 2 kg, hệ đứng yên. Lấy $g = 10$ m/s². Lực căng của dây có độ lớn
+A. 40 N.
+*B. 20 N.
+C. 10 N.
+D. 0 N.
+Lời giải
+Xét một vật đứng yên: $T = P = mg = 20$ N. Mỗi đầu dây chỉ giữ một vật nên lực căng bằng trọng lượng một vật (20 N); 40 N là lực dây nén lên ròng rọc.
+
+Câu 20. [VD] Gia tốc rơi tự do trên Mặt Trăng xấp xỉ 1,6 m/s². Nhà du hành có khối lượng 60 kg thì trọng lượng trên Mặt Trăng là
+A. 600 N.
+B. 37,5 N.
+C. 60 N.
+*D. 96 N.
+Lời giải
+$P = mg = 60 \cdot 1,6 = 96$ N.
+
+Câu 21. [VD] Một chiếc đèn khối lượng 4 kg được treo bằng hai sợi dây nhẹ giống nhau, mỗi dây hợp với phương thẳng đứng góc 60°. Lấy $g = 10$ m/s². Lực căng của mỗi dây là
+*A. 40 N.
+B. 20 N.
+C. 80 N.
+D. 34,6 N.
+Lời giải
+Theo phương thẳng đứng: $2T\cos 60° = P = 40$ N nên $T = \dfrac{40}{2 \cdot 0,5} = 40$ N.
+
+Câu 22. [VD] Xô nước khối lượng 8 kg được kéo lên bằng dây có thể chịu lực căng tối đa 100 N. Lấy $g = 10$ m/s². Gia tốc lớn nhất hướng lên mà ta có thể kéo xô để dây không đứt là
+A. 12,5 m/s².
+B. 10 m/s².
+*C. 2,5 m/s².
+D. 1,25 m/s².
+Lời giải
+$T - P = ma$ nên $a_{\max} = \dfrac{T_{\max}}{m} - g = \dfrac{100}{8} - 10 = 2,5$ m/s².
+
+Câu 23. [TF] [TH] Về trọng lực và trọng lượng:
+*A. Trọng lực do Trái Đất tác dụng lên vật, có phương thẳng đứng và hướng xuống.
+*B. Khối lượng của vật không đổi khi đưa vật từ Trái Đất lên Mặt Trăng.
+*C. Trọng lượng của vật có thể đo bằng lực kế.
+D. Trọng lượng của một vật luôn bằng khối lượng của vật đó.
+Lời giải
+Trọng lượng $P = mg$ có đơn vị newton, còn khối lượng có đơn vị kilôgam; hai đại lượng này khác nhau.
+
+Câu 24. [TF] [TH] Vật nhỏ được treo đứng yên vào một sợi dây nhẹ thẳng đứng:
+*A. Lực căng của dây cân bằng với trọng lực tác dụng lên vật.
+B. Lực căng của dây có độ lớn lớn hơn trọng lực tác dụng lên vật.
+*C. Lực căng của dây có phương thẳng đứng.
+D. Lực căng của dây tác dụng lên vật hướng xuống.
+Lời giải
+Vật cân bằng nên lực căng có độ lớn bằng trọng lực, cùng phương thẳng đứng nhưng hướng lên (dây kéo vật lên).
+
+Câu 25. [TF] [TH] Về sự thay đổi của trọng lượng:
+*A. Cùng một vật, trọng lượng ở cực Trái Đất lớn hơn ở xích đạo.
+B. Càng lên cao so với mặt đất, trọng lượng của vật càng tăng.
+C. Tại cùng một nơi, vật nặng rơi tự do có gia tốc lớn hơn vật nhẹ.
+D. Khối lượng của vật thay đổi theo vị trí đặt vật.
+Lời giải
+$g$ ở cực lớn hơn ở xích đạo; $g$ giảm khi lên cao nên trọng lượng giảm; tại cùng một nơi mọi vật rơi tự do có cùng gia tốc $g$; khối lượng không phụ thuộc vị trí.
+
+Câu 26. [TF] [VD] Vật khối lượng 5 kg được treo bằng sợi dây nhẹ, lấy $g = 10$ m/s²:
+*A. Trọng lượng của vật là 50 N.
+*B. Khi vật đứng yên, lực căng của dây là 50 N.
+*C. Khi vật được kéo lên thẳng đều, lực căng của dây là 50 N.
+*D. Khi vật đứng yên, nếu mắc lực kế nhẹ giữa dây và vật thì lực kế chỉ 50 N.
+Lời giải
+$P = mg = 50$ N. Vật đứng yên hoặc chuyển động thẳng đều thì hợp lực bằng 0 nên $T = P = 50$ N, lực kế chỉ 50 N.
+
+Câu 27. [TF] [VD] Vật khối lượng 2 kg được kéo lên theo phương thẳng đứng bằng dây nhẹ với gia tốc 2 m/s² hướng lên, lấy $g = 10$ m/s²:
+*A. Lực căng của dây là 24 N.
+B. Lực căng của dây là 16 N.
+*C. Nếu vật được kéo lên thẳng đều thì lực căng của dây là 20 N.
+D. Lực căng của dây không phụ thuộc vào gia tốc của vật.
+Lời giải
+$T = m(g + a) = 2 \cdot 12 = 24$ N. Khi kéo thẳng đều $a = 0$ nên $T = P = 20$ N. Lực căng phụ thuộc vào gia tốc.
+
+Câu 28. [TF] [VD] Vật khối lượng 4 kg treo vào đầu một sợi dây nhẹ, vật đi xuống nhanh dần với gia tốc 2,5 m/s², lấy $g = 10$ m/s²:
+*A. Hợp lực tác dụng lên vật hướng xuống và có độ lớn 10 N.
+*B. Lực căng của dây là 30 N.
+*C. Lực căng của dây nhỏ hơn trọng lượng của vật.
+D. Lực căng của dây bằng trọng lượng của vật.
+Lời giải
+$P - T = ma$ nên $T = m(g - a) = 4 \cdot 7,5 = 30$ N, nhỏ hơn $P = 40$ N. Hợp lực $ma = 10$ N hướng xuống.
+
+Câu 29. [TF] [VD] Chiếc đèn khối lượng 6 kg được treo bằng hai sợi dây nhẹ giống nhau, mỗi dây hợp với phương ngang góc 30°, lấy $g = 10$ m/s²:
+*A. Lực căng của mỗi dây là 60 N.
+B. Lực căng của mỗi dây là 30 N.
+C. Lực căng của mỗi dây là 120 N.
+D. Hợp lực của hai lực căng bằng 0.
+Lời giải
+Theo phương thẳng đứng: $2T\sin 30° = P = 60$ N nên $T = 60$ N. Hợp lực của hai lực căng cân bằng với trọng lực nên có độ lớn 60 N, hướng lên.
+
+Câu 30. [TH] Tính trọng lượng của vật khối lượng 6 kg ở nơi có $g = 10$ m/s² (theo đơn vị N).
+Trả lời: [[60]]
+Lời giải
+$P = mg = 6 \cdot 10 = 60$ N.
+
+Câu 31. [TH] Một vật có trọng lượng 450 N ở nơi có $g = 10$ m/s². Tính khối lượng của vật (theo đơn vị kg).
+Trả lời: [[45]]
+Lời giải
+$m = \dfrac{P}{g} = \dfrac{450}{10} = 45$ kg.
+
+Câu 32. [TH] Một quả cầu được treo đứng yên vào sợi dây nhẹ thẳng đứng, lực căng của dây là 15 N. Lấy $g = 10$ m/s². Tính khối lượng của quả cầu (theo đơn vị kg).
+Trả lời: [[1,5]]
+Lời giải
+Quả cầu cân bằng nên $P = T = 15$ N, suy ra $m = \dfrac{15}{10} = 1,5$ kg.
+
+Câu 33. [VD] Nhà du hành có khối lượng 72 kg. Gia tốc rơi tự do trên Hỏa Tinh xấp xỉ 3,7 m/s². Tính trọng lượng của nhà du hành trên Hỏa Tinh (theo đơn vị N, làm tròn đến hàng đơn vị).
+Trả lời: [[266]]
+Lời giải
+$P = mg = 72 \cdot 3,7 = 266,4 \approx 266$ N.
+
+Câu 34. [VD] Hai vật khối lượng 3 kg và 5 kg được treo nối tiếp bằng hai sợi dây nhẹ: vật 3 kg treo vào trần nhà bằng dây (1), vật 5 kg treo vào vật 3 kg bằng dây (2). Hệ đứng yên, lấy $g = 10$ m/s². Tính lực căng của dây (1) (theo đơn vị N).
+Trả lời: [[80]]
+Lời giải
+Dây (1) giữ cả hai vật: $T_1 = (m_1 + m_2)g = 8 \cdot 10 = 80$ N.
+
+Câu 35. [VD] Vật khối lượng 5 kg được giữ đứng yên trên mặt phẳng nghiêng nhẵn góc 30° so với phương ngang bằng một sợi dây nhẹ song song với mặt phẳng nghiêng. Lấy $g = 10$ m/s². Tính lực căng của dây (theo đơn vị N).
+Trả lời: [[25]]
+Lời giải
+Theo phương song song với mặt phẳng nghiêng: $T = mg\sin 30° = 50 \cdot 0,5 = 25$ N.
+
+Câu 36. [VD] Kiện hàng khối lượng 500 kg được hạ xuống bằng dây cáp, đi xuống nhanh dần với gia tốc 1 m/s². Lấy $g = 10$ m/s². Tính lực căng của dây cáp (theo đơn vị N).
+Trả lời: [[4500]]
+Lời giải
+$P - T = ma$ nên $T = m(g - a) = 500 \cdot 9 = 4500$ N.
+
+Câu 37. [VD] Một vật có trọng lượng 80 N trên Mặt Trăng, nơi gia tốc rơi tự do là 1,6 m/s². Tính khối lượng của vật (theo đơn vị kg).
+Trả lời: [[50]]
+Lời giải
+$m = \dfrac{P}{g} = \dfrac{80}{1,6} = 50$ kg.
+
+Câu 38. [VD] Vật khối lượng 6 kg được giữ cân bằng nhờ hai sợi dây nhẹ: dây (1) nằm ngang buộc vào tường, dây (2) hợp với phương ngang góc 37° buộc vào trần (cả hai dây cùng buộc vào vật). Lấy $g = 10$ m/s², $\sin 37° = 0,6$, $\cos 37° = 0,8$. Tính lực căng của dây (1) (theo đơn vị N).
+Trả lời: [[80]]
+Lời giải
+Theo phương thẳng đứng: $T_2\sin 37° = P = 60$ N nên $T_2 = 100$ N. Theo phương ngang: $T_1 = T_2\cos 37° = 100 \cdot 0,8 = 80$ N.
+
 @bai 18 | Lực ma sát
+Câu 1. [NB] Lực ma sát nghỉ xuất hiện khi
+*A. vật có xu hướng chuyển động nhưng chưa trượt.
+B. vật trượt trên bề mặt tiếp xúc của vật khác.
+C. vật lăn trên bề mặt tiếp xúc của vật khác.
+D. vật chuyển động thẳng đều trong không khí loãng.
+Lời giải
+Lực ma sát nghỉ giữ cho vật không trượt khi có lực tác dụng làm vật có xu hướng chuyển động.
+
+Câu 2. [NB] Lực ma sát trượt xuất hiện khi
+A. vật đứng yên trên mặt phẳng nghiêng.
+B. vật lăn không trượt trên bề mặt.
+*C. vật trượt trên bề mặt của vật khác.
+D. vật rơi tự do trong không khí.
+Lời giải
+Lực ma sát trượt xuất hiện ở mặt tiếp xúc khi có chuyển động trượt giữa hai vật.
+
+Câu 3. [NB] Độ lớn lực ma sát trượt được tính bằng công thức
+A. $F_{ms} = \dfrac{\mu}{N}$.
+B. $F_{ms} = \mu mg\sin\alpha$ cho mọi trường hợp.
+*C. $F_{ms} = \mu N$.
+D. $F_{ms} = \mu v$.
+Lời giải
+Độ lớn lực ma sát trượt tỉ lệ với độ lớn áp lực (phản lực pháp tuyến): $F_{ms} = \mu N$.
+
+Câu 4. [NB] Lực ma sát trượt tác dụng lên vật có hướng
+A. cùng hướng với hướng chuyển động của vật so với bề mặt tiếp xúc.
+B. vuông góc với bề mặt tiếp xúc.
+C. thẳng đứng, hướng xuống.
+*D. ngược với hướng chuyển động của vật so với bề mặt tiếp xúc.
+Lời giải
+Lực ma sát trượt cản trở chuyển động trượt nên ngược hướng với chuyển động tương đối của vật.
+
+Câu 5. [NB] Hệ số ma sát trượt $\mu$ phụ thuộc vào
+A. diện tích mặt tiếp xúc giữa hai vật.
+*B. vật liệu và tình trạng của hai bề mặt.
+C. tốc độ trượt của vật trên bề mặt.
+D. khối lượng riêng của vật trượt.
+Lời giải
+$\mu$ phụ thuộc vào vật liệu và tình trạng (độ nhám, độ ẩm…) của hai bề mặt tiếp xúc.
+
+Câu 6. [NB] Lực ma sát lăn xuất hiện khi
+A. vật trượt trên bề mặt của vật khác.
+*B. vật lăn trên bề mặt của vật khác.
+C. vật nằm yên trên mặt phẳng ngang.
+D. vật chuyển động trong chất lỏng.
+Lời giải
+Lực ma sát lăn xuất hiện ở chỗ tiếp xúc khi một vật lăn trên bề mặt vật khác.
+
+Câu 7. [NB] Độ lớn của lực ma sát nghỉ cực đại so với lực ma sát trượt (khi áp lực như nhau) thường
+A. nhỏ hơn.
+B. bằng 0.
+*C. lớn hơn.
+D. bằng lực ma sát lăn.
+Lời giải
+Cần lực kéo lớn hơn để vật bắt đầu trượt so với lực để vật tiếp tục trượt, nên lực ma sát nghỉ cực đại thường lớn hơn lực ma sát trượt.
+
+Câu 8. [NB] Hệ số ma sát trượt $\mu$ là đại lượng
+A. có đơn vị là N.
+B. có đơn vị là N/m.
+C. có đơn vị là m/s².
+*D. không có đơn vị.
+Lời giải
+$\mu = \dfrac{F_{ms}}{N}$ là tỉ số hai lực nên không có đơn vị.
+
+Câu 9. [TH] Độ lớn lực ma sát trượt không phụ thuộc vào
+A. áp lực của vật lên mặt tiếp xúc.
+*B. diện tích mặt tiếp xúc.
+C. vật liệu của hai mặt tiếp xúc.
+D. độ nhám của hai mặt tiếp xúc.
+Lời giải
+Độ lớn lực ma sát trượt chỉ phụ thuộc vào áp lực và tính chất của hai bề mặt, không phụ thuộc diện tích tiếp xúc (khi áp lực không đổi).
+
+Câu 10. [TH] Người đi bộ trên mặt đường. Lực ma sát nghỉ của mặt đường tác dụng lên chân người có hướng
+*A. về phía trước, là lực làm người tiến lên.
+B. về phía sau, cản trở người tiến lên.
+C. thẳng đứng, hướng lên.
+D. về phía trước, nhưng làm người chuyển động chậm lại.
+Lời giải
+Chân đẩy mặt đường về phía sau thì mặt đường tác dụng lực ma sát nghỉ lên chân về phía trước; lực này làm người tiến lên.
+
+Câu 11. [TH] Vật nằm yên trên mặt phẳng nghiêng. Lực ma sát nghỉ tác dụng lên vật có hướng
+A. dọc theo mặt phẳng nghiêng, hướng xuống phía dưới.
+B. vuông góc với mặt phẳng nghiêng, hướng lên.
+C. thẳng đứng, hướng xuống.
+*D. dọc theo mặt phẳng nghiêng, hướng lên phía trên.
+Lời giải
+Thành phần trọng lực dọc mặt phẳng nghiêng kéo vật đi xuống nên lực ma sát nghỉ hướng lên dọc theo mặt phẳng nghiêng để giữ vật.
+
+Câu 12. [TH] Kéo một thùng hàng nặng trên sàn nhà bằng một lực ngang nhỏ, thùng vẫn đứng yên. Lực ma sát tác dụng lên thùng
+*A. là ma sát nghỉ, có độ lớn bằng lực kéo.
+B. là ma sát trượt, có độ lớn bằng $\mu N$.
+C. bằng 0 vì thùng đứng yên.
+D. là ma sát nghỉ, có độ lớn lớn hơn lực kéo.
+Lời giải
+Thùng đứng yên nên hợp lực bằng 0, lực ma sát nghỉ cân bằng với lực kéo.
+
+Câu 13. [TH] Trường hợp nào sau đây lực ma sát có hại?
+A. Ma sát giữa đế giày và mặt đường giúp ta đi được.
+B. Ma sát giữa lốp xe và mặt đường khi phanh.
+C. Ma sát giữa que diêm và hộp diêm khi quẹt diêm.
+*D. Ma sát giữa các chi tiết chuyển động của máy móc làm mòn máy.
+Lời giải
+Ma sát trong máy móc làm hao mòn, sinh nhiệt nên có hại. Các trường hợp còn lại ma sát có lợi.
+
+Câu 14. [TH] Biện pháp nào sau đây làm tăng lực ma sát trượt giữa hai vật?
+A. Bôi dầu mỡ vào các bề mặt tiếp xúc.
+B. Thay ma sát trượt bằng ma sát lăn.
+*C. Làm cho các bề mặt tiếp xúc nhám hơn.
+D. Làm nhẵn các bề mặt tiếp xúc.
+Lời giải
+Tăng độ nhám (tăng $\mu$) hoặc tăng áp lực đều làm tăng lực ma sát trượt.
+
+Câu 15. [TH] Vật trượt trên mặt sàn nằm ngang. Nếu khối lượng của vật tăng gấp đôi (cùng hai bề mặt tiếp xúc) thì lực ma sát trượt
+A. giảm một nửa.
+*B. tăng gấp đôi.
+C. không đổi.
+D. tăng gấp bốn.
+Lời giải
+Trên mặt ngang $N = mg$ nên $F_{ms} = \mu mg$ tăng gấp đôi khi $m$ tăng gấp đôi.
+
+Câu 16. [TH] Phát biểu nào sau đây là SAI?
+*A. Lực ma sát luôn ngược chiều với chuyển động của vật so với mặt đất.
+B. Lực ma sát trượt không phụ thuộc vào diện tích mặt tiếp xúc.
+C. Lực ma sát nghỉ giúp ô tô tăng tốc được trên đường.
+D. Lực ma sát lăn thường nhỏ hơn lực ma sát trượt.
+Lời giải
+Lực ma sát ngược chiều với chuyển động tương đối giữa hai bề mặt, không phải so với mặt đất. Ví dụ ma sát nghỉ làm người hoặc ô tô tiến lên cùng chiều chuyển động.
+
+Câu 17. [VD] Vật trượt trên mặt phẳng ngang, áp lực lên mặt phẳng là 50 N, hệ số ma sát trượt là 0,3. Lực ma sát trượt có độ lớn
+A. 150 N.
+B. 16,7 N.
+*C. 15 N.
+D. 0,3 N.
+Lời giải
+$F_{ms} = \mu N = 0,3 \cdot 50 = 15$ N.
+
+Câu 18. [VD] Thùng hàng khối lượng 30 kg trượt trên sàn nằm ngang, hệ số ma sát trượt 0,2, lấy $g = 10$ m/s². Độ lớn lực ma sát trượt là
+A. 6 N.
+B. 150 N.
+C. 300 N.
+*D. 60 N.
+Lời giải
+$N = mg = 300$ N nên $F_{ms} = 0,2 \cdot 300 = 60$ N.
+
+Câu 19. [VD] Thùng hàng khối lượng 10 kg được kéo trên sàn nằm ngang bằng lực ngang 30 N, hệ số ma sát trượt 0,2, lấy $g = 10$ m/s². Gia tốc của thùng là
+*A. 1 m/s².
+B. 3 m/s².
+C. 5 m/s².
+D. 2 m/s².
+Lời giải
+$F_{ms} = 0,2 \cdot 100 = 20$ N. $a = \dfrac{F - F_{ms}}{m} = \dfrac{30 - 20}{10} = 1$ m/s².
+
+Câu 20. [VD] Vật khối lượng 2 kg trượt trên sàn nằm ngang với tốc độ đầu 6 m/s, hệ số ma sát trượt 0,2, lấy $g = 10$ m/s². Quãng đường vật đi được cho đến khi dừng là
+A. 18 m.
+*B. 9 m.
+C. 3 m.
+D. 4,5 m.
+Lời giải
+$a = \mu g = 2$ m/s² (chậm dần). $s = \dfrac{v_0^2}{2a} = \dfrac{36}{4} = 9$ m.
+
+Câu 21. [VD] Vật khối lượng 5 kg nằm yên trên mặt phẳng nghiêng góc 30° so với phương ngang, lấy $g = 10$ m/s². Độ lớn lực ma sát nghỉ tác dụng lên vật là
+*A. 25 N.
+B. 50 N.
+C. 43,3 N.
+D. 12,5 N.
+Lời giải
+Vật đứng yên nên $F_{ms} = P\sin 30° = 50 \cdot 0,5 = 25$ N.
+
+Câu 22. [VD] Thùng khối lượng 4 kg đặt trên sàn nằm ngang, lực ma sát nghỉ cực đại là 12 N. Tác dụng lực kéo ngang 10 N lên thùng thì lực ma sát tác dụng lên thùng có độ lớn
+A. 12 N.
+*B. 10 N.
+C. 2 N.
+D. 22 N.
+Lời giải
+Lực kéo 10 N nhỏ hơn ma sát nghỉ cực đại 12 N nên thùng vẫn đứng yên, ma sát nghỉ cân bằng với lực kéo: 10 N.
+
+Câu 23. [TF] [TH] Về lực ma sát:
+*A. Lực ma sát trượt có hướng ngược với hướng chuyển động tương đối của vật.
+*B. Độ lớn lực ma sát trượt không phụ thuộc vào diện tích mặt tiếp xúc.
+*C. Lực ma sát nghỉ cực đại thường lớn hơn lực ma sát trượt.
+D. Độ lớn lực ma sát trượt tỉ lệ nghịch với độ lớn áp lực.
+Lời giải
+Độ lớn lực ma sát trượt tỉ lệ thuận với độ lớn áp lực: $F_{ms} = \mu N$.
+
+Câu 24. [TF] [TH] Về vai trò của lực ma sát:
+*A. Lực ma sát nghỉ giúp người đi bộ tiến về phía trước.
+B. Lực ma sát trượt luôn có hại.
+*C. Lực ma sát lăn thường nhỏ hơn lực ma sát trượt.
+D. Bôi trơn các bề mặt làm tăng hệ số ma sát.
+Lời giải
+Ma sát trượt có thể có lợi (ví dụ khi phanh xe). Bôi trơn làm giảm hệ số ma sát.
+
+Câu 25. [TF] [TH] Kéo một thùng hàng đặt trên sàn nằm ngang bằng lực ngang $F$ nhỏ, thùng chưa chuyển động:
+*A. Lực ma sát nghỉ có độ lớn bằng $F$.
+B. Lực ma sát nghỉ luôn có độ lớn bằng $\mu N$.
+C. Không có lực ma sát nào tác dụng lên thùng.
+D. Lực ma sát nghỉ cùng hướng với lực kéo $F$.
+Lời giải
+Thùng đứng yên nên ma sát nghỉ cân bằng lực kéo (cùng độ lớn, ngược hướng). Độ lớn ma sát nghỉ chỉ bằng $\mu N$ khi đạt giá trị cực đại.
+
+Câu 26. [TF] [VD] Thùng hàng khối lượng 20 kg trượt trên sàn nằm ngang, hệ số ma sát trượt 0,25, chịu lực kéo ngang 70 N, lấy $g = 10$ m/s², thùng bắt đầu chuyển động từ trạng thái nghỉ:
+*A. Lực ma sát trượt có độ lớn 50 N.
+*B. Gia tốc của thùng là 1 m/s².
+*C. Sau 2 s thùng có tốc độ 2 m/s.
+*D. Trong 2 s đầu thùng đi được quãng đường 2 m.
+Lời giải
+$F_{ms} = 0,25 \cdot 200 = 50$ N; $a = \dfrac{70 - 50}{20} = 1$ m/s²; $v = at = 2$ m/s; $s = \dfrac{1}{2} \cdot 1 \cdot 2^2 = 2$ m.
+
+Câu 27. [TF] [VD] Vật khối lượng 5 kg trượt trên sàn nằm ngang với tốc độ đầu 8 m/s, hệ số ma sát trượt 0,4, lấy $g = 10$ m/s²:
+*A. Vật chuyển động chậm dần với gia tốc có độ lớn 4 m/s².
+B. Vật dừng lại sau 4 s.
+*C. Quãng đường vật đi được cho đến khi dừng là 8 m.
+D. Lực ma sát trượt tác dụng lên vật có độ lớn 10 N.
+Lời giải
+$F_{ms} = 0,4 \cdot 50 = 20$ N, $a = \mu g = 4$ m/s². Thời gian dừng $t = \dfrac{8}{4} = 2$ s; $s = \dfrac{8^2}{2 \cdot 4} = 8$ m.
+
+Câu 28. [TF] [VD] Vật khối lượng 6 kg nằm yên trên mặt phẳng nghiêng góc 30°, lấy $g = 10$ m/s²:
+*A. Lực ma sát nghỉ có độ lớn 30 N.
+*B. Lực ma sát nghỉ hướng lên dọc theo mặt phẳng nghiêng.
+*C. Phản lực pháp tuyến của mặt phẳng nghiêng có độ lớn $30\sqrt{3}$ N.
+D. Lực ma sát nghỉ có độ lớn 60 N.
+Lời giải
+$F_{ms} = P\sin 30° = 60 \cdot 0,5 = 30$ N; $N = P\cos 30° = 60 \cdot \dfrac{\sqrt{3}}{2} = 30\sqrt{3}$ N.
+
+Câu 29. [TF] [VD] Thùng hàng khối lượng 10 kg đặt trên sàn nằm ngang, lực ma sát nghỉ cực đại là 50 N, lực ma sát trượt là 40 N. Kéo thùng bằng lực ngang 60 N, lấy $g = 10$ m/s²:
+*A. Thùng bị trượt trên sàn.
+B. Lực ma sát tác dụng lên thùng có độ lớn 50 N.
+C. Gia tốc của thùng là 6 m/s².
+D. Lực ma sát tác dụng lên thùng có độ lớn 60 N.
+Lời giải
+Lực kéo 60 N lớn hơn ma sát nghỉ cực đại 50 N nên thùng trượt, lực ma sát là ma sát trượt 40 N. Gia tốc $a = \dfrac{60 - 40}{10} = 2$ m/s².
+
+Câu 30. [TH] Vật trượt trên mặt phẳng ngang có áp lực lên mặt phẳng là 80 N, hệ số ma sát trượt 0,25. Tính độ lớn lực ma sát trượt (theo đơn vị N).
+Trả lời: [[20]]
+Lời giải
+$F_{ms} = \mu N = 0,25 \cdot 80 = 20$ N.
+
+Câu 31. [TH] Vật trượt trên mặt phẳng ngang chịu lực ma sát trượt 12 N, hệ số ma sát trượt là 0,3. Tính độ lớn áp lực của vật lên mặt phẳng (theo đơn vị N).
+Trả lời: [[40]]
+Lời giải
+$N = \dfrac{F_{ms}}{\mu} = \dfrac{12}{0,3} = 40$ N.
+
+Câu 32. [TH] Khối gỗ 2 kg được kéo trượt trên mặt bàn nằm ngang, hệ số ma sát trượt 0,3. Đặt thêm lên khối gỗ một quả nặng 1 kg rồi kéo trượt tiếp. Lấy $g = 10$ m/s². Tính độ lớn lực ma sát trượt lúc này (theo đơn vị N).
+Trả lời: [[9]]
+Lời giải
+Áp lực lên mặt bàn tăng thành $N = (2 + 1) \cdot 10 = 30$ N nên $F_{ms} = 0,3 \cdot 30 = 9$ N.
+
+Câu 33. [VD] Thùng hàng khối lượng 20 kg trượt thẳng đều trên sàn nằm ngang có hệ số ma sát trượt 0,3. Lấy $g = 10$ m/s². Tính độ lớn lực kéo ngang tác dụng lên thùng (theo đơn vị N).
+Trả lời: [[60]]
+Lời giải
+Trượt đều nên lực kéo cân bằng với lực ma sát: $F = \mu mg = 0,3 \cdot 20 \cdot 10 = 60$ N.
+
+Câu 34. [VD] Vật khối lượng 3 kg trượt trên sàn nằm ngang với tốc độ đầu 8 m/s, hệ số ma sát trượt 0,4, lấy $g = 10$ m/s². Tính thời gian từ lúc bắt đầu trượt đến khi vật dừng lại (theo đơn vị s).
+Trả lời: [[2]]
+Lời giải
+$a = \mu g = 4$ m/s² nên $t = \dfrac{v_0}{a} = \dfrac{8}{4} = 2$ s.
+
+Câu 35. [VD] Thùng hàng khối lượng 10 kg được kéo bằng lực ngang 50 N trên sàn nằm ngang có hệ số ma sát trượt 0,3, lấy $g = 10$ m/s². Tính gia tốc của thùng (theo đơn vị m/s²).
+Trả lời: [[2]]
+Lời giải
+$F_{ms} = 0,3 \cdot 100 = 30$ N nên $a = \dfrac{50 - 30}{10} = 2$ m/s².
+
+Câu 36. [VD] Vật trượt xuống mặt phẳng nghiêng góc 30° so với phương ngang, hệ số ma sát trượt giữa vật và mặt phẳng nghiêng là 0,5. Lấy $g = 10$ m/s². Tính gia tốc của vật (theo đơn vị m/s², làm tròn đến hai chữ số thập phân).
+Trả lời: [[0,67]]
+Lời giải
+$a = g(\sin 30° - \mu\cos 30°) = 10 \cdot (0,5 - 0,5 \cdot 0,866) \approx 0,67$ m/s².
+
+Câu 37. [VD] Ô tô khối lượng 1 tấn đang chạy với tốc độ 20 m/s thì phanh gấp, các bánh xe bị khóa cứng và trượt trên đường nằm ngang có hệ số ma sát trượt 0,5. Lấy $g = 10$ m/s². Tính quãng đường xe trượt cho đến khi dừng (theo đơn vị m).
+Trả lời: [[40]]
+Lời giải
+$a = \mu g = 5$ m/s² nên $s = \dfrac{v_0^2}{2a} = \dfrac{400}{10} = 40$ m.
+
+Câu 38. [VD] Thùng hàng khối lượng 5 kg được kéo trên sàn nằm ngang bằng lực 30 N hướng chếch lên trên, hợp với phương ngang góc 37°. Hệ số ma sát trượt là 0,2. Lấy $g = 10$ m/s², $\sin 37° = 0,6$, $\cos 37° = 0,8$. Tính gia tốc của thùng (theo đơn vị m/s²).
+Trả lời: [[3,52]]
+Lời giải
+Theo phương thẳng đứng: $N = P - F\sin 37° = 50 - 18 = 32$ N nên $F_{ms} = 0,2 \cdot 32 = 6,4$ N. Theo phương ngang: $a = \dfrac{F\cos 37° - F_{ms}}{m} = \dfrac{24 - 6,4}{5} = 3,52$ m/s².
+
 @bai 19 | Lực cản và lực nâng
+Câu 1. [NB] Lực cản của không khí hoặc của nước tác dụng lên vật đang chuyển động trong nó có hướng
+A. cùng với hướng chuyển động của vật.
+B. thẳng đứng, hướng lên.
+*C. ngược với hướng chuyển động của vật.
+D. vuông góc với hướng chuyển động của vật.
+Lời giải
+Lực cản của chất lưu luôn ngược hướng với chuyển động của vật so với chất lưu.
+
+Câu 2. [NB] Lực cản của chất lưu (chất khí, chất lỏng) tác dụng lên vật xuất hiện khi
+A. vật nằm yên trong chất lưu.
+B. vật nằm yên trên mặt đất.
+*C. vật chuyển động trong chất lưu.
+D. vật chuyển động trong chân không.
+Lời giải
+Lực cản xuất hiện do tương tác giữa vật đang chuyển động và các phần tử chất lưu xung quanh.
+
+Câu 3. [NB] Lực đẩy Archimedes tác dụng lên vật nhúng trong chất lỏng có phương và chiều
+A. thẳng đứng, hướng từ trên xuống.
+*B. thẳng đứng, hướng từ dưới lên.
+C. nằm ngang.
+D. vuông góc với bề mặt của vật.
+Lời giải
+Lực đẩy Archimedes có phương thẳng đứng, chiều hướng lên.
+
+Câu 4. [NB] Biểu thức tính độ lớn lực đẩy Archimedes tác dụng lên vật là
+A. $F_A = \dfrac{\rho g}{V}$.
+B. $F_A = \rho V$.
+C. $F_A = mg$.
+*D. $F_A = \rho g V$.
+Lời giải
+Trong đó $\rho$ là khối lượng riêng của chất lỏng, $V$ là thể tích phần chất lỏng bị vật chiếm chỗ.
+
+Câu 5. [NB] Vật nhúng trong chất lỏng sẽ chìm xuống khi
+*A. trọng lượng của vật lớn hơn lực đẩy Archimedes.
+B. trọng lượng của vật nhỏ hơn lực đẩy Archimedes.
+C. trọng lượng của vật bằng lực đẩy Archimedes.
+D. khối lượng riêng của vật nhỏ hơn của chất lỏng.
+Lời giải
+Nếu $P > F_A$ thì hợp lực hướng xuống nên vật chìm.
+
+Câu 6. [NB] Việc thiết kế vỏ ô tô, máy bay có dạng thon, trơn nhằm mục đích chủ yếu là
+A. tăng lực cản của không khí.
+B. tăng khối lượng của phương tiện.
+C. giảm lực đẩy của động cơ.
+*D. giảm lực cản của không khí.
+Lời giải
+Hình dạng thon, trơn (khí động học) giúp dòng không khí bao quanh vật dễ dàng hơn nên lực cản nhỏ.
+
+Câu 7. [NB] Đơn vị đo khối lượng riêng của chất trong hệ SI là
+*A. kg/m³.
+B. kg·m³.
+C. N/m³.
+D. kg/m².
+Lời giải
+Khối lượng riêng $\rho = \dfrac{m}{V}$ có đơn vị kg/m³.
+
+Câu 8. [NB] Lực đẩy Archimedes xuất hiện khi vật được nhúng trong
+*A. chất lưu (chất lỏng hoặc chất khí).
+B. chất lỏng, nhưng không xuất hiện trong chất khí.
+C. chất rắn như đá hoặc kim loại.
+D. chân không (không có vật chất).
+Lời giải
+Mọi vật nhúng trong chất lưu đều chịu lực đẩy Archimedes hướng lên.
+
+Câu 9. [TH] Hai quả cầu có cùng thể tích nhưng khối lượng khác nhau cùng được nhúng chìm hoàn toàn trong nước. So sánh lực đẩy Archimedes tác dụng lên hai quả cầu:
+A. Quả cầu nặng hơn chịu lực lớn hơn.
+*B. Hai lực có độ lớn bằng nhau.
+C. Quả cầu nhẹ hơn chịu lực lớn hơn.
+D. Cả hai lực đều bằng 0.
+Lời giải
+$F_A = \rho gV$ chỉ phụ thuộc khối lượng riêng chất lỏng và thể tích phần chiếm chỗ, không phụ thuộc khối lượng của vật.
+
+Câu 10. [TH] Một vật đã chìm hoàn toàn trong nước, nếu nhấn vật xuống sâu thêm thì lực đẩy Archimedes tác dụng lên vật
+*A. không đổi.
+B. tăng lên.
+C. giảm đi.
+D. bằng 0.
+Lời giải
+Thể tích phần nước bị chiếm chỗ không đổi (vật đã chìm hoàn toàn) nên $F_A$ không đổi.
+
+Câu 11. [TH] Khi tốc độ của vật chuyển động trong không khí tăng lên thì lực cản của không khí tác dụng lên vật thường
+A. giảm đi.
+B. không đổi.
+*C. tăng lên.
+D. luôn bằng 0.
+Lời giải
+Vật chuyển động càng nhanh thì lực cản của chất lưu càng lớn.
+
+Câu 12. [TH] Vận động viên nhảy dù sau khi dù mở một lúc thì rơi với tốc độ không đổi. Nguyên nhân là
+A. trọng lực đã giảm xuống bằng không.
+*B. lực cản của không khí đã cân bằng với trọng lực.
+C. lực cản của không khí lớn hơn trọng lực rất nhiều.
+D. không còn lực nào tác dụng lên vận động viên.
+Lời giải
+Lực cản tăng theo tốc độ cho đến khi cân bằng với trọng lực, hợp lực bằng 0 và vật rơi với tốc độ không đổi (tốc độ giới hạn).
+
+Câu 13. [TH] Một khúc gỗ nằm cân bằng, nổi một phần trên mặt nước. So với trọng lượng của khúc gỗ, độ lớn lực đẩy Archimedes
+A. lớn hơn.
+B. nhỏ hơn.
+*C. bằng nhau.
+D. bằng không.
+Lời giải
+Khúc gỗ cân bằng nên hợp lực bằng 0: $F_A = P$.
+
+Câu 14. [TH] Con tàu bằng thép nặng hàng nghìn tấn vẫn nổi trên mặt nước vì
+A. thép là kim loại có khối lượng riêng nhỏ hơn nước.
+B. lực đẩy Archimedes không phụ thuộc vào phần chìm của tàu.
+C. nước không tác dụng lực lên các vật làm bằng kim loại.
+*D. phần chìm của tàu đủ lớn để lực đẩy Archimedes cân bằng với trọng lực.
+Lời giải
+Tàu có thân rỗng, thể tích phần chìm lớn nên $F_A = \rho gV$ đủ lớn để bằng trọng lượng của tàu.
+
+Câu 15. [TH] Cùng một vật được nhúng chìm hoàn toàn lần lượt vào nước và vào dầu (khối lượng riêng của dầu nhỏ hơn của nước). Lực đẩy Archimedes
+*A. trong nước lớn hơn trong dầu.
+B. trong nước nhỏ hơn trong dầu.
+C. trong nước bằng trong dầu.
+D. đều bằng không.
+Lời giải
+Thể tích chiếm chỗ như nhau, $F_A = \rho gV$ tỉ lệ với khối lượng riêng chất lỏng nên lớn hơn trong chất lỏng có $\rho$ lớn hơn.
+
+Câu 16. [TH] Phát biểu nào sau đây là SAI?
+A. Lực cản của chất lưu có hướng ngược hướng chuyển động của vật.
+B. Lực đẩy Archimedes có phương thẳng đứng, chiều từ dưới lên.
+*C. Vật chìm xuống khi lực đẩy Archimedes lớn hơn trọng lượng của vật.
+D. Tàu nổi trên mặt nước khi lực đẩy Archimedes cân bằng với trọng lực.
+Lời giải
+Vật chìm khi trọng lượng lớn hơn lực đẩy Archimedes ($P > F_A$); nếu $F_A > P$ thì vật nổi lên.
+
+Câu 17. [VD] Vật có thể tích 0,002 m³ được nhúng chìm hoàn toàn trong nước (khối lượng riêng 1000 kg/m³). Lấy $g = 10$ m/s². Lực đẩy Archimedes tác dụng lên vật có độ lớn
+*A. 20 N.
+B. 2 N.
+C. 200 N.
+D. 0,2 N.
+Lời giải
+$F_A = \rho gV = 1000 \cdot 10 \cdot 0,002 = 20$ N.
+
+Câu 18. [VD] Một vật có khối lượng 0,5 kg nằm lơ lửng trong nước (khối lượng riêng 1000 kg/m³), lấy $g = 10$ m/s². Thể tích của vật là
+A. $5 \cdot 10^{-3}$ m³.
+B. $2 \cdot 10^{-3}$ m³.
+C. $0,5$ m³.
+*D. $5 \cdot 10^{-4}$ m³.
+Lời giải
+Vật lơ lửng nên $F_A = P$: $\rho gV = mg$, suy ra $V = \dfrac{m}{\rho} = \dfrac{0,5}{1000} = 5 \cdot 10^{-4}$ m³.
+
+Câu 19. [VD] Quả cầu có khối lượng 0,8 kg và thể tích 0,001 m³ được thả vào nước (khối lượng riêng 1000 kg/m³), lấy $g = 10$ m/s². Khi cân bằng, tỉ số giữa thể tích phần chìm và thể tích của quả cầu là
+A. 1.
+*B. 0,8.
+C. 0,2.
+D. 1,25.
+Lời giải
+Nếu chìm hoàn toàn thì $F_A = 10$ N lớn hơn $P = 8$ N nên quả cầu nổi. Khi cân bằng, $\rho gV_{chìm} = mg$ nên $V_{chìm} = 0,8 \cdot 10^{-3}$ m³, tỉ số bằng 0,8.
+
+Câu 20. [VD] Treo một vật vào lực kế, trong không khí lực kế chỉ 5 N; khi nhúng chìm hoàn toàn vật trong nước, lực kế chỉ 3 N. Lấy $g = 10$ m/s², khối lượng riêng của nước 1000 kg/m³. Thể tích của vật là
+A. 500 cm³.
+B. 300 cm³.
+C. 2000 cm³.
+*D. 200 cm³.
+Lời giải
+$F_A = 5 - 3 = 2$ N nên $V = \dfrac{F_A}{\rho g} = \dfrac{2}{1000 \cdot 10} = 2 \cdot 10^{-4}$ m³ = 200 cm³.
+
+Câu 21. [VD] Vận động viên nhảy dù có khối lượng 80 kg (kể cả trang bị) đang rơi thẳng đứng với tốc độ không đổi. Lấy $g = 10$ m/s². Lực cản của không khí tác dụng lên người có độ lớn
+A. 80 N.
+*B. 800 N.
+C. 8 N.
+D. 8000 N.
+Lời giải
+Rơi đều nên hợp lực bằng 0: $F_c = P = mg = 800$ N.
+
+Câu 22. [VD] Giả sử lực cản của không khí tác dụng lên ô tô tỉ lệ với bình phương tốc độ. Khi xe chạy với tốc độ 10 m/s lực cản là 50 N. Khi xe chạy với tốc độ 20 m/s thì lực cản là
+A. 100 N.
+*B. 200 N.
+C. 400 N.
+D. 150 N.
+Lời giải
+$F_c = kv^2$; tốc độ tăng gấp 2 thì lực cản tăng $2^2 = 4$ lần: $4 \cdot 50 = 200$ N.
+
+Câu 23. [TF] [TH] Về lực cản của chất lưu:
+*A. Lực cản có hướng ngược với hướng chuyển động của vật.
+*B. Vật có hình dạng thon, trơn chịu lực cản nhỏ hơn.
+*C. Lực cản của không khí tác dụng lên vật thường tăng khi tốc độ tăng.
+D. Lực cản chỉ xuất hiện khi vật chuyển động trong chất lỏng.
+Lời giải
+Chất khí cũng là chất lưu nên vật chuyển động trong không khí cũng chịu lực cản.
+
+Câu 24. [TF] [TH] Về lực đẩy Archimedes:
+*A. Lực đẩy Archimedes có phương thẳng đứng, chiều hướng lên.
+B. Độ lớn lực đẩy Archimedes luôn bằng trọng lượng của vật nhúng trong chất lỏng.
+*C. Độ lớn lực đẩy Archimedes phụ thuộc vào thể tích phần chiếm chỗ và khối lượng riêng của chất lỏng.
+D. Vật đã chìm hoàn toàn thì chìm càng sâu lực đẩy Archimedes càng lớn.
+Lời giải
+Độ lớn lực đẩy bằng trọng lượng phần chất lỏng bị vật chiếm chỗ (không phải trọng lượng của vật), và không đổi khi vật đã chìm hoàn toàn.
+
+Câu 25. [TF] [TH] Khúc gỗ nằm cân bằng, nổi một phần trên mặt nước:
+*A. Lực đẩy Archimedes cân bằng với trọng lực tác dụng lên khúc gỗ.
+B. Lực đẩy Archimedes lớn hơn trọng lực tác dụng lên khúc gỗ.
+C. Khối lượng riêng của gỗ lớn hơn khối lượng riêng của nước.
+D. Lực đẩy Archimedes không phụ thuộc vào phần gỗ chìm trong nước.
+Lời giải
+Vật nổi cân bằng thì $F_A = P$. Vật nổi khi khối lượng riêng của vật nhỏ hơn của chất lỏng, và $F_A$ tỉ lệ với thể tích phần chìm.
+
+Câu 26. [TF] [VD] Vật có khối lượng 3 kg, thể tích 0,002 m³ được thả vào nước (khối lượng riêng 1000 kg/m³), lấy $g = 10$ m/s²:
+*A. Lực đẩy Archimedes lớn nhất tác dụng lên vật là 20 N.
+*B. Vật chìm xuống đáy.
+*C. Treo vật vào lực kế rồi nhúng chìm hoàn toàn trong nước thì lực kế chỉ 10 N.
+*D. Khối lượng riêng của vật là 1500 kg/m³.
+Lời giải
+$F_{A\max} = 1000 \cdot 10 \cdot 0,002 = 20$ N nhỏ hơn $P = 30$ N nên vật chìm. Lực kế chỉ $30 - 20 = 10$ N. Khối lượng riêng $\rho = \dfrac{3}{0,002} = 1500$ kg/m³.
+
+Câu 27. [TF] [VD] Vật khối lượng 2 kg rơi thẳng đứng trong không khí với tốc độ không đổi, lấy $g = 10$ m/s²:
+*A. Lực cản của không khí có độ lớn 20 N.
+B. Gia tốc của vật là 10 m/s².
+*C. Hợp lực tác dụng lên vật bằng 0.
+D. Lực cản của không khí bằng 0.
+Lời giải
+Rơi với tốc độ không đổi nên gia tốc bằng 0, hợp lực bằng 0 và $F_c = P = 20$ N.
+
+Câu 28. [TF] [VD] Vật khối lượng 2 kg rơi thẳng đứng trong không khí với gia tốc 8 m/s², lấy $g = 10$ m/s²:
+*A. Hợp lực tác dụng lên vật có độ lớn 16 N.
+*B. Lực cản của không khí có độ lớn 4 N.
+*C. Lực cản của không khí hướng thẳng đứng lên trên.
+D. Lực cản của không khí có độ lớn 16 N.
+Lời giải
+Hợp lực $F = ma = 16$ N hướng xuống; $P - F_c = ma$ nên $F_c = 20 - 16 = 4$ N, hướng lên.
+
+Câu 29. [TF] [VD] Khối gỗ khối lượng 2 kg, khối lượng riêng 600 kg/m³, thả vào nước (khối lượng riêng 1000 kg/m³), lấy $g = 10$ m/s²:
+*A. Khối gỗ nổi, lực đẩy Archimedes tác dụng lên gỗ là 20 N.
+B. Lực đẩy Archimedes tác dụng lên gỗ là khoảng 33 N.
+C. Thể tích phần gỗ chìm trong nước là khoảng $3,3 \cdot 10^{-3}$ m³.
+D. Khối gỗ chìm hoàn toàn trong nước.
+Lời giải
+Gỗ nổi vì $\rho_{gỗ} < \rho_{nước}$ nên $F_A = P = 20$ N, thể tích phần chìm $V = \dfrac{20}{1000 \cdot 10} = 2 \cdot 10^{-3}$ m³ (nhỏ hơn thể tích gỗ $\dfrac{2}{600} \approx 3,3 \cdot 10^{-3}$ m³).
+
+Câu 30. [TH] Quả bóng khối lượng 0,4 kg nổi cân bằng trên mặt nước. Lấy $g = 10$ m/s². Tính độ lớn lực đẩy Archimedes tác dụng lên quả bóng (theo đơn vị N).
+Trả lời: [[4]]
+Lời giải
+Vật nổi cân bằng nên $F_A = P = 0,4 \cdot 10 = 4$ N.
+
+Câu 31. [TH] Lực đẩy Archimedes tác dụng lên vật chìm hoàn toàn trong nước là 12 N. Lấy $g = 10$ m/s², khối lượng riêng của nước 1000 kg/m³. Tính thể tích của vật (theo đơn vị lít, 1 lít = $10^{-3}$ m³).
+Trả lời: [[1,2]]
+Lời giải
+$V = \dfrac{F_A}{\rho g} = \dfrac{12}{10^4} = 1,2 \cdot 10^{-3}$ m³ = 1,2 lít.
+
+Câu 32. [TH] Máy bay có khối lượng 1,5 tấn đang bay ngang thẳng đều. Lấy $g = 10$ m/s². Tính độ lớn lực nâng tác dụng lên máy bay (theo đơn vị kN).
+Trả lời: [[15]]
+Lời giải
+Bay ngang thẳng đều nên lực nâng cân bằng với trọng lực: $F_n = P = 1500 \cdot 10 = 15000$ N = 15 kN.
+
+Câu 33. [VD] Vật có trọng lượng 8 N, thể tích 300 cm³ được treo vào lực kế rồi nhúng chìm hoàn toàn trong dầu có khối lượng riêng 800 kg/m³. Lấy $g = 10$ m/s². Tính số chỉ của lực kế (theo đơn vị N).
+Trả lời: [[5,6]]
+Lời giải
+$F_A = \rho gV = 800 \cdot 10 \cdot 3 \cdot 10^{-4} = 2,4$ N nên lực kế chỉ $8 - 2,4 = 5,6$ N.
+
+Câu 34. [VD] Treo vật vào lực kế, trong không khí lực kế chỉ 6 N; khi nhúng chìm hoàn toàn trong nước, lực kế chỉ 4 N. Lấy $g = 10$ m/s², khối lượng riêng của nước 1000 kg/m³. Tính khối lượng riêng của vật (theo đơn vị kg/m³).
+Trả lời: [[3000]]
+Lời giải
+$F_A = 2$ N nên $V = 2 \cdot 10^{-4}$ m³; $m = \dfrac{P}{g} = 0,6$ kg nên $\rho = \dfrac{0,6}{2 \cdot 10^{-4}} = 3000$ kg/m³.
+
+Câu 35. [VD] Khối gỗ hình lập phương cạnh 10 cm, khối lượng 0,6 kg, thả nổi trong nước (khối lượng riêng 1000 kg/m³) sao cho một mặt song song với mặt nước. Tính chiều cao phần gỗ chìm trong nước (theo đơn vị cm).
+Trả lời: [[6]]
+Lời giải
+Cân bằng nên $\rho g S h = mg$ hay $h = \dfrac{m}{\rho S} = \dfrac{0,6}{1000 \cdot 0,01} = 0,06$ m = 6 cm.
+
+Câu 36. [VD] Hòn đá khối lượng 2,5 kg, khối lượng riêng 2500 kg/m³ chìm hoàn toàn dưới đáy hồ nước (khối lượng riêng 1000 kg/m³). Lấy $g = 10$ m/s². Tính lực kéo nhỏ nhất theo phương thẳng đứng để nâng đều hòn đá lên khi nó còn chìm hoàn toàn trong nước, bỏ qua lực cản của nước (theo đơn vị N).
+Trả lời: [[15]]
+Lời giải
+Thể tích đá $V = \dfrac{2,5}{2500} = 10^{-3}$ m³ nên $F_A = 1000 \cdot 10 \cdot 10^{-3} = 10$ N. Nâng đều thì $F + F_A = P$ nên $F = 25 - 10 = 15$ N.
+
+Câu 37. [VD] Giả sử lực cản của không khí tác dụng lên vật rơi có độ lớn $F_c = kv^2$ với $k = 0,2$ kg/m. Vật khối lượng 2 kg rơi thẳng đứng, lấy $g = 10$ m/s². Tính tốc độ của vật khi lực cản cân bằng với trọng lực (tốc độ giới hạn) (theo đơn vị m/s).
+Trả lời: [[10]]
+Lời giải
+$kv^2 = mg$ nên $v = \sqrt{\dfrac{mg}{k}} = \sqrt{\dfrac{20}{0,2}} = 10$ m/s.
+
+Câu 38. [VD] Khí cầu có thể tích 500 m³, tổng khối lượng (vỏ, khí bên trong và tải) là 450 kg, bay lên từ mặt đất. Khối lượng riêng của không khí là 1,2 kg/m³, lấy $g = 10$ m/s², bỏ qua lực cản. Tính độ lớn hợp lực tác dụng lên khí cầu lúc mới rời mặt đất (theo đơn vị N).
+Trả lời: [[1500]]
+Lời giải
+$F_A = \rho gV = 1,2 \cdot 10 \cdot 500 = 6000$ N, $P = 450 \cdot 10 = 4500$ N nên hợp lực $F = 6000 - 4500 = 1500$ N hướng lên.
+
 @bai 20 | Một số ví dụ về cách giải các bài toán thuộc phần động lực học
+Câu 1. [NB] Bước đầu tiên khi giải một bài toán động lực học là
+*A. xác định vật khảo sát và vẽ các lực tác dụng lên vật.
+B. viết ngay công thức tính gia tốc rồi thay số.
+C. đổi tất cả các đại lượng sang đơn vị khác.
+D. tính quãng đường vật đã đi được.
+Lời giải
+Cần xác định vật khảo sát và biểu diễn đầy đủ các lực tác dụng lên vật trước khi áp dụng định luật 2 Newton.
+
+Câu 2. [NB] Phương trình biểu diễn định luật 2 Newton cho vật chịu tác dụng của ba lực $\vec{F}_1$, $\vec{F}_2$, $\vec{F}_3$ là
+A. $\vec{F}_1 - \vec{F}_2 - \vec{F}_3 = m\vec{a}$.
+B. $F_1 + F_2 + F_3 = m + a$.
+C. $\vec{F}_1 \cdot \vec{F}_2 \cdot \vec{F}_3 = m\vec{a}$.
+*D. $\vec{F}_1 + \vec{F}_2 + \vec{F}_3 = m\vec{a}$.
+Lời giải
+Tổng vectơ các lực (hợp lực) tác dụng lên vật bằng tích của khối lượng và gia tốc của vật.
+
+Câu 3. [NB] Vật nằm trên mặt phẳng ngang, chỉ chịu trọng lực $\vec{P}$ và phản lực $\vec{N}$ theo phương thẳng đứng, vật không chuyển động theo phương này. Ta có
+A. $N > P$.
+*B. $N = P$.
+C. $N < P$.
+D. $N = 0$.
+Lời giải
+Theo phương thẳng đứng gia tốc bằng 0 nên hợp lực bằng 0: $N = P$.
+
+Câu 4. [NB] Vật khối lượng $m$ đặt trên mặt phẳng nghiêng góc $\alpha$ so với phương ngang. Thành phần của trọng lực song song với mặt phẳng nghiêng có độ lớn là
+*A. $mg\sin\alpha$.
+B. $mg\cos\alpha$.
+C. $mg\tan\alpha$.
+D. $mg$.
+Lời giải
+Khi phân tích trọng lực theo hai phương song song và vuông góc với mặt phẳng nghiêng, thành phần song song là $P\sin\alpha$.
+
+Câu 5. [NB] Vật khối lượng $m$ đặt trên mặt phẳng nghiêng góc $\alpha$. Thành phần của trọng lực vuông góc với mặt phẳng nghiêng có độ lớn là
+A. $mg\sin\alpha$.
+B. $mg\tan\alpha$.
+*C. $mg\cos\alpha$.
+D. $mg$.
+Lời giải
+Thành phần vuông góc với mặt phẳng nghiêng là $P\cos\alpha$.
+
+Câu 6. [NB] Khi giải bài toán động lực học, việc chọn hệ trục tọa độ thuận lợi là
+A. luôn chọn trục thẳng đứng và trục nằm ngang.
+B. cả hai trục đều vuông góc với hướng chuyển động.
+C. mỗi lực chọn một hệ trục riêng.
+*D. một trục dọc theo hướng gia tốc, một trục vuông góc.
+Lời giải
+Chọn một trục cùng hướng với gia tốc giúp các phương trình đơn giản hơn.
+
+Câu 7. [NB] Công thức tính độ lớn lực ma sát trượt là
+*A. $F_{ms} = \mu N$.
+B. $F_{ms} = \mu mg\sin\alpha$.
+C. $F_{ms} = \mu P\cos\alpha$ trong mọi trường hợp.
+D. $F_{ms} = \mu ma$.
+Lời giải
+Lực ma sát trượt tỉ lệ với độ lớn phản lực pháp tuyến: $F_{ms} = \mu N$.
+
+Câu 8. [NB] Hai vật nối với nhau bằng dây nhẹ, không dãn thì
+A. có gia tốc khác nhau về độ lớn.
+B. luôn có khối lượng bằng nhau.
+*C. có gia tốc cùng độ lớn khi dây căng.
+D. luôn chuyển động thẳng đều.
+Lời giải
+Dây không dãn nên các vật nối chuyển động cùng tốc độ và cùng độ lớn gia tốc.
+
+Câu 9. [TH] Vật trượt xuống mặt phẳng nghiêng nhẵn góc $\alpha$ so với phương ngang. Gia tốc của vật là
+A. $a = g\cos\alpha$.
+B. $a = g\tan\alpha$.
+*C. $a = g\sin\alpha$.
+D. $a = g$.
+Lời giải
+Hợp lực dọc mặt phẳng nghiêng là $P\sin\alpha$ nên $a = \dfrac{mg\sin\alpha}{m} = g\sin\alpha$.
+
+Câu 10. [TH] Kéo vật trượt trên sàn nằm ngang bằng lực $\vec{F}$ chếch lên phía trên hợp với phương ngang một góc $\alpha$. Độ lớn phản lực pháp tuyến $N$ của sàn lên vật so với trọng lượng $P$ là
+*A. $N = P - F\sin\alpha$, nhỏ hơn $P$.
+B. $N = P + F\sin\alpha$, lớn hơn $P$.
+C. $N = P$.
+D. $N = P - F\cos\alpha$, nhỏ hơn $P$.
+Lời giải
+Theo phương thẳng đứng: $N + F\sin\alpha = P$ nên $N = P - F\sin\alpha$.
+
+Câu 11. [TH] Vật 1 và vật 2 nối với nhau bằng dây nhẹ, không dãn, đặt trên mặt phẳng ngang nhẵn. Kéo vật 1 bằng lực $F$ nằm ngang, dọc theo dây và hướng ra xa vật 2. Lực căng của dây có độ lớn
+A. lớn hơn $F$.
+*B. nhỏ hơn $F$.
+C. bằng $F$.
+D. bằng 0.
+Lời giải
+Chỉ một phần lực kéo làm vật 2 chuyển động: $T = m_2a < F$ (vì $F = (m_1 + m_2)a$).
+
+Câu 12. [TH] Hai vật có khối lượng $m_1 > m_2$ nối bằng dây nhẹ, không dãn, vắt qua ròng rọc cố định nhẹ, bỏ qua ma sát. Khi thả cho hệ chuyển động thì
+A. vật $m_1$ đi lên, vật $m_2$ đi xuống.
+B. hai vật đứng yên vì lực căng cân bằng.
+C. hai vật chuyển động cùng chiều với gia tốc khác nhau.
+*D. vật $m_1$ đi xuống, vật $m_2$ đi lên với cùng độ lớn gia tốc.
+Lời giải
+Vật nặng hơn đi xuống, vật nhẹ hơn đi lên; dây không dãn nên gia tốc hai vật cùng độ lớn.
+
+Câu 13. [TH] Vật đặt trên mặt phẳng nghiêng góc $\alpha$, hệ số ma sát trượt $\mu$; coi lực ma sát nghỉ cực đại bằng lực ma sát trượt. Vật bắt đầu trượt xuống khi
+A. $\tan\alpha < \mu$.
+*B. $\tan\alpha > \mu$.
+C. $\sin\alpha < \mu$.
+D. $\cos\alpha > \mu$.
+Lời giải
+Vật trượt khi $mg\sin\alpha > \mu mg\cos\alpha$, tức $\tan\alpha > \mu$.
+
+Câu 14. [TH] Người đứng trên sàn thang máy đang đi xuống nhanh dần đều. So với trọng lượng $P$ của người, lực $N$ của sàn tác dụng lên người
+A. lớn hơn $P$.
+*B. nhỏ hơn $P$.
+C. bằng $P$.
+D. bằng 0 trong mọi trường hợp.
+Lời giải
+Gia tốc hướng xuống: $P - N = ma$ nên $N = P - ma < P$.
+
+Câu 15. [TH] Vật trượt lên mặt phẳng nghiêng góc $\alpha$ có ma sát (hệ số $\mu$) và đang chậm dần. Độ lớn gia tốc của vật là
+A. $a = g(\sin\alpha - \mu\cos\alpha)$.
+B. $a = g\sin\alpha$.
+*C. $a = g(\sin\alpha + \mu\cos\alpha)$.
+D. $a = \mu g\cos\alpha$.
+Lời giải
+Khi vật đi lên, cả thành phần trọng lực $P\sin\alpha$ và ma sát $\mu P\cos\alpha$ đều hướng xuống dọc mặt phẳng nghiêng.
+
+Câu 16. [TH] Phát biểu nào sau đây SAI?
+A. Với dây nhẹ, không dãn (và ròng rọc nhẹ, không ma sát), lực căng ở mọi điểm của dây có cùng độ lớn.
+B. Hai vật nối bằng dây không dãn thì có cùng độ lớn gia tốc khi dây căng.
+C. Khi vật trượt trên mặt phẳng nghiêng có ma sát, lực ma sát tính bằng $\mu N$.
+*D. Khi vật chuyển động trên mặt phẳng nghiêng, phản lực $N$ luôn bằng trọng lượng của vật.
+Lời giải
+Trên mặt phẳng nghiêng góc $\alpha$ (không có lực khác vuông góc), $N = P\cos\alpha < P$.
+
+Câu 17. [VD] Vật khối lượng 2 kg được kéo trên sàn nằm ngang bằng lực ngang 10 N. Hệ số ma sát trượt giữa vật và sàn là 0,2, lấy $g = 10$ m/s². Gia tốc của vật là
+A. 5 m/s².
+B. 4 m/s².
+*C. 3 m/s².
+D. 7 m/s².
+Lời giải
+$F_{ms} = 0,2 \cdot 20 = 4$ N nên $a = \dfrac{10 - 4}{2} = 3$ m/s².
+
+Câu 18. [VD] Vật trượt không ma sát xuống mặt phẳng nghiêng góc 30° so với phương ngang, lấy $g = 10$ m/s². Gia tốc của vật là
+*A. 5 m/s².
+B. 10 m/s².
+C. 8,66 m/s².
+D. 2,5 m/s².
+Lời giải
+$a = g\sin 30° = 10 \cdot 0,5 = 5$ m/s².
+
+Câu 19. [VD] Hai vật $m_1 = 2$ kg và $m_2 = 3$ kg nối với nhau bằng dây nhẹ, không dãn, đặt trên mặt phẳng ngang nhẵn. Kéo vật $m_1$ bằng lực ngang 10 N dọc theo dây. Lực căng của dây có độ lớn
+A. 4 N.
+B. 10 N.
+C. 5 N.
+*D. 6 N.
+Lời giải
+Gia tốc chung $a = \dfrac{10}{2 + 3} = 2$ m/s². Dây kéo vật $m_2$ nên $T = m_2a = 3 \cdot 2 = 6$ N.
+
+Câu 20. [VD] Hai vật khối lượng 4 kg và 1 kg nối với nhau bằng dây nhẹ, không dãn vắt qua ròng rọc cố định nhẹ, bỏ qua ma sát. Lấy $g = 10$ m/s². Gia tốc của mỗi vật có độ lớn
+A. 10 m/s².
+*B. 6 m/s².
+C. 7,5 m/s².
+D. 3 m/s².
+Lời giải
+$a = \dfrac{(m_1 - m_2)g}{m_1 + m_2} = \dfrac{3 \cdot 10}{5} = 6$ m/s².
+
+Câu 21. [VD] Vật trượt xuống mặt phẳng nghiêng góc 37° với hệ số ma sát trượt 0,25. Lấy $g = 10$ m/s², $\sin 37° = 0,6$, $\cos 37° = 0,8$. Gia tốc của vật là
+A. 6 m/s².
+*B. 4 m/s².
+C. 8 m/s².
+D. 2 m/s².
+Lời giải
+$a = g(\sin 37° - \mu\cos 37°) = 10 \cdot (0,6 - 0,25 \cdot 0,8) = 4$ m/s².
+
+Câu 22. [VD] Người khối lượng 50 kg đứng trên sàn thang máy đang đi xuống nhanh dần đều với gia tốc 2 m/s². Lấy $g = 10$ m/s². Lực của sàn tác dụng lên người có độ lớn
+*A. 400 N.
+B. 600 N.
+C. 500 N.
+D. 100 N.
+Lời giải
+$P - N = ma$ nên $N = m(g - a) = 50 \cdot 8 = 400$ N.
+
+Câu 23. [TF] [TH] Vật khối lượng $m$ đặt trên mặt phẳng nghiêng góc $\alpha$ so với phương ngang:
+*A. Thành phần của trọng lực song song với mặt phẳng nghiêng có độ lớn $mg\sin\alpha$.
+*B. Thành phần của trọng lực vuông góc với mặt phẳng nghiêng có độ lớn $mg\cos\alpha$.
+*C. Khi không có lực nào khác vuông góc với mặt phẳng nghiêng thì $N = mg\cos\alpha$.
+D. Phản lực pháp tuyến của mặt phẳng nghiêng có độ lớn $mg\sin\alpha$.
+Lời giải
+Vật không chuyển động theo phương vuông góc với mặt phẳng nghiêng nên $N = P\cos\alpha$, không phải $P\sin\alpha$.
+
+Câu 24. [TF] [TH] Hai vật nối với nhau bằng dây nhẹ, không dãn:
+*A. Khi dây căng, hai vật có gia tốc cùng độ lớn.
+B. Lực căng của dây ở hai đầu dây có độ lớn khác nhau.
+*C. Lực căng của dây có cùng độ lớn tại mọi điểm trên dây (dây nhẹ).
+D. Lực căng của dây luôn bằng trọng lượng của vật treo ở đầu dây.
+Lời giải
+Dây nhẹ nên lực căng như nhau ở mọi điểm. Lực căng chỉ bằng trọng lượng khi vật cân bằng.
+
+Câu 25. [TF] [TH] Vật trượt xuống mặt phẳng nghiêng góc $\alpha$ so với phương ngang, hệ số ma sát trượt $\mu$:
+*A. Độ lớn lực ma sát trượt là $\mu mg\cos\alpha$.
+B. Gia tốc của vật là $g\sin\alpha$.
+C. Gia tốc của vật là $g(\sin\alpha + \mu\cos\alpha)$.
+D. Phản lực pháp tuyến của mặt phẳng nghiêng có độ lớn $mg\sin\alpha$.
+Lời giải
+$N = mg\cos\alpha$ nên $F_{ms} = \mu mg\cos\alpha$. Khi trượt xuống có ma sát thì $a = g(\sin\alpha - \mu\cos\alpha)$.
+
+Câu 26. [TF] [VD] Vật khối lượng 2 kg trượt từ trạng thái nghỉ xuống mặt phẳng nghiêng góc 37°, hệ số ma sát trượt 0,5. Lấy $g = 10$ m/s², $\sin 37° = 0,6$, $\cos 37° = 0,8$:
+*A. Phản lực pháp tuyến có độ lớn 16 N.
+*B. Lực ma sát trượt có độ lớn 8 N.
+*C. Gia tốc của vật là 2 m/s².
+*D. Sau 3 s vật đi được quãng đường 9 m.
+Lời giải
+$N = mg\cos 37° = 16$ N; $F_{ms} = 0,5 \cdot 16 = 8$ N; $a = \dfrac{mg\sin 37° - F_{ms}}{m} = \dfrac{12 - 8}{2} = 2$ m/s²; $s = \dfrac{1}{2} \cdot 2 \cdot 3^2 = 9$ m.
+
+Câu 27. [TF] [VD] Hai vật khối lượng 1 kg và 3 kg nối với nhau bằng dây nhẹ, không dãn vắt qua ròng rọc cố định nhẹ, bỏ qua ma sát, lấy $g = 10$ m/s²:
+*A. Gia tốc của mỗi vật có độ lớn 5 m/s².
+B. Lực căng của dây có độ lớn 30 N.
+*C. Lực căng của dây có độ lớn 15 N.
+D. Lực căng của dây có độ lớn 10 N.
+Lời giải
+$a = \dfrac{(3 - 1) \cdot 10}{4} = 5$ m/s². Với vật 1 kg: $T - 10 = 1 \cdot 5$ nên $T = 15$ N (kiểm tra với vật 3 kg: $30 - T = 3 \cdot 5$, $T = 15$ N).
+
+Câu 28. [TF] [VD] Người khối lượng 60 kg đứng trên sàn thang máy đang đi lên chậm dần đều với gia tốc 2 m/s², lấy $g = 10$ m/s²:
+*A. Hợp lực tác dụng lên người hướng xuống.
+*B. Lực của sàn tác dụng lên người có độ lớn 480 N.
+*C. Lực của sàn tác dụng lên người nhỏ hơn trọng lượng của người.
+D. Lực của sàn tác dụng lên người có độ lớn 720 N.
+Lời giải
+Đi lên chậm dần nên gia tốc hướng xuống: $P - N = ma$, $N = m(g - a) = 60 \cdot 8 = 480$ N, nhỏ hơn $P = 600$ N.
+
+Câu 29. [TF] [VD] Hai vật $m_1 = 2$ kg, $m_2 = 3$ kg nối với nhau bằng dây nhẹ, không dãn, đặt trên mặt phẳng ngang có hệ số ma sát trượt 0,2. Kéo vật $m_1$ bằng lực ngang 30 N dọc theo dây, lấy $g = 10$ m/s²:
+*A. Gia tốc của hệ là 4 m/s².
+B. Gia tốc của hệ là 6 m/s².
+C. Lực căng của dây là 12 N.
+D. Lực căng của dây là 30 N.
+Lời giải
+Tổng lực ma sát $0,2 \cdot 50 = 10$ N nên $a = \dfrac{30 - 10}{5} = 4$ m/s². Với vật $m_2$: $T - 0,2 \cdot 30 = 3 \cdot 4$ nên $T = 18$ N.
+
+Câu 30. [TH] Vật trượt không ma sát từ trạng thái nghỉ xuống mặt phẳng nghiêng góc 37° so với phương ngang. Lấy $g = 10$ m/s², $\sin 37° = 0,6$. Tính tốc độ của vật sau 2 s (theo đơn vị m/s).
+Trả lời: [[12]]
+Lời giải
+$a = g\sin 37° = 6$ m/s² nên $v = at = 6 \cdot 2 = 12$ m/s.
+
+Câu 31. [TH] Vật khối lượng 8 kg được kéo trên sàn nằm ngang bằng lực 30 N chếch lên trên, hợp với phương ngang góc 37°. Lấy $g = 10$ m/s², $\sin 37° = 0,6$. Tính độ lớn phản lực pháp tuyến của sàn tác dụng lên vật (theo đơn vị N).
+Trả lời: [[62]]
+Lời giải
+$N = P - F\sin 37° = 80 - 30 \cdot 0,6 = 62$ N.
+
+Câu 32. [TH] Vật khối lượng 6 kg đặt trên mặt phẳng nghiêng góc 30° so với phương ngang. Lấy $g = 10$ m/s². Tính độ lớn thành phần của trọng lực song song với mặt phẳng nghiêng (theo đơn vị N).
+Trả lời: [[30]]
+Lời giải
+$P_\parallel = mg\sin 30° = 60 \cdot 0,5 = 30$ N.
+
+Câu 33. [VD] Ô tô khối lượng 1 tấn lên dốc có $\sin\alpha = 0,1$ với lực kéo của động cơ 6000 N (song song mặt dốc). Tổng lực cản (ma sát và không khí) là 500 N. Lấy $g = 10$ m/s². Tính gia tốc của ô tô (theo đơn vị m/s²).
+Trả lời: [[4,5]]
+Lời giải
+Hợp lực dọc dốc: $F - P\sin\alpha - F_c = 6000 - 1000 - 500 = 4500$ N nên $a = \dfrac{4500}{1000} = 4,5$ m/s².
+
+Câu 34. [VD] Hai khối gỗ khối lượng 2 kg và 3 kg đặt sát nhau trên mặt phẳng ngang nhẵn. Đẩy khối 2 kg bằng lực ngang 15 N thì cả hai cùng chuyển động. Tính độ lớn lực mà khối 2 kg đẩy khối 3 kg (theo đơn vị N).
+Trả lời: [[9]]
+Lời giải
+Gia tốc chung $a = \dfrac{15}{2 + 3} = 3$ m/s². Khối 3 kg chỉ chịu lực đẩy của khối 2 kg theo phương ngang: $F = 3 \cdot 3 = 9$ N.
+
+Câu 35. [VD] Hai vật khối lượng 2 kg và 3 kg nối với nhau bằng dây nhẹ, không dãn vắt qua ròng rọc cố định nhẹ, bỏ qua ma sát. Lấy $g = 10$ m/s². Tính lực căng của dây (theo đơn vị N).
+Trả lời: [[24]]
+Lời giải
+$a = \dfrac{(3 - 2) \cdot 10}{5} = 2$ m/s². Với vật 2 kg: $T - 20 = 2 \cdot 2$ nên $T = 24$ N.
+
+Câu 36. [VD] Thùng hàng khối lượng 10 kg được đẩy trên sàn nằm ngang bằng lực 50 N chếch xuống phía dưới, hợp với phương ngang góc 37°. Hệ số ma sát trượt là 0,2. Lấy $g = 10$ m/s², $\sin 37° = 0,6$, $\cos 37° = 0,8$. Tính gia tốc của thùng (theo đơn vị m/s²).
+Trả lời: [[1,4]]
+Lời giải
+Theo phương thẳng đứng: $N = P + F\sin 37° = 100 + 30 = 130$ N nên $F_{ms} = 0,2 \cdot 130 = 26$ N. Theo phương ngang: $a = \dfrac{F\cos 37° - F_{ms}}{m} = \dfrac{40 - 26}{10} = 1,4$ m/s².
+
+Câu 37. [VD] Vật trượt không ma sát từ trạng thái nghỉ xuống hết một mặt phẳng nghiêng dài 4 m, nghiêng góc 30° so với phương ngang. Lấy $g = 10$ m/s². Tính thời gian vật trượt hết mặt phẳng nghiêng (theo đơn vị s, làm tròn đến hai chữ số thập phân).
+Trả lời: [[1,26]]
+Lời giải
+$a = g\sin 30° = 5$ m/s². $s = \dfrac{1}{2}at^2$ nên $t = \sqrt{\dfrac{2 \cdot 4}{5}} \approx 1,26$ s.
+
+Câu 38. [VD] Vật được truyền vận tốc đầu 10 m/s hướng lên dọc theo mặt phẳng nghiêng góc 37°, hệ số ma sát trượt 0,5. Lấy $g = 10$ m/s², $\sin 37° = 0,6$, $\cos 37° = 0,8$. Tính quãng đường vật đi lên được trên mặt phẳng nghiêng đến vị trí cao nhất (theo đơn vị m).
+Trả lời: [[5]]
+Lời giải
+Khi đi lên: $a = g(\sin 37° + \mu\cos 37°) = 10 \cdot (0,6 + 0,4) = 10$ m/s² (chậm dần). $s = \dfrac{v_0^2}{2a} = \dfrac{100}{20} = 5$ m.
+
 @bai 21 | Moment lực. Cân bằng của vật rắn
+Câu 1. [NB] Moment của lực đối với một trục quay là đại lượng đặc trưng cho
+A. tác dụng làm vật chuyển động tịnh tiến của lực.
+B. độ lớn của khối lượng vật.
+*C. tác dụng làm quay vật quanh trục đó của lực.
+D. mức quán tính của vật khi chuyển động tịnh tiến.
+Lời giải
+Moment lực cho biết tác dụng làm quay của lực đối với trục quay đang xét.
+
+Câu 2. [NB] Biểu thức tính độ lớn moment của lực $F$ đối với trục quay, với $d$ là cánh tay đòn, là
+A. $M = \dfrac{F}{d}$.
+B. $M = \dfrac{d}{F}$.
+C. $M = F + d$.
+*D. $M = Fd$.
+Lời giải
+Moment lực bằng tích của độ lớn lực và cánh tay đòn: $M = Fd$.
+
+Câu 3. [NB] Đơn vị của moment lực trong hệ SI là
+*A. N·m.
+B. N/m.
+C. N.
+D. kg·m.
+Lời giải
+$M = Fd$ nên đơn vị là newton nhân mét (N·m).
+
+Câu 4. [NB] Cánh tay đòn của một lực đối với trục quay là
+*A. khoảng cách từ trục quay đến giá của lực.
+B. khoảng cách từ trục quay đến điểm đặt của lực.
+C. độ dài của vectơ lực.
+D. khoảng cách giữa hai điểm đặt của hai lực.
+Lời giải
+Cánh tay đòn là khoảng cách (vuông góc) từ trục quay đến đường tác dụng (giá) của lực.
+
+Câu 5. [NB] Quy tắc moment: một vật có trục quay cố định ở trạng thái cân bằng khi
+A. tổng độ lớn của tất cả các lực tác dụng lên vật bằng 0 tại mọi thời điểm.
+B. tất cả các lực tác dụng lên vật đều có cùng độ lớn với nhau.
+*C. tổng moment làm vật quay thuận chiều kim đồng hồ bằng tổng moment làm vật quay ngược chiều.
+D. tất cả các lực tác dụng lên vật đều có cùng cánh tay đòn.
+Lời giải
+Đây là quy tắc moment (điều kiện cân bằng của vật có trục quay cố định).
+
+Câu 6. [NB] Điều kiện cân bằng của một vật rắn là
+A. chỉ cần tổng các lực tác dụng lên vật bằng 0 là đủ.
+*B. tổng các lực bằng 0 và tổng moment các lực đối với một điểm bất kì bằng 0.
+C. chỉ cần tổng moment các lực tác dụng lên vật bằng 0 là đủ.
+D. các lực tác dụng lên vật phải có cùng một giá với nhau.
+Lời giải
+Vật rắn cân bằng khi hợp lực bằng 0 (không chuyển động tịnh tiến) và tổng moment bằng 0 (không quay).
+
+Câu 7. [NB] Ngẫu lực là hệ hai lực
+A. song song, cùng chiều, cùng độ lớn, khác giá.
+*B. song song, ngược chiều, cùng độ lớn, khác giá.
+C. cùng giá, ngược chiều, cùng độ lớn với nhau.
+D. vuông góc với nhau và có cùng độ lớn.
+Lời giải
+Ngẫu lực gồm hai lực song song, ngược chiều, có độ lớn bằng nhau và có giá khác nhau.
+
+Câu 8. [NB] Lực có giá đi qua trục quay thì moment của lực đối với trục quay đó
+A. lớn nhất.
+B. bằng độ lớn của lực.
+*C. bằng 0.
+D. âm.
+Lời giải
+Giá của lực đi qua trục quay thì cánh tay đòn bằng 0 nên $M = 0$.
+
+Câu 9. [TH] Khi mở cánh cửa, đẩy vào chỗ xa bản lề cần lực nhỏ hơn so với đẩy vào chỗ gần bản lề vì
+*A. cánh tay đòn lớn hơn nên cùng moment chỉ cần lực nhỏ hơn.
+B. lực đẩy lúc đó có độ lớn lớn hơn lực đẩy ở gần bản lề.
+C. cánh cửa trở nên nhẹ hơn khi đẩy ra xa bản lề.
+D. ma sát ở bản lề giảm đi khi đẩy ra xa bản lề.
+Lời giải
+Để có cùng moment $M = Fd$ thì cánh tay đòn $d$ lớn hơn cần lực $F$ nhỏ hơn.
+
+Câu 10. [TH] Dùng cờ lê có cán dài để vặn êcu thì dễ hơn so với cờ lê có cán ngắn vì
+A. cờ lê dài thường có khối lượng nhỏ hơn cờ lê ngắn.
+*B. cánh tay đòn lớn hơn nên cùng lực tạo moment lớn hơn.
+C. êcu bị nén chặt hơn khi dùng cờ lê cán dài.
+D. lực ma sát giữa êcu và ren giảm đi khi cán dài.
+Lời giải
+Cán dài làm tăng cánh tay đòn nên tăng moment lực đối với trục quay.
+
+Câu 11. [TH] Lực $\vec{F}$ có độ lớn không đổi, đặt vào đầu một thanh có thể quay quanh trục O ở đầu kia. Moment của lực đối với O lớn nhất khi lực
+A. song song với thanh.
+B. hợp với thanh góc 45°.
+C. hợp với thanh góc 30°.
+*D. vuông góc với thanh.
+Lời giải
+Cánh tay đòn lớn nhất khi giá của lực vuông góc với thanh: $d = OA$.
+
+Câu 12. [TH] Ngẫu lực tác dụng lên một vật rắn (không có trục cố định) chỉ làm vật quay mà không làm vật chuyển động tịnh tiến vì
+*A. hợp lực bằng 0 nhưng moment của ngẫu lực khác 0.
+B. hai lực của ngẫu lực có cùng chiều với nhau.
+C. hai lực của ngẫu lực có cùng giá với nhau.
+D. moment của ngẫu lực luôn bằng 0 khi vật quay.
+Lời giải
+Hợp lực của ngẫu lực bằng 0 (không gây gia tốc tịnh tiến) nhưng moment của nó khác 0 nên làm vật quay.
+
+Câu 13. [TH] Bập bênh đang cân bằng nằm ngang, hai em nhỏ ngồi hai bên trục quay. Em có khối lượng lớn hơn phải ngồi
+A. xa trục quay hơn em kia.
+B. cách trục quay bằng em kia.
+C. ở ngay trên trục quay.
+*D. gần trục quay hơn em kia.
+Lời giải
+Cân bằng moment: $m_1gd_1 = m_2gd_2$ nên khối lượng lớn hơn thì cánh tay đòn nhỏ hơn.
+
+Câu 14. [TH] Moment của ngẫu lực gồm hai lực có cùng độ lớn $F$, có giá cách nhau một khoảng $d$ được tính bằng
+A. $M = 2Fd$.
+*B. $M = Fd$.
+C. $M = \dfrac{Fd}{2}$.
+D. $M = 0$.
+Lời giải
+Moment của ngẫu lực bằng tích của độ lớn một lực với khoảng cách giữa hai giá của hai lực.
+
+Câu 15. [TH] Treo một vật bằng một sợi dây, khi vật ở trạng thái cân bằng thì
+*A. giá của sợi dây đi qua trọng tâm của vật.
+B. giá của sợi dây đi qua điểm thấp nhất của vật.
+C. giá của sợi dây vuông góc với trục đối xứng của vật.
+D. trọng tâm của vật nằm ở điểm buộc dây.
+Lời giải
+Vật chịu hai lực: trọng lực và lực căng; để cân bằng thì hai lực phải cùng giá, nên dây đi qua trọng tâm.
+
+Câu 16. [TH] Phát biểu nào sau đây SAI?
+A. Moment lực phụ thuộc vào độ lớn của lực và cánh tay đòn.
+B. Ngẫu lực có hợp lực bằng 0.
+*C. Vật rắn cân bằng khi tổng các lực tác dụng lên nó bằng 0, bất kể moment của các lực.
+D. Lực có giá đi qua trục quay không có tác dụng làm quay vật quanh trục đó.
+Lời giải
+Hai lực bằng nhau, ngược chiều nhưng không cùng giá (ngẫu lực) có hợp lực bằng 0 mà vẫn làm vật quay. Vì vậy cần thêm điều kiện tổng moment bằng 0.
+
+Câu 17. [VD] Lực có độ lớn 20 N tác dụng vuông góc vào một thanh tại điểm cách trục quay 0,3 m. Moment của lực đối với trục quay là
+*A. 6 N·m.
+B. 60 N·m.
+C. 0,015 N·m.
+D. 66,7 N·m.
+Lời giải
+$M = Fd = 20 \cdot 0,3 = 6$ N·m.
+
+Câu 18. [VD] Dùng cờ lê cán dài 0,24 m để vặn êcu, cần moment 12 N·m. Lực vuông góc với cán cờ lê cần tác dụng ở đầu cán là
+A. 2,88 N.
+B. 0,02 N.
+*C. 50 N.
+D. 12 N.
+Lời giải
+$F = \dfrac{M}{d} = \dfrac{12}{0,24} = 50$ N.
+
+Câu 19. [VD] Thanh AB dài 1 m có thể quay quanh trục đi qua trung điểm O. Tại A có lực 10 N vuông góc với thanh. Để thanh cân bằng, cần đặt tại điểm cách O một khoảng 0,25 m (ở phía B) một lực vuông góc với thanh, làm thanh quay ngược chiều với lực tại A, có độ lớn
+A. 10 N.
+B. 5 N.
+C. 40 N.
+*D. 20 N.
+Lời giải
+Cân bằng moment: $10 \cdot 0,5 = F \cdot 0,25$ nên $F = 20$ N.
+
+Câu 20. [VD] Trên bập bênh cân bằng nằm ngang, em bé khối lượng 30 kg ngồi cách trục quay 1 m. Em thứ hai khối lượng 20 kg phải ngồi ở phía bên kia trục, cách trục
+A. 0,67 m.
+*B. 1,5 m.
+C. 1 m.
+D. 2 m.
+Lời giải
+$m_1gd_1 = m_2gd_2$ nên $d_2 = \dfrac{30 \cdot 1}{20} = 1,5$ m.
+
+Câu 21. [VD] Ngẫu lực gồm hai lực có cùng độ lớn 15 N, có giá song song cách nhau 0,2 m. Moment của ngẫu lực là
+A. 75 N·m.
+*B. 3 N·m.
+C. 6 N·m.
+D. 0 N·m.
+Lời giải
+$M = Fd = 15 \cdot 0,2 = 3$ N·m.
+
+Câu 22. [VD] Thanh đồng chất AB dài 2 m, khối lượng 8 kg được đặt trên một điểm tựa O cách đầu A 0,4 m. Treo vào đầu A một vật khối lượng $m$ thì thanh cân bằng nằm ngang. Lấy $g = 10$ m/s². Khối lượng $m$ bằng
+A. 8 kg.
+B. 6 kg.
+C. 16 kg.
+*D. 12 kg.
+Lời giải
+Trọng tâm thanh cách O: $1 - 0,4 = 0,6$ m. Cân bằng moment đối với O: $m \cdot 10 \cdot 0,4 = 80 \cdot 0,6$ nên $m = 12$ kg.
+
+Câu 23. [TF] [TH] Về moment lực:
+*A. Độ lớn moment của lực $F$ đối với trục quay là $M = Fd$, với $d$ là cánh tay đòn.
+*B. Cánh tay đòn là khoảng cách từ trục quay đến giá của lực.
+*C. Lực có giá đi qua trục quay không có tác dụng làm quay vật quanh trục đó.
+D. Đơn vị của moment lực là N/m.
+Lời giải
+Đơn vị của moment lực là N·m (không phải N/m).
+
+Câu 24. [TF] [TH] Về điều kiện cân bằng của vật rắn:
+*A. Vật rắn cân bằng khi tổng các lực tác dụng lên vật bằng 0 và tổng moment các lực bằng 0.
+B. Vật rắn cân bằng khi chỉ cần tổng các lực tác dụng lên vật bằng 0.
+*C. Vật có trục quay cố định cân bằng khi tổng moment các lực làm vật quay theo chiều kim đồng hồ bằng tổng moment các lực làm vật quay ngược chiều kim đồng hồ.
+D. Hai lực cân bằng khi chỉ cần có cùng độ lớn và ngược chiều, không cần cùng giá.
+Lời giải
+Hai lực bằng nhau, ngược chiều nhưng không cùng giá (ngẫu lực) làm vật quay, nên hai lực cân bằng phải cùng giá.
+
+Câu 25. [TF] [TH] Về ngẫu lực:
+*A. Hợp lực của ngẫu lực bằng 0.
+B. Ngẫu lực làm vật rắn chuyển động tịnh tiến.
+C. Hai lực của ngẫu lực có cùng giá.
+D. Moment của ngẫu lực phụ thuộc vào vị trí của trục quay.
+Lời giải
+Ngẫu lực chỉ làm vật quay; hai lực có giá khác nhau; moment của ngẫu lực $M = Fd$ không phụ thuộc vị trí trục quay.
+
+Câu 26. [TF] [VD] Thanh AB dài 3 m có trục quay O ở giữa, bỏ qua khối lượng thanh. Em bé 20 kg ngồi tại A, em bé 30 kg ngồi ở phía B sao cho thanh cân bằng nằm ngang. Lấy $g = 10$ m/s²:
+*A. Moment trọng lực của em 20 kg đối với O là 300 N·m.
+*B. Em 30 kg phải ngồi cách O một khoảng 1 m.
+*C. Moment trọng lực của em 30 kg đối với O là 300 N·m.
+*D. Lực mà trục quay tác dụng lên thanh có độ lớn 500 N.
+Lời giải
+$M_1 = 200 \cdot 1,5 = 300$ N·m. Cân bằng moment: $300 \cdot d_2 = 300$ nên $d_2 = 1$ m và $M_2 = 300$ N·m. Thanh cân bằng nên lực của trục cân bằng tổng trọng lực: $200 + 300 = 500$ N.
+
+Câu 27. [TF] [VD] Cánh cửa có tay nắm cách bản lề 0,8 m. Tác dụng vào tay nắm lực 15 N vuông góc với mặt cửa:
+*A. Moment của lực đối với trục bản lề là 12 N·m.
+B. Nếu đặt tay cách bản lề 0,4 m (cùng lực 15 N vuông góc) thì moment vẫn là 12 N·m.
+*C. Để có moment 12 N·m khi đặt tay cách bản lề 0,4 m cần lực vuông góc 30 N.
+D. Lực 15 N song song với mặt cửa cũng cho moment 12 N·m.
+Lời giải
+$M = 15 \cdot 0,8 = 12$ N·m. Với $d = 0,4$ m thì $F = \dfrac{12}{0,4} = 30$ N (còn với 15 N thì $M = 6$ N·m). Lực song song với mặt cửa (dọc theo cánh cửa) có giá đi qua trục bản lề nên moment bằng 0.
+
+Câu 28. [TF] [VD] Dùng cờ lê cán dài 0,25 m tác dụng lực 40 N vuông góc với cán:
+*A. Moment của lực đối với trục êcu là 10 N·m.
+*B. Nếu lực hợp với cán cờ lê góc 30° (cùng độ lớn 40 N) thì moment là 5 N·m.
+*C. Để tạo moment 20 N·m với lực 40 N vuông góc thì cần cán dài 0,5 m.
+D. Nếu cán dài gấp đôi (cùng lực vuông góc) thì moment giảm một nửa.
+Lời giải
+$M = 40 \cdot 0,25 = 10$ N·m. Lực hợp với cán góc 30° có cánh tay đòn $d = 0,25\sin 30° = 0,125$ m nên $M = 5$ N·m. $d = \dfrac{20}{40} = 0,5$ m. Cán dài gấp đôi thì moment tăng gấp đôi.
+
+Câu 29. [TF] [VD] Thanh đồng chất AB dài 2 m, khối lượng 4 kg được treo nằm ngang bằng hai sợi dây thẳng đứng buộc ở hai đầu A và B, lấy $g = 10$ m/s²:
+*A. Lực căng của mỗi dây là 20 N.
+B. Lực căng của mỗi dây là 40 N.
+C. Lực căng của dây ở đầu A lớn hơn lực căng của dây ở đầu B.
+D. Tổng lực căng của hai dây là 20 N.
+Lời giải
+Trọng tâm ở giữa thanh nên hai dây chịu lực như nhau: $2T = P = 40$ N, $T = 20$ N. Tổng lực căng là 40 N.
+
+Câu 30. [TH] Hai lực vuông góc với một thanh cùng làm thanh quay theo một chiều quanh trục O: lực 10 N đặt cách O 0,2 m và lực 15 N đặt cách O 0,4 m. Tính tổng moment của hai lực đối với O (theo đơn vị N·m).
+Trả lời: [[8]]
+Lời giải
+Hai moment cùng chiều nên cộng lại: $M = 10 \cdot 0,2 + 15 \cdot 0,4 = 2 + 6 = 8$ N·m.
+
+Câu 31. [TH] Lực 60 N có moment đối với trục quay là 18 N·m. Tính cánh tay đòn của lực (theo đơn vị m).
+Trả lời: [[0,3]]
+Lời giải
+$d = \dfrac{M}{F} = \dfrac{18}{60} = 0,3$ m.
+
+Câu 32. [TH] Thanh đồng chất dài 1,2 m, khối lượng 3 kg có thể quay quanh trục nằm ngang đi qua một đầu thanh. Giữ thanh nằm ngang, lấy $g = 10$ m/s². Tính moment của trọng lực đối với trục quay (theo đơn vị N·m).
+Trả lời: [[18]]
+Lời giải
+Trọng lực đặt tại trung điểm thanh, cánh tay đòn $d = 0,6$ m: $M = 30 \cdot 0,6 = 18$ N·m.
+
+Câu 33. [VD] Thanh có trục quay O, bên trái O cách 0,2 m có lực vuông góc 30 N, bên phải O cách 0,3 m có lực vuông góc $F_2$ (hai lực làm thanh quay ngược chiều nhau). Thanh cân bằng. Tính độ lớn $F_2$ (theo đơn vị N).
+Trả lời: [[20]]
+Lời giải
+$30 \cdot 0,2 = F_2 \cdot 0,3$ nên $F_2 = 20$ N.
+
+Câu 34. [VD] Thanh nhẹ AB dài 1 m. Treo vật 3 kg ở đầu A và vật 2 kg ở đầu B. Đặt thanh lên một điểm tựa để thanh cân bằng nằm ngang. Tính khoảng cách từ điểm tựa đến đầu A (theo đơn vị cm).
+Trả lời: [[40]]
+Lời giải
+Gọi $x$ là khoảng cách từ điểm tựa đến A: $3 \cdot 10 \cdot x = 2 \cdot 10 \cdot (1 - x)$ nên $x = 0,4$ m = 40 cm.
+
+Câu 35. [VD] Dùng đòn bẩy dài 1,5 m để nâng một vật có khối lượng 90 kg treo ở một đầu đòn bẩy. Điểm tựa cách vật 0,3 m, lực nâng đặt ở đầu kia của đòn bẩy. Lấy $g = 10$ m/s². Tính lực tối thiểu cần tác dụng vuông góc vào đầu kia của đòn bẩy (theo đơn vị N, bỏ qua khối lượng đòn bẩy).
+Trả lời: [[225]]
+Lời giải
+Cánh tay đòn của lực nâng: $1,5 - 0,3 = 1,2$ m. Cân bằng moment: $F \cdot 1,2 = 900 \cdot 0,3$ nên $F = 225$ N.
+
+Câu 36. [VD] Tấm ván đồng chất dài 4 m, khối lượng 20 kg, được hai người đỡ ở hai đầu A và B. Một vật nặng 10 kg đặt trên ván tại điểm cách A 1 m. Lấy $g = 10$ m/s². Tính độ lớn lực đỡ ở đầu B (theo đơn vị N).
+Trả lời: [[125]]
+Lời giải
+Moment đối với A: $N_B \cdot 4 = 200 \cdot 2 + 100 \cdot 1 = 500$ nên $N_B = 125$ N.
+
+Câu 37. [VD] Cánh cửa có tay nắm cách bản lề 0,8 m. Tác dụng vào tay nắm lực 20 N có phương hợp với mặt cửa góc 30°. Tính moment của lực đối với trục bản lề (theo đơn vị N·m).
+Trả lời: [[8]]
+Lời giải
+Cánh tay đòn $d = 0,8\sin 30° = 0,4$ m nên $M = Fd = 20 \cdot 0,4 = 8$ N·m.
+
+Câu 38. [VD] Thanh đồng chất AB dài 1 m, khối lượng 2 kg, có đầu A gắn vào tường bằng bản lề, được giữ nằm ngang nhờ sợi dây thẳng đứng buộc ở đầu B. Treo thêm vật khối lượng 1 kg vào đầu B. Lấy $g = 10$ m/s². Tính lực căng của dây (theo đơn vị N).
+Trả lời: [[20]]
+Lời giải
+Moment đối với A: $T \cdot 1 = 20 \cdot 0,5 + 10 \cdot 1 = 20$ nên $T = 20$ N.
+
 @bai 22 | Thực hành: Tổng hợp lực
+Câu 1. [NB] Bài thực hành tổng hợp lực nhằm
+A. đo gia tốc rơi tự do tại nơi làm thí nghiệm.
+B. đo hệ số ma sát trượt giữa hai bề mặt tiếp xúc.
+C. đo khối lượng riêng của một vật rắn.
+*D. tổng hợp hai lực đồng quy và hai lực song song cùng chiều.
+Lời giải
+Bài thực hành gồm hai phần: tổng hợp hai lực đồng quy và tổng hợp hai lực song song cùng chiều.
+
+Câu 2. [NB] Dụng cụ dùng để đo độ lớn các lực trong bài thực hành tổng hợp lực là
+A. thước đo góc.
+*B. lực kế.
+C. đồng hồ đo thời gian.
+D. nhiệt kế.
+Lời giải
+Lực kế đo trực tiếp độ lớn của lực tác dụng lên nó.
+
+Câu 3. [NB] Khi tổng hợp hai lực đồng quy, sau khi dùng hai lực kế kéo đầu dây cao su đến điểm A và ghi lại các lực, người ta dùng một lực kế kéo đầu dây cao su đến đúng điểm A. Lực của lực kế này
+A. luôn có độ lớn bằng tổng số chỉ của hai lực kế trước.
+B. luôn có độ lớn bằng hiệu số chỉ của hai lực kế trước.
+C. có độ lớn bằng trung bình cộng số chỉ của hai lực kế trước.
+*D. là hợp lực vì gây tác dụng giống hệt hai lực trước.
+Lời giải
+Một lực thay thế được hai lực mà vẫn gây tác dụng giống hệt (dây cao su dãn đến đúng điểm A) thì đó là hợp lực của hai lực.
+
+Câu 4. [TH] Hai lực $\vec{F}_1$ và $\vec{F}_2$ song song, cùng chiều, tác dụng lên một vật rắn. Hợp lực của chúng có độ lớn
+A. $F = |F_1 - F_2|$.
+B. $F = \sqrt{F_1^2 + F_2^2}$.
+*C. $F = F_1 + F_2$.
+D. $F = F_1F_2$.
+Lời giải
+Hợp lực của hai lực song song cùng chiều thì cùng chiều với hai lực và có độ lớn bằng tổng độ lớn hai lực.
+
+Câu 5. [TH] Theo quy tắc hình bình hành, hợp lực của hai lực đồng quy $\vec{F}_1$ và $\vec{F}_2$ có điểm đặt tại O được biểu diễn bằng
+A. cạnh ngắn hơn của hình bình hành dựng trên hai vectơ $\vec{F}_1$, $\vec{F}_2$.
+*B. đường chéo xuất phát từ O của hình bình hành dựng trên hai vectơ $\vec{F}_1$, $\vec{F}_2$.
+C. vectơ có độ dài bằng tổng độ dài của hai vectơ $\vec{F}_1$ và $\vec{F}_2$.
+D. đường phân giác của góc tạo bởi hai vectơ $\vec{F}_1$ và $\vec{F}_2$.
+Lời giải
+Vectơ hợp lực là đường chéo của hình bình hành có hai cạnh là hai vectơ lực, kể từ điểm đặt chung O.
+
+Câu 6. [TH] Hợp lực của hai lực $\vec{F}_1$, $\vec{F}_2$ song song cùng chiều có điểm đặt nằm trong khoảng giữa hai điểm đặt của hai lực, cách điểm đặt của $\vec{F}_1$ một đoạn $d_1$ và cách điểm đặt của $\vec{F}_2$ một đoạn $d_2$ thỏa mãn
+A. $\dfrac{F_1}{F_2} = \dfrac{d_1}{d_2}$.
+*B. $\dfrac{F_1}{F_2} = \dfrac{d_2}{d_1}$.
+C. $d_1 + d_2 = F_1 + F_2$.
+D. $d_1 = d_2$ trong mọi trường hợp.
+Lời giải
+Điểm đặt của hợp lực chia khoảng cách giữa hai điểm đặt thành các đoạn tỉ lệ nghịch với độ lớn hai lực: $F_1d_1 = F_2d_2$.
+
+Câu 7. [TH] Để giảm sai số khi đọc số chỉ của lực kế trong bài thực hành, cần
+*A. đọc khi hệ đã đứng yên và mắt nhìn vuông góc với mặt số.
+B. kéo lực kế thật nhanh rồi đọc ngay khi vừa kéo.
+C. chỉ đọc một lần ở một vị trí bất kì của dây.
+D. đọc số chỉ khi kim lực kế còn đang dao động.
+Lời giải
+Đọc khi hệ đã ổn định và đặt mắt vuông góc với mặt số để tránh sai số do thị sai.
+
+Câu 8. [VD] Hai lực kế kéo đầu dây cao su đến điểm A bằng hai lực vuông góc nhau có độ lớn 3 N và 4 N. Khi dùng một lực kế kéo đầu dây cao su đến đúng điểm A, số chỉ của lực kế này theo lí thuyết là
+*A. 5 N.
+B. 7 N.
+C. 1 N.
+D. 3,5 N.
+Lời giải
+Số chỉ bằng độ lớn hợp lực: $F = \sqrt{3^2 + 4^2} = 5$ N.
+
+Câu 9. [VD] Treo hai quả nặng có trọng lượng 2 N và 3 N tại hai điểm A, B của một thanh nhẹ, AB = 50 cm. Điểm đặt của hợp lực của hai trọng lực cách A một khoảng
+A. 20 cm.
+B. 25 cm.
+*C. 30 cm.
+D. 40 cm.
+Lời giải
+$F_A d_A = F_B d_B$ với $d_A + d_B = 50$ cm: $2d_A = 3(50 - d_A)$ nên $d_A = 30$ cm.
+
+Câu 10. [VD] Độ lớn hợp lực tính theo quy tắc hình bình hành là 5,0 N, số chỉ đo được của lực kế thay thế là 4,8 N. Sai số tỉ đối của phép đo (so với giá trị lí thuyết) là
+*A. 4%.
+B. 0,4%.
+C. 0,2%.
+D. 40%.
+Lời giải
+$\delta = \dfrac{|5,0 - 4,8|}{5,0} \cdot 100\% = 4\%$.
+
+Câu 11. [TF] [TH] Về thí nghiệm tổng hợp hai lực đồng quy:
+*A. Cần đánh dấu vị trí điểm A, ghi phương và số chỉ của hai lực kế.
+*B. Khi dùng một lực kế kéo đầu dây cao su đến đúng điểm A, số chỉ của lực kế này là độ lớn hợp lực.
+C. Hợp lực của hai lực đồng quy luôn có độ lớn bằng tổng độ lớn của hai lực.
+*D. Khi vẽ các vectơ lực cần dùng cùng một tỉ xích.
+Lời giải
+Phải ghi lại điểm A, phương và số chỉ của các lực kế, rồi vẽ các vectơ lực theo cùng một tỉ xích để dựng hình bình hành; lực kế thay thế kéo đến đúng A cho độ lớn hợp lực. Hợp lực có độ lớn nằm trong khoảng $|F_1 - F_2| \le F \le F_1 + F_2$, chỉ bằng $F_1 + F_2$ khi hai lực cùng hướng.
+
+Câu 12. [TF] [VD] Treo hai quả nặng có trọng lượng 3 N và 1 N tại hai điểm A và B của một thanh nhẹ, AB = 40 cm:
+*A. Hợp lực của hai trọng lực có độ lớn 4 N.
+*B. Điểm đặt của hợp lực cách A một khoảng 10 cm.
+C. Hợp lực ngược chiều với hai trọng lực.
+D. Điểm đặt của hợp lực cách B một khoảng 10 cm.
+Lời giải
+Hợp lực cùng chiều hai lực: $F = 3 + 1 = 4$ N. $3d_A = 1 \cdot d_B$ với $d_A + d_B = 40$ cm nên $d_A = 10$ cm, $d_B = 30$ cm.
+
+Câu 13. [VD] Hai lực vuông góc nhau có độ lớn 5 N và 12 N cùng tác dụng lên một điểm. Tính độ lớn hợp lực của hai lực này (theo đơn vị N).
+Trả lời: [[13]]
+Lời giải
+$F = \sqrt{5^2 + 12^2} = 13$ N.
+
+Câu 14. [VD] Hai lực song song cùng chiều có độ lớn 6 N và 9 N đặt tại hai đầu một thanh nhẹ dài 75 cm. Tính khoảng cách từ điểm đặt của hợp lực đến điểm đặt của lực 6 N (theo đơn vị cm).
+Trả lời: [[45]]
+Lời giải
+$6d_1 = 9d_2$ với $d_1 + d_2 = 75$ cm nên $d_1 = \dfrac{75 \cdot 9}{15} = 45$ cm.
+
+Câu 15. [VD] Hai lực có cùng độ lớn 8 N, hợp với nhau góc 60°. Tính độ lớn hợp lực của hai lực này (theo đơn vị N, làm tròn đến một chữ số thập phân).
+Trả lời: [[13,9]]
+Lời giải
+$F = 2 \cdot 8 \cdot \cos 30° = 8\sqrt{3} \approx 13,9$ N.
+
+Câu 16. [VD] Hai lực kế kéo đầu dây cao su đến điểm A bằng hai lực vuông góc nhau, lực kế thứ nhất chỉ 3,6 N. Khi dùng một lực kế kéo đầu dây cao su đến đúng điểm A thì lực kế chỉ 6 N. Tính số chỉ của lực kế thứ hai lúc đầu (theo đơn vị N).
+Trả lời: [[4,8]]
+Lời giải
+Độ lớn hợp lực là 6 N nên $F_2 = \sqrt{6^2 - 3,6^2} = 4,8$ N.
 
 @chuong IV | Năng lượng, công, công suất
 @bai 23 | Năng lượng. Công cơ học
