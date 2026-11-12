@@ -4302,10 +4302,1394 @@ Lời giải
 
 @chuong IV | Năng lượng, công, công suất
 @bai 23 | Năng lượng. Công cơ học
+Câu 1. [NB] Phát biểu nào sau đây đúng với định luật bảo toàn năng lượng?
+A. Năng lượng của mỗi vật luôn giữ nguyên, không bao giờ thay đổi dù có tương tác.
+*B. Năng lượng chỉ truyền hoặc chuyển hoá, không tự sinh ra hay mất đi.
+C. Khi có ma sát, một phần năng lượng của hệ bị mất đi hoàn toàn.
+D. Năng lượng chỉ tồn tại dưới dạng cơ năng và nhiệt năng của vật.
+Lời giải
+Năng lượng không tự sinh ra hoặc tự mất đi mà chỉ truyền từ vật này sang vật khác hoặc chuyển hoá từ dạng này sang dạng khác.
+
+Câu 2. [NB] Trong hệ SI, đơn vị đo công là
+A. oát (W).
+B. niuton (N).
+C. niuton trên mét (N/m).
+*D. jun (J).
+Lời giải
+Công (và năng lượng) có đơn vị là jun, kí hiệu J. Oát là đơn vị công suất, niuton là đơn vị lực.
+
+Câu 3. [NB] Công của lực không đổi $\vec{F}$ làm điểm đặt dịch chuyển một đoạn $d$ theo hướng hợp với hướng của lực một góc $\alpha$ được tính bằng biểu thức
+*A. $A = F d \cos\alpha$.
+B. $A = F d \sin\alpha$.
+C. $A = \dfrac{F d}{\cos\alpha}$.
+D. $A = \dfrac{F \cos\alpha}{d}$.
+Lời giải
+Công của lực không đổi: $A = F d \cos\alpha$.
+
+Câu 4. [NB] Lực thực hiện công phát động khi góc $\alpha$ giữa lực và độ dịch chuyển thoả mãn
+A. $\alpha = 90°$.
+B. $90° < \alpha \le 180°$.
+*C. $0° \le \alpha < 90°$.
+D. $\alpha = 180°$.
+Lời giải
+Khi $\alpha$ nhọn thì $\cos\alpha > 0$ nên $A > 0$: lực thực hiện công phát động.
+
+Câu 5. [NB] Khi pin mặt trời hoạt động, dạng năng lượng nào chuyển hoá thành điện năng?
+A. Nhiệt năng.
+*B. Quang năng.
+C. Hoá năng.
+D. Cơ năng.
+Lời giải
+Pin mặt trời nhận năng lượng ánh sáng (quang năng) và chuyển hoá thành điện năng.
+
+Câu 6. [NB] Khi bàn là điện hoạt động, điện năng chủ yếu chuyển hoá thành
+*A. nhiệt năng.
+B. cơ năng.
+C. hoá năng.
+D. quang năng.
+Lời giải
+Bàn là điện biến điện năng chủ yếu thành nhiệt năng để làm nóng mặt bàn là.
+
+Câu 7. [NB] Công là đại lượng
+A. vectơ, có hướng cùng hướng với lực.
+B. vô hướng, luôn có giá trị dương.
+C. vectơ, có hướng cùng hướng với độ dịch chuyển.
+*D. vô hướng, có thể dương, âm hoặc bằng 0.
+Lời giải
+Công là đại lượng vô hướng; dấu của công phụ thuộc góc $\alpha$ giữa lực và độ dịch chuyển nên có thể dương, âm hoặc bằng 0.
+
+Câu 8. [NB] Một jun (1 J) là công của lực có độ lớn 1 N
+A. tác dụng lên vật trong khoảng thời gian 1 s.
+B. làm điểm đặt của lực dịch chuyển 1 m theo phương vuông góc với lực.
+*C. làm điểm đặt của lực dịch chuyển 1 m theo hướng của lực.
+D. tác dụng lên vật có khối lượng 1 kg.
+Lời giải
+Theo định nghĩa, $1\ \text{J} = 1\ \text{N} \cdot 1\ \text{m}$ khi lực và độ dịch chuyển cùng hướng.
+
+Câu 9. [TH] Một người xách vali đi đều trên đường nằm ngang. Nhận xét nào sau đây về lực nâng của tay người tác dụng lên vali là đúng?
+A. Lực nâng thực hiện công dương vì điểm đặt của lực dịch chuyển.
+*B. Lực nâng vuông góc với độ dịch chuyển nên không thực hiện công.
+C. Lực nâng thực hiện công âm vì nó cản lại trọng lực của vali.
+D. Lực nâng thực hiện công bằng trọng lượng vali nhân quãng đường đi.
+Lời giải
+Lực nâng hướng thẳng đứng, độ dịch chuyển nằm ngang nên $\alpha = 90°$, $\cos\alpha = 0$ và $A = 0$.
+
+Câu 10. [TH] Đưa một miếng đồng vào ngọn lửa thì miếng đồng nóng lên. Năng lượng được truyền cho miếng đồng bằng cách nào?
+A. Thực hiện công vì ngọn lửa có tác dụng lực lên miếng đồng.
+B. Thực hiện công vì nhiệt độ của miếng đồng đã thay đổi.
+*C. Truyền nhiệt, vì không có lực nào làm vật dịch chuyển.
+D. Thực hiện công vì miếng đồng nhận được thêm năng lượng.
+Lời giải
+Việc truyền năng lượng bằng cách tác dụng lực làm vật dịch chuyển mới là thực hiện công. Ở đây năng lượng được truyền bằng truyền nhiệt.
+
+Câu 11. [TH] Một ô tô đang chạy lên dốc. Công của trọng lực tác dụng lên ô tô là
+*A. công cản, có giá trị âm.
+B. công phát động, có giá trị dương.
+C. bằng 0 vì trọng lực có phương thẳng đứng.
+D. công cản, có giá trị dương.
+Lời giải
+Ô tô đi lên nên góc giữa trọng lực (hướng xuống) và độ dịch chuyển là góc tù, $\cos\alpha < 0$, công của trọng lực âm (công cản).
+
+Câu 12. [TH] Thả một quả bóng cao su từ độ cao $h$ xuống nền cứng, sau mỗi lần nảy lên độ cao của bóng giảm dần. Điều này
+A. trái với định luật bảo toàn năng lượng vì cơ năng của quả bóng tự mất đi mãi.
+B. không trái với định luật bảo toàn năng lượng vì cơ năng của quả bóng không đổi.
+C. trái với định luật bảo toàn năng lượng vì năng lượng tự sinh ra khi bóng nảy.
+*D. không trái định luật bảo toàn năng lượng vì một phần cơ năng thành nhiệt năng.
+Lời giải
+Mỗi lần va chạm, một phần cơ năng chuyển hoá thành nhiệt năng (và năng lượng biến dạng, âm thanh) nên cơ năng của bóng giảm, tổng năng lượng vẫn bảo toàn.
+
+Câu 13. [TH] Một hộp trượt trên mặt sàn nằm ngang, có ma sát, dưới tác dụng của lực kéo nằm ngang. Lực nào sau đây không thực hiện công?
+A. Lực ma sát trượt.
+*B. Trọng lực.
+C. Lực kéo nằm ngang cùng hướng chuyển động.
+D. Lực cản của không khí.
+Lời giải
+Trọng lực có phương thẳng đứng, vuông góc với độ dịch chuyển nên không sinh công. Các lực còn lại có thành phần dọc theo phương chuyển động.
+
+Câu 14. [TH] Giữ nguyên góc $\alpha$, nếu độ lớn lực tăng gấp đôi và độ dịch chuyển cũng tăng gấp đôi thì công của lực
+A. tăng gấp 2 lần.
+B. tăng gấp 8 lần.
+*C. tăng gấp 4 lần.
+D. không thay đổi.
+Lời giải
+$A = F d \cos\alpha$ tỉ lệ với tích $F d$ nên công tăng $2 \times 2 = 4$ lần.
+
+Câu 15. [TH] Một lực kéo có độ lớn $F$ không đổi hợp với phương ngang góc $\alpha$, vật dịch chuyển theo phương ngang một đoạn $d$ không đổi. Khi tăng $\alpha$ từ $0°$ đến $90°$ thì công của lực kéo
+A. tăng dần từ 0 đến $F d$.
+B. không thay đổi.
+C. tăng rồi giảm.
+*D. giảm dần từ $F d$ về 0.
+Lời giải
+$A = F d \cos\alpha$; $\cos\alpha$ giảm từ 1 đến 0 khi $\alpha$ tăng từ $0°$ đến $90°$ nên công giảm từ $F d$ về 0.
+
+Câu 16. [VD] Một lực không đổi có độ lớn 20 N làm vật dịch chuyển 5 m theo hướng hợp với hướng của lực góc $60°$. Công của lực là
+*A. 50 J.
+B. 100 J.
+C. 86,6 J.
+D. 25 J.
+Lời giải
+$A = F d \cos\alpha = 20 \cdot 5 \cdot \cos 60° = 50$ J.
+
+Câu 17. [VD] Nâng đều một thùng hàng khối lượng 15 kg lên cao 2 m (bỏ qua ma sát), lấy $g = 10$ m/s². Công của lực nâng là
+A. 30 J.
+B. 150 J.
+*C. 300 J.
+D. 3000 J.
+Lời giải
+Nâng đều nên lực nâng bằng trọng lượng: $F = mg = 150$ N. $A = F h = 150 \cdot 2 = 300$ J.
+
+Câu 18. [VD] Một thùng 3 kg được kéo trượt thẳng đều trên sàn nằm ngang bằng lực kéo nằm ngang 18 N, thùng đi được 4 m. Công của lực ma sát là
+A. 72 J.
+*B. -72 J.
+C. -4,5 J.
+D. 0.
+Lời giải
+Chuyển động thẳng đều nên lực ma sát cân bằng lực kéo: $F_{ms} = 18$ N, ngược hướng chuyển động. $A_{ms} = -18 \cdot 4 = -72$ J.
+
+Câu 19. [VD] Một vật khối lượng 2 kg trượt xuống dọc theo mặt phẳng nghiêng dài 5 m, nghiêng góc $30°$ so với phương ngang, lấy $g = 10$ m/s². Công của trọng lực là
+A. 86,6 J.
+B. 100 J.
+C. 20 J.
+*D. 50 J.
+Lời giải
+Độ cao hạ xuống $h = 5\sin 30° = 2,5$ m nên $A = mgh = 2 \cdot 10 \cdot 2,5 = 50$ J. (Hoặc $A = mg\,d\cos 60° = 50$ J.)
+
+Câu 20. [VD] Một thùng bị kéo trượt trên sàn nằm ngang bởi lực kéo 30 N cùng hướng chuyển động, lực ma sát là 12 N, thùng đi được 10 m. Tổng công của các lực tác dụng lên thùng là
+*A. 180 J.
+B. 300 J.
+C. 120 J.
+D. 420 J.
+Lời giải
+Trọng lực và phản lực không sinh công. $A = 30 \cdot 10 - 12 \cdot 10 = 300 - 120 = 180$ J.
+
+Câu 21. [VD] Cần cẩu nâng một kiện hàng 500 kg lên cao 10 m với gia tốc không đổi 0,2 m/s² (hướng lên), lấy $g = 10$ m/s². Công của lực nâng của cần cẩu là
+A. 50 kJ.
+*B. 51 kJ.
+C. 49 kJ.
+D. 510 kJ.
+Lời giải
+Định luật 2 Newton: $F - mg = ma$ nên $F = m(g + a) = 500 \cdot 10,2 = 5100$ N. $A = F h = 5100 \cdot 10 = 51000$ J $= 51$ kJ.
+
+Câu 22. [VD] Một ô tô khối lượng 1 tấn chạy lên một đoạn đường dốc dài 100 m mà độ cao tăng thêm 5 m, lấy $g = 10$ m/s². Công của trọng lực tác dụng lên ô tô trên đoạn đường đó là
+A. 50 kJ.
+B. -500 kJ.
+*C. -50 kJ.
+D. -5 kJ.
+Lời giải
+Xe lên cao 5 m nên công của trọng lực là công cản: $A = -mgh = -1000 \cdot 10 \cdot 5 = -50000$ J $= -50$ kJ.
+
+Câu 23. [TF] [TH] Về năng lượng:
+*A. Năng lượng có thể chuyển hoá từ dạng này sang dạng khác.
+*B. Khi đun nước bằng ấm điện, điện năng chuyển hoá thành nhiệt năng.
+C. Khi xoa hai bàn tay vào nhau cho nóng thì năng lượng tự sinh ra.
+D. Trong hệ SI, đơn vị của năng lượng là calo.
+Lời giải
+Khi xoa tay, cơ năng chuyển hoá thành nhiệt năng, năng lượng không tự sinh ra. Đơn vị năng lượng trong hệ SI là jun.
+
+Câu 24. [TF] [TH] Về công của một lực không đổi:
+*A. Công là đại lượng vô hướng.
+B. Lực tác dụng lên vật luôn sinh công khi điểm đặt của lực dịch chuyển.
+*C. Khi góc giữa lực và độ dịch chuyển là góc tù thì công của lực là công cản, có giá trị âm.
+*D. Khi lực vuông góc với độ dịch chuyển thì công của lực bằng 0.
+Lời giải
+Nếu lực vuông góc với độ dịch chuyển thì lực không sinh công dù điểm đặt vẫn dịch chuyển.
+
+Câu 25. [TF] [TH] Một vật trượt chậm dần trên sàn nằm ngang, có ma sát, cho đến khi dừng sau khi đi được đoạn $d$:
+*A. Lực ma sát sinh công cản.
+*B. Công của trọng lực bằng 0.
+*C. Công của phản lực pháp tuyến bằng 0.
+*D. Độ lớn công của lực ma sát bằng $F_{ms} d$.
+Lời giải
+Trọng lực và phản lực vuông góc với độ dịch chuyển nên công bằng 0. Lực ma sát ngược chiều chuyển động nên $A_{ms} = -F_{ms} d$.
+
+Câu 26. [TF] [VD] Một thùng khối lượng 20 kg được kéo trượt thẳng đều trên sàn nằm ngang bằng sợi dây hợp với phương ngang góc $60°$, lực căng dây 40 N, thùng đi được 5 m, lấy $g = 10$ m/s².
+*A. Công của lực kéo bằng 100 J.
+*B. Công của lực ma sát bằng -100 J.
+C. Trọng lực sinh công phát động vì thùng nặng 200 N.
+D. Độ lớn lực ma sát bằng 40 N.
+Lời giải
+$A_F = 40 \cdot 5 \cdot \cos 60° = 100$ J. Chuyển động thẳng đều nên thành phần ngang của lực kéo cân bằng ma sát: $F_{ms} = 40\cos 60° = 20$ N, $A_{ms} = -20 \cdot 5 = -100$ J. Trọng lực vuông góc với độ dịch chuyển nên không sinh công.
+
+Câu 27. [TF] [VD] Một vật khối lượng 1 kg được ném thẳng đứng lên từ mặt đất, lên đến độ cao cực đại 5 m rồi rơi trở về mặt đất, bỏ qua sức cản không khí, lấy $g = 10$ m/s².
+*A. Công của trọng lực khi vật đi lên là -50 J.
+B. Công của trọng lực khi vật đi xuống cũng là -50 J.
+C. Công của trọng lực trong cả quá trình bay lên và rơi xuống là 100 J.
+D. Trọng lực sinh công phát động khi vật đi lên nên vật mới bay lên được.
+Lời giải
+Đi lên: $A = -mgh = -50$ J. Đi xuống: $A = +mgh = +50$ J. Cả quá trình công bằng 0 vì vị trí đầu và cuối trùng nhau. Vật bay lên nhờ vận tốc ban đầu, trọng lực khi đó là lực cản.
+
+Câu 28. [TF] [VD] Một vật khối lượng 2 kg được kéo lên dọc mặt phẳng nghiêng nhẵn dài 3 m, nghiêng $30°$ so với phương ngang, bằng lực kéo 20 N song song với mặt phẳng nghiêng, lấy $g = 10$ m/s².
+*A. Công của lực kéo bằng 60 J.
+*B. Công của trọng lực bằng -30 J.
+*C. Công của phản lực pháp tuyến bằng 0.
+D. Tổng công của các lực tác dụng lên vật bằng 90 J.
+Lời giải
+$A_F = 20 \cdot 3 = 60$ J; $A_P = -mg \cdot 3\sin 30° = -30$ J; $A_N = 0$. Tổng công: $60 - 30 = 30$ J, không phải 90 J.
+
+Câu 29. [TF] [VD] Một cần cẩu nâng thẳng đứng một vật khối lượng 100 kg lên cao 6 m, lấy $g = 10$ m/s².
+*A. Nếu vật được nâng đều thì công của lực nâng bằng 6000 J.
+*B. Nếu vật được nâng đều thì công của trọng lực bằng -6000 J.
+*C. Nếu vật được nâng đều thì tổng công của các lực tác dụng lên vật bằng 0.
+*D. Nếu vật được nâng nhanh dần đều lên trên với gia tốc 0,5 m/s² thì công của lực nâng bằng 6300 J.
+Lời giải
+Nâng đều: $F = mg = 1000$ N nên $A_F = 6000$ J, $A_P = -6000$ J, tổng bằng 0. Nâng nhanh dần: $F = m(g + a) = 1050$ N nên $A_F = 1050 \cdot 6 = 6300$ J.
+
+Câu 30. [TH] Một lực có độ lớn 50 N làm vật dịch chuyển 4 m theo hướng của lực. Tính công của lực (theo đơn vị J).
+Trả lời: [[200]]
+Lời giải
+$A = F d = 50 \cdot 4 = 200$ J.
+
+Câu 31. [TH] Một lực kéo có độ lớn 250 N, cùng hướng chuyển động, thực hiện công 7500 J. Tính quãng đường vật đi được (theo đơn vị m).
+Trả lời: [[30]]
+Lời giải
+$d = \dfrac{A}{F} = \dfrac{7500}{250} = 30$ m.
+
+Câu 32. [TH] Một lực không đổi có độ lớn 20 N làm điểm đặt dịch chuyển 10 m và thực hiện công 100 J. Tính góc $\alpha$ giữa lực và độ dịch chuyển, biết $0° < \alpha < 90°$ (theo đơn vị độ).
+Trả lời: [[60]]
+Lời giải
+$\cos\alpha = \dfrac{A}{F d} = \dfrac{100}{20 \cdot 10} = 0,5$ nên $\alpha = 60°$.
+
+Câu 33. [VD] Một vật khối lượng 0,2 kg được ném ngang với vận tốc đầu 10 m/s từ độ cao 45 m so với mặt đất, bỏ qua sức cản không khí, lấy $g = 10$ m/s². Tính công của trọng lực từ lúc ném đến lúc vật chạm đất (theo đơn vị J).
+Trả lời: [[90]]
+Lời giải
+Công của trọng lực chỉ phụ thuộc độ cao: $A = mgh = 0,2 \cdot 10 \cdot 45 = 90$ J (không phụ thuộc vận tốc ném).
+
+Câu 34. [VD] Một hòm khối lượng 20 kg trượt trên sàn nằm ngang với hệ số ma sát trượt 0,3, đi được 8 m, lấy $g = 10$ m/s². Tính công của lực ma sát (theo đơn vị J).
+Trả lời: [[-480]]
+Lời giải
+$F_{ms} = \mu m g = 0,3 \cdot 20 \cdot 10 = 60$ N, ngược hướng chuyển động nên $A_{ms} = -60 \cdot 8 = -480$ J.
+
+Câu 35. [VD] Một vật khối lượng 3 kg được kéo trượt đều lên mặt phẳng nghiêng nhẵn dài 6 m, nghiêng $30°$ so với phương ngang, lực kéo song song với mặt phẳng nghiêng, lấy $g = 10$ m/s². Tính công của lực kéo (theo đơn vị J).
+Trả lời: [[90]]
+Lời giải
+Trượt đều nên $F = mg\sin 30° = 15$ N. $A = F d = 15 \cdot 6 = 90$ J.
+
+Câu 36. [VD] Một vật khối lượng 2 kg treo vào đầu dây, được kéo thẳng đứng lên từ trạng thái đứng yên với gia tốc 1 m/s² (hướng lên) trong 3 s, lấy $g = 10$ m/s². Tính công của lực căng dây trong 3 s đó (theo đơn vị J).
+Trả lời: [[99]]
+Lời giải
+$T = m(g + a) = 2 \cdot 11 = 22$ N. Quãng đường $d = \tfrac{1}{2} a t^2 = 4,5$ m. $A = T d = 22 \cdot 4,5 = 99$ J.
+
+Câu 37. [VD] Một vật khối lượng 8 kg bị kéo trượt trên sàn nằm ngang bởi lực kéo 50 N hợp với phương ngang góc $37°$ (lấy $\cos 37° = 0,8$). Lực ma sát có độ lớn 10 N, vật đi được 5 m. Tính tổng công của các lực tác dụng lên vật (theo đơn vị J).
+Trả lời: [[150]]
+Lời giải
+$A_F = 50 \cdot 5 \cdot 0,8 = 200$ J; $A_{ms} = -10 \cdot 5 = -50$ J; trọng lực và phản lực không sinh công. Tổng công $= 200 - 50 = 150$ J.
+
+Câu 38. [VD] Một vật khối lượng 0,5 kg rơi tự do từ độ cao 20 m xuống đất, lấy $g = 10$ m/s². Tính công của trọng lực trong giây cuối cùng trước khi chạm đất (theo đơn vị J).
+Trả lời: [[75]]
+Lời giải
+Thời gian rơi $t = \sqrt{2h/g} = 2$ s. Trong 1 s đầu rơi $\tfrac{1}{2} g \cdot 1^2 = 5$ m nên quãng đường giây cuối là $20 - 5 = 15$ m. $A = mg \cdot 15 = 0,5 \cdot 10 \cdot 15 = 75$ J.
+
 @bai 24 | Công suất
+Câu 1. [NB] Công suất là đại lượng đặc trưng cho
+A. độ lớn của lực tác dụng lên vật.
+B. khả năng chịu lực tối đa của máy.
+*C. tốc độ thực hiện công.
+D. quãng đường mà vật dịch chuyển được.
+Lời giải
+Công suất cho biết công thực hiện được trong một đơn vị thời gian, tức là tốc độ thực hiện công.
+
+Câu 2. [NB] Trong hệ SI, đơn vị của công suất là
+A. jun (J).
+*B. oát (W).
+C. niuton (N).
+D. kilôoát giờ (kW·h).
+Lời giải
+Đơn vị công suất trong hệ SI là oát (W). Jun là đơn vị công, kW·h cũng là đơn vị công (năng lượng).
+
+Câu 3. [NB] Công suất trung bình của một lực thực hiện công $A$ trong khoảng thời gian $t$ được tính bằng biểu thức
+*A. $P = \dfrac{A}{t}$.
+B. $P = A \cdot t$.
+C. $P = \dfrac{t}{A}$.
+D. $P = \dfrac{A}{t^2}$.
+Lời giải
+Công suất là công thực hiện trong một đơn vị thời gian: $P = \dfrac{A}{t}$.
+
+Câu 4. [NB] Một oát (1 W) bằng
+A. 1 J·s.
+*B. 1 J/s.
+C. 1 N·m.
+D. 1 J/m.
+Lời giải
+$1\ \text{W} = 1\ \text{J/s}$: máy thực hiện công 1 J trong mỗi giây.
+
+Câu 5. [NB] Một lực $\vec{F}$ không đổi cùng hướng với vận tốc $\vec{v}$ không đổi của vật. Công suất của lực là
+A. $P = \dfrac{F}{v}$.
+B. $P = \dfrac{v}{F}$.
+C. $P = F v^2$.
+*D. $P = F v$.
+Lời giải
+$P = \dfrac{A}{t} = \dfrac{F d}{t} = F v$ khi lực cùng hướng chuyển động.
+
+Câu 6. [NB] Kilôoát giờ (kW·h) là đơn vị của
+*A. công (năng lượng).
+B. công suất của dòng điện.
+C. lực tác dụng của dòng điện.
+D. thời gian sử dụng điện.
+Lời giải
+$1\ \text{kW·h} = 1000\ \text{W} \cdot 3600\ \text{s}$ là đơn vị đo công (năng lượng), thường dùng cho điện năng tiêu thụ.
+
+Câu 7. [NB] Một kilôoát (1 kW) bằng
+A. 100 W.
+B. 10 W.
+C. 1 000 000 W.
+*D. 1000 W.
+Lời giải
+Tiền tố kilô có nghĩa là $10^3$ nên $1\ \text{kW} = 1000\ \text{W}$.
+
+Câu 8. [NB] Máy A có công suất lớn hơn máy B có nghĩa là
+A. máy A sinh công nhiều hơn máy B trong mọi trường hợp.
+*B. trong cùng thời gian, máy A sinh công nhiều hơn.
+C. kích thước của máy A lớn hơn kích thước của máy B.
+D. máy A hoạt động trong thời gian dài hơn máy B.
+Lời giải
+Công suất so sánh tốc độ thực hiện công: trong cùng thời gian máy nào sinh công nhiều hơn thì công suất lớn hơn.
+
+Câu 9. [TH] Máy 1 thực hiện công 3000 J trong 10 s, máy 2 thực hiện công 1800 J trong 5 s. Kết luận nào sau đây đúng?
+A. Máy 1 có công suất lớn hơn vì thực hiện công nhiều hơn.
+B. Hai máy có công suất bằng nhau vì cùng làm việc đều.
+C. Máy 1 có công suất lớn hơn vì làm việc lâu hơn (10 s > 5 s).
+*D. Máy 2 có công suất lớn hơn vì 360 W > 300 W.
+Lời giải
+$P_1 = \dfrac{3000}{10} = 300$ W; $P_2 = \dfrac{1800}{5} = 360$ W. Công suất không chỉ phụ thuộc vào công mà còn vào thời gian.
+
+Câu 10. [TH] Khi lên dốc, người lái ô tô thường giảm tốc độ (về số thấp). Giải thích nào sau đây hợp lí?
+A. Với công suất động cơ không đổi, giảm tốc độ thì lực kéo giảm.
+B. Với công suất động cơ không đổi, lực kéo không phụ thuộc tốc độ.
+*C. Với công suất động cơ không đổi, giảm tốc độ thì lực kéo tăng.
+D. Giảm tốc độ làm công suất của động cơ tăng lên rất nhiều.
+Lời giải
+$P = F v$ không đổi nên $v$ giảm thì $F$ tăng, giúp xe vượt dốc.
+
+Câu 11. [TH] Hai xe có cùng công suất, chuyển động thẳng đều; tốc độ của xe 1 gấp đôi tốc độ của xe 2. Lực kéo của xe 1 so với xe 2 là
+A. gấp đôi lực kéo của xe 2 do tốc độ lớn gấp đôi.
+B. bằng lực kéo của xe 2 do công suất như nhau.
+C. gấp bốn lần lực kéo của xe 2 do tốc độ.
+*D. bằng một nửa lực kéo của xe 2.
+Lời giải
+$P = F v$ cùng $P$ nên $F_1 v_1 = F_2 v_2$; $v_1 = 2 v_2$ suy ra $F_1 = \dfrac{F_2}{2}$.
+
+Câu 12. [TH] Một kilôoát giờ (1 kW·h) bằng
+A. $3,6 \cdot 10^3$ J.
+B. $1,0 \cdot 10^3$ J.
+*C. $3,6 \cdot 10^6$ J.
+D. $6,0 \cdot 10^4$ J.
+Lời giải
+$1\ \text{kW·h} = 1000 \cdot 3600 = 3,6 \cdot 10^6$ J.
+
+Câu 13. [TH] Hai người cùng nâng đều một khối gạch giống nhau lên cùng một độ cao, người thứ nhất mất 20 s, người thứ hai mất 30 s. Nhận xét nào đúng?
+A. Công của hai người bằng nhau, công suất hai người bằng nhau.
+*B. Công bằng nhau, công suất người thứ nhất lớn hơn.
+C. Người thứ hai thực hiện công lớn hơn nên công suất lớn hơn.
+D. Người thứ nhất thực hiện công lớn hơn vì làm nhanh hơn.
+Lời giải
+Nâng cùng khối gạch lên cùng độ cao thì công bằng nhau; thời gian ngắn hơn nên công suất lớn hơn.
+
+Câu 14. [TH] Trên một bóng đèn có ghi 60 W. Con số này cho biết
+A. đèn tiêu thụ 60 J điện năng trong mỗi giờ hoạt động.
+*B. mỗi giây đèn tiêu thụ 60 J điện năng.
+C. đèn chỉ tiêu thụ tối đa 60 J điện năng trong cả đời.
+D. cường độ dòng điện chạy qua đèn luôn bằng 60 A.
+Lời giải
+$60\ \text{W} = 60\ \text{J/s}$: công suất tiêu thụ điện năng định mức của đèn.
+
+Câu 15. [TH] Hai ô tô có cùng công suất, chạy thẳng đều trên đường nằm ngang với tốc độ lần lượt $v_1 = 20$ m/s và $v_2 = 10$ m/s. Tỉ số lực kéo $\dfrac{F_1}{F_2}$ bằng
+*A. 0,5.
+B. 2.
+C. 1.
+D. 4.
+Lời giải
+$F = \dfrac{P}{v}$ nên $\dfrac{F_1}{F_2} = \dfrac{v_2}{v_1} = \dfrac{10}{20} = 0,5$.
+
+Câu 16. [VD] Cần cẩu nâng đều một kiện hàng 400 kg lên cao 15 m trong 20 s, lấy $g = 10$ m/s². Công suất trung bình của cần cẩu là
+A. 300 W.
+B. 1500 W.
+*C. 3000 W.
+D. 6000 W.
+Lời giải
+$A = mgh = 400 \cdot 10 \cdot 15 = 60000$ J. $P = \dfrac{A}{t} = \dfrac{60000}{20} = 3000$ W.
+
+Câu 17. [VD] Một ô tô chuyển động thẳng đều với tốc độ 72 km/h, lực kéo của động cơ là 1500 N. Công suất của động cơ là
+*A. 30 kW.
+B. 108 kW.
+C. 75 W.
+D. 3 kW.
+Lời giải
+$72\ \text{km/h} = 20$ m/s. $P = F v = 1500 \cdot 20 = 30000$ W $= 30$ kW.
+
+Câu 18. [VD] Một động cơ có công suất 5 kW hoạt động liên tục trong 2 giờ. Công mà động cơ thực hiện là
+A. $1,8 \cdot 10^7$ J.
+B. $3,6 \cdot 10^4$ J.
+*C. $3,6 \cdot 10^7$ J.
+D. $1,0 \cdot 10^4$ J.
+Lời giải
+$A = P t = 5000 \cdot 2 \cdot 3600 = 3,6 \cdot 10^7$ J (tức 10 kW·h).
+
+Câu 19. [VD] Ô tô khối lượng 1 tấn đứng yên, bắt đầu chuyển động nhờ lực kéo không đổi 2000 N cùng hướng chuyển động (bỏ qua mọi lực cản). Công suất tức thời của lực kéo tại thời điểm 5 s kể từ lúc bắt đầu chuyển động là
+A. 10 kW.
+B. 40 kW.
+*C. 20 kW.
+D. 100 kW.
+Lời giải
+$a = \dfrac{F}{m} = 2$ m/s², $v = a t = 10$ m/s. $P = F v = 2000 \cdot 10 = 20000$ W $= 20$ kW. (10 kW là công suất trung bình trong 5 s.)
+
+Câu 20. [VD] Một máy bơm có công suất 2 kW (bỏ qua hao phí) bơm 600 kg nước lên độ cao 10 m, lấy $g = 10$ m/s². Thời gian bơm là
+*A. 30 s.
+B. 3 s.
+C. 60 s.
+D. 300 s.
+Lời giải
+$A = mgh = 600 \cdot 10 \cdot 10 = 60000$ J. $t = \dfrac{A}{P} = \dfrac{60000}{2000} = 30$ s.
+
+Câu 21. [VD] Thang máy cùng người có tổng khối lượng 600 kg đi lên đều với tốc độ 2 m/s, bỏ qua mọi lực cản, lấy $g = 10$ m/s². Công suất của động cơ thang máy là
+A. 6 kW.
+*B. 12 kW.
+C. 1,2 kW.
+D. 3 kW.
+Lời giải
+Chuyển động đều nên $F = mg = 6000$ N. $P = F v = 6000 \cdot 2 = 12000$ W $= 12$ kW.
+
+Câu 22. [VD] Một xe máy chuyển động thẳng đều với tốc độ 54 km/h, công suất của động cơ là 3 kW. Lực kéo của động cơ là
+A. 720 N.
+B. 55,6 N.
+C. 45 000 N.
+*D. 200 N.
+Lời giải
+$54\ \text{km/h} = 15$ m/s. $F = \dfrac{P}{v} = \dfrac{3000}{15} = 200$ N.
+
+Câu 23. [TF] [TH] Về công suất:
+*A. Công suất đặc trưng cho tốc độ thực hiện công.
+*B. Một oát bằng một jun trên giây.
+C. Máy thực hiện công càng lớn thì công suất càng lớn, không phụ thuộc thời gian.
+*D. Một kilôoát giờ bằng $3,6 \cdot 10^6$ J.
+Lời giải
+Công suất $P = A/t$ phụ thuộc cả công và thời gian thực hiện công.
+
+Câu 24. [TF] [TH] Một động cơ kéo vật với công suất không đổi, lực kéo cùng hướng chuyển động:
+*A. Tốc độ tăng thì lực kéo giảm.
+*B. Khi lên dốc cần lực kéo lớn hơn nên người lái giảm tốc độ.
+C. Lực kéo và tốc độ tỉ lệ thuận với nhau.
+D. Biểu thức $P = F v$ đúng với mọi lực bất kể hướng của lực so với vận tốc.
+Lời giải
+$P = F v$ không đổi nên $F$ và $v$ tỉ lệ nghịch. Biểu thức này áp dụng khi lực cùng hướng với vận tốc.
+
+Câu 25. [TF] [TH] Máy 1 thực hiện công 2400 J trong 8 s; máy 2 thực hiện công 3000 J trong 20 s:
+*A. Công suất của máy 1 là 300 W.
+B. Công suất của máy 2 là 120 W.
+C. Máy 2 thực hiện công nhiều hơn nên công suất lớn hơn.
+D. Công suất của máy 2 lớn hơn công suất của máy 1.
+Lời giải
+$P_1 = 300$ W, $P_2 = \dfrac{3000}{20} = 150$ W. Máy 1 có công suất lớn hơn dù thực hiện công ít hơn.
+
+Câu 26. [TF] [VD] Thang máy khối lượng 500 kg đi lên đều với tốc độ 3 m/s, bỏ qua mọi lực cản, lấy $g = 10$ m/s².
+*A. Lực kéo của động cơ là 5000 N.
+*B. Công suất của động cơ là 15 kW.
+*C. Trong 10 s động cơ thực hiện công 150 kJ.
+D. Nếu thang đi lên đều với tốc độ 4 m/s thì công suất cần thiết vẫn là 15 kW.
+Lời giải
+Chuyển động đều: $F = mg = 5000$ N. $P = F v = 15$ kW. $A = P t = 15000 \cdot 10 = 150$ kJ. Với $v = 4$ m/s: $P = 5000 \cdot 4 = 20$ kW nên không còn là 15 kW.
+
+Câu 27. [TF] [VD] Ô tô khối lượng 1000 kg chạy đều trên đường nằm ngang với tốc độ 10 m/s, lực cản chuyển động là 800 N.
+*A. Lực kéo của động cơ là 800 N.
+*B. Công suất của động cơ là 8 kW.
+C. Nếu tốc độ chạy đều tăng gấp đôi, lực cản không đổi thì công suất tăng gấp 4 lần.
+D. Công của lực kéo trong 5 s là 4 kJ.
+Lời giải
+Chạy đều nên $F = F_c = 800$ N, $P = 8000$ W. Tốc độ gấp đôi thì $P$ gấp đôi (16 kW). Công trong 5 s: $8000 \cdot 5 = 40$ kJ.
+
+Câu 28. [TF] [VD] Một cần cẩu nâng đều kiện hàng 200 kg lên cao 9 m trong 6 s, lấy $g = 10$ m/s².
+*A. Công của lực nâng là 18 kJ.
+*B. Công suất trung bình của cần cẩu là 3 kW.
+*C. Nếu nâng cùng kiện hàng lên cùng độ cao đó trong 3 s thì công suất là 6 kW.
+D. Nếu nâng trong 3 s thì công của lực nâng tăng gấp đôi.
+Lời giải
+$A = mgh = 18000$ J, $P = 3000$ W. Nâng trong 3 s: công vẫn 18 kJ, $P = 6$ kW. Công không đổi vì độ cao và khối lượng không đổi.
+
+Câu 29. [TF] [VD] Một bếp điện công suất 1000 W hoạt động liên tục trong 3 giờ.
+*A. Điện năng tiêu thụ là 3 kW·h.
+*B. Điện năng tiêu thụ là $1,08 \cdot 10^7$ J.
+C. Nếu dùng 6 giờ thì công suất của bếp tăng gấp đôi.
+D. 3 kW·h bằng 3600 J.
+Lời giải
+$A = P t = 1\ \text{kW} \cdot 3\ \text{h} = 3\ \text{kW·h} = 3 \cdot 3,6 \cdot 10^6 = 1,08 \cdot 10^7$ J. Công suất là đặc trưng của bếp, không đổi khi thời gian dùng thay đổi.
+
+Câu 30. [TH] Một máy thực hiện công 4500 J trong 30 s. Tính công suất trung bình của máy (theo đơn vị W).
+Trả lời: [[150]]
+Lời giải
+$P = \dfrac{A}{t} = \dfrac{4500}{30} = 150$ W.
+
+Câu 31. [TH] Một động cơ có công suất 250 W hoạt động trong 12 s. Tính công mà động cơ thực hiện (theo đơn vị J).
+Trả lời: [[3000]]
+Lời giải
+$A = P t = 250 \cdot 12 = 3000$ J.
+
+Câu 32. [TH] Một bóng đèn có công suất 75 W được bật liên tục trong 4 giờ. Tính điện năng bóng đèn tiêu thụ (theo đơn vị kW·h).
+Trả lời: [[0,3]]
+Lời giải
+$A = P t = 0,075\ \text{kW} \cdot 4\ \text{h} = 0,3$ kW·h.
+
+Câu 33. [VD] Một ô tô chuyển động thẳng đều với tốc độ 12 m/s, lực kéo của động cơ là 2000 N. Tính công suất của động cơ (theo đơn vị kW).
+Trả lời: [[24]]
+Lời giải
+$P = F v = 2000 \cdot 12 = 24000$ W $= 24$ kW.
+
+Câu 34. [VD] Một xe chuyển động thẳng đều dưới tác dụng của lực kéo 600 N cùng hướng chuyển động, công suất của lực kéo là 12 kW. Tính tốc độ của xe (theo đơn vị m/s).
+Trả lời: [[20]]
+Lời giải
+$v = \dfrac{P}{F} = \dfrac{12000}{600} = 20$ m/s.
+
+Câu 35. [VD] Một cần cẩu nâng đều kiện hàng khối lượng 500 kg lên cao 12 m trong 30 s, lấy $g = 10$ m/s². Tính công suất trung bình của cần cẩu (theo đơn vị W).
+Trả lời: [[2000]]
+Lời giải
+$A = mgh = 500 \cdot 10 \cdot 12 = 60000$ J. $P = \dfrac{60000}{30} = 2000$ W.
+
+Câu 36. [VD] Một vật khối lượng 2 kg được thả rơi tự do trong 3 s, lấy $g = 10$ m/s². Tính công suất trung bình của trọng lực trong 3 s đó (theo đơn vị W).
+Trả lời: [[300]]
+Lời giải
+Quãng đường rơi $s = \tfrac{1}{2} g t^2 = 45$ m. $A = mgs = 20 \cdot 45 = 900$ J. $P = \dfrac{900}{3} = 300$ W.
+
+Câu 37. [VD] Vật khối lượng 2 kg rơi tự do từ trạng thái đứng yên, lấy $g = 10$ m/s². Tính công suất tức thời của trọng lực tại thời điểm 3 s sau khi bắt đầu rơi (theo đơn vị W).
+Trả lời: [[600]]
+Lời giải
+$v = g t = 30$ m/s. $P = F v = mg \cdot v = 20 \cdot 30 = 600$ W.
+
+Câu 38. [VD] Một máy bơm có công suất 1,5 kW chạy liên tục 8 giờ. Giá điện là 2000 đồng/(kW·h). Tính tiền điện phải trả (theo đơn vị nghìn đồng).
+Trả lời: [[24]]
+Lời giải
+Điện năng $A = 1,5 \cdot 8 = 12$ kW·h. Tiền điện $= 12 \cdot 2000 = 24000$ đồng $= 24$ nghìn đồng.
+
 @bai 25 | Động năng, thế năng
+Câu 1. [NB] Động năng của một vật là năng lượng mà vật có được do
+A. vị trí của vật so với mặt đất trong trọng trường.
+B. bị biến dạng đàn hồi dưới tác dụng của lực.
+*C. chuyển động.
+D. nhiệt độ của vật tăng lên.
+Lời giải
+Động năng là dạng năng lượng của vật do chuyển động mà có.
+
+Câu 2. [NB] Vật khối lượng $m$ chuyển động với tốc độ $v$ có động năng được tính bằng biểu thức
+A. $W_{đ} = m v$.
+*B. $W_{đ} = \dfrac{1}{2} m v^2$.
+C. $W_{đ} = \dfrac{1}{2} m v$.
+D. $W_{đ} = \dfrac{1}{2} m^2 v^2$.
+Lời giải
+Động năng $W_{đ} = \dfrac{1}{2} m v^2$.
+
+Câu 3. [NB] Thế năng trọng trường của vật khối lượng $m$ ở độ cao $h$ so với gốc thế năng được tính bằng biểu thức
+A. $W_t = \dfrac{1}{2} m g h$.
+*B. $W_t = m g h$.
+C. $W_t = m g h^2$.
+D. $W_t = \dfrac{m g}{h}$.
+Lời giải
+Thế năng trọng trường $W_t = m g h$ ($h$ tính từ gốc thế năng).
+
+Câu 4. [NB] Trong hệ SI, đơn vị của động năng và thế năng là
+A. oát (W).
+B. niuton (N).
+C. kilôgam mét trên giây (kg·m/s).
+*D. jun (J).
+Lời giải
+Động năng, thế năng là các dạng năng lượng nên có đơn vị là jun (J).
+
+Câu 5. [NB] Động năng là đại lượng
+*A. vô hướng và luôn không âm.
+B. vô hướng và có thể âm.
+C. có hướng và luôn không âm.
+D. có hướng và có thể âm.
+Lời giải
+$W_{đ} = \dfrac{1}{2} m v^2 \ge 0$ và không có hướng nên là đại lượng vô hướng, không âm.
+
+Câu 6. [NB] Giá trị thế năng trọng trường của một vật phụ thuộc vào
+A. quãng đường vật đã đi được.
+B. thời gian vật chuyển động.
+*C. vị trí chọn làm gốc thế năng.
+D. tốc độ của vật tại vị trí đó.
+Lời giải
+$W_t = m g h$ với $h$ đo từ gốc thế năng nên giá trị $W_t$ phụ thuộc cách chọn gốc.
+
+Câu 7. [NB] Một vật chuyển động thẳng đều thì động năng của vật
+A. tăng dần theo thời gian.
+B. giảm dần theo thời gian.
+*C. không đổi.
+D. tỉ lệ thuận với thời gian.
+Lời giải
+Tốc độ không đổi nên $W_{đ} = \dfrac{1}{2} m v^2$ không đổi.
+
+Câu 8. [NB] Thế năng trọng trường của vật tại vị trí được chọn làm gốc thế năng bằng
+*A. không.
+B. khối lượng của vật.
+C. $m g$.
+D. giá trị lớn nhất.
+Lời giải
+Tại gốc $h = 0$ nên $W_t = m g h = 0$.
+
+Câu 9. [TH] Khi tốc độ của một vật tăng gấp đôi (khối lượng không đổi) thì động năng của vật
+A. tăng gấp đôi.
+*B. tăng gấp bốn lần.
+C. tăng gấp ba lần so với ban đầu.
+D. không thay đổi.
+Lời giải
+$W_{đ} \sim v^2$ nên tốc độ gấp đôi thì động năng gấp $2^2 = 4$ lần.
+
+Câu 10. [TH] Khối lượng của vật tăng gấp đôi, tốc độ giảm một nửa thì động năng của vật
+A. tăng gấp đôi.
+B. không đổi.
+C. giảm bốn lần.
+*D. giảm một nửa.
+Lời giải
+$W_{đ}' = \dfrac{1}{2}(2m)\left(\dfrac{v}{2}\right)^2 = \dfrac{1}{2} \cdot \dfrac{1}{2} m v^2$, tức bằng một nửa động năng ban đầu.
+
+Câu 11. [TH] Hai bạn chọn hai mốc thế năng khác nhau cho cùng một vật khi nó rơi từ vị trí M xuống vị trí N. Phát biểu nào đúng?
+A. Thế năng tại M của hai bạn bằng nhau, độ giảm thế năng cũng bằng nhau.
+B. Thế năng tại M của hai bạn bằng nhau, nhưng độ giảm thế năng khác nhau.
+*C. Thế năng tại M khác nhau, độ giảm thế năng như nhau.
+D. Thế năng tại M của hai bạn khác nhau, độ giảm thế năng cũng khác nhau.
+Lời giải
+Đổi mốc làm $h$ của cả M và N đổi cùng một lượng nên $W_t$ từng vị trí đổi, còn hiệu $W_{t,M} - W_{t,N} = m g (h_M - h_N)$ không đổi.
+
+Câu 12. [TH] Vật khối lượng $m$ rơi từ độ cao $h_1$ xuống độ cao $h_2$ ($h_1 > h_2$). Công của trọng lực trong quá trình này là
+A. $m g (h_1 - h_2)$, có giá trị âm.
+B. $m g (h_2 - h_1)$, có giá trị dương.
+C. $m g h_1 h_2$, có giá trị dương.
+*D. $m g (h_1 - h_2)$, có giá trị dương.
+Lời giải
+Công trọng lực bằng độ giảm thế năng: $A = W_{t1} - W_{t2} = m g (h_1 - h_2) > 0$.
+
+Câu 13. [TH] Ném một vật thẳng đứng hướng lên (bỏ qua lực cản), trong lúc vật đi lên thì
+A. động năng tăng, thế năng giảm.
+B. động năng và thế năng cùng tăng.
+C. động năng và thế năng cùng giảm.
+*D. động năng giảm, thế năng tăng.
+Lời giải
+Vật đi lên chậm dần nên $W_{đ}$ giảm; độ cao tăng nên $W_t$ tăng.
+
+Câu 14. [TH] Chọn mặt đất làm gốc thế năng. Một vật nằm ở đáy giếng, thấp hơn mặt đất, thì thế năng của vật
+*A. có giá trị âm.
+B. bằng không.
+C. có giá trị dương.
+D. bằng thế năng ở miệng giếng.
+Lời giải
+Đáy giếng thấp hơn gốc nên $h < 0$, suy ra $W_t = m g h < 0$.
+
+Câu 15. [TH] Một ô tô đang chuyển động nhanh dần trên đường thẳng. Nhận xét nào đúng?
+A. Động năng của ô tô giảm.
+B. Động năng của ô tô không đổi.
+C. Động năng của ô tô bằng không.
+*D. Động năng của ô tô tăng.
+Lời giải
+Tốc độ tăng nên $W_{đ} = \dfrac{1}{2} m v^2$ tăng.
+
+Câu 16. [VD] Vật khối lượng 0,4 kg chuyển động với tốc độ 10 m/s. Động năng của vật là
+A. 4 J.
+*B. 20 J.
+C. 40 J.
+D. 2 J.
+Lời giải
+$W_{đ} = \dfrac{1}{2} \cdot 0,4 \cdot 10^2 = 20$ J.
+
+Câu 17. [VD] Vật khối lượng 5 kg ở độ cao 12 m so với mặt đất, chọn mặt đất làm gốc thế năng, lấy $g = 10$ m/s². Thế năng của vật là
+*A. 600 J.
+B. 60 J.
+C. 300 J.
+D. 6000 J.
+Lời giải
+$W_t = m g h = 5 \cdot 10 \cdot 12 = 600$ J.
+
+Câu 18. [VD] Ô tô khối lượng 800 kg chạy với tốc độ 36 km/h. Động năng của ô tô là
+A. 518 kJ.
+B. 4 kJ.
+*C. 40 kJ.
+D. 400 kJ.
+Lời giải
+$36\ \text{km/h} = 10$ m/s. $W_{đ} = \dfrac{1}{2} \cdot 800 \cdot 10^2 = 40000$ J $= 40$ kJ.
+
+Câu 19. [VD] Vật khối lượng 2 kg tăng tốc từ 3 m/s lên 5 m/s. Động năng của vật tăng thêm
+A. 4 J.
+*B. 16 J.
+C. 9 J.
+D. 34 J.
+Lời giải
+$\Delta W_{đ} = \dfrac{1}{2} \cdot 2 \cdot (5^2 - 3^2) = 16$ J.
+
+Câu 20. [VD] Vật khối lượng 0,5 kg ở độ cao 6 m so với mặt đất. Chọn gốc thế năng ở độ cao 2 m so với mặt đất, lấy $g = 10$ m/s². Thế năng của vật là
+A. 30 J.
+*B. 20 J.
+C. 10 J.
+D. 60 J.
+Lời giải
+Độ cao so với gốc $h = 6 - 2 = 4$ m. $W_t = 0,5 \cdot 10 \cdot 4 = 20$ J.
+
+Câu 21. [VD] Viên đạn khối lượng 20 g bay với tốc độ 400 m/s. Động năng của viên đạn là
+*A. 1600 J.
+B. 3200 J.
+C. 1,6 J.
+D. 160 J.
+Lời giải
+$m = 0,02$ kg. $W_{đ} = \dfrac{1}{2} \cdot 0,02 \cdot 400^2 = 1600$ J.
+
+Câu 22. [VD] Xe tải khối lượng 4 tấn chạy với tốc độ 18 km/h, xe con khối lượng 1 tấn chạy với tốc độ 72 km/h. Động năng của xe con so với xe tải là
+A. gấp 2 lần.
+B. bằng nhau.
+*C. gấp 4 lần.
+D. bằng một phần tư.
+Lời giải
+Xe tải: $v = 5$ m/s, $W_{đ} = \dfrac{1}{2} \cdot 4000 \cdot 5^2 = 50$ kJ. Xe con: $v = 20$ m/s, $W_{đ} = \dfrac{1}{2} \cdot 1000 \cdot 20^2 = 200$ kJ, gấp 4 lần.
+
+Câu 23. [TF] [TH] Về động năng và thế năng:
+*A. Động năng là đại lượng vô hướng, không âm.
+*B. Thế năng trọng trường có thể có giá trị âm.
+*C. Đơn vị của động năng và thế năng là jun.
+D. Giá trị động năng của vật phụ thuộc vào việc chọn gốc thế năng.
+Lời giải
+Động năng chỉ phụ thuộc $m$ và $v$, không phụ thuộc gốc thế năng.
+
+Câu 24. [TF] [TH] Vật có khối lượng $m$ chuyển động với tốc độ $v$:
+*A. Tốc độ tăng gấp 3 thì động năng tăng gấp 9.
+*B. Khối lượng tăng gấp đôi, tốc độ không đổi thì động năng tăng gấp đôi.
+C. Tốc độ tăng gấp đôi thì động năng tăng gấp đôi.
+D. Động năng tỉ lệ thuận với tốc độ.
+Lời giải
+$W_{đ} = \dfrac{1}{2} m v^2$ tỉ lệ thuận với $m$ và với bình phương tốc độ.
+
+Câu 25. [TF] [TH] Ném một vật thẳng đứng hướng lên (bỏ qua lực cản). Trong lúc vật đi lên:
+A. Động năng của vật tăng.
+*B. Thế năng trọng trường của vật tăng.
+C. Công của trọng lực có giá trị dương.
+D. Thế năng trọng trường của vật giảm.
+Lời giải
+Đi lên: $W_t$ tăng, trọng lực ngược chiều chuyển động nên công của trọng lực âm, $W_{đ}$ giảm.
+
+Câu 26. [TF] [VD] Vật khối lượng 2 kg ở độ cao 5 m so với mặt đất, đang chuyển động với tốc độ 4 m/s. Chọn mặt đất làm gốc thế năng, $g = 10$ m/s².
+*A. Thế năng của vật là 100 J.
+*B. Động năng của vật là 16 J.
+*C. Nếu chọn gốc thế năng ở độ cao 5 m thì thế năng của vật bằng không.
+*D. Nếu chọn gốc thế năng ở độ cao 5 m thì thế năng của vật khi ở mặt đất là -100 J.
+Lời giải
+$W_t = 2 \cdot 10 \cdot 5 = 100$ J; $W_{đ} = \dfrac{1}{2} \cdot 2 \cdot 4^2 = 16$ J. Gốc ở độ cao 5 m thì $h = 0$ nên $W_t = 0$; mặt đất thấp hơn gốc 5 m nên $W_t = 2 \cdot 10 \cdot (-5) = -100$ J.
+
+Câu 27. [TF] [VD] Ô tô khối lượng 1 tấn tăng tốc từ 10 m/s lên 20 m/s.
+*A. Động năng lúc đầu là 50 kJ.
+B. Động năng lúc sau là 100 kJ.
+*C. Động năng của ô tô tăng thêm 150 kJ.
+D. Tốc độ tăng gấp đôi nên động năng tăng gấp đôi.
+Lời giải
+$W_{đ1} = \dfrac{1}{2} \cdot 1000 \cdot 10^2 = 50$ kJ; $W_{đ2} = \dfrac{1}{2} \cdot 1000 \cdot 20^2 = 200$ kJ (gấp 4 lần); tăng thêm $200 - 50 = 150$ kJ.
+
+Câu 28. [TF] [VD] Vật khối lượng 2 kg ở độ cao 20 m so với mặt đất, chọn mặt đất làm gốc thế năng, $g = 10$ m/s².
+*A. Thế năng của vật là 400 J.
+*B. Khi vật xuống độ cao 10 m thì thế năng là 200 J.
+*C. Thế năng giảm đi 200 J khi vật rơi từ độ cao 20 m xuống 10 m.
+D. Công của trọng lực khi vật rơi từ độ cao 20 m xuống 10 m là -200 J.
+Lời giải
+$W_t = 2 \cdot 10 \cdot 20 = 400$ J; ở 10 m là 200 J; thế năng giảm 200 J. Vật đi xuống nên công trọng lực dương, bằng +200 J.
+
+Câu 29. [TF] [VD] Vật khối lượng 1 kg chuyển động chậm dần, tốc độ giảm từ 6 m/s xuống 2 m/s.
+*A. Động năng của vật giảm 16 J.
+B. Động năng của vật tăng 16 J.
+C. Động năng của vật không đổi.
+D. Động năng của vật giảm 20 J.
+Lời giải
+$W_{đ1} = 18$ J, $W_{đ2} = 2$ J; động năng giảm $18 - 2 = 16$ J.
+
+Câu 30. [TH] Một vật khối lượng 2 kg chuyển động với tốc độ 6 m/s. Tính động năng của vật (theo đơn vị J).
+Trả lời: [[36]]
+Lời giải
+$W_{đ} = \dfrac{1}{2} \cdot 2 \cdot 6^2 = 36$ J.
+
+Câu 31. [TH] Một vật khối lượng 2 kg ở độ cao 7 m so với mặt đất, chọn mặt đất làm gốc thế năng, lấy $g = 10$ m/s². Tính thế năng của vật (theo đơn vị J).
+Trả lời: [[140]]
+Lời giải
+$W_t = m g h = 2 \cdot 10 \cdot 7 = 140$ J.
+
+Câu 32. [TH] Một vật khối lượng 2 kg có động năng 100 J. Tính tốc độ của vật (theo đơn vị m/s).
+Trả lời: [[10]]
+Lời giải
+$v = \sqrt{\dfrac{2 W_{đ}}{m}} = \sqrt{\dfrac{2 \cdot 100}{2}} = 10$ m/s.
+
+Câu 33. [VD] Một vật khối lượng 6 kg có thế năng 240 J so với mặt đất, lấy $g = 10$ m/s². Tính độ cao của vật so với mặt đất (theo đơn vị m).
+Trả lời: [[4]]
+Lời giải
+$h = \dfrac{W_t}{m g} = \dfrac{240}{6 \cdot 10} = 4$ m.
+
+Câu 34. [VD] Ô tô khối lượng 2 tấn tăng tốc từ 54 km/h lên 72 km/h. Tính độ tăng động năng của ô tô (theo đơn vị kJ).
+Trả lời: [[175]]
+Lời giải
+$v_1 = 15$ m/s, $v_2 = 20$ m/s. $\Delta W_{đ} = \dfrac{1}{2} \cdot 2000 \cdot (20^2 - 15^2) = 175000$ J $= 175$ kJ.
+
+Câu 35. [VD] Một vật khối lượng 5 kg có tốc độ tăng từ 2 m/s lên 6 m/s. Tính độ tăng động năng của vật (theo đơn vị J).
+Trả lời: [[80]]
+Lời giải
+$\Delta W_{đ} = \dfrac{1}{2} \cdot 5 \cdot (6^2 - 2^2) = 80$ J.
+
+Câu 36. [VD] Một vật khối lượng 2 kg đi từ độ cao 8 m xuống độ cao 2 m so với mặt đất, lấy $g = 10$ m/s². Tính độ biến thiên thế năng của vật, lấy sau trừ trước (theo đơn vị J).
+Trả lời: [[-120]]
+Lời giải
+$\Delta W_t = m g (h_2 - h_1) = 2 \cdot 10 \cdot (2 - 8) = -120$ J (thế năng giảm).
+
+Câu 37. [VD] Một gàu nước khối lượng 1,5 kg nằm ở đáy giếng sâu 4 m so với mặt đất. Chọn mặt đất làm gốc thế năng, lấy $g = 10$ m/s². Tính thế năng của gàu nước (theo đơn vị J).
+Trả lời: [[-60]]
+Lời giải
+Đáy giếng thấp hơn gốc 4 m nên $h = -4$ m. $W_t = 1,5 \cdot 10 \cdot (-4) = -60$ J.
+
+Câu 38. [VD] Một vật chuyển động với tốc độ 6 m/s có động năng 54 J. Tính khối lượng của vật (theo đơn vị kg).
+Trả lời: [[3]]
+Lời giải
+$m = \dfrac{2 W_{đ}}{v^2} = \dfrac{2 \cdot 54}{6^2} = 3$ kg.
+
 @bai 26 | Cơ năng và định luật bảo toàn cơ năng
+Câu 1. [NB] Cơ năng của vật là tổng của
+A. động năng và nhiệt năng của vật.
+B. thế năng và công của lực cản.
+*C. động năng và thế năng của vật.
+D. công và công suất của vật.
+Lời giải
+Cơ năng $W = W_{đ} + W_t$.
+
+Câu 2. [NB] Cơ năng của vật chuyển động trong trọng trường được tính bằng biểu thức
+A. $W = \dfrac{1}{2} m v^2 - m g h$.
+B. $W = m v + m g h$.
+C. $W = \dfrac{1}{2} m v^2 \cdot m g h$.
+*D. $W = \dfrac{1}{2} m v^2 + m g h$.
+Lời giải
+$W = W_{đ} + W_t = \dfrac{1}{2} m v^2 + m g h$.
+
+Câu 3. [NB] Cơ năng của vật được bảo toàn khi vật chỉ chịu tác dụng của
+A. lực cản của không khí.
+B. lực ma sát.
+C. bất kì lực nào có độ lớn không đổi.
+*D. trọng lực.
+Lời giải
+Cơ năng bảo toàn khi vật chỉ chịu tác dụng của trọng lực (hoặc lực thế), không có lực cản, lực ma sát.
+
+Câu 4. [NB] Đơn vị của cơ năng trong hệ SI là
+A. oát (W).
+B. niuton (N).
+*C. jun (J).
+D. jun trên giây (J/s).
+Lời giải
+Cơ năng là một dạng năng lượng, đơn vị là jun (J).
+
+Câu 5. [NB] Khi chỉ có trọng lực tác dụng, định luật bảo toàn cơ năng được biểu diễn bằng hệ thức
+A. $W_{đ1} - W_{t1} = W_{đ2} - W_{t2}$.
+*B. $W_{đ1} + W_{t1} = W_{đ2} + W_{t2}$.
+C. $W_{đ1} = W_{đ2}$ tại mọi vị trí.
+D. $W_{đ1} \cdot W_{t1} = W_{đ2} \cdot W_{t2}$.
+Lời giải
+Cơ năng ở hai vị trí bằng nhau: $W_1 = W_2$.
+
+Câu 6. [NB] Một vật rơi tự do, trong quá trình rơi có sự chuyển hóa năng lượng nào?
+*A. Thế năng chuyển hóa thành động năng.
+B. Động năng chuyển hóa thành thế năng.
+C. Cơ năng chuyển hóa hoàn toàn thành nhiệt.
+D. Không có sự chuyển hóa nào.
+Lời giải
+Vật rơi xuống nên thế năng giảm, động năng tăng; tổng không đổi khi bỏ qua lực cản.
+
+Câu 7. [NB] Ném một vật thẳng đứng hướng lên (bỏ qua lực cản). Trong quá trình chuyển động, cơ năng của vật
+A. tăng dần.
+*B. không đổi.
+C. giảm dần.
+D. luôn bằng không.
+Lời giải
+Chỉ có trọng lực tác dụng nên cơ năng bảo toàn.
+
+Câu 8. [NB] Vật ném thẳng đứng hướng lên từ mặt đất (bỏ qua lực cản), chọn mặt đất làm gốc thế năng. Tại điểm cao nhất của quỹ đạo thì
+A. thế năng của vật bằng không.
+B. cơ năng của vật bằng không.
+*C. động năng bằng không.
+D. động năng của vật cực đại.
+Lời giải
+Tại điểm cao nhất vận tốc bằng không nên $W_{đ} = 0$.
+
+Câu 9. [TH] Con lắc đơn dao động (bỏ qua lực cản). Khi quả nặng đi qua vị trí thấp nhất thì
+*A. động năng cực đại, thế năng cực tiểu.
+B. động năng cực tiểu, thế năng cực đại.
+C. động năng và thế năng đều cực đại.
+D. động năng và thế năng đều bằng không.
+Lời giải
+Ở vị trí thấp nhất độ cao nhỏ nhất nên $W_t$ cực tiểu; cơ năng không đổi nên $W_{đ}$ cực đại.
+
+Câu 10. [TH] Vật trượt xuống dốc nhẵn (không ma sát), bỏ qua lực cản không khí. Trong quá trình trượt
+A. thế năng giảm, động năng tăng, cơ năng giảm.
+B. thế năng tăng, động năng giảm, cơ năng không đổi.
+C. thế năng và động năng cùng giảm.
+*D. thế năng giảm, động năng tăng, cơ năng không đổi.
+Lời giải
+Dốc nhẵn nên chỉ có trọng lực sinh công, cơ năng bảo toàn.
+
+Câu 11. [TH] Vật trượt xuống dốc có ma sát. Nhận xét nào đúng?
+A. Cơ năng của vật tăng vì vật chuyển động nhanh dần.
+B. Cơ năng của vật không đổi vì vẫn có trọng lực.
+C. Cơ năng của vật giảm, phần giảm biến mất hoàn toàn.
+*D. Cơ năng của vật giảm, phần giảm chuyển thành nhiệt.
+Lời giải
+Có ma sát thì cơ năng không bảo toàn; phần cơ năng giảm chuyển thành nhiệt.
+
+Câu 12. [TH] Hai viên bi cùng khối lượng được ném từ cùng độ cao với cùng tốc độ ban đầu: viên 1 ném lên, viên 2 ném xuống (bỏ qua lực cản). Tốc độ khi chạm đất của hai viên bi
+*A. bằng nhau.
+B. viên 1 lớn hơn viên 2.
+C. viên 2 lớn hơn viên 1.
+D. viên 1 bằng một nửa viên 2.
+Lời giải
+Hai viên có cùng cơ năng ban đầu và cùng cơ năng khi chạm đất (cùng $h = 0$) nên cùng động năng, cùng tốc độ.
+
+Câu 13. [TH] Cơ năng của vật được bảo toàn. Khi thế năng của vật tăng thêm 5 J thì động năng của vật
+A. tăng 5 J.
+B. không đổi.
+*C. giảm 5 J.
+D. giảm 10 J.
+Lời giải
+$\Delta W_t + \Delta W_{đ} = 0$ nên $\Delta W_{đ} = -5$ J.
+
+Câu 14. [TH] Hai vật có khối lượng khác nhau cùng được thả rơi tự do từ cùng một độ cao (bỏ qua lực cản). Khi chạm đất, hai vật có
+*A. cùng tốc độ.
+B. cùng động năng.
+C. cùng thế năng ban đầu.
+D. cùng cơ năng.
+Lời giải
+$m g h = \dfrac{1}{2} m v^2$ suy ra $v = \sqrt{2 g h}$, không phụ thuộc khối lượng.
+
+Câu 15. [TH] Ném một vật thẳng đứng lên từ mặt đất (bỏ qua lực cản), chọn mặt đất làm gốc thế năng. Khi vật ở độ cao bằng một nửa độ cao cực đại thì
+A. động năng bằng hai lần thế năng.
+B. thế năng bằng không.
+*C. động năng bằng thế năng.
+D. động năng bằng không.
+Lời giải
+Gốc ở mặt đất: $W = m g h_{max}$. Ở $h = \dfrac{h_{max}}{2}$: $W_t = \dfrac{m g h_{max}}{2}$ nên $W_{đ} = W - W_t = \dfrac{m g h_{max}}{2} = W_t$.
+
+Câu 16. [VD] Thả rơi tự do một vật từ độ cao 20 m, lấy $g = 10$ m/s², bỏ qua lực cản. Tốc độ của vật khi chạm đất là
+*A. 20 m/s.
+B. 10 m/s.
+C. 40 m/s.
+D. 200 m/s.
+Lời giải
+$m g h = \dfrac{1}{2} m v^2$ suy ra $v = \sqrt{2 g h} = \sqrt{2 \cdot 10 \cdot 20} = 20$ m/s.
+
+Câu 17. [VD] Ném vật thẳng đứng lên từ mặt đất với tốc độ 15 m/s, lấy $g = 10$ m/s², bỏ qua lực cản. Độ cao cực đại vật đạt được là
+A. 22,5 m.
+*B. 11,25 m.
+C. 112,5 m.
+D. 1,125 m.
+Lời giải
+$\dfrac{1}{2} m v_0^2 = m g h_{max}$ suy ra $h_{max} = \dfrac{15^2}{2 \cdot 10} = 11,25$ m.
+
+Câu 18. [VD] Vật trượt không ma sát từ đỉnh dốc cao 5 m, ban đầu đứng yên, lấy $g = 10$ m/s². Tốc độ của vật ở chân dốc là
+A. 5 m/s.
+*B. 10 m/s.
+C. 50 m/s.
+D. 100 m/s.
+Lời giải
+$v = \sqrt{2 g h} = \sqrt{2 \cdot 10 \cdot 5} = 10$ m/s.
+
+Câu 19. [VD] Vật khối lượng 2 kg ở độ cao 10 m so với mặt đất và có tốc độ 6 m/s. Chọn mặt đất làm gốc thế năng, lấy $g = 10$ m/s². Cơ năng của vật là
+A. 200 J.
+B. 36 J.
+*C. 236 J.
+D. 256 J.
+Lời giải
+$W = \dfrac{1}{2} \cdot 2 \cdot 6^2 + 2 \cdot 10 \cdot 10 = 36 + 200 = 236$ J.
+
+Câu 20. [VD] Ném vật thẳng đứng xuống dưới từ độ cao 15 m với tốc độ 10 m/s, lấy $g = 10$ m/s², bỏ qua lực cản. Tốc độ của vật khi chạm đất là
+A. 25 m/s.
+*B. 20 m/s.
+C. 10 m/s.
+D. 30 m/s.
+Lời giải
+Cơ năng bảo toàn: $\dfrac{1}{2} v^2 = \dfrac{1}{2} \cdot 10^2 + 10 \cdot 15$ nên $v^2 = 10^2 + 2 \cdot 10 \cdot 15 = 400$, $v = 20$ m/s.
+
+Câu 21. [VD] Ném vật thẳng đứng lên từ mặt đất với tốc độ 20 m/s, lấy $g = 10$ m/s², bỏ qua lực cản. Vật có động năng bằng thế năng ở độ cao
+A. 20 m.
+*B. 10 m.
+C. 5 m.
+D. 15 m.
+Lời giải
+$W = \dfrac{1}{2} m v_0^2$. $W_{đ} = W_t$ nên $W = 2 W_t = 2 m g h$ suy ra $h = \dfrac{v_0^2}{4 g} = \dfrac{400}{40} = 10$ m.
+
+Câu 22. [VD] Ném một vật theo phương ngang từ độ cao 20 m với tốc độ 15 m/s, lấy $g = 10$ m/s², bỏ qua lực cản. Tốc độ của vật khi chạm đất là
+A. 35 m/s.
+B. 20 m/s.
+C. 15 m/s.
+*D. 25 m/s.
+Lời giải
+$v^2 = v_0^2 + 2 g h = 15^2 + 2 \cdot 10 \cdot 20 = 625$ suy ra $v = 25$ m/s.
+
+Câu 23. [TF] [TH] Về cơ năng:
+*A. Cơ năng của vật bằng tổng động năng và thế năng của vật.
+*B. Chỉ có trọng lực tác dụng thì cơ năng của vật được bảo toàn.
+C. Khi có lực ma sát tác dụng, cơ năng của vật vẫn được bảo toàn.
+D. Cơ năng của vật luôn bằng thế năng của vật.
+Lời giải
+Cơ năng $= W_{đ} + W_t$; lực ma sát làm cơ năng giảm; $W_{đ}$ có thể khác không nên cơ năng không luôn bằng thế năng.
+
+Câu 24. [TF] [TH] Một vật rơi tự do (bỏ qua lực cản):
+*A. Cơ năng của vật không đổi.
+*B. Thế năng giảm, động năng tăng.
+*C. Độ giảm thế năng bằng độ tăng động năng.
+D. Tốc độ khi chạm đất phụ thuộc khối lượng của vật.
+Lời giải
+$v = \sqrt{2 g h}$ không phụ thuộc khối lượng.
+
+Câu 25. [TF] [TH] Một vật trượt xuống dốc có ma sát:
+A. Cơ năng của vật được bảo toàn.
+*B. Cơ năng của vật giảm.
+C. Cơ năng của vật tăng.
+D. Phần cơ năng giảm đi biến mất, không chuyển thành dạng năng lượng nào khác.
+Lời giải
+Ma sát làm cơ năng giảm; phần giảm chuyển thành nhiệt.
+
+Câu 26. [TF] [VD] Ném vật khối lượng 0,5 kg thẳng đứng lên từ mặt đất với tốc độ 10 m/s, lấy $g = 10$ m/s², bỏ qua lực cản. Chọn mặt đất làm gốc thế năng.
+*A. Cơ năng của vật là 25 J.
+*B. Độ cao cực đại là 5 m.
+*C. Ở độ cao cực đại thế năng của vật là 25 J.
+*D. Ở độ cao 2,5 m động năng của vật là 12,5 J.
+Lời giải
+$W = \dfrac{1}{2} \cdot 0,5 \cdot 10^2 = 25$ J; $h_{max} = \dfrac{W}{m g} = 5$ m; tại đó $W_t = W = 25$ J; ở 2,5 m: $W_t = 12,5$ J nên $W_{đ} = 25 - 12,5 = 12,5$ J.
+
+Câu 27. [TF] [VD] Thả rơi tự do vật 4 kg từ độ cao 5 m so với mặt đất, chọn mặt đất làm gốc thế năng, $g = 10$ m/s², bỏ qua lực cản.
+*A. Cơ năng của vật là 200 J.
+*B. Ở độ cao 2 m, động năng của vật là 120 J.
+*C. Tốc độ của vật khi chạm đất là 10 m/s.
+D. Ở độ cao 2 m, thế năng của vật là 120 J.
+Lời giải
+$W = 4 \cdot 10 \cdot 5 = 200$ J. Ở 2 m: $W_t = 80$ J nên $W_{đ} = 120$ J. Chạm đất: $v = \sqrt{2 \cdot 10 \cdot 5} = 10$ m/s.
+
+Câu 28. [TF] [VD] Kéo quả nặng của con lắc đơn lên độ cao 0,8 m so với vị trí thấp nhất rồi thả nhẹ, bỏ qua lực cản, $g = 10$ m/s².
+*A. Cơ năng của con lắc được bảo toàn.
+*B. Tốc độ của quả nặng ở vị trí thấp nhất là 4 m/s.
+C. Tốc độ của quả nặng ở vị trí thấp nhất là 8 m/s.
+D. Tốc độ của quả nặng ở vị trí thấp nhất phụ thuộc vào khối lượng của nó.
+Lời giải
+$v = \sqrt{2 g h} = \sqrt{2 \cdot 10 \cdot 0,8} = 4$ m/s, không phụ thuộc khối lượng.
+
+Câu 29. [TF] [VD] Vật 1 kg trượt từ đỉnh dốc cao 4 m (ban đầu đứng yên) xuống chân dốc với tốc độ 6 m/s, $g = 10$ m/s².
+*A. Cơ năng của vật giảm 22 J.
+B. Dốc này là dốc nhẵn.
+C. Cơ năng của vật ở chân dốc là 40 J.
+D. Cơ năng của vật ở chân dốc bằng cơ năng ở đỉnh dốc.
+Lời giải
+Ở đỉnh: $W_1 = 1 \cdot 10 \cdot 4 = 40$ J; ở chân: $W_2 = \dfrac{1}{2} \cdot 1 \cdot 6^2 = 18$ J. Cơ năng giảm 22 J nên có ma sát.
+
+Câu 30. [TH] Vật khối lượng 1 kg ở độ cao 5 m so với mặt đất, có tốc độ 4 m/s. Chọn mặt đất làm gốc thế năng, lấy $g = 10$ m/s². Tính cơ năng của vật (theo đơn vị J).
+Trả lời: [[58]]
+Lời giải
+$W = 1 \cdot 10 \cdot 5 + \dfrac{1}{2} \cdot 1 \cdot 4^2 = 50 + 8 = 58$ J.
+
+Câu 31. [TH] Vật khối lượng 0,5 kg đứng yên ở độ cao 8 m so với mặt đất, chọn mặt đất làm gốc thế năng, $g = 10$ m/s². Tính cơ năng của vật (theo đơn vị J).
+Trả lời: [[40]]
+Lời giải
+$W = W_t = 0,5 \cdot 10 \cdot 8 = 40$ J.
+
+Câu 32. [TH] Vật khối lượng 1 kg ở độ cao 3 m so với mặt đất, có tốc độ 6 m/s. Chọn mặt đất làm gốc thế năng, $g = 10$ m/s². Tính cơ năng của vật (theo đơn vị J).
+Trả lời: [[48]]
+Lời giải
+$W = 1 \cdot 10 \cdot 3 + \dfrac{1}{2} \cdot 1 \cdot 6^2 = 30 + 18 = 48$ J.
+
+Câu 33. [VD] Thả rơi tự do một vật từ độ cao 45 m, lấy $g = 10$ m/s², bỏ qua lực cản. Tính tốc độ của vật khi chạm đất (theo đơn vị m/s).
+Trả lời: [[30]]
+Lời giải
+$v = \sqrt{2 g h} = \sqrt{2 \cdot 10 \cdot 45} = 30$ m/s.
+
+Câu 34. [VD] Ném vật thẳng đứng lên từ mặt đất với tốc độ 20 m/s, lấy $g = 10$ m/s², bỏ qua lực cản. Tính độ cao cực đại của vật (theo đơn vị m).
+Trả lời: [[20]]
+Lời giải
+$h_{max} = \dfrac{v_0^2}{2 g} = \dfrac{400}{20} = 20$ m.
+
+Câu 35. [VD] Vật trượt không ma sát từ đỉnh dốc cao 3,2 m, ban đầu đứng yên, lấy $g = 10$ m/s². Tính tốc độ của vật ở chân dốc (theo đơn vị m/s).
+Trả lời: [[8]]
+Lời giải
+$v = \sqrt{2 g h} = \sqrt{2 \cdot 10 \cdot 3,2} = 8$ m/s.
+
+Câu 36. [VD] Kéo quả nặng của con lắc đơn lên cao 0,45 m so với vị trí thấp nhất rồi thả nhẹ, bỏ qua lực cản, $g = 10$ m/s². Tính tốc độ của quả nặng ở vị trí thấp nhất (theo đơn vị m/s).
+Trả lời: [[3]]
+Lời giải
+$v = \sqrt{2 g h} = \sqrt{2 \cdot 10 \cdot 0,45} = 3$ m/s.
+
+Câu 37. [VD] Ném vật khối lượng 2 kg thẳng đứng lên từ mặt đất với tốc độ 10 m/s, lấy $g = 10$ m/s², bỏ qua lực cản. Tính động năng của vật khi ở độ cao 3 m (theo đơn vị J).
+Trả lời: [[40]]
+Lời giải
+$W = \dfrac{1}{2} \cdot 2 \cdot 10^2 = 100$ J. Ở 3 m: $W_t = 2 \cdot 10 \cdot 3 = 60$ J nên $W_{đ} = 100 - 60 = 40$ J.
+
+Câu 38. [VD] Vật 2 kg trượt từ đỉnh dốc cao 5 m (ban đầu đứng yên) xuống chân dốc với tốc độ 8 m/s, $g = 10$ m/s². Tính độ biến thiên cơ năng, lấy cơ năng sau trừ cơ năng trước (theo đơn vị J).
+Trả lời: [[-36]]
+Lời giải
+$W_1 = 2 \cdot 10 \cdot 5 = 100$ J; $W_2 = \dfrac{1}{2} \cdot 2 \cdot 8^2 = 64$ J. $\Delta W = 64 - 100 = -36$ J (cơ năng giảm do ma sát).
+
 @bai 27 | Hiệu suất
+Câu 1. [NB] Hiệu suất của một máy là tỉ số giữa
+*A. năng lượng có ích và năng lượng toàn phần.
+B. năng lượng toàn phần và năng lượng có ích.
+C. năng lượng hao phí và năng lượng có ích.
+D. công suất và thời gian hoạt động.
+Lời giải
+Hiệu suất $H = \dfrac{W_{ích}}{W_{tp}}$ (nhân 100% để ra phần trăm).
+
+Câu 2. [NB] Biểu thức tính hiệu suất của máy (tính theo phần trăm) là
+A. $H = \dfrac{W_{tp}}{W_{ích}} \cdot 100\%$.
+B. $H = \dfrac{W_{hp}}{W_{tp}} \cdot 100\%$.
+*C. $H = \dfrac{W_{ích}}{W_{tp}} \cdot 100\%$.
+D. $H = (W_{tp} - W_{ích}) \cdot 100\%$.
+Lời giải
+$H = \dfrac{W_{ích}}{W_{tp}} \cdot 100\%$, với $W_{ích}$ là năng lượng có ích và $W_{tp}$ là năng lượng toàn phần.
+
+Câu 3. [NB] Hiệu suất của các máy thực tế luôn
+*A. nhỏ hơn 100%.
+B. lớn hơn 100%.
+C. bằng 100%.
+D. bằng không.
+Lời giải
+Luôn có hao phí nên năng lượng có ích nhỏ hơn năng lượng toàn phần, $H < 100\%$.
+
+Câu 4. [NB] Hiệu suất là đại lượng
+A. có đơn vị là oát.
+B. có đơn vị là jun.
+*C. không có đơn vị.
+D. có đơn vị là niuton.
+Lời giải
+Hiệu suất là tỉ số của hai năng lượng cùng đơn vị nên không có đơn vị.
+
+Câu 5. [NB] Năng lượng hao phí của một máy là phần năng lượng
+A. biến đổi hoàn toàn thành công có ích.
+*B. biến đổi thành các dạng không có ích.
+C. bị tiêu diệt hoàn toàn khỏi hệ thống.
+D. không bao giờ được chuyển hóa thành dạng khác.
+Lời giải
+Năng lượng hao phí là phần năng lượng chuyển thành dạng không mong muốn (chủ yếu là nhiệt); năng lượng vẫn được bảo toàn.
+
+Câu 6. [NB] Gọi $W_{tp}$ là năng lượng toàn phần, $W_{ích}$ là năng lượng có ích, $W_{hp}$ là năng lượng hao phí. Hệ thức đúng là
+A. $W_{tp} = W_{ích} - W_{hp}$.
+B. $W_{ích} = W_{tp} + W_{hp}$.
+C. $W_{hp} = W_{tp} \cdot W_{ích}$.
+*D. $W_{tp} = W_{ích} + W_{hp}$.
+Lời giải
+Năng lượng toàn phần gồm phần có ích và phần hao phí.
+
+Câu 7. [NB] Hiệu suất của máy có thể tính qua công suất theo biểu thức
+A. $H = \dfrac{P_{tp}}{P_{ích}} \cdot 100\%$.
+B. $H = P_{ích} \cdot P_{tp}$.
+C. $H = P_{tp} - P_{ích}$.
+*D. $H = \dfrac{P_{ích}}{P_{tp}} \cdot 100\%$.
+Lời giải
+Chia cả hai vế cho thời gian: $H = \dfrac{W_{ích}}{W_{tp}} = \dfrac{P_{ích}}{P_{tp}}$.
+
+Câu 8. [NB] Hiệu suất 100% là
+*A. trường hợp lí tưởng, không có hao phí.
+B. trường hợp mọi máy thực tế đều đạt được.
+C. trường hợp máy hoạt động nhanh nhất.
+D. trường hợp máy có công suất lớn nhất.
+Lời giải
+Hiệu suất 100% nghĩa là không có hao phí, chỉ là trường hợp lí tưởng.
+
+Câu 9. [TH] Một máy nhận năng lượng toàn phần 500 J và thực hiện công có ích 400 J. Hiệu suất của máy là
+A. 125%.
+B. 20%.
+*C. 80%.
+D. 90%.
+Lời giải
+$H = \dfrac{400}{500} \cdot 100\% = 80\%$.
+
+Câu 10. [TH] Hai máy nhận cùng một năng lượng toàn phần. Máy có hiệu suất cao hơn sẽ
+A. cho năng lượng hao phí nhiều hơn.
+*B. cho năng lượng có ích nhiều hơn.
+C. luôn có công suất lớn hơn.
+D. hoạt động nhanh hơn.
+Lời giải
+$W_{ích} = H \cdot W_{tp}$: cùng $W_{tp}$ thì $H$ lớn hơn cho $W_{ích}$ lớn hơn.
+
+Câu 11. [TH] Đèn LED và đèn sợi đốt cho cùng độ sáng, đèn LED tiêu thụ điện năng ít hơn. Điều này cho thấy đèn LED
+*A. có hiệu suất phát sáng cao hơn.
+B. có hiệu suất phát sáng thấp hơn.
+C. có công suất tiêu thụ lớn hơn.
+D. không có hao phí năng lượng.
+Lời giải
+Cùng quang năng có ích mà điện năng tiêu thụ ít hơn thì tỉ số $\dfrac{W_{ích}}{W_{tp}}$ lớn hơn.
+
+Câu 12. [TH] Một động cơ có hiệu suất 40% có nghĩa là
+A. 40% năng lượng toàn phần bị hao phí hoàn toàn.
+B. động cơ chỉ hoạt động trong 40% thời gian quy định.
+C. công suất của động cơ luôn bằng 40 W.
+*D. 40% năng lượng toàn phần thành công có ích.
+Lời giải
+$H = 40\%$ nghĩa là $\dfrac{W_{ích}}{W_{tp}} = 0,4$; 60% còn lại là hao phí.
+
+Câu 13. [TH] Quạt điện hoạt động, phần điện năng hao phí chủ yếu chuyển thành
+A. quang năng.
+B. hóa năng.
+*C. nhiệt năng.
+D. thế năng.
+Lời giải
+Điện năng hao phí trong quạt (điện trở dây, ma sát) chủ yếu tỏa ra thành nhiệt.
+
+Câu 14. [TH] Biện pháp nào sau đây giúp tăng hiệu suất của máy cơ khí?
+A. Tăng ma sát giữa các bộ phận chuyển động.
+*B. Bôi trơn các bộ phận để giảm ma sát.
+C. Cho máy hoạt động liên tục thật lâu.
+D. Tăng khối lượng của các bộ phận máy.
+Lời giải
+Giảm ma sát thì hao phí do ma sát giảm, hiệu suất tăng.
+
+Câu 15. [TH] Hai động cơ nhận cùng công suất toàn phần, động cơ 1 có hiệu suất 60%, động cơ 2 có hiệu suất 80%. Công suất có ích của động cơ 2 so với động cơ 1
+A. nhỏ hơn.
+B. bằng nhau.
+C. bằng không.
+*D. lớn hơn.
+Lời giải
+$P_{ích} = H \cdot P_{tp}$ nên $H$ lớn hơn thì $P_{ích}$ lớn hơn.
+
+Câu 16. [VD] Một động cơ nhận năng lượng toàn phần 2000 J và thực hiện công có ích 1500 J. Hiệu suất của động cơ là
+A. 133%.
+B. 25%.
+C. 50%.
+*D. 75%.
+Lời giải
+$H = \dfrac{1500}{2000} \cdot 100\% = 75\%$.
+
+Câu 17. [VD] Một động cơ có công suất toàn phần 2 kW và hiệu suất 80%. Công suất có ích của động cơ là
+A. 2,5 kW.
+*B. 1,6 kW.
+C. 0,4 kW.
+D. 160 kW.
+Lời giải
+$P_{ích} = H \cdot P_{tp} = 0,8 \cdot 2 = 1,6$ kW.
+
+Câu 18. [VD] Cần cẩu có công suất toàn phần 5 kW, hiệu suất 60%, nâng đều kiện hàng 1 tấn lên cao 9 m, lấy $g = 10$ m/s². Thời gian nâng là
+*A. 30 s.
+B. 18 s.
+C. 50 s.
+D. 15 s.
+Lời giải
+$A_{ích} = m g h = 1000 \cdot 10 \cdot 9 = 90000$ J; $P_{ích} = 0,6 \cdot 5000 = 3000$ W. $t = \dfrac{90000}{3000} = 30$ s.
+
+Câu 19. [VD] Một máy có hiệu suất 25%, năng lượng hao phí là 600 J. Năng lượng toàn phần máy đã nhận là
+A. 2400 J.
+*B. 800 J.
+C. 150 J.
+D. 200 J.
+Lời giải
+Hao phí chiếm $100\% - 25\% = 75\%$ năng lượng toàn phần: $W_{tp} = \dfrac{600}{0,75} = 800$ J.
+
+Câu 20. [VD] Động cơ ô tô có công suất toàn phần 40 kW, hiệu suất 30%. Ô tô chạy đều với tốc độ 12 m/s. Lực kéo của động cơ là
+A. 3333 N.
+B. 360 N.
+*C. 1000 N.
+D. 12 000 N.
+Lời giải
+$P_{ích} = 0,3 \cdot 40000 = 12000$ W. $F = \dfrac{P_{ích}}{v} = \dfrac{12000}{12} = 1000$ N.
+
+Câu 21. [VD] Một bóng đèn có công suất tiêu thụ điện 10 W, công suất phát ra dưới dạng ánh sáng là 2 W. Hiệu suất phát sáng của đèn là
+A. 80%.
+B. 500%.
+*C. 20%.
+D. 8%.
+Lời giải
+$H = \dfrac{2}{10} \cdot 100\% = 20\%$.
+
+Câu 22. [VD] Một động cơ điện nhận điện năng 1 kW·h (tức $3,6 \cdot 10^6$ J) và có hiệu suất 90%. Công có ích mà động cơ thực hiện là
+A. $4,0 \cdot 10^6$ J.
+*B. $3,24 \cdot 10^6$ J.
+C. $3,6 \cdot 10^5$ J.
+D. $9,0 \cdot 10^5$ J.
+Lời giải
+$W_{ích} = 0,9 \cdot 3,6 \cdot 10^6 = 3,24 \cdot 10^6$ J.
+
+Câu 23. [TF] [TH] Về hiệu suất:
+*A. Hiệu suất là tỉ số giữa năng lượng có ích và năng lượng toàn phần.
+*B. Hiệu suất của máy thực tế luôn nhỏ hơn 100%.
+C. Hiệu suất có đơn vị là oát.
+D. Máy tốt có thể có hiệu suất lớn hơn 100%.
+Lời giải
+Hiệu suất không có đơn vị và không thể vượt 100% vì luôn có hao phí.
+
+Câu 24. [TF] [TH] Một máy nhận năng lượng toàn phần 800 J, trong đó 200 J bị hao phí:
+*A. Năng lượng có ích là 600 J.
+*B. Hiệu suất của máy là 75%.
+*C. Phần năng lượng hao phí không mất đi mà chuyển thành dạng năng lượng khác.
+D. Hiệu suất của máy là 25%.
+Lời giải
+$W_{ích} = 800 - 200 = 600$ J; $H = \dfrac{600}{800} = 75\%$.
+
+Câu 25. [TF] [TH] Hai máy A và B cùng nhận năng lượng toàn phần 1000 J; hiệu suất của máy A là 60%, của máy B là 80%.
+A. Máy A cho năng lượng có ích nhiều hơn máy B.
+*B. Máy B cho năng lượng có ích là 800 J.
+C. Máy A cho năng lượng có ích là 800 J.
+D. Năng lượng hao phí của máy B lớn hơn của máy A.
+Lời giải
+A: có ích 600 J, hao phí 400 J. B: có ích 800 J, hao phí 200 J.
+
+Câu 26. [TF] [VD] Một động cơ có công suất toàn phần 10 kW, hiệu suất 70%.
+*A. Công suất có ích là 7 kW.
+*B. Công suất hao phí là 3 kW.
+*C. Trong 10 s động cơ thực hiện công có ích 70 kJ.
+D. Hoạt động liên tục 2 giờ thì động cơ tiêu thụ điện năng 14 kW·h.
+Lời giải
+$P_{ích} = 0,7 \cdot 10 = 7$ kW; $P_{hp} = 3$ kW; $A_{ích} = 7000 \cdot 10 = 70$ kJ; điện năng tiêu thụ $= 10 \cdot 2 = 20$ kW·h chứ không phải 14 kW·h.
+
+Câu 27. [TF] [VD] Cần cẩu nâng đều kiện hàng 500 kg lên cao 6 m, lấy $g = 10$ m/s². Động cơ cần cẩu thực hiện công toàn phần 40 kJ.
+*A. Công có ích là 30 kJ.
+B. Hiệu suất của cần cẩu là 80%.
+*C. Hiệu suất của cần cẩu là 75%.
+D. Công hao phí là 30 kJ.
+Lời giải
+$A_{ích} = m g h = 30$ kJ; $H = \dfrac{30}{40} = 75\%$; công hao phí $= 40 - 30 = 10$ kJ.
+
+Câu 28. [TF] [VD] Một bóng đèn có công suất tiêu thụ 40 W, công suất phát ra dưới dạng ánh sáng là 10 W.
+*A. Hiệu suất phát sáng của đèn là 25%.
+*B. Công suất hao phí là 30 W.
+*C. Mỗi giây có 30 J điện năng chuyển thành dạng năng lượng không có ích.
+D. Hiệu suất phát sáng của đèn là 75%.
+Lời giải
+$H = \dfrac{10}{40} = 25\%$; $P_{hp} = 40 - 10 = 30$ W, tức 30 J mỗi giây.
+
+Câu 29. [TF] [VD] Một bếp điện có công suất 1000 W, hiệu suất 80%, hoạt động liên tục trong 10 phút (600 s).
+*A. Nhiệt lượng có ích bếp tỏa ra là 480 kJ.
+B. Nhiệt lượng có ích bếp tỏa ra là 600 kJ.
+C. Năng lượng hao phí là 480 kJ.
+D. Kéo dài thời gian hoạt động thì hiệu suất của bếp giảm.
+Lời giải
+$W_{tp} = 1000 \cdot 600 = 600$ kJ; $W_{ích} = 0,8 \cdot 600 = 480$ kJ; $W_{hp} = 120$ kJ. Hiệu suất là đặc trưng của bếp, không phụ thuộc thời gian.
+
+Câu 30. [TH] Một máy nhận năng lượng toàn phần 600 J và thực hiện công có ích 420 J. Tính hiệu suất của máy (theo đơn vị %).
+Trả lời: [[70]]
+Lời giải
+$H = \dfrac{420}{600} \cdot 100\% = 70\%$.
+
+Câu 31. [TH] Một máy có hiệu suất 30% nhận năng lượng toàn phần 1000 J. Tính năng lượng có ích (theo đơn vị J).
+Trả lời: [[300]]
+Lời giải
+$W_{ích} = 0,3 \cdot 1000 = 300$ J.
+
+Câu 32. [TH] Một máy có hiệu suất 60% nhận năng lượng toàn phần 500 J. Tính năng lượng hao phí (theo đơn vị J).
+Trả lời: [[200]]
+Lời giải
+$W_{ích} = 0,6 \cdot 500 = 300$ J nên $W_{hp} = 500 - 300 = 200$ J.
+
+Câu 33. [VD] Động cơ có hiệu suất 80% nâng đều vật 800 kg lên cao 6 m, lấy $g = 10$ m/s². Tính năng lượng toàn phần động cơ tiêu thụ (theo đơn vị kJ).
+Trả lời: [[60]]
+Lời giải
+$A_{ích} = 800 \cdot 10 \cdot 6 = 48000$ J. $W_{tp} = \dfrac{48000}{0,8} = 60000$ J $= 60$ kJ.
+
+Câu 34. [VD] Một động cơ có công suất toàn phần 5 kW, hiệu suất 70%, hoạt động liên tục 2 giờ. Tính công có ích động cơ thực hiện (theo đơn vị kW·h).
+Trả lời: [[7]]
+Lời giải
+$P_{ích} = 0,7 \cdot 5 = 3,5$ kW. $A_{ích} = 3,5 \cdot 2 = 7$ kW·h.
+
+Câu 35. [VD] Cần cẩu nâng đều vật 1200 kg lên cao 10 m trong 60 s, lấy $g = 10$ m/s². Động cơ cần cẩu có công suất toàn phần 3 kW. Tính hiệu suất của cần cẩu (theo đơn vị %, làm tròn đến một chữ số thập phân).
+Trả lời: [[66,7]]
+Lời giải
+$P_{ích} = \dfrac{1200 \cdot 10 \cdot 10}{60} = 2000$ W. $H = \dfrac{2000}{3000} \cdot 100\% \approx 66,7\%$.
+
+Câu 36. [VD] Động cơ có công suất toàn phần 8 kW, hiệu suất 75%, nâng đều vật 600 kg, lấy $g = 10$ m/s². Tính tốc độ nâng vật (theo đơn vị m/s).
+Trả lời: [[1]]
+Lời giải
+$P_{ích} = 0,75 \cdot 8000 = 6000$ W. $F = m g = 6000$ N. $v = \dfrac{P_{ích}}{F} = 1$ m/s.
+
+Câu 37. [VD] Động cơ có công suất toàn phần 4 kW, hiệu suất 85%. Tính công suất hao phí (theo đơn vị kW).
+Trả lời: [[0,6]]
+Lời giải
+$P_{hp} = (1 - 0,85) \cdot 4 = 0,6$ kW.
+
+Câu 38. [VD] Một máy có hiệu suất 20% thực hiện công có ích 100 J. Tính năng lượng toàn phần máy đã nhận (theo đơn vị J).
+Trả lời: [[500]]
+Lời giải
+$W_{tp} = \dfrac{W_{ích}}{H} = \dfrac{100}{0,2} = 500$ J.
 
 @chuong V | Động lượng
 @bai 28 | Động lượng
