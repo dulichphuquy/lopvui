@@ -1,11 +1,11 @@
 /* Lớp Vui – service worker: giữ sẵn app và kho câu hỏi trong máy để chạy khi mất mạng.
    Có bản mới thì tải ngầm, app báo "Có bản Lớp Vui mới · Cập nhật"; thầy cô bấm thì mới đổi (không đổi giữa tiết học). */
 const PREFIX = "lopvui-thu-";            // "lopvui-" bản chính, "lopvui-thu-" bản thử
-const VERSION = PREFIX + "63820eb30160";
+const VERSION = PREFIX + "67d47781eb8d";
 // Bản chính không đụng vào bản thử nằm trong thư mục con thu/ (và ngược lại: bản thử có bộ nhớ riêng)
 const THU = new URL("thu/", self.registration.scope).pathname;
 const cuaMinh = k => k.startsWith(PREFIX) && (PREFIX === "lopvui-thu-" || !k.startsWith("lopvui-thu-"));
-const FILES = ["./", "index.html", "manifest.webmanifest", "icon-192.png", "icon-512.png", "kho/index.json", "kho/ly10.txt", "kho/ly12.txt", "kho/ta10.txt", "kho/ta12.txt"];
+const FILES = ["./", "index.html", "manifest.webmanifest", "icon-192.png", "icon-512.png", "kho/index.json", "kho/index-en.json", "kho/ly10.txt", "kho/ly12.txt", "kho/ta10.en.txt", "kho/ta10.txt", "kho/ta12.en.txt", "kho/ta12.txt"];
 // cache: "reload" = luôn tải tệp mới từ máy chủ, bỏ qua bản trình duyệt đang giữ
 // (GitHub Pages cho giữ 10 phút; không có dòng này, bấm "Cập nhật" có thể vẫn ra bản cũ)
 self.addEventListener("install", e => e.waitUntil(caches.open(VERSION).then(c => c.addAll(FILES.map(f => new Request(f, { cache: "reload" }))))));
