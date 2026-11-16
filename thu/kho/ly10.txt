@@ -3,6 +3,9 @@
 @chuong I | Mở đầu
 
 @bai 1 | Làm quen với vật lí
+@yccd NB | Nêu được đối tượng nghiên cứu, mục tiêu của môn Vật lí; phân biệt các cấp độ vi mô, vĩ mô; nêu được các giai đoạn phát triển của vật lí và phương pháp nghiên cứu (thực nghiệm, lí thuyết); nêu được ví dụ về ảnh hưởng của vật lí đối với đời sống, kĩ thuật.
+@yccd TH | Phân tích được một số ví dụ về phương pháp nghiên cứu vật lí; vai trò của vật lí với khoa học, kĩ thuật, công nghệ.
+@yccd VD | Lấy được ví dụ chứng tỏ kiến thức, kĩ năng vật lí được sử dụng trong một số lĩnh vực khác nhau.
 Câu 1. [NB] Đối tượng nghiên cứu của vật lí là
 A. sự hình thành và phát triển của các loài sinh vật.
 *B. các dạng vận động của vật chất và năng lượng.
@@ -170,6 +173,9 @@ Lời giải
 Các ứng dụng (1), (2), (4) dựa trên thành tựu vật lí; (3) thuộc hóa học, (5) thuộc sinh học.
 
 @bai 2 | Các quy tắc an toàn trong phòng thực hành vật lí
+@yccd NB | Nêu được các quy tắc an toàn khi sử dụng thiết bị, khi làm việc với điện, nguồn nhiệt, chất phóng xạ; nhận biết được các kí hiệu, biển báo trên thiết bị và trong phòng thực hành.
+@yccd TH | Giải thích được nguy cơ mất an toàn khi không tuân thủ quy tắc trong phòng thực hành.
+@yccd VD | Đề xuất được cách xử lí một số tình huống mất an toàn trong phòng thực hành.
 Câu 1. [NB] Kí hiệu "DC" hoặc "⎓" trên thiết bị điện cho biết
 *A. thiết bị dùng dòng điện một chiều.
 B. thiết bị dùng dòng điện xoay chiều.
@@ -271,6 +277,9 @@ B. Nên mở vỏ đồng hồ để tìm nguyên nhân.
 D. Có thể tiếp tục đo nếu kim đồng hồ vẫn còn quay.
 
 @bai 3 | Thực hành tính sai số trong phép đo. Ghi kết quả đo
+@yccd NB | Nêu được phép đo trực tiếp, phép đo gián tiếp; các loại sai số (sai số hệ thống, sai số ngẫu nhiên).
+@yccd TH | Tính được giá trị trung bình, sai số tuyệt đối, sai số tỉ đối và viết đúng kết quả phép đo.
+@yccd VD | Đề xuất được phương án làm giảm sai số trong phép đo cụ thể.
 Câu 1. [NB] Phép đo trực tiếp là phép đo
 *A. đọc giá trị của đại lượng cần đo trực tiếp trên dụng cụ đo.
 B. tính giá trị đại lượng cần đo thông qua công thức.
@@ -372,6 +381,9 @@ $\delta a = 0,1/10,0 = 1\%$; $\delta b = 0,1/5,0 = 2\%$; $\delta S = \delta a + 
 @chuong II | Động học
 
 @bai 4 | Độ dịch chuyển và quãng đường đi được
+@yccd NB | Phân biệt được độ dịch chuyển (đại lượng vectơ) và quãng đường đi được (đại lượng vô hướng); nêu được điều kiện để độ lớn độ dịch chuyển bằng quãng đường đi được.
+@yccd TH | Xác định được độ dịch chuyển và quãng đường đi được của vật chuyển động thẳng có đổi chiều trên trục toạ độ.
+@yccd VD | –
 Câu 1. [NB] Độ dịch chuyển là đại lượng
 *A. vectơ, cho biết độ dài và hướng của sự thay đổi vị trí của vật.
 B. vô hướng, cho biết độ dài quỹ đạo vật đã đi.
@@ -535,6 +547,9 @@ Câu 28. [VD] Một xe đi thẳng 5 km theo hướng Bắc rồi quay đầu đ
 Trả lời: [[3]]
 
 @bai 5 | Tốc độ và vận tốc
+@yccd NB | Nêu được định nghĩa, ý nghĩa của tốc độ trung bình, vận tốc; phân biệt tốc độ và vận tốc.
+@yccd TH | Tính được tốc độ trung bình và vận tốc trung bình (có xét dấu) của vật chuyển động thẳng.
+@yccd VD | Vận dụng công thức tốc độ trung bình, vận tốc trung bình để giải bài toán thực tế (chuyển động trên nhiều đoạn đường, nhiều khoảng thời gian).
 Câu 1. [NB] Tốc độ trung bình được tính bằng
 *A. thương số giữa quãng đường đi được và thời gian đi hết quãng đường đó.
 B. thương số giữa độ dịch chuyển và thời gian.
@@ -787,6 +802,9 @@ Câu 16. [VD] Tấm chắn sáng có bề rộng 10 mm đi qua cổng quang đi�
 Trả lời: [[0,4]]
 
 @bai 7 | Đồ thị độ dịch chuyển – thời gian
+@yccd NB | –
+@yccd TH | Mô tả được chuyển động (thẳng đều, đứng yên, đổi chiều) dựa vào đồ thị độ dịch chuyển – thời gian.
+@yccd VD | Xác định được độ dịch chuyển, vận tốc từ đồ thị độ dịch chuyển – thời gian hoặc từ dữ kiện chuyển động thẳng có đổi chiều.
 Câu 1. [NB] Đồ thị độ dịch chuyển – thời gian của chuyển động thẳng đều có dạng
 *A. đường thẳng.
 B. đường parabol.
@@ -944,6 +962,9 @@ Câu 28. [VD] Hai xe có $d_A = 10t$ và $d_B = 120 - 20t$ ($d$ tính bằng m, 
 Trả lời: [[40]]
 
 @bai 8 | Chuyển động biến đổi. Gia tốc
+@yccd NB | Nêu được định nghĩa, ý nghĩa, đơn vị của gia tốc; nhận biết chuyển động nhanh dần, chậm dần, thẳng đều qua đồ thị vận tốc – thời gian.
+@yccd TH | Xác định được dấu, tính chất của gia tốc (cùng chiều, ngược chiều vận tốc) dựa vào đồ thị vận tốc – thời gian.
+@yccd VD | Tính được gia tốc từ số liệu vận tốc và thời gian.
 Câu 1. [NB] Gia tốc là đại lượng đặc trưng cho
 A. độ nhanh hay chậm của chuyển động.
 *B. sự thay đổi nhanh hay chậm của vận tốc.
@@ -1105,6 +1126,9 @@ Câu 28. [VD] Một xe giảm tốc từ 72 km/h đến khi dừng hẳn trong 8
 Trả lời: [[-2,5]]
 
 @bai 9 | Chuyển động thẳng biến đổi đều
+@yccd NB | Nêu được các công thức vận tốc, độ dịch chuyển, liên hệ giữa vận tốc – gia tốc – quãng đường của chuyển động thẳng biến đổi đều.
+@yccd TH | Nhận biết được tính chất chuyển động (nhanh dần đều, chậm dần đều) từ dấu của a và v hoặc từ đồ thị vận tốc – thời gian.
+@yccd VD | Vận dụng các công thức của chuyển động thẳng biến đổi đều để tính vận tốc, gia tốc, quãng đường.
 Câu 1. [NB] Chuyển động thẳng biến đổi đều là chuyển động thẳng có
 *A. gia tốc không đổi.
 B. vận tốc không đổi.
