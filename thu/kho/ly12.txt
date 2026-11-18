@@ -2216,7 +2216,7 @@ Thể tích mỗi khối lập phương tỉ lệ nghịch với khối lượng
 Câu 36. [VD] Khối lượng riêng của nước đá là 920 kg/m³ còn của không khí ở điều kiện chuẩn là 1,29 kg/m³. Thể tích của một lượng không khí lớn gấp bao nhiêu lần thể tích của nước đá có cùng khối lượng (theo đơn vị lần, làm tròn đến hàng đơn vị)?
 Trả lời: [[713]]
 Lời giải
-$\dfrac{V_{kk}}{V_{đá}} = \dfrac{D_{đá}}{D_{kk}} = \dfrac{920}{1,29} \approx 713$ lần.
+$\dfrac{V_{kk}}{V_{đá}} = \dfrac{\rho_{đá}}{\rho_{kk}} = \dfrac{920}{1,29} \approx 713$ lần.
 
 Câu 37. [VD] Một phân tử khí chuyển động với tốc độ không đổi 450 m/s, qua lại dọc theo đường kính của bình cầu có đường kính 30 cm và chỉ va chạm với thành bình. Tính số va chạm của phân tử với thành bình trong 0,6 s (theo đơn vị lần).
 Trả lời: [[900]]
@@ -2387,7 +2387,7 @@ B. 45 cm.
 C. 15 cm.
 D. 25 cm.
 Lời giải
-Tiết diện không đổi nên $\ell_2 = \dfrac{p_1\ell_1}{p_2} = \dfrac{1 \cdot 30}{1,5} = 20$ cm.
+Tiết diện không đổi nên $l_2 = \dfrac{p_1 l_1}{p_2} = \dfrac{1 \cdot 30}{1,5} = 20$ cm.
 
 Câu 21. [VD] Bình 4 lít chứa khí ở áp suất $3 \cdot 10^5$ Pa được nối thông với bình 8 lít đã hút chân không. Coi nhiệt độ không đổi. Áp suất khí sau khi cân bằng là
 *A. $1 \cdot 10^5$ Pa.
@@ -2489,7 +2489,7 @@ Khối lượng không đổi, $V_2 = \dfrac{V_1}{5}$ nên $\rho_2 = \dfrac{m}{V
 Câu 35. [VD] Một cột khí dài 30 cm trong xilanh có tiết diện không đổi, ở áp suất 1 atm. Nén đẳng nhiệt để áp suất đạt 1,8 atm. Tính chiều dài cột khí lúc này (theo đơn vị cm, làm tròn đến một chữ số thập phân).
 Trả lời: [[16,7]]
 Lời giải
-$\ell_2 = \dfrac{p_1\ell_1}{p_2} = \dfrac{1 \cdot 30}{1,8} \approx 16,7$ cm.
+$l_2 = \dfrac{p_1 l_1}{p_2} = \dfrac{1 \cdot 30}{1,8} \approx 16,7$ cm.
 
 Câu 36. [VD] Bình 3 lít chứa khí ở áp suất 4 atm được nối thông với bình 5 lít đã hút chân không. Coi nhiệt độ không đổi. Tính áp suất khí sau khi cân bằng (theo đơn vị atm, làm tròn đến một chữ số thập phân).
 Trả lời: [[1,5]]
@@ -3109,7 +3109,7 @@ A. tốc độ trung bình cộng.
 C. tốc độ truyền âm.
 D. tốc độ lớn nhất.
 Lời giải
-$v_{rms} = \sqrt{\overline{v^2}}$ gọi là tốc độ căn quân phương.
+$\sqrt{\overline{v^2}}$ gọi là tốc độ căn quân phương.
 
 Câu 7. [NB] Mật độ phân tử khí $\mu$ được tính bằng
 *A. số phân tử khí trong một đơn vị thể tích.
@@ -3181,7 +3181,7 @@ B. nhiệt độ tuyệt đối.
 C. bình phương nhiệt độ tuyệt đối.
 D. nghịch đảo của nhiệt độ tuyệt đối.
 Lời giải
-$v_{rms} = \sqrt{\dfrac{3kT}{m_0}}$ tỉ lệ với $\sqrt{T}$.
+$\sqrt{\overline{v^2}} = \sqrt{\dfrac{3kT}{m_0}}$ tỉ lệ với $\sqrt{T}$.
 
 Câu 16. [TH] Nhiệt độ tuyệt đối của một khối khí tăng 4 lần thì tốc độ căn quân phương của phân tử khí
 A. tăng 4 lần.
@@ -3189,7 +3189,7 @@ B. tăng 16 lần.
 *C. tăng 2 lần.
 D. không đổi.
 Lời giải
-$v_{rms} \sim \sqrt{T}$ nên $T$ tăng 4 lần thì $v_{rms}$ tăng $\sqrt{4} = 2$ lần.
+$\sqrt{\overline{v^2}} \sim \sqrt{T}$ nên $T$ tăng 4 lần thì $\sqrt{\overline{v^2}}$ tăng $\sqrt{4} = 2$ lần.
 
 Câu 17. [VD] Cho $k = 1,38 \cdot 10^{-23}$ J/K. Động năng tịnh tiến trung bình của một phân tử khí lí tưởng ở 27 °C xấp xỉ
 A. $5,6 \cdot 10^{-22}$ J.
@@ -3213,7 +3213,7 @@ B. 684 m/s.
 C. 395 m/s.
 D. 15,3 m/s.
 Lời giải
-$v_{rms} = \sqrt{\dfrac{3RT}{M}} = \sqrt{\dfrac{3 \cdot 8,31 \cdot 300}{32 \cdot 10^{-3}}} \approx 483$ m/s.
+$\sqrt{\overline{v^2}} = \sqrt{\dfrac{3RT}{M}} = \sqrt{\dfrac{3 \cdot 8,31 \cdot 300}{32 \cdot 10^{-3}}} \approx 483$ m/s.
 
 Câu 20. [VD] Một khối khí có mật độ phân tử $2 \cdot 10^{25}$ phân tử/m³, khối lượng mỗi phân tử $5 \cdot 10^{-26}$ kg và trung bình bình phương tốc độ $2,5 \cdot 10^5$ m²/s². Áp suất khí là
 A. $2,5 \cdot 10^5$ Pa.
@@ -3237,7 +3237,7 @@ B. 2.
 C. 8.
 *D. 4.
 Lời giải
-$v_{rms} \sim \dfrac{1}{\sqrt{M}}$ nên $\dfrac{v_{H_2}}{v_{O_2}} = \sqrt{\dfrac{32}{2}} = 4$.
+$\sqrt{\overline{v^2}} \sim \dfrac{1}{\sqrt{M}}$ nên $\dfrac{v_{H_2}}{v_{O_2}} = \sqrt{\dfrac{32}{2}} = 4$.
 
 Câu 23. [TF] [TH] Về áp suất khí theo mô hình động học phân tử:
 *A. Áp suất do các phân tử khí va chạm vào thành bình gây ra.
@@ -3261,7 +3261,7 @@ A. Tốc độ căn quân phương của phân tử khí giảm.
 C. Động năng tịnh tiến trung bình của phân tử khí giảm.
 D. Số phân tử khí trong bình tăng.
 Lời giải
-Chỉ B đúng. Nhiệt độ tăng làm $\overline{E}_{đ}$ và $v_{rms}$ tăng (A, C sai); lượng khí không đổi nên số phân tử không đổi (D sai).
+Chỉ B đúng. Nhiệt độ tăng làm $\overline{E}_{đ}$ và $\sqrt{\overline{v^2}}$ tăng (A, C sai); lượng khí không đổi nên số phân tử không đổi (D sai).
 
 Câu 26. [TF] [VD] Khí oxi (khối lượng mol 32 g/mol) ở 27 °C. Cho $R = 8,31$ J/(mol·K), $k = 1,38 \cdot 10^{-23}$ J/K.
 *A. Động năng tịnh tiến trung bình của một phân tử xấp xỉ $6,2 \cdot 10^{-21}$ J.
@@ -3269,7 +3269,7 @@ Câu 26. [TF] [VD] Khí oxi (khối lượng mol 32 g/mol) ở 27 °C. Cho $R = 
 C. Tốc độ căn quân phương của phân tử không phụ thuộc nhiệt độ.
 D. Động năng tịnh tiến trung bình của một phân tử xấp xỉ $4,1 \cdot 10^{-21}$ J.
 Lời giải
-$\overline{E}_{đ} = \dfrac{3}{2}kT \approx 6,2 \cdot 10^{-21}$ J nên A đúng, D sai (D là $kT$). $v_{rms} = \sqrt{\dfrac{3RT}{M}} \approx 483$ m/s nên B đúng; $v_{rms}$ phụ thuộc $\sqrt{T}$ nên C sai.
+$\overline{E}_{đ} = \dfrac{3}{2}kT \approx 6,2 \cdot 10^{-21}$ J nên A đúng, D sai (D là $kT$). $\sqrt{\overline{v^2}} = \sqrt{\dfrac{3RT}{M}} \approx 483$ m/s nên B đúng; $\sqrt{\overline{v^2}}$ phụ thuộc $\sqrt{T}$ nên C sai.
 
 Câu 27. [TF] [VD] Khối khí ở nhiệt độ 300 K có mật độ phân tử $2,4 \cdot 10^{25}$ phân tử/m³. Cho $k = 1,38 \cdot 10^{-23}$ J/K và biết $p = \mu kT$.
 *A. Áp suất khí xấp xỉ $9,9 \cdot 10^4$ Pa.
@@ -3285,7 +3285,7 @@ B. Tốc độ căn quân phương của phân tử oxi lớn hơn của phân t
 C. Tốc độ căn quân phương của phân tử hiđrô gấp 16 lần của phân tử oxi.
 *D. Tốc độ căn quân phương của phân tử hiđrô gấp 4 lần của phân tử oxi.
 Lời giải
-$\overline{E}_{đ}$ bằng nhau (A đúng). $v_{rms} \sim \dfrac{1}{\sqrt{M}}$ nên $\dfrac{v_{H_2}}{v_{O_2}} = \sqrt{16} = 4$: D đúng, C sai (nhầm không lấy căn), B sai.
+$\overline{E}_{đ}$ bằng nhau (A đúng). $\sqrt{\overline{v^2}} \sim \dfrac{1}{\sqrt{M}}$ nên $\dfrac{v_{H_2}}{v_{O_2}} = \sqrt{16} = 4$: D đúng, C sai (nhầm không lấy căn), B sai.
 
 Câu 29. [TF] [VD] Bình kín dung tích 20 lít chứa 2 mol khí heli (coi là khí lí tưởng đơn nguyên tử) ở 27 °C. Cho $R = 8,31$ J/(mol·K), $k = 1,38 \cdot 10^{-23}$ J/K, $N_A = 6,02 \cdot 10^{23}$ mol⁻¹.
 *A. Số nguyên tử khí trong bình là $1,204 \cdot 10^{24}$.
@@ -3303,7 +3303,7 @@ $\overline{E}_{đ} = \dfrac{3}{2}kT = 1,5 \cdot 1,38 \cdot 10^{-23} \cdot 300 = 
 Câu 31. [TH] Tốc độ căn quân phương của phân tử một khối khí tăng lên 3 lần. Nhiệt độ tuyệt đối của khối khí tăng bao nhiêu lần (theo đơn vị lần)?
 Trả lời: [[9]]
 Lời giải
-$v_{rms} \sim \sqrt{T}$ nên $\dfrac{T_2}{T_1} = \left(\dfrac{v_2}{v_1}\right)^2 = 3^2 = 9$.
+$\sqrt{\overline{v^2}} \sim \sqrt{T}$ nên $\dfrac{T_2}{T_1} = \left(\dfrac{v_2}{v_1}\right)^2 = 3^2 = 9$.
 
 Câu 32. [TH] Cho $k = 1,38 \cdot 10^{-23}$ J/K. Động năng tịnh tiến trung bình của một phân tử khí là $8,28 \cdot 10^{-21}$ J. Tính nhiệt độ tuyệt đối của khí (theo đơn vị K).
 Trả lời: [[400]]
@@ -3318,12 +3318,12 @@ $p = \dfrac{1}{3}\mu m_0\overline{v^2} = \dfrac{1}{3} \cdot 3 \cdot 10^{25} \cdo
 Câu 34. [VD] Tính tốc độ căn quân phương của phân tử khí nitơ (khối lượng mol 28 g/mol) ở 27 °C. Cho $R = 8,31$ J/(mol·K) (theo đơn vị m/s, làm tròn đến hàng đơn vị).
 Trả lời: [[517]]
 Lời giải
-$v_{rms} = \sqrt{\dfrac{3RT}{M}} = \sqrt{\dfrac{3 \cdot 8,31 \cdot 300}{28 \cdot 10^{-3}}} \approx 517$ m/s.
+$\sqrt{\overline{v^2}} = \sqrt{\dfrac{3RT}{M}} = \sqrt{\dfrac{3 \cdot 8,31 \cdot 300}{28 \cdot 10^{-3}}} \approx 517$ m/s.
 
 Câu 35. [VD] Ở nhiệt độ nào thì tốc độ căn quân phương của phân tử khí oxi (khối lượng mol 32 g/mol) bằng 600 m/s? Cho $R = 8,31$ J/(mol·K) (theo đơn vị K, làm tròn đến hàng đơn vị).
 Trả lời: [[462]]
 Lời giải
-$T = \dfrac{Mv_{rms}^2}{3R} = \dfrac{32 \cdot 10^{-3} \cdot 600^2}{3 \cdot 8,31} \approx 462$ K.
+$T = \dfrac{M\overline{v^2}}{3R} = \dfrac{32 \cdot 10^{-3} \cdot 600^2}{3 \cdot 8,31} \approx 462$ K.
 
 Câu 36. [VD] Tính tổng động năng tịnh tiến của các nguyên tử trong 3 mol khí lí tưởng đơn nguyên tử ở 27 °C. Cho $R = 8,31$ J/(mol·K) (theo đơn vị kJ, làm tròn đến một chữ số thập phân).
 Trả lời: [[11,2]]
@@ -3443,7 +3443,7 @@ B. $\dfrac{1}{2}$.
 *C. $\dfrac{1}{\sqrt{2}}$.
 D. $\sqrt{2}$.
 Lời giải
-$v_{rms} \sim \dfrac{1}{\sqrt{M}}$ nên $\dfrac{v_A}{v_B} = \sqrt{\dfrac{M_B}{M_A}} = \dfrac{1}{\sqrt{2}}$.
+$\sqrt{\overline{v^2}} \sim \dfrac{1}{\sqrt{M}}$ nên $\dfrac{v_A}{v_B} = \sqrt{\dfrac{M_B}{M_A}} = \dfrac{1}{\sqrt{2}}$.
 
 Câu 14. [TH] Làm lạnh khí trong một bình kín. Mật độ phân tử khí và áp suất khí thay đổi như thế nào?
 *A. Mật độ phân tử không đổi, áp suất giảm.
@@ -3507,7 +3507,7 @@ A. 1 120 m/s.
 C. 483 m/s.
 D. 685 m/s.
 Lời giải
-$v_{rms} = \sqrt{\dfrac{3RT}{M}} = \sqrt{\dfrac{3 \cdot 8,31 \cdot 300}{4 \cdot 10^{-3}}} \approx 1\,370$ m/s.
+$\sqrt{\overline{v^2}} = \sqrt{\dfrac{3RT}{M}} = \sqrt{\dfrac{3 \cdot 8,31 \cdot 300}{4 \cdot 10^{-3}}} \approx 1\,370$ m/s.
 
 Câu 22. [VD] Cho $R = 8,31$ J/(mol·K). Bình dung tích 10 lít chứa khí oxi (khối lượng mol 32 g/mol) ở 27 °C và áp suất $2,493 \cdot 10^5$ Pa. Khối lượng khí oxi trong bình là
 *A. 32 g.
@@ -3563,7 +3563,7 @@ Câu 28. [TF] [VD] Khí heli (khối lượng mol 4 g/mol) và khí oxi (khối 
 C. Động năng tịnh tiến trung bình của nguyên tử heli lớn hơn của phân tử oxi.
 *D. Nếu nhiệt độ của heli tăng gấp bốn thì tốc độ căn quân phương của nó tăng gấp đôi.
 Lời giải
-$v_{He} = \sqrt{\dfrac{3 \cdot 8,31 \cdot 300}{4 \cdot 10^{-3}}} \approx 1,37 \cdot 10^3$ m/s (A đúng). $v_{rms} \sim \dfrac{1}{\sqrt{M}}$ nên oxi chậm hơn heli (B đúng). Cùng nhiệt độ thì $\overline{E}_{đ}$ bằng nhau (C sai). $v_{rms} \sim \sqrt{T}$ nên $T$ tăng bốn lần thì $v_{rms}$ tăng gấp đôi (D đúng).
+$v_{He} = \sqrt{\dfrac{3 \cdot 8,31 \cdot 300}{4 \cdot 10^{-3}}} \approx 1,37 \cdot 10^3$ m/s (A đúng). $\sqrt{\overline{v^2}} \sim \dfrac{1}{\sqrt{M}}$ nên oxi chậm hơn heli (B đúng). Cùng nhiệt độ thì $\overline{E}_{đ}$ bằng nhau (C sai). $\sqrt{\overline{v^2}} \sim \sqrt{T}$ nên $T$ tăng bốn lần thì $\sqrt{\overline{v^2}}$ tăng gấp đôi (D đúng).
 
 Câu 29. [TF] [VD] Khí trong xilanh có pittông tự do (áp suất không đổi) có thể tích 1,2 lít ở 27 °C. Nung khí đến 177 °C.
 *A. Thể tích khí sau khi nung là 1,8 lít.

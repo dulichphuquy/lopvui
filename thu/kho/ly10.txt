@@ -3,7 +3,7 @@
 @chuong I | Mở đầu
 
 @bai 1 | Làm quen với vật lí
-@yccd NB | Nêu được đối tượng nghiên cứu, mục tiêu của môn Vật lí; phân biệt các cấp độ vi mô, vĩ mô; nêu được các giai đoạn phát triển của vật lí và phương pháp nghiên cứu (thực nghiệm, lí thuyết); nêu được ví dụ về ảnh hưởng của vật lí đối với đời sống, kĩ thuật.
+@yccd NB | Nêu được đối tượng nghiên cứu, mục tiêu của môn Vật lí; phân biệt các cấp độ vi mô, vĩ mô; nêu được các giai đoạn phát triển của vật lí và phương pháp nghiên cứu (thực nghiệm, mô hình); nêu được ví dụ về ảnh hưởng của vật lí đối với đời sống, kĩ thuật.
 @yccd TH | Phân tích được một số ví dụ về phương pháp nghiên cứu vật lí; vai trò của vật lí với khoa học, kĩ thuật, công nghệ.
 @yccd VD | Lấy được ví dụ chứng tỏ kiến thức, kĩ năng vật lí được sử dụng trong một số lĩnh vực khác nhau.
 Câu 1. [NB] Đối tượng nghiên cứu của vật lí là
@@ -15,28 +15,28 @@ Lời giải
 Vật lí nghiên cứu các dạng vận động của vật chất (chất, trường) và năng lượng.
 
 Câu 2. [NB] Mục tiêu của việc học tập môn Vật lí là giúp học sinh
-A. chỉ ghi nhớ các công thức để giải bài tập.
-B. chỉ biết sử dụng các thiết bị điện trong gia đình.
-*C. hình thành, phát triển năng lực vật lí, biết vận dụng kiến thức vào thực tiễn.
-D. trở thành nhà khoa học nghiên cứu vật lí.
+A. ghi nhớ thật nhiều công thức để giải nhanh các dạng bài tập trong đề thi.
+B. biết sử dụng thành thạo các thiết bị điện, điện tử trong gia đình.
+*C. hình thành, phát triển năng lực vật lí và vận dụng vào thực tiễn.
+D. trở thành nhà khoa học chuyên nghiên cứu vật lí trong phòng thí nghiệm.
 
 Câu 3. [NB] Hai phương pháp nghiên cứu chủ yếu của vật lí là
-*A. phương pháp thực nghiệm và phương pháp lí thuyết.
+*A. phương pháp thực nghiệm và phương pháp mô hình.
 B. phương pháp quan sát và phương pháp điều tra xã hội.
 C. phương pháp thống kê và phương pháp phỏng vấn.
 D. phương pháp so sánh và phương pháp liệt kê.
 
 Câu 4. [NB] Phương pháp thực nghiệm dùng
 A. ngôn ngữ toán học để suy luận ra kết quả mới mà không cần thí nghiệm.
-*B. thí nghiệm để phát hiện kết quả mới giúp kiểm chứng, hoàn thiện, bổ sung hay bác bỏ giả thuyết.
+B. ý kiến của số đông để kết luận về một hiện tượng.
 C. trí tưởng tượng để đưa ra các câu chuyện khoa học.
-D. ý kiến của số đông để kết luận về một hiện tượng.
+*D. thí nghiệm để kiểm tra dự đoán, từ đó rút ra kết luận.
 
-Câu 5. [NB] Phương pháp lí thuyết sử dụng chủ yếu
-A. các dụng cụ đo hiện đại.
-*B. ngôn ngữ toán học và suy luận lí thuyết để phát hiện kết quả mới.
-C. các phép đo lặp lại nhiều lần.
-D. các mô hình bằng gỗ hoặc nhựa.
+Câu 5. [NB] Phương pháp mô hình nghiên cứu vật thật bằng cách
+A. chỉ dùng các dụng cụ đo hiện đại để đo trực tiếp mọi tính chất của vật thật.
+B. thu thập ý kiến của nhiều người về vật thật rồi chọn ý kiến của số đông.
+C. lặp lại một phép đo nhiều lần trên vật thật rồi lấy giá trị trung bình.
+*D. dùng mô hình vật chất, mô hình lí thuyết hoặc mô hình toán học thay cho vật thật.
 
 Câu 6. [NB] Nhà vật lí nào đã làm thí nghiệm ở tháp nghiêng Pisa để bác bỏ quan niệm "vật nặng rơi nhanh hơn vật nhẹ"?
 A. Newton.
@@ -52,9 +52,9 @@ D. Trí tuệ nhân tạo.
 
 Câu 8. [NB] Cuộc cách mạng công nghiệp lần thứ hai gắn liền với
 A. máy hơi nước và cơ giới hóa sản xuất.
-*B. năng lượng điện và dây chuyền sản xuất hàng loạt.
-C. máy tính, điện tử và tự động hóa.
-D. trí tuệ nhân tạo, Internet vạn vật và dữ liệu lớn.
+B. trí tuệ nhân tạo, robot, internet toàn cầu và công nghệ nano.
+C. tự động hóa các quá trình sản xuất nhờ máy tính và thiết bị điện tử.
+*D. sự xuất hiện các thiết bị dùng điện trong sản xuất và đời sống.
 
 Câu 9. [TH] Lĩnh vực nào sau đây thuộc phạm vi nghiên cứu của vật lí?
 A. Sự phân chia tế bào.
@@ -62,31 +62,31 @@ B. Lịch sử hình thành các quốc gia.
 *C. Sự truyền ánh sáng qua lăng kính.
 D. Phản ứng giữa axit và bazơ tạo thành muối.
 
-Câu 10. [TH] Thứ tự các bước của phương pháp thực nghiệm là
-A. Thí nghiệm → Kết luận → Quan sát → Giả thuyết.
-*B. Quan sát, đặt câu hỏi → Đề xuất giả thuyết → Thí nghiệm kiểm tra → Kết luận.
-C. Kết luận → Giả thuyết → Quan sát → Thí nghiệm.
-D. Giả thuyết → Kết luận → Thí nghiệm → Quan sát.
+Câu 10. [TH] Thứ tự các bước của phương pháp thực nghiệm (theo SGK) là
+*A. Xác định vấn đề → Quan sát, thu thập thông tin → Đưa ra dự đoán → Thí nghiệm kiểm tra dự đoán → Kết luận.
+B. Quan sát, thu thập thông tin → Xác định vấn đề → Thí nghiệm kiểm tra dự đoán → Đưa ra dự đoán → Kết luận.
+C. Xác định vấn đề → Đưa ra dự đoán → Kết luận → Quan sát, thu thập thông tin → Thí nghiệm kiểm tra dự đoán.
+D. Đưa ra dự đoán → Xác định vấn đề → Quan sát, thu thập thông tin → Kết luận → Thí nghiệm kiểm tra dự đoán.
 Lời giải
-Từ quan sát, đặt câu hỏi, nhà khoa học đề xuất giả thuyết, thiết kế thí nghiệm kiểm tra, rồi rút ra kết luận (giả thuyết đúng hay cần điều chỉnh).
+Phương pháp thực nghiệm: xác định vấn đề cần nghiên cứu, quan sát và thu thập thông tin, đưa ra dự đoán, làm thí nghiệm kiểm tra dự đoán, rồi rút ra kết luận (dự đoán sai thì đưa ra dự đoán mới hoặc xác định lại vấn đề).
 
-Câu 11. [TH] Khi kết quả thí nghiệm không phù hợp với giả thuyết đã đề ra thì người nghiên cứu cần
-A. sửa lại số liệu thí nghiệm cho khớp với giả thuyết.
-B. giữ nguyên giả thuyết và bỏ qua kết quả thí nghiệm.
-*C. điều chỉnh hoặc thay đổi giả thuyết, rồi tiếp tục kiểm tra bằng thí nghiệm.
-D. dừng nghiên cứu vì giả thuyết đã sai.
+Câu 11. [TH] Khi kết quả thí nghiệm không phù hợp với dự đoán đã đề ra thì người nghiên cứu cần
+A. sửa lại số liệu đo được để kết quả thí nghiệm khớp với dự đoán.
+B. giữ nguyên dự đoán và bỏ qua kết quả thí nghiệm vừa thu được.
+*C. điều chỉnh hoặc thay đổi dự đoán, rồi tiếp tục kiểm tra bằng thí nghiệm.
+D. dừng hẳn việc nghiên cứu vì dự đoán đã sai, không làm gì thêm.
 
 Câu 12. [TH] Mô hình nào sau đây là mô hình toán học?
 A. Quả địa cầu bằng nhựa.
 B. Mô hình nguyên tử bằng các quả cầu và que nối.
-*C. Công thức $s = vt$ mô tả chuyển động thẳng đều.
-D. Bản vẽ hình dạng một chiếc xe đạp.
+C. Bản vẽ hình dạng một chiếc xe đạp.
+*D. Công thức $s = vt$ mô tả chuyển động thẳng đều.
 
 Câu 13. [TH] Ứng dụng nào sau đây là ứng dụng của vật lí trong y học?
-A. Phân bón hóa học.
-*B. Chụp X-quang, chụp cộng hưởng từ (MRI).
-C. Giống lúa mới chịu mặn.
-D. Thuốc kháng sinh.
+A. Sản xuất phân bón hóa học.
+*B. Chụp X-quang, chụp cộng hưởng từ.
+C. Lai tạo giống lúa chịu mặn.
+D. Bào chế thuốc kháng sinh.
 
 Câu 14. [TH] Việc sử dụng tấm pin Mặt Trời để cung cấp điện cho gia đình là ứng dụng của vật lí trong lĩnh vực
 *A. năng lượng.
@@ -95,40 +95,40 @@ C. nông nghiệp.
 D. y tế.
 
 Câu 15. [TH] Nhận định nào sau đây về vật lí là đúng?
-A. Vật lí chỉ có lợi, không gây ra ảnh hưởng xấu nào.
-*B. Các thành tựu vật lí mang lại nhiều lợi ích nhưng nếu sử dụng không đúng cách có thể gây hại cho con người và môi trường.
-C. Vật lí không liên quan đến các ngành khoa học khác.
-D. Vật lí chỉ nghiên cứu những hiện tượng xảy ra trong phòng thí nghiệm.
+*A. Các thành tựu vật lí mang lại nhiều lợi ích nhưng có thể gây hại nếu sử dụng không đúng cách.
+B. Các thành tựu vật lí chỉ mang lại lợi ích, không thể gây hại cho con người và môi trường.
+C. Vật lí là một ngành khoa học độc lập, không liên quan đến các ngành khoa học khác.
+D. Vật lí chỉ nghiên cứu các hiện tượng được tạo ra trong phòng thí nghiệm.
 
-Câu 16. [VD] Một học sinh thả cùng lúc, từ cùng độ cao, một tờ giấy phẳng và một tờ giấy giống hệt đã được vo tròn, thấy tờ giấy vo tròn chạm đất trước. Giả thuyết hợp lí nhất để kiểm tra là
+Câu 16. [VD] Một học sinh thả cùng lúc, từ cùng độ cao, một tờ giấy phẳng và một tờ giấy giống hệt đã được vo tròn, thấy tờ giấy vo tròn chạm đất trước. Dự đoán hợp lí nhất để kiểm tra là
 A. vật nặng hơn rơi nhanh hơn.
-*B. lực cản của không khí ảnh hưởng đến sự rơi của vật.
+B. Trái Đất hút tờ giấy vo tròn mạnh hơn.
 C. tờ giấy vo tròn có khối lượng lớn hơn.
-D. Trái Đất hút tờ giấy vo tròn mạnh hơn.
+*D. lực cản của không khí ảnh hưởng đến sự rơi của vật.
 Lời giải
-Hai tờ giấy cùng khối lượng nhưng khác hình dạng nên khác nhau ở lực cản không khí. Đây là giả thuyết cần kiểm tra bằng thí nghiệm.
+Hai tờ giấy cùng khối lượng nhưng khác hình dạng nên khác nhau ở lực cản không khí. Đây là dự đoán cần kiểm tra bằng thí nghiệm.
 
-Câu 17. [VD] Để kiểm tra giả thuyết "thời gian rơi của vật không phụ thuộc vào khối lượng khi bỏ qua sức cản không khí", cách làm phù hợp nhất là
-A. thả một hòn đá và một chiếc lông chim ngoài trời.
+Câu 17. [VD] Để kiểm tra dự đoán "thời gian rơi của vật không phụ thuộc vào khối lượng khi bỏ qua sức cản không khí", cách làm phù hợp nhất là
+A. thả một hòn đá và một chiếc lông chim từ cùng độ cao ở ngoài trời, so sánh thời gian rơi.
 *B. thả hai viên bi cùng kích thước nhưng khối lượng khác nhau từ cùng độ cao, đo thời gian rơi.
-C. hỏi ý kiến của nhiều bạn trong lớp.
-D. thả một viên bi từ nhiều độ cao khác nhau.
+C. hỏi ý kiến của nhiều bạn trong lớp rồi lấy ý kiến được nhiều bạn đồng ý nhất.
+D. thả một viên bi từ nhiều độ cao khác nhau, đo thời gian rơi ở mỗi độ cao.
 Lời giải
 Cần giữ các yếu tố khác (kích thước, hình dạng, độ cao) như nhau và chỉ thay đổi khối lượng để thấy khối lượng có ảnh hưởng hay không.
 
 Câu 18. [VD] Một nhà máy nhiệt điện thải nhiều khói bụi gây ô nhiễm. Giải pháp phù hợp nhất dựa trên hiểu biết vật lí là
-A. tăng công suất nhà máy để sản xuất nhiều điện hơn.
+A. tăng công suất của nhà máy để sản xuất nhiều điện hơn, bù cho phần ô nhiễm.
 *B. phát triển các nguồn năng lượng sạch như điện gió, điện mặt trời để thay thế dần.
-C. cho người dân sống gần nhà máy chuyển đi nơi khác.
-D. ngừng sử dụng điện trong sinh hoạt.
+C. di dời toàn bộ người dân sống quanh nhà máy đến nơi khác ở xa hơn.
+D. vận động mọi người ngừng sử dụng điện trong sinh hoạt hằng ngày.
 
 Câu 19. [TF] [TH] Về đối tượng và phương pháp nghiên cứu của vật lí:
 *A. Vật lí nghiên cứu các dạng vận động của vật chất và năng lượng.
-B. Phương pháp lí thuyết không cần dùng đến toán học.
-*C. Phương pháp thực nghiệm dùng thí nghiệm để kiểm chứng giả thuyết.
-D. Kết quả của phương pháp lí thuyết không cần kiểm chứng bằng thực nghiệm.
+B. Phương pháp mô hình chỉ dùng mô hình vật chất, không dùng mô hình toán học.
+*C. Phương pháp thực nghiệm dùng thí nghiệm để kiểm tra dự đoán.
+D. Mô hình đã xây dựng xong thì không cần kiểm tra sự phù hợp với thí nghiệm, thực tế.
 Lời giải
-b) Sai: phương pháp lí thuyết dùng ngôn ngữ toán học. d) Sai: kết quả lí thuyết cần được thực nghiệm kiểm chứng.
+b) Sai: mô hình toán học (công thức, phương trình, đồ thị…) là một loại mô hình. d) Sai: mô hình phải được kiểm tra sự phù hợp với kết quả thí nghiệm, thực tế.
 
 Câu 20. [TF] [TH] Về vai trò của vật lí đối với khoa học, công nghệ và kĩ thuật:
 *A. Máy hơi nước là thành tựu gắn với cuộc cách mạng công nghiệp lần thứ nhất.
@@ -161,13 +161,13 @@ Trả lời: [[2]]
 Câu 25. [NB] Cuộc cách mạng công nghiệp gắn với máy tính, điện tử và tự động hóa là cuộc cách mạng công nghiệp lần thứ mấy?
 Trả lời: [[3]]
 
-Câu 26. [NB] Cuộc cách mạng công nghiệp gắn với trí tuệ nhân tạo, Internet vạn vật và dữ liệu lớn là cuộc cách mạng công nghiệp lần thứ mấy?
+Câu 26. [NB] Cuộc cách mạng công nghiệp gắn với trí tuệ nhân tạo, robot, internet toàn cầu và công nghệ nano là cuộc cách mạng công nghiệp lần thứ mấy?
 Trả lời: [[4]]
 
-Câu 27. [TH] Các bước của phương pháp thực nghiệm gồm: (1) quan sát, đặt câu hỏi; (2) đề xuất giả thuyết; (3) thí nghiệm kiểm tra; (4) kết luận. Bước dùng để kiểm tra giả thuyết là bước thứ mấy?
-Trả lời: [[3]]
+Câu 27. [TH] Phương pháp thực nghiệm gồm các bước: (1) xác định vấn đề cần nghiên cứu; (2) quan sát, thu thập thông tin; (3) đưa ra dự đoán; (4) thí nghiệm kiểm tra dự đoán; (5) kết luận. Bước dùng để kiểm tra dự đoán là bước thứ mấy?
+Trả lời: [[4]]
 
-Câu 28. [VD] Cho các ứng dụng: (1) chụp X-quang trong y tế; (2) pin Mặt Trời cung cấp điện; (3) phân bón hóa học; (4) điện thoại di động; (5) giống lúa mới chịu mặn. Có bao nhiêu ứng dụng chủ yếu dựa trên thành tựu của vật lí?
+Câu 28. [TH] Cho các ứng dụng: (1) chụp X-quang trong y tế; (2) pin Mặt Trời cung cấp điện; (3) phân bón hóa học; (4) điện thoại di động; (5) giống lúa mới chịu mặn. Có bao nhiêu ứng dụng chủ yếu dựa trên thành tựu của vật lí?
 Trả lời: [[3]]
 Lời giải
 Các ứng dụng (1), (2), (4) dựa trên thành tựu vật lí; (3) thuộc hóa học, (5) thuộc sinh học.
@@ -184,15 +184,15 @@ D. thiết bị chịu được nhiệt độ cao.
 
 Câu 2. [NB] Kí hiệu "AC" hoặc dấu "~" trên thiết bị điện cho biết
 A. thiết bị dùng dòng điện một chiều.
-*B. thiết bị dùng dòng điện xoay chiều.
+B. thiết bị dễ vỡ.
 C. thiết bị phải tránh ánh nắng.
-D. thiết bị dễ vỡ.
+*D. thiết bị dùng dòng điện xoay chiều.
 
 Câu 3. [NB] Biển báo có dạng hình tam giác, nền vàng, viền đen là loại biển
 A. cấm.
-*B. cảnh báo nguy hiểm.
+B. hiệu lệnh bắt buộc.
 C. chỉ dẫn.
-D. hiệu lệnh bắt buộc.
+*D. cảnh báo nguy hiểm.
 
 Câu 4. [NB] Biển báo có dạng hình tròn, viền đỏ, có gạch chéo thường là loại biển
 *A. cấm thực hiện một hành động.
@@ -207,10 +207,10 @@ B. Tự ý tháo vỏ thiết bị đang có điện để quan sát.
 D. Để dây điện chồng chéo trên mặt bàn.
 
 Câu 6. [TH] Trước khi tiến hành thí nghiệm, việc cần làm đầu tiên là
-A. bật ngay nguồn điện để kiểm tra thiết bị.
+A. bật ngay nguồn điện để kiểm tra xem các thiết bị có hoạt động hay không.
 *B. đọc kĩ hướng dẫn sử dụng thiết bị và quan sát các kí hiệu, chỉ dẫn trên thiết bị.
-C. thử tất cả các núm điều chỉnh ở mức lớn nhất.
-D. chạm tay vào các bộ phận để kiểm tra nhiệt độ.
+C. vặn thử tất cả các núm điều chỉnh của thiết bị lên mức lớn nhất.
+D. chạm tay vào các bộ phận của thiết bị để kiểm tra nhiệt độ của chúng.
 
 Câu 7. [TH] Hành động nào sau đây là KHÔNG an toàn trong phòng thực hành?
 A. Đeo kính bảo hộ khi làm thí nghiệm với nguồn sáng mạnh.
@@ -224,29 +224,29 @@ B. dùng băng dính giấy quấn lại rồi dùng tiếp.
 *C. ngừng sử dụng, ngắt nguồn và báo cho giáo viên.
 D. dùng tay giữ chặt chỗ hở để dòng điện không thoát ra.
 
-Câu 9. [TH] Kí hiệu hình tam giác có hình ngọn lửa bên trong cảnh báo
+Câu 9. [TH] Kí hiệu hình ngọn lửa trong khung vuông (như trong SGK) cảnh báo
 A. nơi có điện cao áp.
-*B. chất dễ cháy.
+B. khu vực có từ trường mạnh.
 C. bề mặt trơn trượt.
-D. khu vực có từ trường mạnh.
+*D. chất dễ cháy.
 
 Câu 10. [TH] Kí hiệu hình tam giác có tia sét bên trong cảnh báo
-*A. nguy hiểm về điện (điện cao áp).
+*A. nguy hiểm về điện.
 B. chất độc hại.
 C. bề mặt nóng.
 D. vật dễ vỡ.
 
 Câu 11. [VD] Trong giờ thực hành, một nhóm học sinh làm đổ nước lên bàn có ổ cắm điện đang cắm thiết bị. Việc cần làm trước tiên là
-A. dùng tay lau khô nước quanh ổ cắm.
+A. dùng khăn hoặc tay lau khô ngay chỗ nước quanh ổ cắm.
 *B. ngắt cầu dao hoặc công tắc nguồn điện của bàn, sau đó báo giáo viên.
-C. tiếp tục làm thí nghiệm cho xong.
-D. rút phích cắm bằng tay ướt.
+C. tiếp tục làm thí nghiệm cho xong rồi mới xử lí.
+D. rút ngay phích cắm của thiết bị ra khỏi ổ điện.
 
 Câu 12. [VD] Một học sinh muốn đo cường độ dòng điện bằng ampe kế nhưng không biết giá trị dòng điện khoảng bao nhiêu. Cách làm an toàn cho dụng cụ là
-A. chọn thang đo nhỏ nhất để đọc cho chính xác.
+A. chọn thang đo nhỏ nhất trước để đọc kết quả cho chính xác.
 *B. chọn thang đo lớn nhất trước, sau đó giảm dần đến thang đo phù hợp.
-C. mắc ampe kế song song với nguồn điện.
-D. không cần chọn thang đo.
+C. mắc ampe kế song song với nguồn điện để đo cho nhanh.
+D. chọn bất kì thang đo nào vì ampe kế đều đo được.
 Lời giải
 Chọn thang đo lớn nhất trước để tránh dòng điện vượt quá giới hạn đo làm hỏng ampe kế.
 
@@ -287,58 +287,58 @@ C. luôn có sai số bằng không.
 D. chỉ dùng cho các đại lượng có đơn vị là mét.
 
 Câu 2. [NB] Phép đo nào sau đây là phép đo gián tiếp?
-A. Đo chiều dài cái bàn bằng thước.
-B. Đo khối lượng quả táo bằng cân.
-*C. Đo tốc độ của xe bằng cách đo quãng đường và thời gian rồi tính $v = s/t$.
-D. Đo thời gian bằng đồng hồ bấm giây.
+A. Đo chiều dài cái bàn bằng thước dây có độ chia nhỏ nhất 1 mm.
+B. Đo khối lượng quả táo bằng cân điện tử đặt trên mặt bàn.
+*C. Đo quãng đường và thời gian rồi tính tốc độ $v = s/t$.
+D. Đo thời gian chạy 100 m của một bạn bằng đồng hồ bấm giây.
 
 Câu 3. [NB] Sai số hệ thống là sai số
-*A. có tính quy luật, lặp lại ở mọi lần đo, thường do dụng cụ đo.
-B. xảy ra ngẫu nhiên, không có quy luật.
-C. do người đo đọc sai số liệu một lần.
-D. không thể khắc phục.
+*A. có tính quy luật, lặp lại ở mọi lần đo, thường do dụng cụ.
+B. xảy ra ngẫu nhiên, không có quy luật, khác nhau ở mỗi lần đo.
+C. do người đo đọc nhầm số liệu ở một lần đo nào đó.
+D. không thể khắc phục được bằng bất kì cách nào.
 
 Câu 4. [NB] Sai số ngẫu nhiên là sai số
 A. luôn làm kết quả đo lớn hơn giá trị thực.
-*B. có nguyên nhân không rõ ràng, làm kết quả các lần đo khác nhau.
-C. do kim của dụng cụ đo không chỉ đúng vạch số 0.
+B. do kim của dụng cụ đo không chỉ đúng vạch số 0.
+*C. có nguyên nhân không rõ ràng, làm kết quả các lần đo khác nhau.
 D. có thể loại bỏ hoàn toàn bằng cách hiệu chỉnh dụng cụ.
 
 Câu 5. [NB] Sai số dụng cụ thường được lấy bằng
-A. hai lần độ chia nhỏ nhất của dụng cụ.
-*B. một nửa hoặc một độ chia nhỏ nhất của dụng cụ.
-C. giới hạn đo của dụng cụ.
+A. hai lần độ chia nhỏ nhất ghi trên dụng cụ.
+*B. một nửa độ chia nhỏ nhất của dụng cụ.
+C. giới hạn đo lớn nhất ghi trên dụng cụ.
 D. giá trị trung bình của các lần đo.
 
 Câu 6. [TH] Để giảm sai số ngẫu nhiên, người ta thường
 A. thay dụng cụ đo khác.
-*B. đo nhiều lần rồi lấy giá trị trung bình.
-C. chỉ đo một lần thật cẩn thận.
+B. chỉ đo một lần thật cẩn thận.
+*C. đo nhiều lần rồi lấy giá trị trung bình.
 D. làm tròn kết quả đo thật nhiều.
 
 Câu 7. [TH] Cách ghi kết quả đo đúng là
 A. $A = \overline{A}$.
-*B. $A = \overline{A} \pm \Delta A$.
+B. $A = \overline{A} \cdot \Delta A$.
 C. $A = \Delta A \pm \overline{A}$.
-D. $A = \overline{A} \cdot \Delta A$.
+*D. $A = \overline{A} \pm \Delta A$.
 
 Câu 8. [TH] Sai số tỉ đối của phép đo được tính bằng công thức
 A. $\delta A = \overline{A} \cdot \Delta A$.
-*B. $\delta A = \dfrac{\Delta A}{\overline{A}} \cdot 100\%$.
+B. $\delta A = \overline{A} - \Delta A$.
 C. $\delta A = \dfrac{\overline{A}}{\Delta A} \cdot 100\%$.
-D. $\delta A = \overline{A} - \Delta A$.
+*D. $\delta A = \dfrac{\Delta A}{\overline{A}} \cdot 100\%$.
 
-Câu 9. [VD] Dùng thước có độ chia nhỏ nhất 1 mm đo chiều dài một chiếc bút. Nếu lấy sai số dụng cụ bằng nửa độ chia nhỏ nhất thì sai số dụng cụ là
+Câu 9. [NB] Dùng thước có độ chia nhỏ nhất 1 mm đo chiều dài một chiếc bút. Nếu lấy sai số dụng cụ bằng nửa độ chia nhỏ nhất thì sai số dụng cụ là
 A. 1 mm.
 *B. 0,5 mm.
 C. 0,1 mm.
 D. 2 mm.
 
-Câu 10. [VD] Với phép đo gián tiếp $v = \dfrac{s}{t}$, sai số tỉ đối của $v$ được tính bằng
+Câu 10. [TH] Với phép đo gián tiếp $v = \dfrac{s}{t}$, sai số tỉ đối của $v$ được tính bằng
 A. $\delta v = \delta s - \delta t$.
-*B. $\delta v = \delta s + \delta t$.
+B. $\delta v = \dfrac{\delta s}{\delta t}$.
 C. $\delta v = \delta s \cdot \delta t$.
-D. $\delta v = \dfrac{\delta s}{\delta t}$.
+*D. $\delta v = \delta s + \delta t$.
 Lời giải
 Với tích hoặc thương, sai số tỉ đối của kết quả bằng tổng các sai số tỉ đối của các thừa số.
 
@@ -358,17 +358,17 @@ D. Kết quả đo được ghi là $t = (0,405 \pm 0,010)$ s.
 Lời giải
 $\overline{t} = (0,404 + 0,406 + 0,405)/3 = 0,405$ s. Các sai số tuyệt đối: 0,001; 0,001; 0 s → trung bình ≈ 0,0007 s ≈ 0,001 s. Kết quả $t = (0,405 \pm 0,001)$ s.
 
-Câu 13. [VD] Đo chiều dài một vật 3 lần được 20,1 cm; 20,3 cm; 20,2 cm. Giá trị trung bình của chiều dài là bao nhiêu cm?
+Câu 13. [TH] Đo chiều dài một vật 3 lần được 20,1 cm; 20,3 cm; 20,2 cm. Giá trị trung bình của chiều dài là bao nhiêu cm?
 Trả lời: [[20,2]]
 Lời giải
-$\overline{l} = (20,1 + 20,3 + 20,2)/3 = 20,2$ cm.
+$\overline{\ell} = (20,1 + 20,3 + 20,2)/3 = 20,2$ cm.
 
-Câu 14. [VD] Kết quả đo chiều dài là $l = (50,0 \pm 0,5)$ cm. Sai số tỉ đối của phép đo bằng bao nhiêu phần trăm?
+Câu 14. [TH] Kết quả đo chiều dài là $\ell = (50,0 \pm 0,5)$ cm. Sai số tỉ đối của phép đo bằng bao nhiêu phần trăm?
 Trả lời: [[1]]
 Lời giải
-$\delta l = 0,5/50,0 \cdot 100\% = 1\%$.
+$\delta \ell = 0,5/50,0 \cdot 100\% = 1\%$.
 
-Câu 15. [VD] Tốc độ được tính bằng $v = s/t$. Biết sai số tỉ đối của quãng đường là 1% và của thời gian là 2%. Sai số tỉ đối của tốc độ bằng bao nhiêu phần trăm?
+Câu 15. [TH] Tốc độ được tính bằng $v = s/t$. Biết sai số tỉ đối của quãng đường là 1% và của thời gian là 2%. Sai số tỉ đối của tốc độ bằng bao nhiêu phần trăm?
 Trả lời: [[3]]
 Lời giải
 $\delta v = \delta s + \delta t = 1\% + 2\% = 3\%$.
@@ -392,9 +392,9 @@ D. vectơ, luôn có độ lớn bằng quãng đường đi được.
 
 Câu 2. [NB] Quãng đường đi được là đại lượng
 A. vectơ, có hướng trùng với hướng chuyển động.
-*B. vô hướng, cho biết độ dài quỹ đạo mà vật đã đi.
+B. luôn bằng không khi vật quay về vị trí ban đầu.
 C. có thể nhận giá trị âm.
-D. luôn bằng không khi vật quay về vị trí ban đầu.
+*D. vô hướng, cho biết độ dài quỹ đạo mà vật đã đi.
 
 Câu 3. [NB] Đơn vị của độ dịch chuyển trong hệ SI là
 A. km.
@@ -403,51 +403,51 @@ C. m/s.
 D. s.
 
 Câu 4. [NB] Hệ quy chiếu gồm
-A. vật làm gốc và đồng hồ.
-B. hệ tọa độ và mốc thời gian.
-*C. vật làm gốc, hệ tọa độ gắn với vật làm gốc, mốc thời gian và đồng hồ.
-D. quỹ đạo và vận tốc của vật.
+A. vật mốc, đồng hồ và quỹ đạo của vật.
+B. hệ tọa độ, mốc thời gian và vận tốc.
+*C. hệ tọa độ, mốc thời gian và đồng hồ.
+D. quỹ đạo, vận tốc và gia tốc của vật.
 
 Câu 5. [NB] Khi vật chuyển động thẳng và không đổi chiều thì
-*A. độ lớn của độ dịch chuyển bằng quãng đường đi được.
+A. độ dịch chuyển bằng không.
 B. độ lớn của độ dịch chuyển lớn hơn quãng đường đi được.
-C. độ dịch chuyển bằng không.
+*C. độ lớn của độ dịch chuyển bằng quãng đường đi được.
 D. quãng đường đi được bằng không.
 
-Câu 6. [NB] Khi vật chuyển động thẳng trên trục Ox, độ dịch chuyển của vật
+Câu 6. [NB] Một vật chuyển động thẳng trên trục Ox, chọn chiều dương là chiều của trục Ox (độ dịch chuyển cùng chiều dương mang dấu +, ngược chiều mang dấu −). Độ dịch chuyển của vật
 A. luôn dương.
 B. luôn âm.
 *C. có thể dương, âm hoặc bằng không.
 D. luôn bằng quãng đường đi được.
 
 Câu 7. [NB] Để xác định vị trí của một vật chuyển động, ta cần
-*A. chọn vật làm gốc và hệ tọa độ gắn với vật làm gốc.
-B. biết khối lượng của vật.
-C. biết vận tốc của vật.
+*A. chọn vật mốc và hệ tọa độ gắn với vật mốc.
+B. biết khối lượng và kích thước của vật.
+C. biết vận tốc và gia tốc của vật.
 D. biết thời gian chuyển động của vật.
 
 Câu 8. [NB] Độ dịch chuyển được biểu diễn bằng
-A. một đoạn thẳng không có hướng.
-*B. một mũi tên nối vị trí đầu với vị trí cuối của vật.
-C. đường cong quỹ đạo của vật.
-D. một điểm trên trục tọa độ.
+A. một đoạn thẳng nối hai vị trí bất kì, không có hướng.
+B. một điểm đánh dấu vị trí cuối trên trục tọa độ.
+C. đường cong quỹ đạo mà vật đã đi qua.
+*D. một mũi tên nối vị trí đầu với vị trí cuối.
 
 Câu 9. [TH] Một vật đi từ A đến B rồi quay về A. Kết luận nào sau đây đúng?
-*A. Độ dịch chuyển bằng 0, quãng đường đi được bằng 2AB.
+A. Độ dịch chuyển và quãng đường đều bằng 0.
 B. Độ dịch chuyển bằng 2AB, quãng đường đi được bằng 0.
 C. Độ dịch chuyển và quãng đường đều bằng AB.
-D. Độ dịch chuyển và quãng đường đều bằng 0.
+*D. Độ dịch chuyển bằng 0, quãng đường đi được bằng 2AB.
 
 Câu 10. [TH] Trường hợp nào sau đây độ lớn độ dịch chuyển bằng quãng đường đi được?
 A. Một người chạy một vòng quanh sân vận động.
-*B. Một ô tô chạy thẳng trên đường cao tốc, không đổi chiều.
+B. Một người đi từ nhà đến trường rồi quay về nhà.
 C. Một con lắc đồng hồ dao động qua lại.
-D. Một người đi từ nhà đến trường rồi quay về nhà.
+*D. Một ô tô chạy thẳng trên đường cao tốc, không đổi chiều.
 
 Câu 11. [TH] Nhận xét nào sau đây luôn đúng?
 A. Độ lớn độ dịch chuyển luôn lớn hơn quãng đường đi được.
-*B. Độ lớn độ dịch chuyển nhỏ hơn hoặc bằng quãng đường đi được.
-C. Độ lớn độ dịch chuyển luôn bằng quãng đường đi được.
+B. Độ lớn độ dịch chuyển luôn bằng quãng đường đi được.
+*C. Độ lớn độ dịch chuyển nhỏ hơn hoặc bằng quãng đường đi được.
 D. Quãng đường đi được luôn nhỏ hơn độ lớn độ dịch chuyển.
 
 Câu 12. [TH] Một vật chuyển động trên trục Ox từ vị trí $x_1 = 2$ m đến vị trí $x_2 = 8$ m. Độ dịch chuyển của vật là
@@ -456,7 +456,7 @@ A. 10 m.
 C. −6 m.
 D. 4 m.
 
-Câu 13. [TH] Một vật chuyển động trên trục Ox từ vị trí $x_1 = 10$ m đến vị trí $x_2 = 4$ m. Độ dịch chuyển của vật là
+Câu 13. [TH] Một vật chuyển động trên trục Ox từ vị trí $x_1 = 10$ m đến vị trí $x_2 = 4$ m. Chọn chiều dương là chiều của trục Ox. Độ dịch chuyển của vật là
 A. 6 m.
 B. 14 m.
 *C. −6 m.
@@ -512,7 +512,7 @@ C. Độ lớn độ dịch chuyển bằng quãng đường đi được.
 Lời giải
 $d = \sqrt{400^2 + 300^2} = 500$ m; $\tan\theta = 300/400$ ⇒ $\theta \approx 37°$.
 
-Câu 21. [TF] [VD] Một vật chuyển động trên trục Ox, đi từ vị trí $x = 5$ m đến vị trí $x = -3$ m rồi quay lại vị trí $x = 1$ m.
+Câu 21. [TF] [VD] Một vật chuyển động trên trục Ox, đi từ vị trí $x = 5$ m đến vị trí $x = -3$ m rồi quay lại vị trí $x = 1$ m. Chọn chiều dương là chiều của trục Ox.
 *A. Độ dịch chuyển của vật là −4 m.
 *B. Quãng đường vật đi được là 12 m.
 C. Độ dịch chuyển của vật có giá trị dương.
@@ -521,15 +521,15 @@ Lời giải
 $d = 1 - 5 = -4$ m; $s = 8 + 4 = 12$ m.
 
 Câu 22. [TF] [TH] Về hệ quy chiếu và vị trí của vật:
-*A. Hệ quy chiếu gồm vật làm gốc, hệ tọa độ gắn với vật làm gốc, mốc thời gian và đồng hồ.
-*B. Khi chọn vật làm gốc khác nhau, vị trí của cùng một vật có thể được mô tả khác nhau.
+*A. Hệ quy chiếu gồm hệ tọa độ (gốc tại vật mốc), mốc thời gian và đồng hồ.
+*B. Khi chọn vật mốc khác nhau, vị trí của cùng một vật có thể được mô tả khác nhau.
 C. Muốn xác định vị trí của vật chỉ cần biết thời gian chuyển động.
-D. Vật làm gốc phải là vật đứng yên tuyệt đối.
+D. Vật mốc phải là vật đứng yên tuyệt đối.
 
 Câu 23. [TH] Một vật chuyển động trên trục Ox từ vị trí $x = 2$ m đến vị trí $x = 9$ m. Độ dịch chuyển của vật là bao nhiêu mét?
 Trả lời: [[7]]
 
-Câu 24. [TH] Một vật chuyển động trên trục Ox từ vị trí $x = 12$ m về vị trí $x = 5$ m. Độ dịch chuyển của vật là bao nhiêu mét?
+Câu 24. [TH] Một vật chuyển động trên trục Ox từ vị trí $x = 12$ m về vị trí $x = 5$ m. Chọn chiều dương là chiều của trục Ox. Độ dịch chuyển của vật là bao nhiêu mét?
 Trả lời: [[-7]]
 
 Câu 25. [VD] Một người đi 6 km theo hướng Đông, sau đó đi 8 km theo hướng Bắc. Độ lớn độ dịch chuyển của người đó là bao nhiêu km?
@@ -537,13 +537,13 @@ Trả lời: [[10]]
 Lời giải
 $d = \sqrt{6^2 + 8^2} = 10$ km.
 
-Câu 26. [VD] Một người đi 6 km theo hướng Đông rồi đi tiếp 8 km theo hướng Bắc. Quãng đường người đó đi được là bao nhiêu km?
+Câu 26. [TH] Một người đi 6 km theo hướng Đông rồi đi tiếp 8 km theo hướng Bắc. Quãng đường người đó đi được là bao nhiêu km?
 Trả lời: [[14]]
 
-Câu 27. [VD] Một vận động viên chạy 2,5 vòng quanh sân có chu vi 400 m. Quãng đường vận động viên chạy được là bao nhiêu mét?
+Câu 27. [TH] Một vận động viên chạy 2,5 vòng quanh sân có chu vi 400 m. Quãng đường vận động viên chạy được là bao nhiêu mét?
 Trả lời: [[1000]]
 
-Câu 28. [VD] Một xe đi thẳng 5 km theo hướng Bắc rồi quay đầu đi 2 km theo hướng Nam. Độ lớn độ dịch chuyển của xe là bao nhiêu km?
+Câu 28. [TH] Một xe đi thẳng 5 km theo hướng Bắc rồi quay đầu đi 2 km theo hướng Nam. Độ lớn độ dịch chuyển của xe là bao nhiêu km?
 Trả lời: [[3]]
 
 @bai 5 | Tốc độ và vận tốc
@@ -551,16 +551,16 @@ Trả lời: [[3]]
 @yccd TH | Tính được tốc độ trung bình và vận tốc trung bình (có xét dấu) của vật chuyển động thẳng.
 @yccd VD | Vận dụng công thức tốc độ trung bình, vận tốc trung bình để giải bài toán thực tế (chuyển động trên nhiều đoạn đường, nhiều khoảng thời gian).
 Câu 1. [NB] Tốc độ trung bình được tính bằng
-*A. thương số giữa quãng đường đi được và thời gian đi hết quãng đường đó.
-B. thương số giữa độ dịch chuyển và thời gian.
-C. tích của quãng đường và thời gian.
-D. hiệu của vận tốc cuối và vận tốc đầu.
+A. hiệu của vận tốc lúc cuối và vận tốc lúc đầu chuyển động.
+B. độ dịch chuyển chia cho thời gian thực hiện độ dịch chuyển đó.
+C. quãng đường đi được nhân với thời gian đi hết quãng đường đó.
+*D. quãng đường đi được chia cho thời gian đi hết quãng đường đó.
 
 Câu 2. [NB] Vận tốc trung bình được tính bằng
-A. thương số giữa quãng đường đi được và thời gian.
-*B. thương số giữa độ dịch chuyển và thời gian thực hiện độ dịch chuyển đó.
-C. tích của độ dịch chuyển và thời gian.
-D. tổng của tốc độ đầu và tốc độ cuối chia đôi.
+A. quãng đường đi được chia cho thời gian đi hết quãng đường đó.
+B. độ dịch chuyển nhân với thời gian thực hiện độ dịch chuyển đó.
+*C. độ dịch chuyển chia cho thời gian thực hiện độ dịch chuyển đó.
+D. tổng của tốc độ lúc đầu và tốc độ lúc cuối rồi chia đôi.
 
 Câu 3. [NB] Đơn vị của tốc độ trong hệ SI là
 A. km/h.
@@ -569,16 +569,16 @@ C. m/s².
 D. m.
 
 Câu 4. [NB] Tốc độ tức thời là
-*A. tốc độ của vật tại một thời điểm xác định.
+A. tốc độ nhỏ nhất của vật.
 B. tốc độ trung bình trên cả quãng đường.
 C. tốc độ lớn nhất của vật.
-D. tốc độ nhỏ nhất của vật.
+*D. tốc độ của vật tại một thời điểm xác định.
 
 Câu 5. [NB] Số chỉ của tốc kế trên xe máy cho biết
 A. tốc độ trung bình của xe trên cả quãng đường.
-*B. tốc độ tức thời của xe.
+B. quãng đường xe đã đi.
 C. vận tốc trung bình của xe.
-D. quãng đường xe đã đi.
+*D. tốc độ tức thời của xe.
 
 Câu 6. [NB] Vận tốc là đại lượng
 *A. vectơ, có hướng là hướng của độ dịch chuyển.
@@ -605,21 +605,21 @@ C. 259,2 m/s.
 D. 2 m/s.
 
 Câu 10. [TH] Khi vật chuyển động thẳng và không đổi chiều thì
-*A. tốc độ trung bình bằng độ lớn của vận tốc trung bình.
+A. vận tốc trung bình bằng 0.
 B. tốc độ trung bình lớn hơn độ lớn của vận tốc trung bình.
-C. vận tốc trung bình bằng 0.
+*C. tốc độ trung bình bằng độ lớn của vận tốc trung bình.
 D. tốc độ trung bình bằng 0.
 
 Câu 11. [TH] Một người chạy đúng một vòng sân và trở về vị trí xuất phát. Nhận xét nào sau đây đúng?
 A. Vận tốc trung bình và tốc độ trung bình đều bằng 0.
-*B. Vận tốc trung bình bằng 0, tốc độ trung bình khác 0.
+B. Vận tốc trung bình bằng tốc độ trung bình.
 C. Vận tốc trung bình khác 0, tốc độ trung bình bằng 0.
-D. Vận tốc trung bình bằng tốc độ trung bình.
+*D. Vận tốc trung bình bằng 0, tốc độ trung bình khác 0.
 
 Câu 12. [TH] Một thuyền chạy xuôi dòng. Vận tốc của thuyền đối với bờ bằng
-*A. vận tốc của thuyền đối với nước cộng vận tốc của nước đối với bờ.
+A. vận tốc của nước đối với bờ.
 B. vận tốc của thuyền đối với nước trừ vận tốc của nước đối với bờ.
-C. vận tốc của nước đối với bờ.
+*C. vận tốc của thuyền đối với nước cộng vận tốc của nước đối với bờ.
 D. vận tốc của thuyền đối với nước.
 
 Câu 13. [TH] Hai ô tô chạy cùng chiều trên đường thẳng với tốc độ lần lượt 60 km/h và 40 km/h. Độ lớn vận tốc của xe thứ nhất đối với xe thứ hai là
@@ -634,7 +634,7 @@ A. 20 km/h.
 C. 50 km/h.
 D. 1,5 km/h.
 
-Câu 15. [VD] Một ô tô đi được 120 km trong 2,5 giờ. Tốc độ trung bình của ô tô là
+Câu 15. [TH] Một ô tô đi được 120 km trong 2,5 giờ. Tốc độ trung bình của ô tô là
 A. 300 km/h.
 *B. 48 km/h.
 C. 60 km/h.
@@ -657,10 +657,10 @@ Lời giải
 Hai vận tốc vuông góc nên $v = \sqrt{4^2 + 3^2} = 5$ m/s.
 
 Câu 18. [VD] Một người đi từ A đến B cách nhau 3 km rồi quay về A, tổng thời gian là 1 giờ. Tốc độ trung bình và vận tốc trung bình của người đó lần lượt là
-*A. 6 km/h và 0.
+A. 6 km/h và 6 km/h.
 B. 3 km/h và 3 km/h.
 C. 0 và 6 km/h.
-D. 6 km/h và 6 km/h.
+*D. 6 km/h và 0.
 
 Câu 19. [TF] [TH] Về tốc độ và vận tốc:
 *A. Tốc độ trung bình là đại lượng vô hướng.
@@ -696,7 +696,7 @@ Trả lời: [[15]]
 Câu 24. [TH] Đổi tốc độ 10 m/s sang đơn vị km/h.
 Trả lời: [[36]]
 
-Câu 25. [VD] Một ô tô đi được 150 km trong 3 giờ. Tốc độ trung bình của ô tô là bao nhiêu km/h?
+Câu 25. [TH] Một ô tô đi được 150 km trong 3 giờ. Tốc độ trung bình của ô tô là bao nhiêu km/h?
 Trả lời: [[50]]
 
 Câu 26. [VD] Một xe đi nửa đầu quãng đường với tốc độ 30 km/h và nửa sau với tốc độ 60 km/h. Tốc độ trung bình của xe trên cả quãng đường là bao nhiêu km/h?
@@ -714,22 +714,22 @@ Ngược dòng: $v = 12 - 3 = 9$ km/h; $t = 18/9 = 2$ giờ.
 
 @bai 6 | Thực hành: Đo tốc độ của vật chuyển động
 Câu 1. [NB] Để đo tốc độ trung bình của một vật, cần đo
-*A. quãng đường đi được và thời gian đi hết quãng đường đó.
-B. khối lượng và thời gian chuyển động.
-C. quãng đường và khối lượng của vật.
-D. lực tác dụng và thời gian chuyển động.
+A. lực tác dụng lên vật và thời gian chuyển động.
+B. khối lượng của vật và thời gian chuyển động của vật.
+C. quãng đường đi được và khối lượng của vật.
+*D. quãng đường đi được và thời gian đi hết quãng đường đó.
 
 Câu 2. [NB] Dụng cụ thường dùng để đo thời gian chính xác trong phòng thí nghiệm vật lí là
-A. đồng hồ treo tường.
-*B. đồng hồ đo thời gian hiện số kết hợp với cổng quang điện.
-C. nhiệt kế.
-D. lực kế.
+A. đồng hồ treo tường có kim giây và kim phút.
+B. lực kế lò xo có vạch chia đến 0,1 N.
+C. nhiệt kế điện tử hiện số có đầu đo.
+*D. đồng hồ đo thời gian hiện số và cổng quang điện.
 
 Câu 3. [NB] Cổng quang điện gửi tín hiệu đến đồng hồ đo thời gian khi
-*A. vật đi qua làm chắn chùm tia sáng (hồng ngoại) chiếu tới bộ phận thu.
-B. vật chạm vào cổng.
-C. vật dừng lại trước cổng.
-D. có âm thanh phát ra từ vật.
+A. vật dừng lại ngay trước cổng quang điện.
+B. vật chạm vào thân cổng làm cổng rung lên.
+*C. vật đi qua làm chắn chùm tia sáng chiếu tới bộ phận thu.
+D. vật phát ra âm thanh khi đi gần tới cổng.
 
 Câu 4. [NB] Dùng đồng hồ bấm giây bằng tay để đo thời gian thường có sai số lớn chủ yếu do
 A. đồng hồ chạy không đều.
@@ -738,22 +738,22 @@ C. vật chuyển động quá chậm.
 D. ánh sáng trong phòng quá mạnh.
 
 Câu 5. [TH] Để đo tốc độ tức thời của viên bi khi đi qua một điểm, người ta đo thời gian $t$ viên bi (đường kính $d$ nhỏ) chắn cổng quang điện và tính
-*A. $v \approx \dfrac{d}{t}$.
+A. $v = \dfrac{t}{d}$.
 B. $v = d \cdot t$.
-C. $v = \dfrac{t}{d}$.
+*C. $v \approx \dfrac{d}{t}$.
 D. $v = d + t$.
 
 Câu 6. [TH] Khi đo tốc độ tức thời bằng cổng quang điện, bề rộng vật chắn sáng càng nhỏ thì
-*A. thời gian chắn càng ngắn, tốc độ đo được càng gần tốc độ tức thời.
+A. kết quả không phụ thuộc bề rộng vật chắn sáng.
 B. thời gian chắn càng dài, kết quả càng chính xác.
-C. kết quả không phụ thuộc bề rộng vật chắn sáng.
+*C. thời gian chắn càng ngắn, tốc độ đo được càng gần tốc độ tức thời.
 D. đồng hồ không đo được thời gian.
 
 Câu 7. [TH] Để đo tốc độ trung bình của viên bi khi lăn từ điểm A đến điểm B, ta nên
-*A. đặt hai cổng quang điện tại A và B, đo thời gian giữa hai lần viên bi chắn sáng.
-B. đặt một cổng quang điện ở giữa AB.
-C. chỉ cần đo khoảng cách AB.
-D. đo đường kính viên bi.
+*A. đặt hai cổng quang điện tại A và B, đo thời gian bi đi từ A đến B.
+B. đặt một cổng quang điện ở giữa AB, đo thời gian bi chắn sáng.
+C. chỉ cần đo khoảng cách AB bằng thước có độ chia nhỏ.
+D. đo đường kính viên bi và thời gian bi lăn hết máng.
 
 Câu 8. [TH] Kết quả đo tốc độ được ghi đúng dạng là
 A. $v = \overline{v}$.
@@ -761,7 +761,7 @@ A. $v = \overline{v}$.
 C. $v = \Delta v$.
 D. $v = \overline{v} \cdot \Delta v$.
 
-Câu 9. [VD] Một viên bi có đường kính 2,0 cm đi qua cổng quang điện, thời gian chắn sáng đo được là 0,040 s. Tốc độ của viên bi khi đi qua cổng là
+Câu 9. [TH] Một viên bi có đường kính 2,0 cm đi qua cổng quang điện, thời gian chắn sáng đo được là 0,040 s. Tốc độ của viên bi khi đi qua cổng là
 *A. 0,50 m/s.
 B. 0,80 m/s.
 C. 5,0 m/s.
@@ -769,7 +769,7 @@ D. 0,02 m/s.
 Lời giải
 $v = d/t = 0,020/0,040 = 0,50$ m/s.
 
-Câu 10. [VD] Một xe trượt đi được quãng đường 50 cm trong 0,25 s. Tốc độ trung bình của xe là
+Câu 10. [TH] Một xe trượt đi được quãng đường 50 cm trong 0,25 s. Tốc độ trung bình của xe là
 A. 0,5 m/s.
 *B. 2 m/s.
 C. 12,5 m/s.
@@ -795,10 +795,10 @@ Trả lời: [[0,5]]
 Câu 14. [VD] Một xe đi được quãng đường 1,2 m trong 0,8 s. Tốc độ trung bình của xe là bao nhiêu m/s?
 Trả lời: [[1,5]]
 
-Câu 15. [VD] Đo tốc độ theo công thức $v = s/t$ với sai số tỉ đối của quãng đường là 0,5% và của thời gian là 1,5%. Sai số tỉ đối của tốc độ là bao nhiêu phần trăm?
+Câu 15. [TH] Đo tốc độ theo công thức $v = s/t$ với sai số tỉ đối của quãng đường là 0,5% và của thời gian là 1,5%. Sai số tỉ đối của tốc độ là bao nhiêu phần trăm?
 Trả lời: [[2]]
 
-Câu 16. [VD] Tấm chắn sáng có bề rộng 10 mm đi qua cổng quang điện trong thời gian 0,025 s. Tốc độ của tấm chắn là bao nhiêu m/s?
+Câu 16. [TH] Tấm chắn sáng có bề rộng 10 mm đi qua cổng quang điện trong thời gian 0,025 s. Tốc độ của tấm chắn là bao nhiêu m/s?
 Trả lời: [[0,4]]
 
 @bai 7 | Đồ thị độ dịch chuyển – thời gian
@@ -806,16 +806,16 @@ Trả lời: [[0,4]]
 @yccd TH | Mô tả được chuyển động (thẳng đều, đứng yên, đổi chiều) dựa vào đồ thị độ dịch chuyển – thời gian.
 @yccd VD | Xác định được độ dịch chuyển, vận tốc từ đồ thị độ dịch chuyển – thời gian hoặc từ dữ kiện chuyển động thẳng có đổi chiều.
 Câu 1. [NB] Đồ thị độ dịch chuyển – thời gian của chuyển động thẳng đều có dạng
-*A. đường thẳng.
+A. đường hypebol.
 B. đường parabol.
 C. đường tròn.
-D. đường hypebol.
+*D. đường thẳng.
 
 Câu 2. [NB] Độ dốc (hệ số góc) của đồ thị độ dịch chuyển – thời gian cho biết
 A. quãng đường đi được.
-*B. vận tốc của vật.
+B. thời gian chuyển động.
 C. gia tốc của vật.
-D. thời gian chuyển động.
+*D. vận tốc của vật.
 
 Câu 3. [NB] Đồ thị độ dịch chuyển – thời gian là đoạn thẳng song song với trục thời gian thì vật
 *A. đứng yên.
@@ -825,9 +825,9 @@ D. chuyển động nhanh dần.
 
 Câu 4. [NB] Trong đồ thị độ dịch chuyển – thời gian, trục hoành biểu diễn
 A. độ dịch chuyển.
-*B. thời gian.
+B. quãng đường.
 C. vận tốc.
-D. quãng đường.
+*D. thời gian.
 
 Câu 5. [NB] Đồ thị độ dịch chuyển – thời gian là đường thẳng dốc xuống (độ dốc âm) thì vật
 A. đứng yên.
@@ -854,9 +854,9 @@ C. vận tốc của vật bằng 0.
 D. vật chuyển động theo chiều âm.
 
 Câu 9. [TH] Hai vật chuyển động thẳng đều có đồ thị độ dịch chuyển – thời gian là hai đường thẳng. Đường dốc hơn ứng với vật có
-*A. tốc độ lớn hơn.
+A. quãng đường ngắn hơn.
 B. tốc độ nhỏ hơn.
-C. quãng đường ngắn hơn.
+*C. tốc độ lớn hơn.
 D. thời gian chuyển động dài hơn.
 
 Câu 10. [TH] Theo đồ thị độ dịch chuyển – thời gian, từ $t = 0$ đến $t = 4$ s độ dịch chuyển tăng đều từ 0 đến 20 m. Vận tốc của vật trong khoảng thời gian này là
@@ -866,10 +866,10 @@ C. 0,2 m/s.
 D. 20 m/s.
 
 Câu 11. [TH] Trên đồ thị độ dịch chuyển – thời gian, đoạn từ $t = 4$ s đến $t = 6$ s nằm ngang. Trong khoảng thời gian này vật
-*A. đứng yên 2 s.
+A. chuyển động nhanh dần.
 B. chuyển động với vận tốc 2 m/s.
 C. chuyển động ngược chiều.
-D. chuyển động nhanh dần.
+*D. đứng yên 2 s.
 
 Câu 12. [TH] Từ $t = 6$ s đến $t = 10$ s, độ dịch chuyển của vật giảm đều từ 20 m về 0. Vận tốc của vật trong khoảng thời gian này là
 A. 5 m/s.
@@ -884,9 +884,9 @@ B. đường thẳng dốc lên.
 D. đường cong.
 
 Câu 14. [TH] Một vật đi từ gốc tọa độ ra xa 20 m rồi quay trở về gốc tọa độ trong 10 s. Vận tốc trung bình và tốc độ trung bình của vật lần lượt là
-*A. 0 và 4 m/s.
+A. 2 m/s và 4 m/s.
 B. 4 m/s và 0.
-C. 2 m/s và 4 m/s.
+*C. 0 và 4 m/s.
 D. 4 m/s và 4 m/s.
 
 Câu 15. [VD] Một vật chuyển động thẳng đều. Tại $t = 2$ s độ dịch chuyển là 6 m, tại $t = 5$ s độ dịch chuyển là 15 m. Vận tốc của vật là
@@ -967,9 +967,9 @@ Trả lời: [[40]]
 @yccd VD | Tính được gia tốc từ số liệu vận tốc và thời gian.
 Câu 1. [NB] Gia tốc là đại lượng đặc trưng cho
 A. độ nhanh hay chậm của chuyển động.
-*B. sự thay đổi nhanh hay chậm của vận tốc.
+B. vị trí của vật.
 C. quãng đường vật đi được trong một giây.
-D. vị trí của vật.
+*D. sự thay đổi nhanh hay chậm của vận tốc.
 
 Câu 2. [NB] Công thức tính gia tốc là
 *A. $a = \dfrac{\Delta v}{\Delta t}$.
@@ -979,8 +979,8 @@ D. $a = \dfrac{d}{t}$.
 
 Câu 3. [NB] Đơn vị của gia tốc trong hệ SI là
 A. m/s.
-*B. m/s².
-C. m²/s.
+B. m²/s.
+*C. m/s².
 D. km/h.
 
 Câu 4. [NB] Gia tốc là đại lượng
@@ -991,26 +991,26 @@ D. không có đơn vị.
 
 Câu 5. [NB] Chuyển động biến đổi là chuyển động có
 A. vận tốc không đổi.
-*B. vận tốc thay đổi.
-C. quỹ đạo là đường thẳng.
+B. quỹ đạo là đường thẳng.
+*C. vận tốc thay đổi.
 D. quãng đường không đổi.
 
 Câu 6. [NB] Vật chuyển động thẳng nhanh dần khi
-*A. gia tốc cùng chiều với vận tốc.
+A. vận tốc bằng 0.
 B. gia tốc ngược chiều với vận tốc.
 C. gia tốc bằng 0.
-D. vận tốc bằng 0.
+*D. gia tốc cùng chiều với vận tốc.
 
 Câu 7. [NB] Vật chuyển động thẳng chậm dần khi
 A. gia tốc cùng chiều với vận tốc.
-*B. gia tốc ngược chiều với vận tốc.
+B. vận tốc không đổi.
 C. gia tốc bằng 0.
-D. vận tốc không đổi.
+*D. gia tốc ngược chiều với vận tốc.
 
 Câu 8. [NB] Vật chuyển động thẳng đều có gia tốc
-*A. bằng 0.
+A. âm.
 B. dương.
-C. âm.
+*C. bằng 0.
 D. thay đổi liên tục.
 
 Câu 9. [TH] Một xe tăng tốc từ trạng thái nghỉ đến 20 m/s trong 10 s. Gia tốc trung bình của xe là
@@ -1027,9 +1027,9 @@ D. −75 m/s².
 
 Câu 11. [TH] Chọn chiều dương là chiều chuyển động. Khi xe chuyển động thẳng chậm dần thì
 A. $a > 0$.
-*B. $a < 0$.
+B. $v < 0$.
 C. $a = 0$.
-D. $v < 0$.
+*D. $a < 0$.
 
 Câu 12. [TH] Gia tốc của một vật chuyển động thẳng nhanh dần là 2 m/s². Điều này có nghĩa là
 *A. mỗi giây vận tốc của vật tăng thêm 2 m/s.
@@ -1046,10 +1046,10 @@ Lời giải
 36 km/h = 10 m/s; 54 km/h = 15 m/s; $a = (15 - 10)/10 = 0,5$ m/s².
 
 Câu 14. [TH] Một vật chuyển động thẳng có vận tốc $v = -5$ m/s và gia tốc $a = -2$ m/s². Vật chuyển động
-*A. nhanh dần.
+A. đứng yên.
 B. chậm dần.
 C. thẳng đều.
-D. đứng yên.
+*D. nhanh dần.
 Lời giải
 $a$ và $v$ cùng dấu (cùng chiều) nên vật chuyển động nhanh dần.
 
@@ -1061,14 +1061,14 @@ D. 55 m/s.
 
 Câu 16. [VD] Một đoàn tàu đang chạy với tốc độ 72 km/h thì hãm phanh, chuyển động chậm dần với gia tốc có độ lớn 0,5 m/s². Thời gian từ lúc hãm phanh đến khi dừng là
 A. 144 s.
-*B. 40 s.
-C. 10 s.
+B. 10 s.
+*C. 40 s.
 D. 36 s.
 
 Câu 17. [VD] Một xe máy tăng tốc từ trạng thái nghỉ lên 54 km/h trong 6 s. Gia tốc của xe là
 A. 9 m/s².
-*B. 2,5 m/s².
-C. 0,4 m/s².
+B. 0,4 m/s².
+*C. 2,5 m/s².
 D. 15 m/s².
 
 Câu 18. [VD] Một ô tô chuyển động thẳng, giảm vận tốc từ 20 m/s xuống 10 m/s trong 4 s. Chọn chiều dương là chiều chuyển động. Gia tốc của ô tô là
@@ -1143,14 +1143,14 @@ D. $v = d/t$.
 
 Câu 3. [NB] Công thức độ dịch chuyển của chuyển động thẳng biến đổi đều là
 A. $d = v_0 + at$.
-*B. $d = v_0t + \dfrac{1}{2}at^2$.
+B. $d = \dfrac{1}{2}v_0t^2$.
 C. $d = v_0t + at^2$.
-D. $d = \dfrac{1}{2}v_0t^2$.
+*D. $d = v_0t + \dfrac{1}{2}at^2$.
 
 Câu 4. [NB] Hệ thức liên hệ giữa vận tốc, gia tốc và độ dịch chuyển là
-*A. $v^2 - v_0^2 = 2ad$.
+A. $v - v_0 = 2ad$.
 B. $v^2 + v_0^2 = 2ad$.
-C. $v - v_0 = 2ad$.
+*C. $v^2 - v_0^2 = 2ad$.
 D. $v^2 - v_0^2 = ad$.
 
 Câu 5. [NB] Đồ thị vận tốc – thời gian của chuyển động thẳng biến đổi đều là
@@ -1160,10 +1160,10 @@ C. đường tròn.
 D. đường hypebol.
 
 Câu 6. [NB] Độ dịch chuyển của vật trong chuyển động thẳng biến đổi đều có thể xác định bằng
-A. độ dốc của đồ thị vận tốc – thời gian.
-*B. diện tích giới hạn bởi đồ thị vận tốc – thời gian và trục thời gian.
-C. tung độ của đồ thị vận tốc – thời gian.
-D. hoành độ của đồ thị vận tốc – thời gian.
+A. độ dốc của đồ thị vận tốc – thời gian trong khoảng thời gian đó.
+B. hoành độ của đồ thị vận tốc – thời gian tại thời điểm cuối.
+C. tung độ của đồ thị vận tốc – thời gian tại thời điểm cuối.
+*D. diện tích giới hạn bởi đồ thị vận tốc – thời gian và trục thời gian.
 
 Câu 7. [NB] Độ dốc của đồ thị vận tốc – thời gian cho biết
 A. độ dịch chuyển.
@@ -1172,10 +1172,10 @@ B. quãng đường.
 D. thời gian.
 
 Câu 8. [NB] Trong chuyển động thẳng nhanh dần đều thì
-*A. $a$ và $v$ cùng dấu.
+A. $v$ không đổi.
 B. $a$ và $v$ trái dấu.
 C. $a = 0$.
-D. $v$ không đổi.
+*D. $a$ và $v$ cùng dấu.
 
 Câu 9. [TH] Một vật có vận tốc ban đầu 5 m/s, chuyển động nhanh dần đều với gia tốc 2 m/s². Vận tốc của vật sau 3 s là
 A. 6 m/s.
@@ -1185,29 +1185,29 @@ D. 15 m/s.
 
 Câu 10. [TH] Một vật bắt đầu chuyển động từ trạng thái nghỉ, nhanh dần đều với gia tốc 2 m/s². Độ dịch chuyển của vật sau 5 s là
 A. 10 m.
-*B. 25 m.
+B. 5 m.
 C. 50 m.
-D. 5 m.
+*D. 25 m.
 
 Câu 11. [TH] Đồ thị vận tốc – thời gian là đường thẳng đi từ 10 m/s (tại $t = 0$) xuống 0 (tại $t = 5$ s). Gia tốc của vật là
 A. 2 m/s².
-*B. −2 m/s².
-C. 50 m/s².
+B. 50 m/s².
+*C. −2 m/s².
 D. −0,5 m/s².
 
 Câu 12. [TH] Vận tốc của một vật tăng đều từ 0 lên 10 m/s trong 4 s. Độ dịch chuyển của vật trong 4 s đó là
 A. 40 m.
-*B. 20 m.
-C. 10 m.
+B. 10 m.
+*C. 20 m.
 D. 2,5 m.
 Lời giải
 Diện tích tam giác dưới đồ thị $v - t$: $d = \dfrac{1}{2} \cdot 4 \cdot 10 = 20$ m.
 
 Câu 13. [TH] Một vật bắt đầu chuyển động nhanh dần đều từ trạng thái nghỉ. Độ dịch chuyển của vật tỉ lệ thuận với
 A. thời gian $t$.
-*B. bình phương thời gian $t^2$.
+B. nghịch đảo của thời gian.
 C. căn bậc hai của thời gian.
-D. nghịch đảo của thời gian.
+*D. bình phương thời gian $t^2$.
 
 Câu 14. [TH] Một ô tô đang chạy với vận tốc 20 m/s thì hãm phanh với gia tốc −4 m/s². Ô tô dừng lại sau
 *A. 5 s.
@@ -1308,9 +1308,9 @@ D. khi được ném lên cao.
 
 Câu 2. [NB] Chuyển động rơi tự do là chuyển động
 A. thẳng đều.
-*B. thẳng nhanh dần đều.
+B. tròn đều.
 C. thẳng chậm dần đều.
-D. tròn đều.
+*D. thẳng nhanh dần đều.
 
 Câu 3. [NB] Phương và chiều của chuyển động rơi tự do là
 *A. phương thẳng đứng, chiều từ trên xuống dưới.
@@ -1320,8 +1320,8 @@ D. phương xiên góc 45°.
 
 Câu 4. [NB] Gia tốc rơi tự do ở gần mặt đất có giá trị xấp xỉ
 A. 1 m/s².
-*B. 9,8 m/s².
-C. 98 m/s².
+B. 98 m/s².
+*C. 9,8 m/s².
 D. 0,98 m/s².
 
 Câu 5. [NB] Vận tốc của vật rơi tự do (thả không vận tốc đầu) tại thời điểm $t$ là
@@ -1332,15 +1332,15 @@ D. $v = g/t$.
 
 Câu 6. [NB] Quãng đường vật rơi tự do (thả không vận tốc đầu) đi được sau thời gian $t$ là
 A. $s = gt$.
-*B. $s = \dfrac{1}{2}gt^2$.
+B. $s = 2gt^2$.
 C. $s = gt^2$.
-D. $s = 2gt^2$.
+*D. $s = \dfrac{1}{2}gt^2$.
 
 Câu 7. [NB] Ở cùng một nơi trên Trái Đất, mọi vật rơi tự do đều có
-*A. cùng gia tốc.
+A. cùng thời gian rơi dù ở độ cao khác nhau.
 B. cùng khối lượng.
 C. cùng vận tốc ban đầu khác 0.
-D. cùng thời gian rơi dù ở độ cao khác nhau.
+*D. cùng gia tốc.
 
 Câu 8. [NB] Trong không khí, chuyển động của vật nào sau đây có thể coi là rơi tự do?
 A. Chiếc lá rơi.
@@ -1355,16 +1355,16 @@ B. lông chim rơi nhanh hơn.
 D. lông chim lơ lửng không rơi.
 
 Câu 10. [TH] Trong không khí, chiếc lá rơi chậm hơn hòn đá vì
-A. hòn đá nặng hơn nên gia tốc rơi tự do lớn hơn.
-*B. lực cản của không khí tác dụng lên chiếc lá đáng kể so với trọng lực của nó.
-C. chiếc lá không chịu tác dụng của trọng lực.
-D. Trái Đất chỉ hút các vật nặng.
+A. hòn đá nặng hơn nên gia tốc rơi tự do của nó lớn hơn.
+B. Trái Đất chỉ hút các vật nặng như hòn đá, không hút lá.
+C. chiếc lá rất nhẹ nên không chịu tác dụng của trọng lực.
+*D. lực cản không khí lên chiếc lá đáng kể so với trọng lực của nó.
 
 Câu 11. [TH] Gia tốc rơi tự do phụ thuộc vào
-*A. vĩ độ địa lí và độ cao so với mặt đất.
-B. khối lượng của vật.
-C. hình dạng của vật.
-D. màu sắc của vật.
+A. hình dạng và thể tích của vật.
+B. khối lượng và kích thước của vật.
+*C. vĩ độ địa lí và độ cao so với mặt đất.
+D. màu sắc và chất liệu của vật.
 
 Câu 12. [TH] Một vật được thả rơi tự do tại nơi có $g = 9,8$ m/s². Vận tốc của vật sau 2 s là
 A. 9,8 m/s.
@@ -1380,9 +1380,9 @@ D. 14,7 m.
 
 Câu 14. [TH] Nhà bác học được cho là đã làm thí nghiệm thả các vật từ tháp nghiêng Pisa để nghiên cứu sự rơi là
 A. Newton.
-*B. Galilei.
+B. Einstein.
 C. Aristotle.
-D. Einstein.
+*D. Galilei.
 
 Câu 15. [VD] Một vật được thả rơi tự do từ độ cao 20 m tại nơi có $g = 10$ m/s². Thời gian rơi của vật là
 A. 4 s.
@@ -1392,8 +1392,8 @@ D. 20 s.
 
 Câu 16. [VD] Một vật được thả rơi tự do từ độ cao 20 m tại nơi có $g = 10$ m/s². Vận tốc của vật khi chạm đất là
 A. 10 m/s.
-*B. 20 m/s.
-C. 40 m/s.
+B. 40 m/s.
+*C. 20 m/s.
 D. 200 m/s.
 
 Câu 17. [VD] Một vật rơi tự do tại nơi có $g = 10$ m/s². Quãng đường vật rơi được trong giây thứ 3 là
@@ -1449,7 +1449,7 @@ Trả lời: [[20]]
 Câu 25. [VD] Một vật được thả rơi tự do từ độ cao 45 m tại nơi có $g = 10$ m/s². Thời gian rơi của vật là bao nhiêu giây?
 Trả lời: [[3]]
 
-Câu 26. [VD] Một vật rơi tự do tại nơi có $g = 9,8$ m/s². Quãng đường vật rơi được sau 2 s là bao nhiêu mét?
+Câu 26. [TH] Một vật rơi tự do tại nơi có $g = 9,8$ m/s². Quãng đường vật rơi được sau 2 s là bao nhiêu mét?
 Trả lời: [[19,6]]
 
 Câu 27. [VD] Một vật được thả rơi tự do từ độ cao 125 m tại nơi có $g = 10$ m/s². Vận tốc của vật khi chạm đất là bao nhiêu m/s?
@@ -1468,40 +1468,40 @@ C. Cổng quang điện và đồng hồ đo thời gian hiện số.
 *D. Lực kế.
 
 Câu 2. [NB] Trong thí nghiệm đo gia tốc rơi tự do, nam châm điện dùng để
-*A. giữ viên bi và thả viên bi đúng lúc đồng hồ bắt đầu đo thời gian.
-B. hút viên bi rơi nhanh hơn.
-C. đo thời gian rơi của viên bi.
-D. đo quãng đường rơi của viên bi.
+*A. giữ viên bi rồi thả bi đúng lúc bắt đầu đo thời gian.
+B. hút viên bi xuống dưới để bi rơi nhanh hơn.
+C. đo thời gian rơi của viên bi từ lúc thả.
+D. đo quãng đường rơi của viên bi đến cổng.
 
 Câu 3. [NB] Viên bi được thả rơi không vận tốc đầu, rơi được quãng đường $s$ trong thời gian $t$. Gia tốc rơi tự do được tính bằng
-*A. $g = \dfrac{2s}{t^2}$.
+A. $g = \dfrac{2s}{t}$.
 B. $g = \dfrac{s}{t^2}$.
 C. $g = \dfrac{s}{2t^2}$.
-D. $g = \dfrac{2s}{t}$.
+*D. $g = \dfrac{2s}{t^2}$.
 
 Câu 4. [TH] Thí nghiệm dùng viên bi thép nhỏ, nặng mà không dùng quả bóng bàn vì
-*A. lực cản của không khí lên viên bi không đáng kể so với trọng lực của nó.
-B. viên bi thép có gia tốc rơi tự do lớn hơn.
-C. quả bóng bàn không bị Trái Đất hút.
-D. viên bi thép rơi chậm hơn nên dễ đo.
+A. quả bóng bàn quá nhẹ nên không bị Trái Đất hút.
+B. viên bi thép nặng hơn nên có gia tốc rơi tự do lớn hơn.
+*C. lực cản không khí lên viên bi không đáng kể so với trọng lực.
+D. viên bi thép rơi chậm hơn quả bóng bàn nên dễ đo.
 
 Câu 5. [TH] Khi vẽ đồ thị quãng đường $s$ theo bình phương thời gian $t^2$ trong thí nghiệm rơi tự do, ta được
-*A. đường thẳng đi qua gốc tọa độ, hệ số góc bằng $g/2$.
+A. đường thẳng nằm ngang.
 B. đường parabol.
-C. đường thẳng nằm ngang.
+*C. đường thẳng đi qua gốc tọa độ, hệ số góc bằng $g/2$.
 D. đường thẳng đi qua gốc tọa độ, hệ số góc bằng $2g$.
 
 Câu 6. [TH] Để giảm sai số khi đo gia tốc rơi tự do, cần
-A. chỉ đo một lần ở một quãng đường.
+A. chỉ đo một lần ở một quãng đường cho chính xác.
 *B. đo nhiều lần ở các quãng đường khác nhau rồi xử lí số liệu.
-C. dùng viên bi càng nhẹ càng tốt.
-D. bấm đồng hồ bằng tay thật nhanh.
+C. dùng viên bi càng nhẹ càng tốt để bi rơi chậm.
+D. dùng tay bấm đồng hồ thật nhanh lúc thả bi.
 
 Câu 7. [TH] Để viên bi rơi không vận tốc đầu đúng lúc đồng hồ bắt đầu đếm, người ta
-*A. ngắt điện nam châm để thả viên bi.
+A. thả viên bi từ trên cao xuống mà không cần giá đỡ.
 B. dùng tay ném viên bi xuống.
 C. đẩy nhẹ viên bi theo phương ngang.
-D. thả viên bi từ trên cao xuống mà không cần giá đỡ.
+*D. ngắt điện nam châm để thả viên bi.
 
 Câu 8. [VD] Viên bi rơi không vận tốc đầu được quãng đường 0,500 m trong thời gian 0,320 s. Gia tốc rơi tự do đo được xấp xỉ
 *A. 9,77 m/s².
@@ -1561,9 +1561,9 @@ C. rơi tự do theo phương ngang và thẳng đều theo phương thẳng đ�
 D. chuyển động tròn đều.
 
 Câu 2. [NB] Thời gian rơi của vật ném ngang từ độ cao $h$ là
-*A. $t = \sqrt{\dfrac{2h}{g}}$.
+A. $t = \sqrt{\dfrac{h}{2g}}$.
 B. $t = \dfrac{2h}{g}$.
-C. $t = \sqrt{\dfrac{h}{2g}}$.
+*C. $t = \sqrt{\dfrac{2h}{g}}$.
 D. $t = \sqrt{2gh}$.
 
 Câu 3. [NB] Tầm xa của vật ném ngang với vận tốc $v_0$ từ độ cao $h$ là
@@ -1574,20 +1574,20 @@ D. $L = v_0^2\sqrt{\dfrac{2h}{g}}$.
 
 Câu 4. [NB] Quỹ đạo của vật ném ngang (bỏ qua sức cản không khí) là
 A. đường thẳng.
-*B. một nhánh parabol.
+B. đường hypebol.
 C. đường tròn.
-D. đường hypebol.
+*D. một nhánh parabol.
 
 Câu 5. [NB] Thời gian rơi của vật ném ngang phụ thuộc vào
-*A. độ cao nơi ném.
+A. cả vận tốc ban đầu và khối lượng.
 B. vận tốc ban đầu.
 C. khối lượng của vật.
-D. cả vận tốc ban đầu và khối lượng.
+*D. độ cao nơi ném.
 
 Câu 6. [NB] Vật được ném xiên với vận tốc $v_0$ hợp với phương ngang góc $\alpha$. Thành phần vận tốc theo phương ngang là
-*A. $v_0\cos\alpha$.
+A. $v_0\tan\alpha$.
 B. $v_0\sin\alpha$.
-C. $v_0\tan\alpha$.
+*C. $v_0\cos\alpha$.
 D. $v_0$.
 
 Câu 7. [NB] Tầm xa của vật ném xiên (điểm ném và điểm rơi cùng độ cao) là
@@ -1609,15 +1609,15 @@ B. vật B chạm đất trước.
 D. vật A không chạm đất.
 
 Câu 10. [TH] Trong chuyển động ném ngang (bỏ qua sức cản), vận tốc theo phương ngang
-*A. không đổi.
+A. bằng 0.
 B. tăng dần.
 C. giảm dần.
-D. bằng 0.
+*D. không đổi.
 
 Câu 11. [TH] Ném ngang một vật từ cùng độ cao, nếu vận tốc ban đầu tăng gấp đôi thì tầm xa
 A. không đổi.
-*B. tăng gấp đôi.
-C. tăng gấp bốn.
+B. tăng gấp bốn.
+*C. tăng gấp đôi.
 D. giảm một nửa.
 
 Câu 12. [TH] Ở điểm cao nhất của quỹ đạo vật ném xiên, vận tốc của vật
@@ -1627,10 +1627,10 @@ C. chỉ còn thành phần theo phương thẳng đứng.
 D. có độ lớn bằng vận tốc ban đầu.
 
 Câu 13. [TH] Ném xiên hai vật từ mặt đất với cùng vận tốc ban đầu, góc ném lần lượt 30° và 60°. Bỏ qua sức cản không khí, tầm xa của hai vật
-*A. bằng nhau.
+A. tỉ lệ 1 : 2.
 B. vật ném góc 30° xa hơn.
 C. vật ném góc 60° xa hơn.
-D. tỉ lệ 1 : 2.
+*D. bằng nhau.
 
 Câu 14. [TH] Ném ngang một vật. Nếu độ cao tăng gấp 4 lần thì thời gian rơi
 A. tăng gấp 4.
@@ -1723,10 +1723,10 @@ $v_y = gt = 10 \cdot 3 = 30$ m/s; $v = \sqrt{40^2 + 30^2} = 50$ m/s.
 @chuong III | Động lực học
 @bai 13 | Tổng hợp và phân tích lực. Cân bằng lực
 Câu 1. [NB] Lực là đại lượng
-A. vô hướng, chỉ có độ lớn.
-*B. vectơ, đặc trưng bởi điểm đặt, phương, chiều và độ lớn.
-C. vô hướng, chỉ có phương và chiều.
-D. vectơ, chỉ có điểm đặt và độ lớn.
+A. vô hướng, chỉ được đặc trưng bởi độ lớn.
+*B. vectơ, có điểm đặt, phương, chiều và độ lớn.
+C. vô hướng, chỉ có phương, chiều và độ lớn.
+D. vectơ, chỉ có điểm đặt và độ lớn của lực.
 
 Câu 2. [NB] Đơn vị đo lực trong hệ SI là
 A. kilôgam (kg).
@@ -1778,21 +1778,21 @@ D. 40 N.
 Lời giải
 Hai lực ngược chiều: $F = |F_1 - F_2| = |10 - 4| = 6$ N.
 
-Câu 10. [TH] Hai lực đồng quy vuông góc với nhau, có độ lớn 6 N và 8 N. Hợp lực có độ lớn là
-*A. 10 N.
-B. 14 N.
-C. 2 N.
-D. 48 N.
+Câu 10. [TH] Hai lực đồng quy vuông góc với nhau, có độ lớn 5 N và 12 N. Hợp lực có độ lớn là
+*A. 13 N.
+B. 17 N.
+C. 7 N.
+D. 60 N.
 Lời giải
-$F = \sqrt{6^2 + 8^2} = 10$ N.
+$F = \sqrt{5^2 + 12^2} = 13$ N.
 
-Câu 11. [TH] Hai lực đồng quy có độ lớn 3 N và 5 N. Hợp lực của hai lực này không thể có độ lớn bằng
-A. 2 N.
-*B. 9 N.
-C. 4 N.
-D. 8 N.
+Câu 11. [TH] Hai lực đồng quy có độ lớn 4 N và 7 N. Hợp lực của hai lực này không thể có độ lớn bằng
+A. 3 N.
+*B. 12 N.
+C. 5 N.
+D. 11 N.
 Lời giải
-Hợp lực thỏa $|F_1 - F_2| \le F \le F_1 + F_2$, tức là từ 2 N đến 8 N. Giá trị 9 N nằm ngoài khoảng này.
+Hợp lực thỏa $|F_1 - F_2| \le F \le F_1 + F_2$, tức là từ 3 N đến 11 N. Giá trị 12 N nằm ngoài khoảng này.
 
 Câu 12. [TH] Quyển sách nằm yên trên mặt bàn nằm ngang. Cặp lực cân bằng tác dụng lên quyển sách là
 A. lực quyển sách nén lên mặt bàn và phản lực của mặt bàn tác dụng lên quyển sách.
@@ -1834,7 +1834,7 @@ D. 0.
 Lời giải
 $F^2 = F_1^2 + F_2^2 + 2F_1F_2\cos 120° = 100 + 100 - 100 = 100$, nên $F = 10$ N.
 
-Câu 17. [VD] Một lực có độ lớn 50 N được phân tích thành hai thành phần vuông góc với nhau. Biết một thành phần có độ lớn 30 N, thành phần còn lại có độ lớn là
+Câu 17. [TH] Một lực có độ lớn 50 N được phân tích thành hai thành phần vuông góc với nhau. Biết một thành phần có độ lớn 30 N, thành phần còn lại có độ lớn là
 A. 20 N.
 B. 58,3 N.
 *C. 40 N.
@@ -1850,13 +1850,13 @@ D. 23,1 N.
 Lời giải
 $F_x = F\cos 30° = 20 \cdot 0,866 \approx 17,3$ N.
 
-Câu 19. [VD] Vật khối lượng 2 kg đặt trên mặt phẳng nghiêng nhẵn góc 30° so với phương ngang, lấy $g = 10$ m/s². Thành phần của trọng lực song song với mặt phẳng nghiêng có độ lớn là
-A. 17,3 N.
-B. 20 N.
-C. 5 N.
-*D. 10 N.
+Câu 19. [VD] Vật khối lượng 3 kg đặt trên mặt phẳng nghiêng nhẵn góc 30° so với phương ngang, lấy $g = 10$ m/s². Thành phần của trọng lực song song với mặt phẳng nghiêng có độ lớn là
+A. 26 N.
+B. 30 N.
+C. 7,5 N.
+*D. 15 N.
 Lời giải
-$P = mg = 20$ N; $P_x = P\sin 30° = 20 \cdot 0,5 = 10$ N.
+$P = mg = 30$ N; $P_x = P\sin 30° = 30 \cdot 0,5 = 15$ N.
 
 Câu 20. [VD] Ba lực đồng phẳng, cùng điểm đặt, cùng độ lớn 10 N, từng đôi một hợp với nhau góc 120°. Hợp lực của ba lực này có độ lớn là
 *A. 0.
@@ -1891,8 +1891,8 @@ Lời giải
 Độ lớn hợp lực nằm trong khoảng $|F_1 - F_2| \le F \le F_1 + F_2$. Hợp lực bằng 0 chỉ khi hai lực cùng giá, ngược chiều và cùng độ lớn.
 
 Câu 24. [TF] [TH] Về trạng thái cân bằng của một vật:
-*A. Vật cân bằng khi hợp lực tác dụng lên vật bằng 0.
-*B. Vật chuyển động thẳng đều là vật ở trạng thái cân bằng.
+*A. Vật đứng yên khi hợp lực tác dụng lên vật bằng 0 là vật ở trạng thái cân bằng.
+*B. Các lực tác dụng lên vật có hợp lực bằng 0 gọi là các lực cân bằng.
 *C. Hai lực cân bằng có cùng giá, ngược chiều và cùng độ lớn.
 D. Hai lực cân bằng có thể đặt vào hai vật khác nhau.
 Lời giải
@@ -1906,21 +1906,21 @@ Câu 25. [TF] [VD] Hai lực đồng quy có độ lớn 6 N và 8 N.
 Lời giải
 Độ lớn hợp lực nằm trong khoảng từ $|6 - 8| = 2$ N đến $6 + 8 = 14$ N.
 
-Câu 26. [TF] [TH] Một ô tô chuyển động thẳng đều trên đoạn đường nằm ngang:
-*A. Ô tô ở trạng thái cân bằng.
-B. Lực kéo của động cơ lớn hơn tổng các lực cản tác dụng lên ô tô.
-C. Hợp lực tác dụng lên ô tô khác 0 và cùng chiều chuyển động.
-D. Trọng lực và lực kéo của động cơ là hai lực cân bằng.
+Câu 26. [TF] [TH] Một quyển sách nằm yên trên mặt bàn nằm ngang, chịu tác dụng của trọng lực và lực đỡ của mặt bàn:
+*A. Quyển sách ở trạng thái cân bằng.
+B. Lực đỡ của mặt bàn lớn hơn trọng lực của quyển sách.
+C. Hợp lực tác dụng lên quyển sách khác 0 và hướng thẳng đứng xuống dưới.
+*D. Trọng lực và lực đỡ của mặt bàn là hai lực cân bằng.
 Lời giải
-Ô tô chuyển động thẳng đều nên hợp lực bằng 0: lực kéo cân bằng với tổng các lực cản, trọng lực cân bằng với phản lực của mặt đường.
+Quyển sách đứng yên nên hợp lực bằng 0: trọng lực và lực đỡ của mặt bàn cùng giá, ngược chiều, cùng độ lớn, là hai lực cân bằng.
 
-Câu 27. [TF] [VD] Một chiếc đèn khối lượng 2 kg được treo vào trần nhà bằng một sợi dây thẳng đứng, lấy $g = 10$ m/s².
+Câu 27. [TF] [VD] Một chiếc đèn khối lượng 2 kg được treo vào trần nhà bằng một sợi dây thẳng đứng, đèn đứng yên, lấy $g = 10$ m/s².
 *A. Đèn cân bằng dưới tác dụng của trọng lực và lực căng dây.
 *B. Lực căng của dây có độ lớn 20 N.
 C. Trọng lực của đèn có độ lớn 2 N.
-D. Nếu đèn chuyển động thẳng đều đi lên thì lực căng dây lớn hơn 20 N.
+D. Lực căng dây và trọng lực của đèn là hai lực không cân bằng.
 Lời giải
-$P = mg = 20$ N. Đèn cân bằng nên $T = P = 20$ N, kể cả khi đèn chuyển động thẳng đều (hợp lực vẫn bằng 0).
+$P = mg = 20$ N. Đèn đứng yên nên hai lực cân bằng: $T = P = 20$ N.
 
 Câu 28. [TF] [VD] Vật khối lượng 4 kg đặt trên mặt phẳng nghiêng nhẵn góc 37° so với phương ngang, lấy $g = 10$ m/s², $\sin 37° = 0,6$, $\cos 37° = 0,8$.
 *A. Thành phần của trọng lực song song với mặt phẳng nghiêng có độ lớn 24 N.
@@ -1958,7 +1958,7 @@ Trả lời: [[20,8]]
 Lời giải
 $F = 2 \cdot 12 \cdot \cos 30° = 12\sqrt{3} \approx 20,8$ N.
 
-Câu 34. [VD] Vật có trọng lực 60 N đặt trên mặt phẳng nghiêng góc 30° so với phương ngang. Tính độ lớn thành phần của trọng lực vuông góc với mặt phẳng nghiêng (theo đơn vị N, làm tròn đến hàng đơn vị).
+Câu 34. [TH] Vật có trọng lực 60 N đặt trên mặt phẳng nghiêng góc 30° so với phương ngang. Tính độ lớn thành phần của trọng lực vuông góc với mặt phẳng nghiêng (theo đơn vị N, làm tròn đến hàng đơn vị).
 Trả lời: [[52]]
 Lời giải
 $P_y = P\cos 30° = 60 \cdot 0,866 \approx 52$ N.
@@ -1968,7 +1968,7 @@ Trả lời: [[46,2]]
 Lời giải
 $P = mg = 80$ N. Cân bằng theo phương thẳng đứng: $2T\cos 30° = P$, suy ra $T = \dfrac{80}{2 \cdot 0,866} \approx 46,2$ N.
 
-Câu 36. [VD] Hợp lực của hai lực đồng quy vuông góc với nhau có độ lớn 20 N. Biết một trong hai lực có độ lớn 12 N. Tính độ lớn của lực còn lại (theo đơn vị N).
+Câu 36. [TH] Hợp lực của hai lực đồng quy vuông góc với nhau có độ lớn 20 N. Biết một trong hai lực có độ lớn 12 N. Tính độ lớn của lực còn lại (theo đơn vị N).
 Trả lời: [[16]]
 Lời giải
 $F_2 = \sqrt{20^2 - 12^2} = 16$ N.
@@ -2000,13 +2000,13 @@ D. chuyển động ngược chiều với lực tác dụng lên vật.
 Lời giải
 Quán tính là tính chất giữ nguyên vận tốc (trạng thái chuyển động) hiện có của vật.
 
-Câu 3. [NB] Đại lượng đặc trưng cho mức quán tính của vật là
-A. thể tích.
-B. tốc độ.
-*C. khối lượng.
-D. kích thước hình học.
+Câu 3. [NB] Thắt dây an toàn khi ngồi trên ô tô nhằm hạn chế tác hại của hiện tượng nào khi xe phanh gấp?
+A. Người bị đẩy lùi về phía sau do lực đẩy của ghế.
+B. Người bị hút xuống sàn xe do trọng lực tăng lên.
+*C. Người tiếp tục chuyển động về phía trước do quán tính.
+D. Người bị nghiêng sang một bên do lực ma sát của ghế.
 Lời giải
-Khối lượng càng lớn thì mức quán tính càng lớn, vật càng khó thay đổi vận tốc.
+Khi xe phanh gấp, do quán tính người có xu hướng giữ vận tốc cũ nên lao về phía trước; dây an toàn giữ người lại.
 
 Câu 4. [NB] Theo Galilei và Newton, lực là nguyên nhân làm
 A. duy trì chuyển động thẳng đều của vật.
@@ -2040,13 +2040,13 @@ D. chuyển động nhanh dần đều.
 Lời giải
 Khi không có ma sát, không có lực nào làm thay đổi vận tốc của bi nên bi chuyển động mãi với vận tốc không đổi.
 
-Câu 8. [NB] Trong các vật sau, vật có mức quán tính lớn nhất là
-A. quả trứng gà 60 g.
-B. cục tẩy nhỏ 15 g.
-*C. quyển sách 0,4 kg.
-D. cái cốc nhựa 250 g.
+Câu 8. [NB] Hành khách ngồi trên ô tô đang chạy thẳng đều thì xe đột ngột tăng tốc. Hành khách bị
+A. nghiêng sang trái.
+B. nghiêng sang phải.
+C. chúi người về phía trước.
+*D. ngả người về phía sau.
 Lời giải
-Đổi về cùng đơn vị: 60 g; 15 g; 400 g; 250 g. Quyển sách có khối lượng lớn nhất nên có quán tính lớn nhất.
+Do quán tính, người có xu hướng giữ vận tốc cũ trong khi xe tăng tốc nên người ngả về phía sau.
 
 Câu 9. [TH] Xe buýt đang chạy thẳng đều thì rẽ phải đột ngột. Hành khách trên xe có xu hướng bị nghiêng sang
 *A. bên trái, do quán tính giữ nguyên hướng chuyển động ban đầu.
@@ -2080,13 +2080,13 @@ C. chuyển động chậm dần vì lực cản của không khí.
 Lời giải
 Cán dừng đột ngột, đầu búa có quán tính nên tiếp tục đi xuống và bị siết chặt vào cán.
 
-Câu 13. [TH] Hai vật có khối lượng $m_1 < m_2$. Nhận xét nào sau đây đúng?
-A. Vật 1 có quán tính lớn hơn vì dễ chuyển động hơn.
-B. Hai vật có quán tính bằng nhau vì cùng chịu tác dụng của trọng lực.
-*C. Vật 2 có quán tính lớn hơn nên khó thay đổi vận tốc hơn vật 1.
-D. Quán tính của vật chỉ phụ thuộc vào vận tốc của vật.
+Câu 13. [TH] Một người đang chạy thì bị vấp vào một hòn đá và ngã. Người đó ngã về phía nào và vì sao?
+A. Ngã về phía sau, vì chân bị hòn đá đẩy ngược lại mạnh hơn.
+B. Ngã về phía sau, vì thân người có quán tính nên giữ nguyên vị trí cũ.
+*C. Ngã về phía trước, vì chân dừng lại đột ngột còn thân người do quán tính vẫn tiếp tục chuyển động về phía trước.
+D. Ngã về phía trước, vì hòn đá tác dụng lên thân người một lực hướng về phía trước.
 Lời giải
-Khối lượng càng lớn thì quán tính càng lớn, vật càng khó thay đổi vận tốc.
+Khi vấp, chân bị giữ lại đột ngột; phần thân người do quán tính vẫn giữ vận tốc cũ nên tiếp tục lao về phía trước.
 
 Câu 14. [TH] Một quyển sách nằm yên trên mặt bàn nằm ngang, chịu tác dụng của trọng lực $\vec{P}$ và phản lực $\vec{N}$ của mặt bàn. Phát biểu nào sau đây đúng?
 *A. $\vec{P}$ và $\vec{N}$ cân bằng nên sách giữ nguyên trạng thái đứng yên.
@@ -2104,7 +2104,7 @@ D. chuyển động tròn quanh vị trí tắt động cơ.
 Lời giải
 Tàu không chịu lực nào đáng kể nên theo định luật 1 Newton nó giữ nguyên vận tốc.
 
-Câu 16. [VD] Người ta kéo một thùng hàng trượt thẳng đều trên sàn nằm ngang bằng lực kéo nằm ngang có độ lớn 80 N. Lực ma sát của sàn tác dụng lên thùng có độ lớn
+Câu 16. [TH] Người ta kéo một thùng hàng trượt thẳng đều trên sàn nằm ngang bằng lực kéo nằm ngang có độ lớn 80 N. Lực ma sát của sàn tác dụng lên thùng có độ lớn
 A. nhỏ hơn 80 N.
 B. lớn hơn 80 N.
 C. bằng 0.
@@ -2246,7 +2246,7 @@ Trả lời: [[9]]
 Lời giải
 Thời gian rơi $t = \sqrt{\dfrac{2h}{g}} = \sqrt{\dfrac{2 \cdot 1,25}{10}} = 0,5$ s. Theo phương ngang viên bi giữ vận tốc 18 m/s nên $s = 18 \cdot 0,5 = 9$ m.
 
-Câu 36. [VD] Một chất điểm chuyển động thẳng đều dưới tác dụng của bốn lực đồng phẳng: $\vec{F}_1$ có độ lớn 10 N hướng Đông, $\vec{F}_2$ có độ lớn 6 N hướng Bắc, $\vec{F}_3$ có độ lớn 10 N hướng Tây và $\vec{F}_4$. Tính độ lớn của lực $\vec{F}_4$ (theo đơn vị N).
+Câu 36. [TH] Một chất điểm chuyển động thẳng đều dưới tác dụng của bốn lực đồng phẳng: $\vec{F}_1$ có độ lớn 10 N hướng Đông, $\vec{F}_2$ có độ lớn 6 N hướng Bắc, $\vec{F}_3$ có độ lớn 10 N hướng Tây và $\vec{F}_4$. Tính độ lớn của lực $\vec{F}_4$ (theo đơn vị N).
 Trả lời: [[6]]
 Lời giải
 Hợp lực bằng 0. Hai lực $\vec{F}_1$ và $\vec{F}_3$ cân bằng nhau nên $\vec{F}_4$ phải cân bằng với $\vec{F}_2$, suy ra $F_4 = 6$ N.
@@ -2620,13 +2620,13 @@ C. $F_1 = 0$ vì tường đứng yên.
 Lời giải
 Hai lực này là cặp lực và phản lực nên luôn có độ lớn bằng nhau.
 
-Câu 11. [TH] Quyển sách nằm yên trên mặt bàn nằm ngang. Phản lực của trọng lực $\vec{P}$ (lực Trái Đất hút sách) là lực
-*A. sách hút Trái Đất.
-B. mặt bàn đỡ quyển sách.
-C. sách ép lên mặt bàn.
+Câu 11. [TH] Quyển sách nằm yên trên mặt bàn nằm ngang. Phản lực của lực $\vec{N}$ (lực mặt bàn đỡ quyển sách) là lực
+A. Trái Đất hút quyển sách.
+B. sách hút Trái Đất.
+*C. sách ép lên mặt bàn.
 D. ma sát giữa sách và mặt bàn.
 Lời giải
-Trọng lực là lực Trái Đất hút sách, phản lực của nó là lực sách hút Trái Đất. Lực đỡ của mặt bàn $\vec{N}$ chỉ cân bằng với $\vec{P}$ chứ không phải phản lực của $\vec{P}$.
+Mặt bàn tác dụng lên sách lực $\vec{N}$ thì sách tác dụng lên mặt bàn lực $\vec{N'}$ (lực ép), hai lực này là cặp lực – phản lực. Trọng lực $\vec{P}$ chỉ cân bằng với $\vec{N}$ chứ không phải phản lực của $\vec{N}$.
 
 Câu 12. [TH] Người ngồi trên thuyền dùng sào chống mạnh vào bờ thì thuyền rời xa bờ. Lực làm cho hệ (người, sào và thuyền) chuyển động ra xa bờ là lực do
 *A. bờ tác dụng lên sào.
@@ -2751,10 +2751,10 @@ Lực và phản lực cùng độ lớn 6 N nên $a_A = \dfrac{6}{2} = 3$ m/s²
 Câu 27. [TF] [VD] Người khối lượng 60 kg đứng yên trên sàn, dùng tay đẩy vào bức tường thẳng đứng bằng một lực ngang có độ lớn 150 N:
 *A. Tường tác dụng lên người một lực ngang có độ lớn 150 N.
 B. Tường tác dụng lên người lực lớn hơn 150 N vì tường nặng hơn người.
-*C. Sàn tác dụng lên người lực ma sát nghỉ có độ lớn 150 N theo phương ngang.
+*C. Hợp lực tác dụng lên người bằng 0.
 D. Hợp lực tác dụng lên người khác 0 vì người đang đẩy tường.
 Lời giải
-Phản lực của tường có độ lớn 150 N. Người đứng yên nên hợp lực bằng 0, theo phương ngang lực ma sát nghỉ của sàn cân bằng với phản lực của tường nên có độ lớn 150 N.
+Phản lực của tường có độ lớn 150 N. Người đứng yên nên hợp lực tác dụng lên người bằng 0.
 
 Câu 28. [TF] [VD] Một lực kế nhẹ có một đầu móc vào bức tường cố định, người kéo đầu kia bằng lực 40 N, lực kế đứng yên:
 *A. Lực kế chỉ 40 N.
@@ -2860,7 +2860,7 @@ Trọng lượng là độ lớn của trọng lực tác dụng lên vật: $P 
 
 Câu 6. [NB] Dụng cụ dùng để đo trọng lượng của vật là
 *A. lực kế.
-B. cân đồng hồ.
+B. cân đòn.
 C. thước dây.
 D. nhiệt kế.
 Lời giải
@@ -2906,7 +2906,7 @@ D. luôn bằng trọng lượng của vật treo.
 Lời giải
 Dây nhẹ nên khối lượng của dây không đáng kể, lực căng có cùng độ lớn tại mọi điểm trên dây.
 
-Câu 12. [TH] Một vật có trọng lượng lớn nhất khi được đặt ở
+Câu 12. [VDC] Một vật có trọng lượng lớn nhất khi được đặt ở
 *A. cực của Trái Đất.
 B. xích đạo của Trái Đất.
 C. đỉnh núi cao.
@@ -2946,7 +2946,7 @@ D. Trọng lực tác dụng lên vật có phương thẳng đứng, chiều xu
 Lời giải
 Khối lượng (đơn vị kg) khác trọng lượng (đơn vị N): $P = mg$.
 
-Câu 17. [VD] Vật khối lượng 3 kg ở nơi có $g = 10$ m/s². Trọng lượng của vật là
+Câu 17. [TH] Vật khối lượng 3 kg ở nơi có $g = 10$ m/s². Trọng lượng của vật là
 *A. 30 N.
 B. 0,3 N.
 C. 3 N.
@@ -2954,7 +2954,7 @@ D. 13 N.
 Lời giải
 $P = mg = 3 \cdot 10 = 30$ N.
 
-Câu 18. [VD] Vật khối lượng 2,5 kg được treo đứng yên vào một sợi dây nhẹ thẳng đứng, lấy $g = 10$ m/s². Lực căng của dây có độ lớn
+Câu 18. [TH] Vật khối lượng 2,5 kg được treo đứng yên vào một sợi dây nhẹ thẳng đứng, lấy $g = 10$ m/s². Lực căng của dây có độ lớn
 *A. 25 N.
 B. 2,5 N.
 C. 250 N.
@@ -2970,7 +2970,7 @@ D. 0 N.
 Lời giải
 Xét một vật đứng yên: $T = P = mg = 20$ N. Mỗi đầu dây chỉ giữ một vật nên lực căng bằng trọng lượng một vật (20 N); 40 N là lực dây nén lên ròng rọc.
 
-Câu 20. [VD] Gia tốc rơi tự do trên Mặt Trăng xấp xỉ 1,6 m/s². Nhà du hành có khối lượng 60 kg thì trọng lượng trên Mặt Trăng là
+Câu 20. [TH] Gia tốc rơi tự do trên Mặt Trăng xấp xỉ 1,6 m/s². Nhà du hành có khối lượng 60 kg thì trọng lượng trên Mặt Trăng là
 A. 600 N.
 B. 37,5 N.
 C. 60 N.
@@ -3011,12 +3011,12 @@ Lời giải
 Vật cân bằng nên lực căng có độ lớn bằng trọng lực, cùng phương thẳng đứng nhưng hướng lên (dây kéo vật lên).
 
 Câu 25. [TF] [TH] Về sự thay đổi của trọng lượng:
-*A. Cùng một vật, trọng lượng ở cực Trái Đất lớn hơn ở xích đạo.
-B. Càng lên cao so với mặt đất, trọng lượng của vật càng tăng.
+*A. Cùng một vật, trọng lượng trên Mặt Trăng nhỏ hơn trên Trái Đất.
+B. Khi đưa vật lên Mặt Trăng, khối lượng của vật giảm.
 C. Tại cùng một nơi, vật nặng rơi tự do có gia tốc lớn hơn vật nhẹ.
 D. Khối lượng của vật thay đổi theo vị trí đặt vật.
 Lời giải
-$g$ ở cực lớn hơn ở xích đạo; $g$ giảm khi lên cao nên trọng lượng giảm; tại cùng một nơi mọi vật rơi tự do có cùng gia tốc $g$; khối lượng không phụ thuộc vị trí.
+$g$ trên Mặt Trăng nhỏ hơn trên Trái Đất nên trọng lượng $P = mg$ nhỏ hơn; khối lượng không phụ thuộc vị trí; tại cùng một nơi mọi vật rơi tự do có cùng gia tốc $g$.
 
 Câu 26. [TF] [VD] Vật khối lượng 5 kg được treo bằng sợi dây nhẹ, lấy $g = 10$ m/s²:
 *A. Trọng lượng của vật là 50 N.
@@ -3065,7 +3065,7 @@ Trả lời: [[1,5]]
 Lời giải
 Quả cầu cân bằng nên $P = T = 15$ N, suy ra $m = \dfrac{15}{10} = 1,5$ kg.
 
-Câu 33. [VD] Nhà du hành có khối lượng 72 kg. Gia tốc rơi tự do trên Hỏa Tinh xấp xỉ 3,7 m/s². Tính trọng lượng của nhà du hành trên Hỏa Tinh (theo đơn vị N, làm tròn đến hàng đơn vị).
+Câu 33. [TH] Nhà du hành có khối lượng 72 kg. Gia tốc rơi tự do trên Hỏa Tinh xấp xỉ 3,7 m/s². Tính trọng lượng của nhà du hành trên Hỏa Tinh (theo đơn vị N, làm tròn đến hàng đơn vị).
 Trả lời: [[266]]
 Lời giải
 $P = mg = 72 \cdot 3,7 = 266,4 \approx 266$ N.
@@ -3085,7 +3085,7 @@ Trả lời: [[4500]]
 Lời giải
 $P - T = ma$ nên $T = m(g - a) = 500 \cdot 9 = 4500$ N.
 
-Câu 37. [VD] Một vật có trọng lượng 80 N trên Mặt Trăng, nơi gia tốc rơi tự do là 1,6 m/s². Tính khối lượng của vật (theo đơn vị kg).
+Câu 37. [TH] Một vật có trọng lượng 80 N trên Mặt Trăng, nơi gia tốc rơi tự do là 1,6 m/s². Tính khối lượng của vật (theo đơn vị kg).
 Trả lời: [[50]]
 Lời giải
 $m = \dfrac{P}{g} = \dfrac{80}{1,6} = 50$ kg.
@@ -3224,7 +3224,7 @@ D. Lực ma sát lăn thường nhỏ hơn lực ma sát trượt.
 Lời giải
 Lực ma sát ngược chiều với chuyển động tương đối giữa hai bề mặt, không phải so với mặt đất. Ví dụ ma sát nghỉ làm người hoặc ô tô tiến lên cùng chiều chuyển động.
 
-Câu 17. [VD] Vật trượt trên mặt phẳng ngang, áp lực lên mặt phẳng là 50 N, hệ số ma sát trượt là 0,3. Lực ma sát trượt có độ lớn
+Câu 17. [TH] Vật trượt trên mặt phẳng ngang, áp lực lên mặt phẳng là 50 N, hệ số ma sát trượt là 0,3. Lực ma sát trượt có độ lớn
 A. 150 N.
 B. 16,7 N.
 *C. 15 N.
@@ -3358,7 +3358,7 @@ Trả lời: [[2]]
 Lời giải
 $F_{ms} = 0,3 \cdot 100 = 30$ N nên $a = \dfrac{50 - 30}{10} = 2$ m/s².
 
-Câu 36. [VD] Vật trượt xuống mặt phẳng nghiêng góc 30° so với phương ngang, hệ số ma sát trượt giữa vật và mặt phẳng nghiêng là 0,5. Lấy $g = 10$ m/s². Tính gia tốc của vật (theo đơn vị m/s², làm tròn đến hai chữ số thập phân).
+Câu 36. [VDC] Vật trượt xuống mặt phẳng nghiêng góc 30° so với phương ngang, hệ số ma sát trượt giữa vật và mặt phẳng nghiêng là 0,5. Lấy $g = 10$ m/s². Tính gia tốc của vật (theo đơn vị m/s², làm tròn đến hai chữ số thập phân).
 Trả lời: [[0,67]]
 Lời giải
 $a = g(\sin 30° - \mu\cos 30°) = 10 \cdot (0,5 - 0,5 \cdot 0,866) \approx 0,67$ m/s².
@@ -3502,7 +3502,7 @@ D. Tàu nổi trên mặt nước khi lực đẩy Archimedes cân bằng với 
 Lời giải
 Vật chìm khi trọng lượng lớn hơn lực đẩy Archimedes ($P > F_A$); nếu $F_A > P$ thì vật nổi lên.
 
-Câu 17. [VD] Vật có thể tích 0,002 m³ được nhúng chìm hoàn toàn trong nước (khối lượng riêng 1000 kg/m³). Lấy $g = 10$ m/s². Lực đẩy Archimedes tác dụng lên vật có độ lớn
+Câu 17. [TH] Vật có thể tích 0,002 m³ được nhúng chìm hoàn toàn trong nước (khối lượng riêng 1000 kg/m³). Lấy $g = 10$ m/s². Lực đẩy Archimedes tác dụng lên vật có độ lớn
 *A. 20 N.
 B. 2 N.
 C. 200 N.
@@ -3534,7 +3534,7 @@ C. 2000 cm³.
 Lời giải
 $F_A = 5 - 3 = 2$ N nên $V = \dfrac{F_A}{\rho g} = \dfrac{2}{1000 \cdot 10} = 2 \cdot 10^{-4}$ m³ = 200 cm³.
 
-Câu 21. [VD] Vận động viên nhảy dù có khối lượng 80 kg (kể cả trang bị) đang rơi thẳng đứng với tốc độ không đổi. Lấy $g = 10$ m/s². Lực cản của không khí tác dụng lên người có độ lớn
+Câu 21. [TH] Vận động viên nhảy dù có khối lượng 80 kg (kể cả trang bị) đang rơi thẳng đứng với tốc độ không đổi. Lấy $g = 10$ m/s². Lực cản của không khí tác dụng lên người có độ lớn
 A. 80 N.
 *B. 800 N.
 C. 8 N.
@@ -3542,7 +3542,7 @@ D. 8000 N.
 Lời giải
 Rơi đều nên hợp lực bằng 0: $F_c = P = mg = 800$ N.
 
-Câu 22. [VD] Giả sử lực cản của không khí tác dụng lên ô tô tỉ lệ với bình phương tốc độ. Khi xe chạy với tốc độ 10 m/s lực cản là 50 N. Khi xe chạy với tốc độ 20 m/s thì lực cản là
+Câu 22. [VDC] Giả sử lực cản của không khí tác dụng lên ô tô tỉ lệ với bình phương tốc độ. Khi xe chạy với tốc độ 10 m/s lực cản là 50 N. Khi xe chạy với tốc độ 20 m/s thì lực cản là
 A. 100 N.
 *B. 200 N.
 C. 400 N.
@@ -3641,7 +3641,7 @@ Trả lời: [[15]]
 Lời giải
 Thể tích đá $V = \dfrac{2,5}{2500} = 10^{-3}$ m³ nên $F_A = 1000 \cdot 10 \cdot 10^{-3} = 10$ N. Nâng đều thì $F + F_A = P$ nên $F = 25 - 10 = 15$ N.
 
-Câu 37. [VD] Giả sử lực cản của không khí tác dụng lên vật rơi có độ lớn $F_c = kv^2$ với $k = 0,2$ kg/m. Vật khối lượng 2 kg rơi thẳng đứng, lấy $g = 10$ m/s². Tính tốc độ của vật khi lực cản cân bằng với trọng lực (tốc độ giới hạn) (theo đơn vị m/s).
+Câu 37. [VDC] Giả sử lực cản của không khí tác dụng lên vật rơi có độ lớn $F_c = kv^2$ với $k = 0,2$ kg/m. Vật khối lượng 2 kg rơi thẳng đứng, lấy $g = 10$ m/s². Tính tốc độ của vật khi lực cản cân bằng với trọng lực (tốc độ giới hạn) (theo đơn vị m/s).
 Trả lời: [[10]]
 Lời giải
 $kv^2 = mg$ nên $v = \sqrt{\dfrac{mg}{k}} = \sqrt{\dfrac{20}{0,2}} = 10$ m/s.
@@ -3740,7 +3740,7 @@ D. bằng 0.
 Lời giải
 Chỉ một phần lực kéo làm vật 2 chuyển động: $T = m_2a < F$ (vì $F = (m_1 + m_2)a$).
 
-Câu 12. [TH] Hai vật có khối lượng $m_1 > m_2$ nối bằng dây nhẹ, không dãn, vắt qua ròng rọc cố định nhẹ, bỏ qua ma sát. Khi thả cho hệ chuyển động thì
+Câu 12. [VDC] Hai vật có khối lượng $m_1 > m_2$ nối bằng dây nhẹ, không dãn, vắt qua ròng rọc cố định nhẹ, bỏ qua ma sát. Khi thả cho hệ chuyển động thì
 A. vật $m_1$ đi lên, vật $m_2$ đi xuống.
 B. hai vật đứng yên vì lực căng cân bằng.
 C. hai vật chuyển động cùng chiều với gia tốc khác nhau.
@@ -3756,7 +3756,7 @@ D. $\cos\alpha > \mu$.
 Lời giải
 Vật trượt khi $mg\sin\alpha > \mu mg\cos\alpha$, tức $\tan\alpha > \mu$.
 
-Câu 14. [TH] Người đứng trên sàn thang máy đang đi xuống nhanh dần đều. So với trọng lượng $P$ của người, lực $N$ của sàn tác dụng lên người
+Câu 14. [VDC] Người đứng trên sàn thang máy đang đi xuống nhanh dần đều. So với trọng lượng $P$ của người, lực $N$ của sàn tác dụng lên người
 A. lớn hơn $P$.
 *B. nhỏ hơn $P$.
 C. bằng $P$.
@@ -3788,7 +3788,7 @@ D. 7 m/s².
 Lời giải
 $F_{ms} = 0,2 \cdot 20 = 4$ N nên $a = \dfrac{10 - 4}{2} = 3$ m/s².
 
-Câu 18. [VD] Vật trượt không ma sát xuống mặt phẳng nghiêng góc 30° so với phương ngang, lấy $g = 10$ m/s². Gia tốc của vật là
+Câu 18. [TH] Vật trượt không ma sát xuống mặt phẳng nghiêng góc 30° so với phương ngang, lấy $g = 10$ m/s². Gia tốc của vật là
 *A. 5 m/s².
 B. 10 m/s².
 C. 8,66 m/s².
@@ -3804,7 +3804,7 @@ C. 5 N.
 Lời giải
 Gia tốc chung $a = \dfrac{10}{2 + 3} = 2$ m/s². Dây kéo vật $m_2$ nên $T = m_2a = 3 \cdot 2 = 6$ N.
 
-Câu 20. [VD] Hai vật khối lượng 4 kg và 1 kg nối với nhau bằng dây nhẹ, không dãn vắt qua ròng rọc cố định nhẹ, bỏ qua ma sát. Lấy $g = 10$ m/s². Gia tốc của mỗi vật có độ lớn
+Câu 20. [VDC] Hai vật khối lượng 4 kg và 1 kg nối với nhau bằng dây nhẹ, không dãn vắt qua ròng rọc cố định nhẹ, bỏ qua ma sát. Lấy $g = 10$ m/s². Gia tốc của mỗi vật có độ lớn
 A. 10 m/s².
 *B. 6 m/s².
 C. 7,5 m/s².
@@ -3820,7 +3820,7 @@ D. 2 m/s².
 Lời giải
 $a = g(\sin 37° - \mu\cos 37°) = 10 \cdot (0,6 - 0,25 \cdot 0,8) = 4$ m/s².
 
-Câu 22. [VD] Người khối lượng 50 kg đứng trên sàn thang máy đang đi xuống nhanh dần đều với gia tốc 2 m/s². Lấy $g = 10$ m/s². Lực của sàn tác dụng lên người có độ lớn
+Câu 22. [VDC] Người khối lượng 50 kg đứng trên sàn thang máy đang đi xuống nhanh dần đều với gia tốc 2 m/s². Lấy $g = 10$ m/s². Lực của sàn tác dụng lên người có độ lớn
 *A. 400 N.
 B. 600 N.
 C. 500 N.
@@ -3860,7 +3860,7 @@ Câu 26. [TF] [VD] Vật khối lượng 2 kg trượt từ trạng thái nghỉ
 Lời giải
 $N = mg\cos 37° = 16$ N; $F_{ms} = 0,5 \cdot 16 = 8$ N; $a = \dfrac{mg\sin 37° - F_{ms}}{m} = \dfrac{12 - 8}{2} = 2$ m/s²; $s = \dfrac{1}{2} \cdot 2 \cdot 3^2 = 9$ m.
 
-Câu 27. [TF] [VD] Hai vật khối lượng 1 kg và 3 kg nối với nhau bằng dây nhẹ, không dãn vắt qua ròng rọc cố định nhẹ, bỏ qua ma sát, lấy $g = 10$ m/s²:
+Câu 27. [TF] [VDC] Hai vật khối lượng 1 kg và 3 kg nối với nhau bằng dây nhẹ, không dãn vắt qua ròng rọc cố định nhẹ, bỏ qua ma sát, lấy $g = 10$ m/s²:
 *A. Gia tốc của mỗi vật có độ lớn 5 m/s².
 B. Lực căng của dây có độ lớn 30 N.
 *C. Lực căng của dây có độ lớn 15 N.
@@ -3868,7 +3868,7 @@ D. Lực căng của dây có độ lớn 10 N.
 Lời giải
 $a = \dfrac{(3 - 1) \cdot 10}{4} = 5$ m/s². Với vật 1 kg: $T - 10 = 1 \cdot 5$ nên $T = 15$ N (kiểm tra với vật 3 kg: $30 - T = 3 \cdot 5$, $T = 15$ N).
 
-Câu 28. [TF] [VD] Người khối lượng 60 kg đứng trên sàn thang máy đang đi lên chậm dần đều với gia tốc 2 m/s², lấy $g = 10$ m/s²:
+Câu 28. [TF] [VDC] Người khối lượng 60 kg đứng trên sàn thang máy đang đi lên chậm dần đều với gia tốc 2 m/s², lấy $g = 10$ m/s²:
 *A. Hợp lực tác dụng lên người hướng xuống.
 *B. Lực của sàn tác dụng lên người có độ lớn 480 N.
 *C. Lực của sàn tác dụng lên người nhỏ hơn trọng lượng của người.
@@ -3909,7 +3909,7 @@ Trả lời: [[9]]
 Lời giải
 Gia tốc chung $a = \dfrac{15}{2 + 3} = 3$ m/s². Khối 3 kg chỉ chịu lực đẩy của khối 2 kg theo phương ngang: $F = 3 \cdot 3 = 9$ N.
 
-Câu 35. [VD] Hai vật khối lượng 2 kg và 3 kg nối với nhau bằng dây nhẹ, không dãn vắt qua ròng rọc cố định nhẹ, bỏ qua ma sát. Lấy $g = 10$ m/s². Tính lực căng của dây (theo đơn vị N).
+Câu 35. [VDC] Hai vật khối lượng 2 kg và 3 kg nối với nhau bằng dây nhẹ, không dãn vắt qua ròng rọc cố định nhẹ, bỏ qua ma sát. Lấy $g = 10$ m/s². Tính lực căng của dây (theo đơn vị N).
 Trả lời: [[24]]
 Lời giải
 $a = \dfrac{(3 - 2) \cdot 10}{5} = 2$ m/s². Với vật 2 kg: $T - 20 = 2 \cdot 2$ nên $T = 24$ N.
@@ -4058,7 +4058,7 @@ D. Lực có giá đi qua trục quay không có tác dụng làm quay vật qua
 Lời giải
 Hai lực bằng nhau, ngược chiều nhưng không cùng giá (ngẫu lực) có hợp lực bằng 0 mà vẫn làm vật quay. Vì vậy cần thêm điều kiện tổng moment bằng 0.
 
-Câu 17. [VD] Lực có độ lớn 20 N tác dụng vuông góc vào một thanh tại điểm cách trục quay 0,3 m. Moment của lực đối với trục quay là
+Câu 17. [TH] Lực có độ lớn 20 N tác dụng vuông góc vào một thanh tại điểm cách trục quay 0,3 m. Moment của lực đối với trục quay là
 *A. 6 N·m.
 B. 60 N·m.
 C. 0,015 N·m.
@@ -4066,7 +4066,7 @@ D. 66,7 N·m.
 Lời giải
 $M = Fd = 20 \cdot 0,3 = 6$ N·m.
 
-Câu 18. [VD] Dùng cờ lê cán dài 0,24 m để vặn êcu, cần moment 12 N·m. Lực vuông góc với cán cờ lê cần tác dụng ở đầu cán là
+Câu 18. [TH] Dùng cờ lê cán dài 0,24 m để vặn êcu, cần moment 12 N·m. Lực vuông góc với cán cờ lê cần tác dụng ở đầu cán là
 A. 2,88 N.
 B. 0,02 N.
 *C. 50 N.
@@ -4082,15 +4082,15 @@ C. 40 N.
 Lời giải
 Cân bằng moment: $10 \cdot 0,5 = F \cdot 0,25$ nên $F = 20$ N.
 
-Câu 20. [VD] Trên bập bênh cân bằng nằm ngang, em bé khối lượng 30 kg ngồi cách trục quay 1 m. Em thứ hai khối lượng 20 kg phải ngồi ở phía bên kia trục, cách trục
-A. 0,67 m.
-*B. 1,5 m.
-C. 1 m.
-D. 2 m.
+Câu 20. [VD] Trên bập bênh cân bằng nằm ngang, em bé khối lượng 40 kg ngồi cách trục quay 0,9 m. Em thứ hai khối lượng 30 kg phải ngồi ở phía bên kia trục, cách trục
+A. 0,68 m.
+*B. 1,2 m.
+C. 0,9 m.
+D. 2,1 m.
 Lời giải
-$m_1gd_1 = m_2gd_2$ nên $d_2 = \dfrac{30 \cdot 1}{20} = 1,5$ m.
+$m_1gd_1 = m_2gd_2$ nên $d_2 = \dfrac{40 \cdot 0,9}{30} = 1,2$ m.
 
-Câu 21. [VD] Ngẫu lực gồm hai lực có cùng độ lớn 15 N, có giá song song cách nhau 0,2 m. Moment của ngẫu lực là
+Câu 21. [TH] Ngẫu lực gồm hai lực có cùng độ lớn 15 N, có giá song song cách nhau 0,2 m. Moment của ngẫu lực là
 A. 75 N·m.
 *B. 3 N·m.
 C. 6 N·m.
@@ -4130,13 +4130,13 @@ D. Moment của ngẫu lực phụ thuộc vào vị trí của trục quay.
 Lời giải
 Ngẫu lực chỉ làm vật quay; hai lực có giá khác nhau; moment của ngẫu lực $M = Fd$ không phụ thuộc vị trí trục quay.
 
-Câu 26. [TF] [VD] Thanh AB dài 3 m có trục quay O ở giữa, bỏ qua khối lượng thanh. Em bé 20 kg ngồi tại A, em bé 30 kg ngồi ở phía B sao cho thanh cân bằng nằm ngang. Lấy $g = 10$ m/s²:
-*A. Moment trọng lực của em 20 kg đối với O là 300 N·m.
-*B. Em 30 kg phải ngồi cách O một khoảng 1 m.
-*C. Moment trọng lực của em 30 kg đối với O là 300 N·m.
-*D. Lực mà trục quay tác dụng lên thanh có độ lớn 500 N.
+Câu 26. [TF] [VD] Thanh AB dài 3,6 m có trục quay O ở giữa, bỏ qua khối lượng thanh. Em bé 25 kg ngồi tại A, em bé 30 kg ngồi ở phía B sao cho thanh cân bằng nằm ngang. Lấy $g = 10$ m/s²:
+*A. Moment trọng lực của em 25 kg đối với O là 450 N·m.
+*B. Em 30 kg phải ngồi cách O một khoảng 1,5 m.
+*C. Moment trọng lực của em 30 kg đối với O là 450 N·m.
+*D. Lực mà trục quay tác dụng lên thanh có độ lớn 550 N.
 Lời giải
-$M_1 = 200 \cdot 1,5 = 300$ N·m. Cân bằng moment: $300 \cdot d_2 = 300$ nên $d_2 = 1$ m và $M_2 = 300$ N·m. Thanh cân bằng nên lực của trục cân bằng tổng trọng lực: $200 + 300 = 500$ N.
+$M_1 = 250 \cdot 1,8 = 450$ N·m. Cân bằng moment: $300 \cdot d_2 = 450$ nên $d_2 = 1,5$ m và $M_2 = 450$ N·m. Thanh cân bằng nên lực của trục cân bằng tổng trọng lực: $250 + 300 = 550$ N.
 
 Câu 27. [TF] [VD] Cánh cửa có tay nắm cách bản lề 0,8 m. Tác dụng vào tay nắm lực 15 N vuông góc với mặt cửa:
 *A. Moment của lực đối với trục bản lề là 12 N·m.
@@ -4264,7 +4264,7 @@ D. đọc số chỉ khi kim lực kế còn đang dao động.
 Lời giải
 Đọc khi hệ đã ổn định và đặt mắt vuông góc với mặt số để tránh sai số do thị sai.
 
-Câu 8. [VD] Hai lực kế kéo đầu dây cao su đến điểm A bằng hai lực vuông góc nhau có độ lớn 3 N và 4 N. Khi dùng một lực kế kéo đầu dây cao su đến đúng điểm A, số chỉ của lực kế này theo lí thuyết là
+Câu 8. [TH] Hai lực kế kéo đầu dây cao su đến điểm A bằng hai lực vuông góc nhau có độ lớn 3 N và 4 N. Khi dùng một lực kế kéo đầu dây cao su đến đúng điểm A, số chỉ của lực kế này theo lí thuyết là
 *A. 5 N.
 B. 7 N.
 C. 1 N.
@@ -4280,7 +4280,7 @@ D. 40 cm.
 Lời giải
 $F_A d_A = F_B d_B$ với $d_A + d_B = 50$ cm: $2d_A = 3(50 - d_A)$ nên $d_A = 30$ cm.
 
-Câu 10. [VD] Độ lớn hợp lực tính theo quy tắc hình bình hành là 5,0 N, số chỉ đo được của lực kế thay thế là 4,8 N. Sai số tỉ đối của phép đo (so với giá trị lí thuyết) là
+Câu 10. [TH] Độ lớn hợp lực tính theo quy tắc hình bình hành là 5,0 N, số chỉ đo được của lực kế thay thế là 4,8 N. Sai số tỉ đối của phép đo (so với giá trị lí thuyết) là
 *A. 4%.
 B. 0,4%.
 C. 0,2%.
@@ -4304,7 +4304,7 @@ D. Điểm đặt của hợp lực cách B một khoảng 10 cm.
 Lời giải
 Hợp lực cùng chiều hai lực: $F = 3 + 1 = 4$ N. $3d_A = 1 \cdot d_B$ với $d_A + d_B = 40$ cm nên $d_A = 10$ cm, $d_B = 30$ cm.
 
-Câu 13. [VD] Hai lực vuông góc nhau có độ lớn 5 N và 12 N cùng tác dụng lên một điểm. Tính độ lớn hợp lực của hai lực này (theo đơn vị N).
+Câu 13. [TH] Hai lực vuông góc nhau có độ lớn 5 N và 12 N cùng tác dụng lên một điểm. Tính độ lớn hợp lực của hai lực này (theo đơn vị N).
 Trả lời: [[13]]
 Lời giải
 $F = \sqrt{5^2 + 12^2} = 13$ N.
@@ -4446,7 +4446,7 @@ C. tăng rồi giảm.
 Lời giải
 $A = F d \cos\alpha$; $\cos\alpha$ giảm từ 1 đến 0 khi $\alpha$ tăng từ $0°$ đến $90°$ nên công giảm từ $F d$ về 0.
 
-Câu 16. [VD] Một lực không đổi có độ lớn 20 N làm vật dịch chuyển 5 m theo hướng hợp với hướng của lực góc $60°$. Công của lực là
+Câu 16. [TH] Một lực không đổi có độ lớn 20 N làm vật dịch chuyển 5 m theo hướng hợp với hướng của lực góc $60°$. Công của lực là
 *A. 50 J.
 B. 100 J.
 C. 86,6 J.
@@ -4621,12 +4621,12 @@ Lời giải
 Đơn vị công suất trong hệ SI là oát (W). Jun là đơn vị công, kW·h cũng là đơn vị công (năng lượng).
 
 Câu 3. [NB] Công suất trung bình của một lực thực hiện công $A$ trong khoảng thời gian $t$ được tính bằng biểu thức
-*A. $P = \dfrac{A}{t}$.
-B. $P = A \cdot t$.
-C. $P = \dfrac{t}{A}$.
-D. $P = \dfrac{A}{t^2}$.
+*A. $\mathscr{P} = \dfrac{A}{t}$.
+B. $\mathscr{P} = A \cdot t$.
+C. $\mathscr{P} = \dfrac{t}{A}$.
+D. $\mathscr{P} = \dfrac{A}{t^2}$.
 Lời giải
-Công suất là công thực hiện trong một đơn vị thời gian: $P = \dfrac{A}{t}$.
+Công suất là công thực hiện trong một đơn vị thời gian: $\mathscr{P} = \dfrac{A}{t}$.
 
 Câu 4. [NB] Một oát (1 W) bằng
 A. 1 J·s.
@@ -4637,12 +4637,12 @@ Lời giải
 $1\ \text{W} = 1\ \text{J/s}$: máy thực hiện công 1 J trong mỗi giây.
 
 Câu 5. [NB] Một lực $\vec{F}$ không đổi cùng hướng với vận tốc $\vec{v}$ không đổi của vật. Công suất của lực là
-A. $P = \dfrac{F}{v}$.
-B. $P = \dfrac{v}{F}$.
-C. $P = F v^2$.
-*D. $P = F v$.
+A. $\mathscr{P} = \dfrac{F}{v}$.
+B. $\mathscr{P} = \dfrac{v}{F}$.
+C. $\mathscr{P} = F v^2$.
+*D. $\mathscr{P} = F v$.
 Lời giải
-$P = \dfrac{A}{t} = \dfrac{F d}{t} = F v$ khi lực cùng hướng chuyển động.
+$\mathscr{P} = \dfrac{A}{t} = \dfrac{F d}{t} = F v$ khi lực cùng hướng chuyển động.
 
 Câu 6. [NB] Kilôoát giờ (kW·h) là đơn vị của
 *A. công (năng lượng).
@@ -4674,7 +4674,7 @@ B. Hai máy có công suất bằng nhau vì cùng làm việc đều.
 C. Máy 1 có công suất lớn hơn vì làm việc lâu hơn (10 s > 5 s).
 *D. Máy 2 có công suất lớn hơn vì 360 W > 300 W.
 Lời giải
-$P_1 = \dfrac{3000}{10} = 300$ W; $P_2 = \dfrac{1800}{5} = 360$ W. Công suất không chỉ phụ thuộc vào công mà còn vào thời gian.
+$\mathscr{P}_1 = \dfrac{3000}{10} = 300$ W; $\mathscr{P}_2 = \dfrac{1800}{5} = 360$ W. Công suất không chỉ phụ thuộc vào công mà còn vào thời gian.
 
 Câu 10. [TH] Khi lên dốc, người lái ô tô thường giảm tốc độ (về số thấp). Giải thích nào sau đây hợp lí?
 A. Với công suất động cơ không đổi, giảm tốc độ thì lực kéo giảm.
@@ -4682,7 +4682,7 @@ B. Với công suất động cơ không đổi, lực kéo không phụ thuộc
 *C. Với công suất động cơ không đổi, giảm tốc độ thì lực kéo tăng.
 D. Giảm tốc độ làm công suất của động cơ tăng lên rất nhiều.
 Lời giải
-$P = F v$ không đổi nên $v$ giảm thì $F$ tăng, giúp xe vượt dốc.
+$\mathscr{P} = F v$ không đổi nên $v$ giảm thì $F$ tăng, giúp xe vượt dốc.
 
 Câu 11. [TH] Hai xe có cùng công suất, chuyển động thẳng đều; tốc độ của xe 1 gấp đôi tốc độ của xe 2. Lực kéo của xe 1 so với xe 2 là
 A. gấp đôi lực kéo của xe 2 do tốc độ lớn gấp đôi.
@@ -4690,7 +4690,7 @@ B. bằng lực kéo của xe 2 do công suất như nhau.
 C. gấp bốn lần lực kéo của xe 2 do tốc độ.
 *D. bằng một nửa lực kéo của xe 2.
 Lời giải
-$P = F v$ cùng $P$ nên $F_1 v_1 = F_2 v_2$; $v_1 = 2 v_2$ suy ra $F_1 = \dfrac{F_2}{2}$.
+$\mathscr{P} = F v$ cùng $\mathscr{P}$ nên $F_1 v_1 = F_2 v_2$; $v_1 = 2 v_2$ suy ra $F_1 = \dfrac{F_2}{2}$.
 
 Câu 12. [TH] Một kilôoát giờ (1 kW·h) bằng
 A. $3,6 \cdot 10^3$ J.
@@ -4722,7 +4722,7 @@ B. 2.
 C. 1.
 D. 4.
 Lời giải
-$F = \dfrac{P}{v}$ nên $\dfrac{F_1}{F_2} = \dfrac{v_2}{v_1} = \dfrac{10}{20} = 0,5$.
+$F = \dfrac{\mathscr{P}}{v}$ nên $\dfrac{F_1}{F_2} = \dfrac{v_2}{v_1} = \dfrac{10}{20} = 0,5$.
 
 Câu 16. [VD] Cần cẩu nâng đều một kiện hàng 400 kg lên cao 15 m trong 20 s, lấy $g = 10$ m/s². Công suất trung bình của cần cẩu là
 A. 300 W.
@@ -4730,7 +4730,7 @@ B. 1500 W.
 *C. 3000 W.
 D. 6000 W.
 Lời giải
-$A = mgh = 400 \cdot 10 \cdot 15 = 60000$ J. $P = \dfrac{A}{t} = \dfrac{60000}{20} = 3000$ W.
+$A = mgh = 400 \cdot 10 \cdot 15 = 60000$ J. $\mathscr{P} = \dfrac{A}{t} = \dfrac{60000}{20} = 3000$ W.
 
 Câu 17. [VD] Một ô tô chuyển động thẳng đều với tốc độ 72 km/h, lực kéo của động cơ là 1500 N. Công suất của động cơ là
 *A. 30 kW.
@@ -4738,7 +4738,7 @@ B. 108 kW.
 C. 75 W.
 D. 3 kW.
 Lời giải
-$72\ \text{km/h} = 20$ m/s. $P = F v = 1500 \cdot 20 = 30000$ W $= 30$ kW.
+$72\ \text{km/h} = 20$ m/s. $\mathscr{P} = F v = 1500 \cdot 20 = 30000$ W $= 30$ kW.
 
 Câu 18. [VD] Một động cơ có công suất 5 kW hoạt động liên tục trong 2 giờ. Công mà động cơ thực hiện là
 A. $1,8 \cdot 10^7$ J.
@@ -4746,7 +4746,7 @@ B. $3,6 \cdot 10^4$ J.
 *C. $3,6 \cdot 10^7$ J.
 D. $1,0 \cdot 10^4$ J.
 Lời giải
-$A = P t = 5000 \cdot 2 \cdot 3600 = 3,6 \cdot 10^7$ J (tức 10 kW·h).
+$A = \mathscr{P} t = 5000 \cdot 2 \cdot 3600 = 3,6 \cdot 10^7$ J (tức 10 kW·h).
 
 Câu 19. [VD] Ô tô khối lượng 1 tấn đứng yên, bắt đầu chuyển động nhờ lực kéo không đổi 2000 N cùng hướng chuyển động (bỏ qua mọi lực cản). Công suất tức thời của lực kéo tại thời điểm 5 s kể từ lúc bắt đầu chuyển động là
 A. 10 kW.
@@ -4754,7 +4754,7 @@ B. 40 kW.
 *C. 20 kW.
 D. 100 kW.
 Lời giải
-$a = \dfrac{F}{m} = 2$ m/s², $v = a t = 10$ m/s. $P = F v = 2000 \cdot 10 = 20000$ W $= 20$ kW. (10 kW là công suất trung bình trong 5 s.)
+$a = \dfrac{F}{m} = 2$ m/s², $v = a t = 10$ m/s. $\mathscr{P} = F v = 2000 \cdot 10 = 20000$ W $= 20$ kW. (10 kW là công suất trung bình trong 5 s.)
 
 Câu 20. [VD] Một máy bơm có công suất 2 kW (bỏ qua hao phí) bơm 600 kg nước lên độ cao 10 m, lấy $g = 10$ m/s². Thời gian bơm là
 *A. 30 s.
@@ -4762,7 +4762,7 @@ B. 3 s.
 C. 60 s.
 D. 300 s.
 Lời giải
-$A = mgh = 600 \cdot 10 \cdot 10 = 60000$ J. $t = \dfrac{A}{P} = \dfrac{60000}{2000} = 30$ s.
+$A = mgh = 600 \cdot 10 \cdot 10 = 60000$ J. $t = \dfrac{A}{\mathscr{P}} = \dfrac{60000}{2000} = 30$ s.
 
 Câu 21. [VD] Thang máy cùng người có tổng khối lượng 600 kg đi lên đều với tốc độ 2 m/s, bỏ qua mọi lực cản, lấy $g = 10$ m/s². Công suất của động cơ thang máy là
 A. 6 kW.
@@ -4770,7 +4770,7 @@ A. 6 kW.
 C. 1,2 kW.
 D. 3 kW.
 Lời giải
-Chuyển động đều nên $F = mg = 6000$ N. $P = F v = 6000 \cdot 2 = 12000$ W $= 12$ kW.
+Chuyển động đều nên $F = mg = 6000$ N. $\mathscr{P} = F v = 6000 \cdot 2 = 12000$ W $= 12$ kW.
 
 Câu 22. [VD] Một xe máy chuyển động thẳng đều với tốc độ 54 km/h, công suất của động cơ là 3 kW. Lực kéo của động cơ là
 A. 720 N.
@@ -4778,7 +4778,7 @@ B. 55,6 N.
 C. 45 000 N.
 *D. 200 N.
 Lời giải
-$54\ \text{km/h} = 15$ m/s. $F = \dfrac{P}{v} = \dfrac{3000}{15} = 200$ N.
+$54\ \text{km/h} = 15$ m/s. $F = \dfrac{\mathscr{P}}{v} = \dfrac{3000}{15} = 200$ N.
 
 Câu 23. [TF] [TH] Về công suất:
 *A. Công suất đặc trưng cho tốc độ thực hiện công.
@@ -4786,15 +4786,15 @@ Câu 23. [TF] [TH] Về công suất:
 C. Máy thực hiện công càng lớn thì công suất càng lớn, không phụ thuộc thời gian.
 *D. Một kilôoát giờ bằng $3,6 \cdot 10^6$ J.
 Lời giải
-Công suất $P = A/t$ phụ thuộc cả công và thời gian thực hiện công.
+Công suất $\mathscr{P} = A/t$ phụ thuộc cả công và thời gian thực hiện công.
 
 Câu 24. [TF] [TH] Một động cơ kéo vật với công suất không đổi, lực kéo cùng hướng chuyển động:
 *A. Tốc độ tăng thì lực kéo giảm.
 *B. Khi lên dốc cần lực kéo lớn hơn nên người lái giảm tốc độ.
 C. Lực kéo và tốc độ tỉ lệ thuận với nhau.
-D. Biểu thức $P = F v$ đúng với mọi lực bất kể hướng của lực so với vận tốc.
+D. Biểu thức $\mathscr{P} = F v$ đúng với mọi lực bất kể hướng của lực so với vận tốc.
 Lời giải
-$P = F v$ không đổi nên $F$ và $v$ tỉ lệ nghịch. Biểu thức này áp dụng khi lực cùng hướng với vận tốc.
+$\mathscr{P} = F v$ không đổi nên $F$ và $v$ tỉ lệ nghịch. Biểu thức này áp dụng khi lực cùng hướng với vận tốc.
 
 Câu 25. [TF] [TH] Máy 1 thực hiện công 2400 J trong 8 s; máy 2 thực hiện công 3000 J trong 20 s:
 *A. Công suất của máy 1 là 300 W.
@@ -4802,7 +4802,7 @@ B. Công suất của máy 2 là 120 W.
 C. Máy 2 thực hiện công nhiều hơn nên công suất lớn hơn.
 D. Công suất của máy 2 lớn hơn công suất của máy 1.
 Lời giải
-$P_1 = 300$ W, $P_2 = \dfrac{3000}{20} = 150$ W. Máy 1 có công suất lớn hơn dù thực hiện công ít hơn.
+$\mathscr{P}_1 = 300$ W, $\mathscr{P}_2 = \dfrac{3000}{20} = 150$ W. Máy 1 có công suất lớn hơn dù thực hiện công ít hơn.
 
 Câu 26. [TF] [VD] Thang máy khối lượng 500 kg đi lên đều với tốc độ 3 m/s, bỏ qua mọi lực cản, lấy $g = 10$ m/s².
 *A. Lực kéo của động cơ là 5000 N.
@@ -4810,7 +4810,7 @@ Câu 26. [TF] [VD] Thang máy khối lượng 500 kg đi lên đều với tốc
 *C. Trong 10 s động cơ thực hiện công 150 kJ.
 D. Nếu thang đi lên đều với tốc độ 4 m/s thì công suất cần thiết vẫn là 15 kW.
 Lời giải
-Chuyển động đều: $F = mg = 5000$ N. $P = F v = 15$ kW. $A = P t = 15000 \cdot 10 = 150$ kJ. Với $v = 4$ m/s: $P = 5000 \cdot 4 = 20$ kW nên không còn là 15 kW.
+Chuyển động đều: $F = mg = 5000$ N. $\mathscr{P} = F v = 15$ kW. $A = \mathscr{P} t = 15000 \cdot 10 = 150$ kJ. Với $v = 4$ m/s: $\mathscr{P} = 5000 \cdot 4 = 20$ kW nên không còn là 15 kW.
 
 Câu 27. [TF] [VD] Ô tô khối lượng 1000 kg chạy đều trên đường nằm ngang với tốc độ 10 m/s, lực cản chuyển động là 800 N.
 *A. Lực kéo của động cơ là 800 N.
@@ -4818,7 +4818,7 @@ Câu 27. [TF] [VD] Ô tô khối lượng 1000 kg chạy đều trên đường 
 C. Nếu tốc độ chạy đều tăng gấp đôi, lực cản không đổi thì công suất tăng gấp 4 lần.
 D. Công của lực kéo trong 5 s là 4 kJ.
 Lời giải
-Chạy đều nên $F = F_c = 800$ N, $P = 8000$ W. Tốc độ gấp đôi thì $P$ gấp đôi (16 kW). Công trong 5 s: $8000 \cdot 5 = 40$ kJ.
+Chạy đều nên $F = F_c = 800$ N, $\mathscr{P} = 8000$ W. Tốc độ gấp đôi thì $\mathscr{P}$ gấp đôi (16 kW). Công trong 5 s: $8000 \cdot 5 = 40$ kJ.
 
 Câu 28. [TF] [VD] Một cần cẩu nâng đều kiện hàng 200 kg lên cao 9 m trong 6 s, lấy $g = 10$ m/s².
 *A. Công của lực nâng là 18 kJ.
@@ -4826,7 +4826,7 @@ Câu 28. [TF] [VD] Một cần cẩu nâng đều kiện hàng 200 kg lên cao 9
 *C. Nếu nâng cùng kiện hàng lên cùng độ cao đó trong 3 s thì công suất là 6 kW.
 D. Nếu nâng trong 3 s thì công của lực nâng tăng gấp đôi.
 Lời giải
-$A = mgh = 18000$ J, $P = 3000$ W. Nâng trong 3 s: công vẫn 18 kJ, $P = 6$ kW. Công không đổi vì độ cao và khối lượng không đổi.
+$A = mgh = 18000$ J, $\mathscr{P} = 3000$ W. Nâng trong 3 s: công vẫn 18 kJ, $\mathscr{P} = 6$ kW. Công không đổi vì độ cao và khối lượng không đổi.
 
 Câu 29. [TF] [VD] Một bếp điện công suất 1000 W hoạt động liên tục trong 3 giờ.
 *A. Điện năng tiêu thụ là 3 kW·h.
@@ -4834,47 +4834,47 @@ Câu 29. [TF] [VD] Một bếp điện công suất 1000 W hoạt động liên 
 C. Nếu dùng 6 giờ thì công suất của bếp tăng gấp đôi.
 D. 3 kW·h bằng 3600 J.
 Lời giải
-$A = P t = 1\ \text{kW} \cdot 3\ \text{h} = 3\ \text{kW·h} = 3 \cdot 3,6 \cdot 10^6 = 1,08 \cdot 10^7$ J. Công suất là đặc trưng của bếp, không đổi khi thời gian dùng thay đổi.
+$A = \mathscr{P} t = 1\ \text{kW} \cdot 3\ \text{h} = 3\ \text{kW·h} = 3 \cdot 3,6 \cdot 10^6 = 1,08 \cdot 10^7$ J. Công suất là đặc trưng của bếp, không đổi khi thời gian dùng thay đổi.
 
 Câu 30. [TH] Một máy thực hiện công 4500 J trong 30 s. Tính công suất trung bình của máy (theo đơn vị W).
 Trả lời: [[150]]
 Lời giải
-$P = \dfrac{A}{t} = \dfrac{4500}{30} = 150$ W.
+$\mathscr{P} = \dfrac{A}{t} = \dfrac{4500}{30} = 150$ W.
 
 Câu 31. [TH] Một động cơ có công suất 250 W hoạt động trong 12 s. Tính công mà động cơ thực hiện (theo đơn vị J).
 Trả lời: [[3000]]
 Lời giải
-$A = P t = 250 \cdot 12 = 3000$ J.
+$A = \mathscr{P} t = 250 \cdot 12 = 3000$ J.
 
 Câu 32. [TH] Một bóng đèn có công suất 75 W được bật liên tục trong 4 giờ. Tính điện năng bóng đèn tiêu thụ (theo đơn vị kW·h).
 Trả lời: [[0,3]]
 Lời giải
-$A = P t = 0,075\ \text{kW} \cdot 4\ \text{h} = 0,3$ kW·h.
+$A = \mathscr{P} t = 0,075\ \text{kW} \cdot 4\ \text{h} = 0,3$ kW·h.
 
-Câu 33. [VD] Một ô tô chuyển động thẳng đều với tốc độ 12 m/s, lực kéo của động cơ là 2000 N. Tính công suất của động cơ (theo đơn vị kW).
+Câu 33. [TH] Một ô tô chuyển động thẳng đều với tốc độ 12 m/s, lực kéo của động cơ là 2000 N. Tính công suất của động cơ (theo đơn vị kW).
 Trả lời: [[24]]
 Lời giải
-$P = F v = 2000 \cdot 12 = 24000$ W $= 24$ kW.
+$\mathscr{P} = F v = 2000 \cdot 12 = 24000$ W $= 24$ kW.
 
-Câu 34. [VD] Một xe chuyển động thẳng đều dưới tác dụng của lực kéo 600 N cùng hướng chuyển động, công suất của lực kéo là 12 kW. Tính tốc độ của xe (theo đơn vị m/s).
+Câu 34. [TH] Một xe chuyển động thẳng đều dưới tác dụng của lực kéo 600 N cùng hướng chuyển động, công suất của lực kéo là 12 kW. Tính tốc độ của xe (theo đơn vị m/s).
 Trả lời: [[20]]
 Lời giải
-$v = \dfrac{P}{F} = \dfrac{12000}{600} = 20$ m/s.
+$v = \dfrac{\mathscr{P}}{F} = \dfrac{12000}{600} = 20$ m/s.
 
 Câu 35. [VD] Một cần cẩu nâng đều kiện hàng khối lượng 500 kg lên cao 12 m trong 30 s, lấy $g = 10$ m/s². Tính công suất trung bình của cần cẩu (theo đơn vị W).
 Trả lời: [[2000]]
 Lời giải
-$A = mgh = 500 \cdot 10 \cdot 12 = 60000$ J. $P = \dfrac{60000}{30} = 2000$ W.
+$A = mgh = 500 \cdot 10 \cdot 12 = 60000$ J. $\mathscr{P} = \dfrac{60000}{30} = 2000$ W.
 
 Câu 36. [VD] Một vật khối lượng 2 kg được thả rơi tự do trong 3 s, lấy $g = 10$ m/s². Tính công suất trung bình của trọng lực trong 3 s đó (theo đơn vị W).
 Trả lời: [[300]]
 Lời giải
-Quãng đường rơi $s = \tfrac{1}{2} g t^2 = 45$ m. $A = mgs = 20 \cdot 45 = 900$ J. $P = \dfrac{900}{3} = 300$ W.
+Quãng đường rơi $s = \tfrac{1}{2} g t^2 = 45$ m. $A = mgs = 20 \cdot 45 = 900$ J. $\mathscr{P} = \dfrac{900}{3} = 300$ W.
 
 Câu 37. [VD] Vật khối lượng 2 kg rơi tự do từ trạng thái đứng yên, lấy $g = 10$ m/s². Tính công suất tức thời của trọng lực tại thời điểm 3 s sau khi bắt đầu rơi (theo đơn vị W).
 Trả lời: [[600]]
 Lời giải
-$v = g t = 30$ m/s. $P = F v = mg \cdot v = 20 \cdot 30 = 600$ W.
+$v = g t = 30$ m/s. $\mathscr{P} = F v = mg \cdot v = 20 \cdot 30 = 600$ W.
 
 Câu 38. [VD] Một máy bơm có công suất 1,5 kW chạy liên tục 8 giờ. Giá điện là 2000 đồng/(kW·h). Tính tiền điện phải trả (theo đơn vị nghìn đồng).
 Trả lời: [[24]]
@@ -5002,7 +5002,7 @@ C. Động năng của ô tô bằng không.
 Lời giải
 Tốc độ tăng nên $W_{đ} = \dfrac{1}{2} m v^2$ tăng.
 
-Câu 16. [VD] Vật khối lượng 0,4 kg chuyển động với tốc độ 10 m/s. Động năng của vật là
+Câu 16. [TH] Vật khối lượng 0,4 kg chuyển động với tốc độ 10 m/s. Động năng của vật là
 A. 4 J.
 *B. 20 J.
 C. 40 J.
@@ -5010,7 +5010,7 @@ D. 2 J.
 Lời giải
 $W_{đ} = \dfrac{1}{2} \cdot 0,4 \cdot 10^2 = 20$ J.
 
-Câu 17. [VD] Vật khối lượng 5 kg ở độ cao 12 m so với mặt đất, chọn mặt đất làm gốc thế năng, lấy $g = 10$ m/s². Thế năng của vật là
+Câu 17. [TH] Vật khối lượng 5 kg ở độ cao 12 m so với mặt đất, chọn mặt đất làm gốc thế năng, lấy $g = 10$ m/s². Thế năng của vật là
 *A. 600 J.
 B. 60 J.
 C. 300 J.
@@ -5129,7 +5129,7 @@ Trả lời: [[10]]
 Lời giải
 $v = \sqrt{\dfrac{2 W_{đ}}{m}} = \sqrt{\dfrac{2 \cdot 100}{2}} = 10$ m/s.
 
-Câu 33. [VD] Một vật khối lượng 6 kg có thế năng 240 J so với mặt đất, lấy $g = 10$ m/s². Tính độ cao của vật so với mặt đất (theo đơn vị m).
+Câu 33. [TH] Một vật khối lượng 6 kg có thế năng 240 J so với mặt đất, lấy $g = 10$ m/s². Tính độ cao của vật so với mặt đất (theo đơn vị m).
 Trả lời: [[4]]
 Lời giải
 $h = \dfrac{W_t}{m g} = \dfrac{240}{6 \cdot 10} = 4$ m.
@@ -5154,7 +5154,7 @@ Trả lời: [[-60]]
 Lời giải
 Đáy giếng thấp hơn gốc 4 m nên $h = -4$ m. $W_t = 1,5 \cdot 10 \cdot (-4) = -60$ J.
 
-Câu 38. [VD] Một vật chuyển động với tốc độ 6 m/s có động năng 54 J. Tính khối lượng của vật (theo đơn vị kg).
+Câu 38. [TH] Một vật chuyển động với tốc độ 6 m/s có động năng 54 J. Tính khối lượng của vật (theo đơn vị kg).
 Trả lời: [[3]]
 Lời giải
 $m = \dfrac{2 W_{đ}}{v^2} = \dfrac{2 \cdot 54}{6^2} = 3$ kg.
@@ -5384,13 +5384,13 @@ D. Tốc độ của quả nặng ở vị trí thấp nhất phụ thuộc vào
 Lời giải
 $v = \sqrt{2 g h} = \sqrt{2 \cdot 10 \cdot 0,8} = 4$ m/s, không phụ thuộc khối lượng.
 
-Câu 29. [TF] [VD] Vật 1 kg trượt từ đỉnh dốc cao 4 m (ban đầu đứng yên) xuống chân dốc với tốc độ 6 m/s, $g = 10$ m/s².
-*A. Cơ năng của vật giảm 22 J.
-B. Dốc này là dốc nhẵn.
-C. Cơ năng của vật ở chân dốc là 40 J.
-D. Cơ năng của vật ở chân dốc bằng cơ năng ở đỉnh dốc.
+Câu 29. [TF] [VD] Vật 1 kg được thả rơi tự do từ độ cao 4 m so với mặt đất, bỏ qua sức cản không khí, lấy $g = 10$ m/s², chọn gốc thế năng tại mặt đất.
+*A. Cơ năng của vật bằng 40 J.
+*B. Tốc độ của vật khi chạm đất xấp xỉ 8,9 m/s.
+C. Tại độ cao 2 m, động năng của vật bằng 30 J.
+*D. Trong khi rơi, thế năng của vật giảm bao nhiêu thì động năng tăng bấy nhiêu.
 Lời giải
-Ở đỉnh: $W_1 = 1 \cdot 10 \cdot 4 = 40$ J; ở chân: $W_2 = \dfrac{1}{2} \cdot 1 \cdot 6^2 = 18$ J. Cơ năng giảm 22 J nên có ma sát.
+$W = mgh = 1 \cdot 10 \cdot 4 = 40$ J. Chạm đất: $\dfrac{1}{2}mv^2 = 40$ nên $v = \sqrt{80} \approx 8,9$ m/s. Tại 2 m: $W_t = 20$ J nên $W_đ = 40 - 20 = 20$ J (ý C sai). Cơ năng bảo toàn nên thế năng giảm bao nhiêu thì động năng tăng bấy nhiêu.
 
 Câu 30. [TH] Vật khối lượng 1 kg ở độ cao 5 m so với mặt đất, có tốc độ 4 m/s. Chọn mặt đất làm gốc thế năng, lấy $g = 10$ m/s². Tính cơ năng của vật (theo đơn vị J).
 Trả lời: [[58]]
@@ -5432,10 +5432,10 @@ Trả lời: [[40]]
 Lời giải
 $W = \dfrac{1}{2} \cdot 2 \cdot 10^2 = 100$ J. Ở 3 m: $W_t = 2 \cdot 10 \cdot 3 = 60$ J nên $W_{đ} = 100 - 60 = 40$ J.
 
-Câu 38. [VD] Vật 2 kg trượt từ đỉnh dốc cao 5 m (ban đầu đứng yên) xuống chân dốc với tốc độ 8 m/s, $g = 10$ m/s². Tính độ biến thiên cơ năng, lấy cơ năng sau trừ cơ năng trước (theo đơn vị J).
-Trả lời: [[-36]]
+Câu 38. [VD] Từ độ cao 1,8 m so với mặt đất, ném một vật 2 kg thẳng đứng lên trên với tốc độ 8 m/s. Bỏ qua sức cản không khí, lấy $g = 10$ m/s², chọn gốc thế năng tại mặt đất. Tính tốc độ của vật khi chạm đất (theo đơn vị m/s).
+Trả lời: [[10]]
 Lời giải
-$W_1 = 2 \cdot 10 \cdot 5 = 100$ J; $W_2 = \dfrac{1}{2} \cdot 2 \cdot 8^2 = 64$ J. $\Delta W = 64 - 100 = -36$ J (cơ năng giảm do ma sát).
+Bảo toàn cơ năng: $\dfrac{1}{2}mv_0^2 + mgh = \dfrac{1}{2}mv^2$ nên $v = \sqrt{v_0^2 + 2gh} = \sqrt{64 + 36} = 10$ m/s.
 
 @bai 27 | Hiệu suất
 Câu 1. [NB] Hiệu suất của một máy là tỉ số giữa
@@ -5444,15 +5444,15 @@ B. năng lượng toàn phần và năng lượng có ích.
 C. năng lượng hao phí và năng lượng có ích.
 D. công suất và thời gian hoạt động.
 Lời giải
-Hiệu suất $H = \dfrac{W_{ích}}{W_{tp}}$ (nhân 100% để ra phần trăm).
+Hiệu suất $H = \dfrac{W_{ci}}{W_{tp}}$ (nhân 100% để ra phần trăm).
 
 Câu 2. [NB] Biểu thức tính hiệu suất của máy (tính theo phần trăm) là
-A. $H = \dfrac{W_{tp}}{W_{ích}} \cdot 100\%$.
+A. $H = \dfrac{W_{tp}}{W_{ci}} \cdot 100\%$.
 B. $H = \dfrac{W_{hp}}{W_{tp}} \cdot 100\%$.
-*C. $H = \dfrac{W_{ích}}{W_{tp}} \cdot 100\%$.
-D. $H = (W_{tp} - W_{ích}) \cdot 100\%$.
+*C. $H = \dfrac{W_{ci}}{W_{tp}} \cdot 100\%$.
+D. $H = (W_{tp} - W_{ci}) \cdot 100\%$.
 Lời giải
-$H = \dfrac{W_{ích}}{W_{tp}} \cdot 100\%$, với $W_{ích}$ là năng lượng có ích và $W_{tp}$ là năng lượng toàn phần.
+$H = \dfrac{W_{ci}}{W_{tp}} \cdot 100\%$, với $W_{ci}$ là năng lượng có ích và $W_{tp}$ là năng lượng toàn phần.
 
 Câu 3. [NB] Hiệu suất của các máy thực tế luôn
 *A. nhỏ hơn 100%.
@@ -5478,21 +5478,21 @@ D. không bao giờ được chuyển hóa thành dạng khác.
 Lời giải
 Năng lượng hao phí là phần năng lượng chuyển thành dạng không mong muốn (chủ yếu là nhiệt); năng lượng vẫn được bảo toàn.
 
-Câu 6. [NB] Gọi $W_{tp}$ là năng lượng toàn phần, $W_{ích}$ là năng lượng có ích, $W_{hp}$ là năng lượng hao phí. Hệ thức đúng là
-A. $W_{tp} = W_{ích} - W_{hp}$.
-B. $W_{ích} = W_{tp} + W_{hp}$.
-C. $W_{hp} = W_{tp} \cdot W_{ích}$.
-*D. $W_{tp} = W_{ích} + W_{hp}$.
+Câu 6. [NB] Gọi $W_{tp}$ là năng lượng toàn phần, $W_{ci}$ là năng lượng có ích, $W_{hp}$ là năng lượng hao phí. Hệ thức đúng là
+A. $W_{tp} = W_{ci} - W_{hp}$.
+B. $W_{ci} = W_{tp} + W_{hp}$.
+C. $W_{hp} = W_{tp} \cdot W_{ci}$.
+*D. $W_{tp} = W_{ci} + W_{hp}$.
 Lời giải
 Năng lượng toàn phần gồm phần có ích và phần hao phí.
 
 Câu 7. [NB] Hiệu suất của máy có thể tính qua công suất theo biểu thức
-A. $H = \dfrac{P_{tp}}{P_{ích}} \cdot 100\%$.
-B. $H = P_{ích} \cdot P_{tp}$.
-C. $H = P_{tp} - P_{ích}$.
-*D. $H = \dfrac{P_{ích}}{P_{tp}} \cdot 100\%$.
+A. $H = \dfrac{\mathscr{P}_{tp}}{\mathscr{P}_{ci}} \cdot 100\%$.
+B. $H = \mathscr{P}_{ci} \cdot \mathscr{P}_{tp}$.
+C. $H = \mathscr{P}_{tp} - \mathscr{P}_{ci}$.
+*D. $H = \dfrac{\mathscr{P}_{ci}}{\mathscr{P}_{tp}} \cdot 100\%$.
 Lời giải
-Chia cả hai vế cho thời gian: $H = \dfrac{W_{ích}}{W_{tp}} = \dfrac{P_{ích}}{P_{tp}}$.
+Chia cả hai vế cho thời gian: $H = \dfrac{W_{ci}}{W_{tp}} = \dfrac{\mathscr{P}_{ci}}{\mathscr{P}_{tp}}$.
 
 Câu 8. [NB] Hiệu suất 100% là
 *A. trường hợp lí tưởng, không có hao phí.
@@ -5516,7 +5516,7 @@ A. cho năng lượng hao phí nhiều hơn.
 C. luôn có công suất lớn hơn.
 D. hoạt động nhanh hơn.
 Lời giải
-$W_{ích} = H \cdot W_{tp}$: cùng $W_{tp}$ thì $H$ lớn hơn cho $W_{ích}$ lớn hơn.
+$W_{ci} = H \cdot W_{tp}$: cùng $W_{tp}$ thì $H$ lớn hơn cho $W_{ci}$ lớn hơn.
 
 Câu 11. [TH] Đèn LED và đèn sợi đốt cho cùng độ sáng, đèn LED tiêu thụ điện năng ít hơn. Điều này cho thấy đèn LED
 *A. có hiệu suất phát sáng cao hơn.
@@ -5524,7 +5524,7 @@ B. có hiệu suất phát sáng thấp hơn.
 C. có công suất tiêu thụ lớn hơn.
 D. không có hao phí năng lượng.
 Lời giải
-Cùng quang năng có ích mà điện năng tiêu thụ ít hơn thì tỉ số $\dfrac{W_{ích}}{W_{tp}}$ lớn hơn.
+Cùng quang năng có ích mà điện năng tiêu thụ ít hơn thì tỉ số $\dfrac{W_{ci}}{W_{tp}}$ lớn hơn.
 
 Câu 12. [TH] Một động cơ có hiệu suất 40% có nghĩa là
 A. 40% năng lượng toàn phần bị hao phí hoàn toàn.
@@ -5532,7 +5532,7 @@ B. động cơ chỉ hoạt động trong 40% thời gian quy định.
 C. công suất của động cơ luôn bằng 40 W.
 *D. 40% năng lượng toàn phần thành công có ích.
 Lời giải
-$H = 40\%$ nghĩa là $\dfrac{W_{ích}}{W_{tp}} = 0,4$; 60% còn lại là hao phí.
+$H = 40\%$ nghĩa là $\dfrac{W_{ci}}{W_{tp}} = 0,4$; 60% còn lại là hao phí.
 
 Câu 13. [TH] Quạt điện hoạt động, phần điện năng hao phí chủ yếu chuyển thành
 A. quang năng.
@@ -5556,9 +5556,9 @@ B. bằng nhau.
 C. bằng không.
 *D. lớn hơn.
 Lời giải
-$P_{ích} = H \cdot P_{tp}$ nên $H$ lớn hơn thì $P_{ích}$ lớn hơn.
+$\mathscr{P}_{ci} = H \cdot \mathscr{P}_{tp}$ nên $H$ lớn hơn thì $\mathscr{P}_{ci}$ lớn hơn.
 
-Câu 16. [VD] Một động cơ nhận năng lượng toàn phần 2000 J và thực hiện công có ích 1500 J. Hiệu suất của động cơ là
+Câu 16. [TH] Một động cơ nhận năng lượng toàn phần 2000 J và thực hiện công có ích 1500 J. Hiệu suất của động cơ là
 A. 133%.
 B. 25%.
 C. 50%.
@@ -5566,13 +5566,13 @@ C. 50%.
 Lời giải
 $H = \dfrac{1500}{2000} \cdot 100\% = 75\%$.
 
-Câu 17. [VD] Một động cơ có công suất toàn phần 2 kW và hiệu suất 80%. Công suất có ích của động cơ là
+Câu 17. [TH] Một động cơ có công suất toàn phần 2 kW và hiệu suất 80%. Công suất có ích của động cơ là
 A. 2,5 kW.
 *B. 1,6 kW.
 C. 0,4 kW.
 D. 160 kW.
 Lời giải
-$P_{ích} = H \cdot P_{tp} = 0,8 \cdot 2 = 1,6$ kW.
+$\mathscr{P}_{ci} = H \cdot \mathscr{P}_{tp} = 0,8 \cdot 2 = 1,6$ kW.
 
 Câu 18. [VD] Cần cẩu có công suất toàn phần 5 kW, hiệu suất 60%, nâng đều kiện hàng 1 tấn lên cao 9 m, lấy $g = 10$ m/s². Thời gian nâng là
 *A. 30 s.
@@ -5580,7 +5580,7 @@ B. 18 s.
 C. 50 s.
 D. 15 s.
 Lời giải
-$A_{ích} = m g h = 1000 \cdot 10 \cdot 9 = 90000$ J; $P_{ích} = 0,6 \cdot 5000 = 3000$ W. $t = \dfrac{90000}{3000} = 30$ s.
+$A_{ci} = m g h = 1000 \cdot 10 \cdot 9 = 90000$ J; $\mathscr{P}_{ci} = 0,6 \cdot 5000 = 3000$ W. $t = \dfrac{90000}{3000} = 30$ s.
 
 Câu 19. [VD] Một máy có hiệu suất 25%, năng lượng hao phí là 600 J. Năng lượng toàn phần máy đã nhận là
 A. 2400 J.
@@ -5596,9 +5596,9 @@ B. 360 N.
 *C. 1000 N.
 D. 12 000 N.
 Lời giải
-$P_{ích} = 0,3 \cdot 40000 = 12000$ W. $F = \dfrac{P_{ích}}{v} = \dfrac{12000}{12} = 1000$ N.
+$\mathscr{P}_{ci} = 0,3 \cdot 40000 = 12000$ W. $F = \dfrac{\mathscr{P}_{ci}}{v} = \dfrac{12000}{12} = 1000$ N.
 
-Câu 21. [VD] Một bóng đèn có công suất tiêu thụ điện 10 W, công suất phát ra dưới dạng ánh sáng là 2 W. Hiệu suất phát sáng của đèn là
+Câu 21. [TH] Một bóng đèn có công suất tiêu thụ điện 10 W, công suất phát ra dưới dạng ánh sáng là 2 W. Hiệu suất phát sáng của đèn là
 A. 80%.
 B. 500%.
 *C. 20%.
@@ -5606,13 +5606,13 @@ D. 8%.
 Lời giải
 $H = \dfrac{2}{10} \cdot 100\% = 20\%$.
 
-Câu 22. [VD] Một động cơ điện nhận điện năng 1 kW·h (tức $3,6 \cdot 10^6$ J) và có hiệu suất 90%. Công có ích mà động cơ thực hiện là
+Câu 22. [TH] Một động cơ điện nhận điện năng 1 kW·h (tức $3,6 \cdot 10^6$ J) và có hiệu suất 90%. Công có ích mà động cơ thực hiện là
 A. $4,0 \cdot 10^6$ J.
 *B. $3,24 \cdot 10^6$ J.
 C. $3,6 \cdot 10^5$ J.
 D. $9,0 \cdot 10^5$ J.
 Lời giải
-$W_{ích} = 0,9 \cdot 3,6 \cdot 10^6 = 3,24 \cdot 10^6$ J.
+$W_{ci} = 0,9 \cdot 3,6 \cdot 10^6 = 3,24 \cdot 10^6$ J.
 
 Câu 23. [TF] [TH] Về hiệu suất:
 *A. Hiệu suất là tỉ số giữa năng lượng có ích và năng lượng toàn phần.
@@ -5628,7 +5628,7 @@ Câu 24. [TF] [TH] Một máy nhận năng lượng toàn phần 800 J, trong đ
 *C. Phần năng lượng hao phí không mất đi mà chuyển thành dạng năng lượng khác.
 D. Hiệu suất của máy là 25%.
 Lời giải
-$W_{ích} = 800 - 200 = 600$ J; $H = \dfrac{600}{800} = 75\%$.
+$W_{ci} = 800 - 200 = 600$ J; $H = \dfrac{600}{800} = 75\%$.
 
 Câu 25. [TF] [TH] Hai máy A và B cùng nhận năng lượng toàn phần 1000 J; hiệu suất của máy A là 60%, của máy B là 80%.
 A. Máy A cho năng lượng có ích nhiều hơn máy B.
@@ -5644,7 +5644,7 @@ Câu 26. [TF] [VD] Một động cơ có công suất toàn phần 10 kW, hiệu
 *C. Trong 10 s động cơ thực hiện công có ích 70 kJ.
 D. Hoạt động liên tục 2 giờ thì động cơ tiêu thụ điện năng 14 kW·h.
 Lời giải
-$P_{ích} = 0,7 \cdot 10 = 7$ kW; $P_{hp} = 3$ kW; $A_{ích} = 7000 \cdot 10 = 70$ kJ; điện năng tiêu thụ $= 10 \cdot 2 = 20$ kW·h chứ không phải 14 kW·h.
+$\mathscr{P}_{ci} = 0,7 \cdot 10 = 7$ kW; $\mathscr{P}_{hp} = 3$ kW; $A_{ci} = 7000 \cdot 10 = 70$ kJ; điện năng tiêu thụ $= 10 \cdot 2 = 20$ kW·h chứ không phải 14 kW·h.
 
 Câu 27. [TF] [VD] Cần cẩu nâng đều kiện hàng 500 kg lên cao 6 m, lấy $g = 10$ m/s². Động cơ cần cẩu thực hiện công toàn phần 40 kJ.
 *A. Công có ích là 30 kJ.
@@ -5652,7 +5652,7 @@ B. Hiệu suất của cần cẩu là 80%.
 *C. Hiệu suất của cần cẩu là 75%.
 D. Công hao phí là 30 kJ.
 Lời giải
-$A_{ích} = m g h = 30$ kJ; $H = \dfrac{30}{40} = 75\%$; công hao phí $= 40 - 30 = 10$ kJ.
+$A_{ci} = m g h = 30$ kJ; $H = \dfrac{30}{40} = 75\%$; công hao phí $= 40 - 30 = 10$ kJ.
 
 Câu 28. [TF] [VD] Một bóng đèn có công suất tiêu thụ 40 W, công suất phát ra dưới dạng ánh sáng là 10 W.
 *A. Hiệu suất phát sáng của đèn là 25%.
@@ -5660,7 +5660,7 @@ Câu 28. [TF] [VD] Một bóng đèn có công suất tiêu thụ 40 W, công su
 *C. Mỗi giây có 30 J điện năng chuyển thành dạng năng lượng không có ích.
 D. Hiệu suất phát sáng của đèn là 75%.
 Lời giải
-$H = \dfrac{10}{40} = 25\%$; $P_{hp} = 40 - 10 = 30$ W, tức 30 J mỗi giây.
+$H = \dfrac{10}{40} = 25\%$; $\mathscr{P}_{hp} = 40 - 10 = 30$ W, tức 30 J mỗi giây.
 
 Câu 29. [TF] [VD] Một bếp điện có công suất 1000 W, hiệu suất 80%, hoạt động liên tục trong 10 phút (600 s).
 *A. Nhiệt lượng có ích bếp tỏa ra là 480 kJ.
@@ -5668,7 +5668,7 @@ B. Nhiệt lượng có ích bếp tỏa ra là 600 kJ.
 C. Năng lượng hao phí là 480 kJ.
 D. Kéo dài thời gian hoạt động thì hiệu suất của bếp giảm.
 Lời giải
-$W_{tp} = 1000 \cdot 600 = 600$ kJ; $W_{ích} = 0,8 \cdot 600 = 480$ kJ; $W_{hp} = 120$ kJ. Hiệu suất là đặc trưng của bếp, không phụ thuộc thời gian.
+$W_{tp} = 1000 \cdot 600 = 600$ kJ; $W_{ci} = 0,8 \cdot 600 = 480$ kJ; $W_{hp} = 120$ kJ. Hiệu suất là đặc trưng của bếp, không phụ thuộc thời gian.
 
 Câu 30. [TH] Một máy nhận năng lượng toàn phần 600 J và thực hiện công có ích 420 J. Tính hiệu suất của máy (theo đơn vị %).
 Trả lời: [[70]]
@@ -5678,42 +5678,42 @@ $H = \dfrac{420}{600} \cdot 100\% = 70\%$.
 Câu 31. [TH] Một máy có hiệu suất 30% nhận năng lượng toàn phần 1000 J. Tính năng lượng có ích (theo đơn vị J).
 Trả lời: [[300]]
 Lời giải
-$W_{ích} = 0,3 \cdot 1000 = 300$ J.
+$W_{ci} = 0,3 \cdot 1000 = 300$ J.
 
 Câu 32. [TH] Một máy có hiệu suất 60% nhận năng lượng toàn phần 500 J. Tính năng lượng hao phí (theo đơn vị J).
 Trả lời: [[200]]
 Lời giải
-$W_{ích} = 0,6 \cdot 500 = 300$ J nên $W_{hp} = 500 - 300 = 200$ J.
+$W_{ci} = 0,6 \cdot 500 = 300$ J nên $W_{hp} = 500 - 300 = 200$ J.
 
 Câu 33. [VD] Động cơ có hiệu suất 80% nâng đều vật 800 kg lên cao 6 m, lấy $g = 10$ m/s². Tính năng lượng toàn phần động cơ tiêu thụ (theo đơn vị kJ).
 Trả lời: [[60]]
 Lời giải
-$A_{ích} = 800 \cdot 10 \cdot 6 = 48000$ J. $W_{tp} = \dfrac{48000}{0,8} = 60000$ J $= 60$ kJ.
+$A_{ci} = 800 \cdot 10 \cdot 6 = 48000$ J. $W_{tp} = \dfrac{48000}{0,8} = 60000$ J $= 60$ kJ.
 
 Câu 34. [VD] Một động cơ có công suất toàn phần 5 kW, hiệu suất 70%, hoạt động liên tục 2 giờ. Tính công có ích động cơ thực hiện (theo đơn vị kW·h).
 Trả lời: [[7]]
 Lời giải
-$P_{ích} = 0,7 \cdot 5 = 3,5$ kW. $A_{ích} = 3,5 \cdot 2 = 7$ kW·h.
+$\mathscr{P}_{ci} = 0,7 \cdot 5 = 3,5$ kW. $A_{ci} = 3,5 \cdot 2 = 7$ kW·h.
 
 Câu 35. [VD] Cần cẩu nâng đều vật 1200 kg lên cao 10 m trong 60 s, lấy $g = 10$ m/s². Động cơ cần cẩu có công suất toàn phần 3 kW. Tính hiệu suất của cần cẩu (theo đơn vị %, làm tròn đến một chữ số thập phân).
 Trả lời: [[66,7]]
 Lời giải
-$P_{ích} = \dfrac{1200 \cdot 10 \cdot 10}{60} = 2000$ W. $H = \dfrac{2000}{3000} \cdot 100\% \approx 66,7\%$.
+$\mathscr{P}_{ci} = \dfrac{1200 \cdot 10 \cdot 10}{60} = 2000$ W. $H = \dfrac{2000}{3000} \cdot 100\% \approx 66,7\%$.
 
 Câu 36. [VD] Động cơ có công suất toàn phần 8 kW, hiệu suất 75%, nâng đều vật 600 kg, lấy $g = 10$ m/s². Tính tốc độ nâng vật (theo đơn vị m/s).
 Trả lời: [[1]]
 Lời giải
-$P_{ích} = 0,75 \cdot 8000 = 6000$ W. $F = m g = 6000$ N. $v = \dfrac{P_{ích}}{F} = 1$ m/s.
+$\mathscr{P}_{ci} = 0,75 \cdot 8000 = 6000$ W. $F = m g = 6000$ N. $v = \dfrac{\mathscr{P}_{ci}}{F} = 1$ m/s.
 
-Câu 37. [VD] Động cơ có công suất toàn phần 4 kW, hiệu suất 85%. Tính công suất hao phí (theo đơn vị kW).
+Câu 37. [TH] Động cơ có công suất toàn phần 4 kW, hiệu suất 85%. Tính công suất hao phí (theo đơn vị kW).
 Trả lời: [[0,6]]
 Lời giải
-$P_{hp} = (1 - 0,85) \cdot 4 = 0,6$ kW.
+$\mathscr{P}_{hp} = (1 - 0,85) \cdot 4 = 0,6$ kW.
 
-Câu 38. [VD] Một máy có hiệu suất 20% thực hiện công có ích 100 J. Tính năng lượng toàn phần máy đã nhận (theo đơn vị J).
+Câu 38. [TH] Một máy có hiệu suất 20% thực hiện công có ích 100 J. Tính năng lượng toàn phần máy đã nhận (theo đơn vị J).
 Trả lời: [[500]]
 Lời giải
-$W_{tp} = \dfrac{W_{ích}}{H} = \dfrac{100}{0,2} = 500$ J.
+$W_{tp} = \dfrac{W_{ci}}{H} = \dfrac{100}{0,2} = 500$ J.
 
 @chuong V | Động lượng
 @bai 28 | Động lượng
@@ -6123,7 +6123,7 @@ D. va chạm làm mất hoàn toàn động năng.
 Lời giải
 Quả cầu cuối lên được độ cao $h$ nên động năng gần như bảo toàn, đây là va chạm đàn hồi.
 
-Câu 17. [VD] Xe A khối lượng 2 kg chuyển động với vận tốc 3 m/s tới va chạm mềm với xe B khối lượng 1 kg đang đứng yên. Vận tốc của hai xe sau va chạm là
+Câu 17. [TH] Xe A khối lượng 2 kg chuyển động với vận tốc 3 m/s tới va chạm mềm với xe B khối lượng 1 kg đang đứng yên. Vận tốc của hai xe sau va chạm là
 A. 1,0 m/s.
 *B. 2,0 m/s.
 C. 3,0 m/s.
@@ -6353,7 +6353,7 @@ D. 0,25 kg.m/s.
 Lời giải
 $v' = \dfrac{0,020}{0,080} = 0,25$ m/s và khối lượng hệ là 0,40 kg nên $p' = 0,40 \cdot 0,25 = 0,10$ kg.m/s.
 
-Câu 11. [VD] Trong một lần đo, động lượng của hệ trước va chạm là 0,100 kg.m/s, sau va chạm là 0,096 kg.m/s. Độ lệch tương đối giữa hai giá trị (so với giá trị trước va chạm) là
+Câu 11. [TH] Trong một lần đo, động lượng của hệ trước va chạm là 0,100 kg.m/s, sau va chạm là 0,096 kg.m/s. Độ lệch tương đối giữa hai giá trị (so với giá trị trước va chạm) là
 A. 0,4%.
 B. 96%.
 *C. 4%.
@@ -6444,7 +6444,7 @@ D. bằng chu vi đường tròn.
 Lời giải
 Theo định nghĩa, 1 rad là góc ở tâm chắn cung có độ dài bằng bán kính: $\theta = \dfrac{s}{r} = 1$ khi $s = r$.
 
-Câu 4. [NB] Công thức liên hệ giữa tốc độ dài $v$, tốc độ góc $\omega$ và bán kính quỹ đạo $r$ của chuyển động tròn đều là
+Câu 4. [NB] Công thức liên hệ giữa tốc độ $v$, tốc độ góc $\omega$ và bán kính quỹ đạo $r$ của chuyển động tròn đều là
 A. $v = \dfrac{\omega}{r}$.
 B. $v = \dfrac{r}{\omega}$.
 C. $v = \omega r^2$.
@@ -6485,10 +6485,10 @@ Lời giải
 Chất điểm quay được những góc bằng nhau trong những khoảng thời gian bằng nhau nên tốc độ góc không đổi. Các đại lượng còn lại đều thay đổi.
 
 Câu 9. [TH] Một chất điểm chuyển động tròn đều trên đường tròn có bán kính không đổi. Khi tốc độ góc tăng 3 lần thì
-A. tốc độ dài tăng 3 lần, chu kì tăng 3 lần.
-B. tốc độ dài giảm 3 lần, chu kì giảm 3 lần.
-*C. tốc độ dài tăng 3 lần, chu kì giảm 3 lần.
-D. tốc độ dài không đổi, chu kì giảm 3 lần.
+A. tốc độ tăng 3 lần, chu kì tăng 3 lần.
+B. tốc độ giảm 3 lần, chu kì giảm 3 lần.
+*C. tốc độ tăng 3 lần, chu kì giảm 3 lần.
+D. tốc độ không đổi, chu kì giảm 3 lần.
 Lời giải
 $v = \omega r$ với $r$ không đổi nên $v$ tăng 3 lần; $T = \dfrac{2\pi}{\omega}$ nên $T$ giảm 3 lần.
 
@@ -6538,7 +6538,7 @@ A. Vận tốc không đổi vì tốc độ không đổi.
 C. Tốc độ góc càng lớn thì chu kì càng lớn.
 D. Tốc độ dài không phụ thuộc vào bán kính quỹ đạo.
 Lời giải
-Độ lớn vận tốc (tốc độ dài) không đổi nhưng hướng luôn thay đổi. Vì $T = \dfrac{2\pi}{\omega}$ nên $\omega$ càng lớn thì $T$ càng nhỏ; và $v = \omega r$ phụ thuộc vào $r$.
+Độ lớn vận tốc (tốc độ) không đổi nhưng hướng luôn thay đổi. Vì $T = \dfrac{2\pi}{\omega}$ nên $\omega$ càng lớn thì $T$ càng nhỏ; và $v = \omega r$ phụ thuộc vào $r$.
 
 Câu 16. [VD] Một chất điểm chuyển động tròn đều trên đường tròn bán kính 0,4 m, quay được 5 vòng trong 4 s. Tốc độ dài của chất điểm xấp xỉ
 A. 0,50 m/s.
@@ -6564,7 +6564,7 @@ D. $15\pi$ rad.
 Lời giải
 Tần số $f = \dfrac{5}{2} = 2,5$ Hz nên $\omega = 2\pi f = 5\pi$ rad/s; góc quay trong 0,6 s là $\theta = \omega t = 5\pi \cdot 0,6 = 3\pi$ rad.
 
-Câu 19. [VD] Hai chất điểm chuyển động tròn đều trên hai đường tròn có bán kính $r_1 = 2r_2$ với cùng tốc độ dài. Quan hệ giữa các tốc độ góc $\omega_1$ và $\omega_2$ của chúng là
+Câu 19. [VD] Hai chất điểm chuyển động tròn đều trên hai đường tròn có bán kính $r_1 = 2r_2$ với cùng tốc độ. Quan hệ giữa các tốc độ góc $\omega_1$ và $\omega_2$ của chúng là
 *A. $\omega_1 = \dfrac{\omega_2}{2}$.
 B. $\omega_1 = 2\omega_2$.
 C. $\omega_1 = \omega_2$.
@@ -6572,7 +6572,7 @@ D. $\omega_1 = 4\omega_2$.
 Lời giải
 $v = \omega_1 r_1 = \omega_2 r_2$ nên $\omega_1 = \omega_2 \cdot \dfrac{r_2}{r_1} = \dfrac{\omega_2}{2}$.
 
-Câu 20. [VD] Một điểm trên vành bánh đà có bán kính 0,50 m chuyển động tròn đều với tốc độ dài $2\pi$ m/s. Chu kì quay của bánh đà là
+Câu 20. [VD] Một điểm trên vành bánh đà có bán kính 0,50 m chuyển động tròn đều với tốc độ $2\pi$ m/s. Chu kì quay của bánh đà là
 A. 0,08 s.
 B. 0,25 s.
 *C. 0,50 s.
@@ -6580,7 +6580,7 @@ D. 12,6 s.
 Lời giải
 $T = \dfrac{2\pi r}{v} = \dfrac{2\pi \cdot 0,50}{2\pi} = 0,50$ s.
 
-Câu 21. [VD] Một điểm trên vành ròng rọc chuyển động tròn đều với tốc độ dài 8 m/s, tốc độ góc của ròng rọc là 20 rad/s. Đường kính của ròng rọc là
+Câu 21. [VD] Một điểm trên vành ròng rọc chuyển động tròn đều với tốc độ 8 m/s, tốc độ góc của ròng rọc là 20 rad/s. Đường kính của ròng rọc là
 A. 0,4 m.
 B. 2,5 m.
 C. 0,2 m.
@@ -6615,13 +6615,13 @@ b) Sai: vận tốc có độ lớn không đổi nhưng hướng luôn thay đ�
 Câu 25. [TF] [TH] Một đồng hồ có kim giờ dài 8 cm và kim phút dài 12 cm (tính từ trục quay đến mút kim), các kim quay đều.
 *A. Chu kì quay của kim giờ gấp 12 lần chu kì quay của kim phút.
 *B. Tốc độ góc của kim phút gấp 12 lần tốc độ góc của kim giờ.
-*C. Mút kim phút có tốc độ dài lớn hơn mút kim giờ.
-D. Mút kim phút và mút kim giờ có cùng tốc độ dài.
+*C. Mút kim phút có tốc độ lớn hơn mút kim giờ.
+D. Mút kim phút và mút kim giờ có cùng tốc độ.
 Lời giải
-d) Sai: kim phút có tốc độ góc gấp 12 lần và bán kính gấp $\dfrac{12}{8} = 1,5$ lần nên tốc độ dài của mút kim phút gấp $12 \cdot 1,5 = 18$ lần tốc độ dài của mút kim giờ.
+d) Sai: kim phút có tốc độ góc gấp 12 lần và bán kính gấp $\dfrac{12}{8} = 1,5$ lần nên tốc độ của mút kim phút gấp $12 \cdot 1,5 = 18$ lần tốc độ của mút kim giờ.
 
 Câu 26. [TF] [VD] Hai bánh xe A và B được nối với nhau bằng một dây curoa không trượt. Bán kính bánh A là 10 cm, bán kính bánh B là 25 cm; bánh A quay đều với tốc độ 150 vòng/phút.
-*A. Các điểm trên dây và các điểm ở mép hai bánh có cùng tốc độ dài.
+*A. Các điểm trên dây và các điểm ở mép hai bánh có cùng tốc độ.
 B. Tốc độ dài của dây curoa xấp xỉ 15,7 m/s.
 C. Hai bánh xe có cùng tốc độ góc.
 D. Bánh B quay với tốc độ 375 vòng/phút.
@@ -6632,15 +6632,15 @@ Câu 27. [TF] [VD] Một đĩa tròn bán kính 20 cm quay đều quanh trục �
 *A. Tốc độ góc của đĩa là $3\pi$ rad/s.
 *B. Tần số quay của đĩa là 1,5 Hz.
 C. Tốc độ dài của điểm ở mép đĩa là 1,2 m/s.
-D. Điểm cách tâm đĩa 10 cm có cùng tốc độ dài với điểm ở mép đĩa.
+D. Điểm cách tâm đĩa 10 cm có cùng tốc độ với điểm ở mép đĩa.
 Lời giải
-$f = \dfrac{90}{60} = 1,5$ Hz và $\omega = 2\pi f = 3\pi$ rad/s. c) Sai: $v = \omega r = 3\pi \cdot 0,20 \approx 1,88$ m/s. d) Sai: hai điểm có cùng tốc độ góc, bán kính chỉ bằng một nửa nên tốc độ dài cũng chỉ bằng một nửa.
+$f = \dfrac{90}{60} = 1,5$ Hz và $\omega = 2\pi f = 3\pi$ rad/s. c) Sai: $v = \omega r = 3\pi \cdot 0,20 \approx 1,88$ m/s. d) Sai: hai điểm có cùng tốc độ góc, bán kính chỉ bằng một nửa nên tốc độ cũng chỉ bằng một nửa.
 
 Câu 28. [TF] [VD] Một vòng đu quay có bán kính 20 m, quay đều, mỗi vòng mất 4 phút. Xét một người ngồi ở mép vòng đu quay (coi là chất điểm).
 *A. Tốc độ góc của người đó xấp xỉ 0,026 rad/s.
 *B. Tốc độ dài của người đó xấp xỉ 0,52 m/s.
 *C. Sau 1 phút, bán kính nối người đó với tâm quay được góc $\dfrac{\pi}{2}$ rad.
-D. Nếu chu kì không đổi thì tốc độ dài của người đó tỉ lệ nghịch với khoảng cách từ người đó đến trục quay.
+D. Nếu chu kì không đổi thì tốc độ của người đó tỉ lệ nghịch với khoảng cách từ người đó đến trục quay.
 Lời giải
 $T = 240$ s nên $\omega = \dfrac{2\pi}{240} \approx 0,026$ rad/s, $v = \omega r \approx 0,026 \cdot 20 \approx 0,52$ m/s; sau 60 s góc quay là $\dfrac{60}{240}$ vòng, tức $\dfrac{\pi}{2}$ rad. d) Sai: $v = \dfrac{2\pi r}{T}$ nên với $T$ không đổi, $v$ tỉ lệ thuận với $r$.
 
@@ -6667,12 +6667,12 @@ Trả lời: [[0,10]]
 Lời giải
 Kim giây quay một vòng trong 60 s nên $\omega = \dfrac{2\pi}{60} \approx 0,10$ rad/s.
 
-Câu 33. [VD] Một quạt quay đều với tốc độ 450 vòng/phút. Đầu cánh quạt cách trục quay 0,40 m. Tính tốc độ dài của đầu cánh quạt (theo đơn vị m/s), làm tròn đến một chữ số thập phân.
+Câu 33. [VD] Một quạt quay đều với tốc độ 450 vòng/phút. Đầu cánh quạt cách trục quay 0,40 m. Tính tốc độ của đầu cánh quạt (theo đơn vị m/s), làm tròn đến một chữ số thập phân.
 Trả lời: [[18,8]]
 Lời giải
 $\omega = 450 \cdot \dfrac{2\pi}{60} = 15\pi$ rad/s nên $v = \omega r = 15\pi \cdot 0,40 = 6\pi \approx 18,8$ m/s.
 
-Câu 34. [VD] Một vệ tinh nhân tạo chuyển động tròn đều quanh Trái Đất trên quỹ đạo có bán kính 6800 km, chu kì 92 phút. Tính tốc độ dài của vệ tinh (theo đơn vị km/s), làm tròn đến một chữ số thập phân.
+Câu 34. [VD] Một vệ tinh nhân tạo chuyển động tròn đều quanh Trái Đất trên quỹ đạo có bán kính 6800 km, chu kì 92 phút. Tính tốc độ của vệ tinh (theo đơn vị km/s), làm tròn đến một chữ số thập phân.
 Trả lời: [[7,7]]
 Lời giải
 $T = 92 \cdot 60 = 5520$ s nên $v = \dfrac{2\pi r}{T} = \dfrac{2\pi \cdot 6800}{5520} \approx 7,7$ km/s.
@@ -6682,7 +6682,7 @@ Trả lời: [[8]]
 Lời giải
 $v = 54$ km/h $= 15$ m/s và $r = 0,30$ m nên $\omega = \dfrac{v}{r} = 50$ rad/s; tần số $f = \dfrac{\omega}{2\pi} = \dfrac{50}{2\pi} \approx 8$ vòng/s.
 
-Câu 36. [VD] Một chất điểm chuyển động tròn đều trên đường tròn bán kính 0,50 m với tốc độ dài 2,0 m/s. Tính số vòng chất điểm quay được trong 1 phút (theo đơn vị vòng), làm tròn đến một chữ số thập phân.
+Câu 36. [VD] Một chất điểm chuyển động tròn đều trên đường tròn bán kính 0,50 m với tốc độ 2,0 m/s. Tính số vòng chất điểm quay được trong 1 phút (theo đơn vị vòng), làm tròn đến một chữ số thập phân.
 Trả lời: [[38,2]]
 Lời giải
 $\omega = \dfrac{v}{r} = 4$ rad/s nên $f = \dfrac{\omega}{2\pi} = \dfrac{4}{2\pi} \approx 0,637$ Hz; số vòng trong 60 s là $60 \cdot 0,637 \approx 38,2$.
@@ -6692,10 +6692,10 @@ Trả lời: [[65,5]]
 Lời giải
 Kim phút quay 1 vòng trong 60 phút, kim giờ quay 1 vòng trong 720 phút. Kim phút phải quay hơn kim giờ đúng 1 vòng: $\left(\dfrac{1}{60} - \dfrac{1}{720}\right)t = 1$ nên $t = \dfrac{720}{11} \approx 65,5$ phút.
 
-Câu 38. [VD] Trái Đất tự quay quanh trục với chu kì 24 giờ. Coi Trái Đất là hình cầu bán kính 6400 km. Tính tốc độ dài của một điểm trên xích đạo (theo đơn vị m/s), làm tròn đến hàng đơn vị.
-Trả lời: [[465]]
+Câu 38. [VD] Do Trái Đất tự quay quanh trục với chu kì 24 giờ, một điểm trên mặt đất ở vĩ tuyến có bán kính quỹ đạo 4500 km chuyển động tròn đều. Tính tốc độ của điểm đó (theo đơn vị m/s), làm tròn đến hàng đơn vị.
+Trả lời: [[327]]
 Lời giải
-$T = 24 \cdot 3600 = 86400$ s nên $v = \dfrac{2\pi R}{T} = \dfrac{2\pi \cdot 6,4 \cdot 10^6}{86400} \approx 465$ m/s.
+$T = 24 \cdot 3600 = 86400$ s nên $v = \dfrac{2\pi r}{T} = \dfrac{2\pi \cdot 4,5 \cdot 10^6}{86400} \approx 327$ m/s.
 
 @bai 32 | Lực hướng tâm và gia tốc hướng tâm
 Câu 1. [NB] Gia tốc hướng tâm của chất điểm chuyển động tròn đều có phương chiều
@@ -6706,7 +6706,7 @@ D. hướng ra xa tâm quỹ đạo.
 Lời giải
 Trong chuyển động tròn đều, gia tốc luôn hướng vào tâm quỹ đạo nên gọi là gia tốc hướng tâm.
 
-Câu 2. [NB] Công thức tính độ lớn gia tốc hướng tâm theo tốc độ dài $v$ và bán kính quỹ đạo $r$ là
+Câu 2. [NB] Công thức tính độ lớn gia tốc hướng tâm theo tốc độ $v$ và bán kính quỹ đạo $r$ là
 A. $a_{ht} = \dfrac{v}{r}$.
 B. $a_{ht} = \dfrac{r}{v^2}$.
 C. $a_{ht} = v^2 r$.
@@ -6762,7 +6762,7 @@ D. lực ma sát trượt giữa vật và mặt bàn quay.
 Lời giải
 Trọng lực và phản lực cân bằng nhau theo phương thẳng đứng; lực ma sát nghỉ nằm ngang, hướng vào trục quay, đóng vai trò lực hướng tâm.
 
-Câu 9. [TH] Một chất điểm chuyển động tròn đều. Nếu giữ nguyên bán kính quỹ đạo và tăng tốc độ dài lên 2 lần thì gia tốc hướng tâm
+Câu 9. [TH] Một chất điểm chuyển động tròn đều. Nếu giữ nguyên bán kính quỹ đạo và tăng tốc độ lên 2 lần thì gia tốc hướng tâm
 A. tăng 2 lần.
 *B. tăng 4 lần.
 C. giảm 2 lần.
@@ -6779,7 +6779,7 @@ Lời giải
 $a_{ht} = \dfrac{v^2}{r}$ có độ lớn không đổi, nhưng luôn hướng vào tâm nên hướng của nó thay đổi theo vị trí của chất điểm.
 
 Câu 11. [TH] Phát biểu nào sau đây về lực hướng tâm trong chuyển động tròn đều là đúng?
-A. Lực hướng tâm làm tăng tốc độ dài của vật theo thời gian.
+A. Lực hướng tâm làm tăng tốc độ của vật theo thời gian.
 B. Lực hướng tâm làm thay đổi cả độ lớn lẫn hướng của vận tốc.
 *C. Lực hướng tâm chỉ làm đổi hướng vận tốc.
 D. Lực hướng tâm cùng hướng với vận tốc của vật.
@@ -6842,7 +6842,7 @@ D. $1,5 \cdot 10^{-2}$ m/s².
 Lời giải
 $T = 365 \cdot 86400 \approx 3,15 \cdot 10^7$ s nên $a_{ht} = \dfrac{4\pi^2 r}{T^2} = \dfrac{4\pi^2 \cdot 1,5 \cdot 10^{11}}{(3,15 \cdot 10^7)^2} \approx 6,0 \cdot 10^{-3}$ m/s².
 
-Câu 19. [VD] Buộc một quả cầu khối lượng 0,3 kg vào đầu sợi dây dài 1,0 m rồi quay trong mặt phẳng thẳng đứng. Khi quả cầu qua điểm thấp nhất với tốc độ 4 m/s, lấy $g = 10$ m/s², lực căng của dây khi đó là
+Câu 19. [VDC] Buộc một quả cầu khối lượng 0,3 kg vào đầu sợi dây dài 1,0 m rồi quay trong mặt phẳng thẳng đứng. Khi quả cầu qua điểm thấp nhất với tốc độ 4 m/s, lấy $g = 10$ m/s², lực căng của dây khi đó là
 A. 1,8 N.
 B. 3,0 N.
 C. 4,8 N.
@@ -6940,7 +6940,7 @@ Trả lời: [[16]]
 Lời giải
 $F_{ht} = m\omega^2 r = 2 \cdot 4^2 \cdot 0,5 = 16$ N.
 
-Câu 32. [TH] Một điểm chuyển động tròn đều trên đường tròn bán kính 0,4 m với gia tốc hướng tâm 3,6 m/s². Tính tốc độ dài của điểm đó (theo đơn vị m/s).
+Câu 32. [TH] Một điểm chuyển động tròn đều trên đường tròn bán kính 0,4 m với gia tốc hướng tâm 3,6 m/s². Tính tốc độ của điểm đó (theo đơn vị m/s).
 Trả lời: [[1,2]]
 Lời giải
 $a_{ht} = \dfrac{v^2}{r}$ nên $v = \sqrt{a_{ht} r} = \sqrt{3,6 \cdot 0,4} = \sqrt{1,44} = 1,2$ m/s.
@@ -6970,7 +6970,7 @@ Trả lời: [[0,79]]
 Lời giải
 $\omega = 60 \cdot \dfrac{2\pi}{60} = 2\pi$ rad/s nên $F_{ms} = m\omega^2 r = 0,1 \cdot (2\pi)^2 \cdot 0,2 \approx 0,79$ N.
 
-Câu 38. [VD] Một quả cầu buộc vào đầu sợi dây dài 0,9 m rồi quay trong mặt phẳng thẳng đứng. Lấy $g = 10$ m/s². Tại điểm cao nhất dây vừa đủ căng (lực căng bằng 0). Tính tốc độ của quả cầu tại điểm đó (theo đơn vị m/s).
+Câu 38. [VDC] Một quả cầu buộc vào đầu sợi dây dài 0,9 m rồi quay trong mặt phẳng thẳng đứng. Lấy $g = 10$ m/s². Tại điểm cao nhất dây vừa đủ căng (lực căng bằng 0). Tính tốc độ của quả cầu tại điểm đó (theo đơn vị m/s).
 Trả lời: [[3]]
 Lời giải
 Khi lực căng bằng 0, chỉ có trọng lực đóng vai trò lực hướng tâm: $mg = \dfrac{mv^2}{r}$ nên $v = \sqrt{gr} = \sqrt{10 \cdot 0,9} = 3$ m/s.
@@ -7040,15 +7040,15 @@ B. N/m².
 C. m/N.
 *D. N/m.
 Lời giải
-Từ $k = \dfrac{F_{đh}}{|\Delta l|}$ nên đơn vị của $k$ là niutơn trên mét (N/m).
+Từ $k = \dfrac{F_{đh}}{|\Delta \ell|}$ nên đơn vị của $k$ là niutơn trên mét (N/m).
 
 Câu 9. [TH] Biểu thức nào sau đây cho độ lớn lực đàn hồi của lò xo trong giới hạn đàn hồi?
-*A. $F_{đh} = k|\Delta l|$.
-B. $F_{đh} = \dfrac{k}{|\Delta l|}$.
-C. $F_{đh} = k|\Delta l|^2$.
-D. $F_{đh} = \dfrac{|\Delta l|}{k}$.
+*A. $F_{đh} = k|\Delta \ell|$.
+B. $F_{đh} = \dfrac{k}{|\Delta \ell|}$.
+C. $F_{đh} = k|\Delta \ell|^2$.
+D. $F_{đh} = \dfrac{|\Delta \ell|}{k}$.
 Lời giải
-Định luật Hooke: $F_{đh} = k|\Delta l|$, với $k$ là độ cứng và $|\Delta l|$ là độ biến dạng của lò xo.
+Định luật Hooke: $F_{đh} = k|\Delta \ell|$, với $k$ là độ cứng và $|\Delta \ell|$ là độ biến dạng của lò xo.
 
 Câu 10. [TH] Độ cứng $k$ của một lò xo phụ thuộc vào
 A. độ lớn của lực tác dụng lên lò xo trong từng lần đo.
@@ -7064,7 +7064,7 @@ B. đường thẳng nằm ngang song song với trục hoành.
 C. đường hypebol nằm trong góc phần tư thứ nhất.
 *D. đoạn thẳng đi qua gốc tọa độ.
 Lời giải
-$F_{đh} = k|\Delta l|$ là hàm bậc nhất đi qua gốc tọa độ nên đồ thị là đoạn thẳng có độ dốc $k$.
+$F_{đh} = k|\Delta \ell|$ là hàm bậc nhất đi qua gốc tọa độ nên đồ thị là đoạn thẳng có độ dốc $k$.
 
 Câu 12. [TH] Lò xo A có độ cứng lớn hơn lò xo B. Khi tác dụng cùng một lực kéo (trong giới hạn đàn hồi) thì
 A. lò xo A dãn nhiều hơn lò xo B.
@@ -7072,7 +7072,7 @@ A. lò xo A dãn nhiều hơn lò xo B.
 C. hai lò xo dãn như nhau.
 D. lò xo A bị đứt trước lò xo B.
 Lời giải
-$|\Delta l| = \dfrac{F}{k}$: cùng $F$, $k$ càng lớn thì độ dãn càng nhỏ.
+$|\Delta \ell| = \dfrac{F}{k}$: cùng $F$, $k$ càng lớn thì độ dãn càng nhỏ.
 
 Câu 13. [TH] Một vật nặng treo vào đầu dưới của lò xo treo thẳng đứng và đứng yên. Lực đàn hồi của lò xo tác dụng lên vật
 *A. hướng thẳng đứng lên trên và có độ lớn bằng trọng lượng của vật.
@@ -7098,13 +7098,13 @@ D. độ cứng của lò xo tăng lên gấp đôi so với trước.
 Lời giải
 Vượt quá giới hạn đàn hồi, lò xo bị biến dạng nên không lấy lại được chiều dài ban đầu (không nhất thiết bị đứt).
 
-Câu 16. [VD] Lò xo có độ cứng 100 N/m bị dãn 5 cm (trong giới hạn đàn hồi). Độ lớn lực đàn hồi của lò xo là
+Câu 16. [TH] Lò xo có độ cứng 100 N/m bị dãn 5 cm (trong giới hạn đàn hồi). Độ lớn lực đàn hồi của lò xo là
 A. 500 N.
 *B. 5 N.
 C. 20 N.
 D. 0,05 N.
 Lời giải
-Đổi $|\Delta l| = 5$ cm $= 0,05$ m. $F_{đh} = k|\Delta l| = 100 \cdot 0,05 = 5$ N. Quên đổi cm sang m sẽ ra 500 N.
+Đổi $|\Delta \ell| = 5$ cm $= 0,05$ m. $F_{đh} = k|\Delta \ell| = 100 \cdot 0,05 = 5$ N. Quên đổi cm sang m sẽ ra 500 N.
 
 Câu 17. [VD] Lò xo có chiều dài tự nhiên 20 cm, độ cứng 200 N/m. Treo thẳng đứng vào lò xo vật khối lượng 0,5 kg, lấy $g = 10$ m/s². Khi vật đứng yên, chiều dài của lò xo là
 A. 2,5 cm.
@@ -7112,23 +7112,23 @@ B. 17,5 cm.
 *C. 22,5 cm.
 D. 25 cm.
 Lời giải
-$F_{đh} = P = mg = 5$ N. $|\Delta l| = \dfrac{F_{đh}}{k} = \dfrac{5}{200} = 0,025$ m $= 2,5$ cm. Lò xo dãn nên chiều dài $= 20 + 2,5 = 22,5$ cm.
+$F_{đh} = P = mg = 5$ N. $|\Delta \ell| = \dfrac{F_{đh}}{k} = \dfrac{5}{200} = 0,025$ m $= 2,5$ cm. Lò xo dãn nên chiều dài $= 20 + 2,5 = 22,5$ cm.
 
-Câu 18. [VD] Hai lò xo có độ cứng $k_1 = 50$ N/m và $k_2 = 200$ N/m cùng bị kéo bởi lực có độ lớn như nhau (trong giới hạn đàn hồi). Gọi $\Delta l_1$, $\Delta l_2$ là độ dãn của hai lò xo. Kết luận nào đúng?
-*A. $\Delta l_1$ gấp 4 lần $\Delta l_2$.
-B. $\Delta l_1$ bằng $\dfrac{1}{4}$ $\Delta l_2$.
-C. $\Delta l_1$ gấp 2 lần $\Delta l_2$.
-D. $\Delta l_1$ bằng $\Delta l_2$.
+Câu 18. [VD] Hai lò xo có độ cứng $k_1 = 50$ N/m và $k_2 = 200$ N/m cùng bị kéo bởi lực có độ lớn như nhau (trong giới hạn đàn hồi). Gọi $\Delta \ell_1$, $\Delta \ell_2$ là độ dãn của hai lò xo. Kết luận nào đúng?
+*A. $\Delta \ell_1$ gấp 4 lần $\Delta \ell_2$.
+B. $\Delta \ell_1$ bằng $\dfrac{1}{4}$ $\Delta \ell_2$.
+C. $\Delta \ell_1$ gấp 2 lần $\Delta \ell_2$.
+D. $\Delta \ell_1$ bằng $\Delta \ell_2$.
 Lời giải
-$\Delta l = \dfrac{F}{k}$ nên $\dfrac{\Delta l_1}{\Delta l_2} = \dfrac{k_2}{k_1} = \dfrac{200}{50} = 4$.
+$\Delta \ell = \dfrac{F}{k}$ nên $\dfrac{\Delta \ell_1}{\Delta \ell_2} = \dfrac{k_2}{k_1} = \dfrac{200}{50} = 4$.
 
-Câu 19. [VD] Đồ thị lực đàn hồi theo độ biến dạng của một lò xo là đoạn thẳng qua gốc tọa độ; điểm có độ biến dạng 3 cm ứng với lực đàn hồi 6 N. Độ cứng của lò xo là
+Câu 19. [TH] Đồ thị lực đàn hồi theo độ biến dạng của một lò xo là đoạn thẳng qua gốc tọa độ; điểm có độ biến dạng 3 cm ứng với lực đàn hồi 6 N. Độ cứng của lò xo là
 A. 2 N/m.
 B. 18 N/m.
 C. 0,5 N/m.
 *D. 200 N/m.
 Lời giải
-$k = \dfrac{F}{|\Delta l|} = \dfrac{6}{0,03} = 200$ N/m (nhớ đổi 3 cm $= 0,03$ m).
+$k = \dfrac{F}{|\Delta \ell|} = \dfrac{6}{0,03} = 200$ N/m (nhớ đổi 3 cm $= 0,03$ m).
 
 Câu 20. [VD] Lò xo có chiều dài tự nhiên 30 cm. Khi bị nén bởi lực 12 N thì chiều dài của lò xo là 27 cm (trong giới hạn đàn hồi). Độ cứng của lò xo là
 A. 4 N/m.
@@ -7136,7 +7136,7 @@ A. 4 N/m.
 C. 36 N/m.
 D. 40 N/m.
 Lời giải
-Độ nén $|\Delta l| = 30 - 27 = 3$ cm $= 0,03$ m. $k = \dfrac{F}{|\Delta l|} = \dfrac{12}{0,03} = 400$ N/m.
+Độ nén $|\Delta \ell| = 30 - 27 = 3$ cm $= 0,03$ m. $k = \dfrac{F}{|\Delta \ell|} = \dfrac{12}{0,03} = 400$ N/m.
 
 Câu 21. [VD] Một lò xo dãn 3 cm khi chịu lực kéo 6 N. Trong giới hạn đàn hồi, khi lực kéo là 15 N thì lò xo dãn
 A. 12 cm.
@@ -7144,7 +7144,7 @@ B. 45 cm.
 *C. 7,5 cm.
 D. 1,2 cm.
 Lời giải
-Độ dãn tỉ lệ thuận với lực: $\dfrac{\Delta l_2}{\Delta l_1} = \dfrac{F_2}{F_1}$ nên $\Delta l_2 = 3 \cdot \dfrac{15}{6} = 7,5$ cm. Không được cộng thêm độ chênh lực vào độ dãn.
+Độ dãn tỉ lệ thuận với lực: $\dfrac{\Delta \ell_2}{\Delta \ell_1} = \dfrac{F_2}{F_1}$ nên $\Delta \ell_2 = 3 \cdot \dfrac{15}{6} = 7,5$ cm. Không được cộng thêm độ chênh lực vào độ dãn.
 
 Câu 22. [VD] Treo vật khối lượng 200 g vào đầu dưới lò xo thì lò xo dãn 4 cm. Nếu treo thêm vật khối lượng 300 g nữa vào vật trên (trong giới hạn đàn hồi) thì lò xo dãn thêm
 *A. 6 cm.
@@ -7160,7 +7160,7 @@ Câu 23. [TF] [TH] Một lò xo treo thẳng đứng, đầu dưới gắn vật
 C. Lực đàn hồi của lò xo tác dụng lên vật hướng thẳng đứng xuống dưới.
 D. Độ lớn lực đàn hồi không phụ thuộc vào độ dãn của lò xo.
 Lời giải
-Lò xo bị dãn nên chịu biến dạng kéo. Vật đứng yên nên lực đàn hồi cân bằng với trọng lực: hướng lên và có độ lớn bằng trọng lượng. Ý C sai vì lực đàn hồi hướng lên. Ý D sai vì $F_{đh} = k|\Delta l|$ phụ thuộc độ dãn.
+Lò xo bị dãn nên chịu biến dạng kéo. Vật đứng yên nên lực đàn hồi cân bằng với trọng lực: hướng lên và có độ lớn bằng trọng lượng. Ý C sai vì lực đàn hồi hướng lên. Ý D sai vì $F_{đh} = k|\Delta \ell|$ phụ thuộc độ dãn.
 
 Câu 24. [TF] [TH] Về biến dạng đàn hồi và giới hạn đàn hồi của lò xo:
 *A. Trong giới hạn đàn hồi, khi ngừng tác dụng lực thì lò xo trở về chiều dài tự nhiên.
@@ -7173,10 +7173,10 @@ Chỉ ý A đúng. Ý B sai vì vượt giới hạn đàn hồi lò xo không t
 Câu 25. [TF] [TH] Về độ cứng $k$ của lò xo:
 *A. Đơn vị của $k$ trong hệ SI là N/m.
 *B. Lò xo có $k$ lớn hơn thì cứng hơn, tức khó biến dạng hơn.
-*C. Hai lò xo cùng chất liệu và cùng kích thước thì có cùng độ cứng.
+*C. Hai lò xo giống hệt nhau (cùng chất liệu, kích thước và hình dạng) thì có cùng độ cứng.
 D. Lò xo càng bị dãn nhiều thì độ cứng $k$ càng lớn.
 Lời giải
-Ba ý đầu đúng. Ý D sai vì $k$ là đặc trưng của lò xo (chất liệu, kích thước), không thay đổi theo độ dãn.
+Ba ý đầu đúng. Ý D sai vì $k$ là đặc trưng của lò xo (chất liệu, kích thước, hình dạng), không thay đổi theo độ dãn.
 
 Câu 26. [TF] [VD] Lò xo có chiều dài tự nhiên 30 cm, độ cứng 100 N/m, treo thẳng đứng; vật nặng khối lượng 0,6 kg gắn vào đầu dưới và đứng yên. Lấy $g = 10$ m/s², lò xo luôn trong giới hạn đàn hồi.
 *A. Độ lớn lực đàn hồi của lò xo là 6 N.
@@ -7184,9 +7184,9 @@ Câu 26. [TF] [VD] Lò xo có chiều dài tự nhiên 30 cm, độ cứng 100 N
 *C. Chiều dài của lò xo khi đó là 36 cm.
 *D. Nếu thay vật bằng vật có khối lượng 1,2 kg thì lò xo dãn 12 cm.
 Lời giải
-$F_{đh} = mg = 6$ N. $|\Delta l| = \dfrac{6}{100} = 0,06$ m $= 6$ cm. Chiều dài $= 30 + 6 = 36$ cm. Khối lượng gấp đôi thì độ dãn gấp đôi: 12 cm. Cả bốn ý đều đúng.
+$F_{đh} = mg = 6$ N. $|\Delta \ell| = \dfrac{6}{100} = 0,06$ m $= 6$ cm. Chiều dài $= 30 + 6 = 36$ cm. Khối lượng gấp đôi thì độ dãn gấp đôi: 12 cm. Cả bốn ý đều đúng.
 
-Câu 27. [TF] [VD] Đồ thị độ lớn lực đàn hồi theo độ biến dạng của một lò xo là đoạn thẳng qua gốc tọa độ và qua điểm ($\Delta l = 4$ cm; $F = 8$ N).
+Câu 27. [TF] [VD] Đồ thị độ lớn lực đàn hồi theo độ biến dạng của một lò xo là đoạn thẳng qua gốc tọa độ và qua điểm ($\Delta \ell = 4$ cm; $F = 8$ N).
 *A. Độ cứng của lò xo là 200 N/m.
 *B. Lò xo dãn 6 cm thì lực đàn hồi là 12 N.
 C. Lò xo dãn 10 cm thì lực đàn hồi là 10 N.
@@ -7200,7 +7200,7 @@ Câu 28. [TF] [VD] Lò xo nằm ngang, một đầu cố định, đầu kia tì
 *C. Lực đàn hồi tác dụng lên vật có xu hướng đẩy vật ra xa đầu cố định của lò xo.
 D. Nếu nén lò xo còn 12 cm thì độ lớn lực đàn hồi giảm đi.
 Lời giải
-$|\Delta l| = 20 - 16 = 4$ cm. $F_{đh} = 250 \cdot 0,04 = 10$ N. Lò xo bị nén thì đẩy vật ra xa. Nén còn 12 cm thì độ nén là 8 cm, $F_{đh} = 20$ N, tăng lên chứ không giảm (ý D sai).
+$|\Delta \ell| = 20 - 16 = 4$ cm. $F_{đh} = 250 \cdot 0,04 = 10$ N. Lò xo bị nén thì đẩy vật ra xa. Nén còn 12 cm thì độ nén là 8 cm, $F_{đh} = 20$ N, tăng lên chứ không giảm (ý D sai).
 
 Câu 29. [TF] [VD] Hai lò xo có độ cứng $k_1 = 100$ N/m và $k_2 = 300$ N/m cùng bị kéo bởi lực 6 N (trong giới hạn đàn hồi).
 *A. Lò xo 1 dãn 6 cm.
@@ -7213,42 +7213,42 @@ Lò xo 1: $\dfrac{6}{100} = 0,06$ m $= 6$ cm (ý A đúng). Lò xo 2: $\dfrac{6}
 Câu 30. [TH] Lò xo có độ cứng 250 N/m bị dãn 4 cm (trong giới hạn đàn hồi). Tính độ lớn lực đàn hồi (theo đơn vị N).
 Trả lời: [[10]]
 Lời giải
-$F_{đh} = k|\Delta l| = 250 \cdot 0,04 = 10$ N.
+$F_{đh} = k|\Delta \ell| = 250 \cdot 0,04 = 10$ N.
 
 Câu 31. [TH] Một lò xo bị dãn 2 cm khi chịu lực kéo 8 N (trong giới hạn đàn hồi). Tính độ cứng của lò xo (theo đơn vị N/m).
 Trả lời: [[400]]
 Lời giải
-$k = \dfrac{F}{|\Delta l|} = \dfrac{8}{0,02} = 400$ N/m.
+$k = \dfrac{F}{|\Delta \ell|} = \dfrac{8}{0,02} = 400$ N/m.
 
 Câu 32. [TH] Lò xo có độ cứng 80 N/m. Để lò xo dãn ra (trong giới hạn đàn hồi) người ta kéo bằng lực 2,4 N. Tính độ dãn của lò xo (theo đơn vị cm).
 Trả lời: [[3]]
 Lời giải
-$|\Delta l| = \dfrac{F}{k} = \dfrac{2,4}{80} = 0,03$ m $= 3$ cm.
+$|\Delta \ell| = \dfrac{F}{k} = \dfrac{2,4}{80} = 0,03$ m $= 3$ cm.
 
 Câu 33. [VD] Lò xo có chiều dài tự nhiên 25 cm, độ cứng 100 N/m. Treo thẳng đứng vật khối lượng 0,3 kg vào đầu dưới của lò xo, lấy $g = 10$ m/s². Khi vật đứng yên, tính chiều dài của lò xo (theo đơn vị cm).
 Trả lời: [[28]]
 Lời giải
-$F_{đh} = mg = 3$ N. $|\Delta l| = \dfrac{3}{100} = 0,03$ m $= 3$ cm. Chiều dài $= 25 + 3 = 28$ cm.
+$F_{đh} = mg = 3$ N. $|\Delta \ell| = \dfrac{3}{100} = 0,03$ m $= 3$ cm. Chiều dài $= 25 + 3 = 28$ cm.
 
 Câu 34. [VD] Một vật trượt thẳng đều trên mặt bàn nằm ngang nhờ một lò xo nằm ngang kéo vật. Lò xo có độ cứng 600 N/m và dãn 3 cm. Coi lực kéo của lò xo cân bằng với lực ma sát. Tính độ lớn lực ma sát tác dụng lên vật (theo đơn vị N).
 Trả lời: [[18]]
 Lời giải
-Vật chuyển động thẳng đều nên lực ma sát cân bằng với lực kéo của lò xo: $F_{ms} = k|\Delta l| = 600 \cdot 0,03 = 18$ N.
+Vật chuyển động thẳng đều nên lực ma sát cân bằng với lực kéo của lò xo: $F_{ms} = k|\Delta \ell| = 600 \cdot 0,03 = 18$ N.
 
 Câu 35. [VD] Lò xo có chiều dài tự nhiên 30 cm, độ cứng 150 N/m, bị nén còn 24 cm (trong giới hạn đàn hồi). Tính độ lớn lực đàn hồi của lò xo (theo đơn vị N).
 Trả lời: [[9]]
 Lời giải
-Độ nén $|\Delta l| = 30 - 24 = 6$ cm $= 0,06$ m. $F_{đh} = 150 \cdot 0,06 = 9$ N.
+Độ nén $|\Delta \ell| = 30 - 24 = 6$ cm $= 0,06$ m. $F_{đh} = 150 \cdot 0,06 = 9$ N.
 
 Câu 36. [VD] Treo một vật vào đầu dưới lò xo có độ cứng 200 N/m thì lò xo dãn 5 cm khi vật đứng yên. Lấy $g = 10$ m/s². Tính khối lượng của vật (theo đơn vị kg).
 Trả lời: [[1]]
 Lời giải
-$P = F_{đh} = k|\Delta l| = 200 \cdot 0,05 = 10$ N. $m = \dfrac{P}{g} = \dfrac{10}{10} = 1$ kg.
+$P = F_{đh} = k|\Delta \ell| = 200 \cdot 0,05 = 10$ N. $m = \dfrac{P}{g} = \dfrac{10}{10} = 1$ kg.
 
 Câu 37. [VD] Treo vật khối lượng 0,2 kg vào lò xo thì lò xo có chiều dài 20 cm; treo vật khối lượng 0,4 kg thì chiều dài là 24 cm (trong giới hạn đàn hồi, lấy $g = 10$ m/s²). Tính chiều dài tự nhiên của lò xo (theo đơn vị cm).
 Trả lời: [[16]]
 Lời giải
-Lực treo tăng $2$ N làm lò xo dài thêm $0,04$ m nên $k = \dfrac{2}{0,04} = 50$ N/m. Với vật 0,2 kg: $|\Delta l| = \dfrac{2}{50} = 0,04$ m $= 4$ cm nên $l_0 = 20 - 4 = 16$ cm.
+Lực treo tăng $2$ N làm lò xo dài thêm $0,04$ m nên $k = \dfrac{2}{0,04} = 50$ N/m. Với vật 0,2 kg: $|\Delta \ell| = \dfrac{2}{50} = 0,04$ m $= 4$ cm nên $\ell_0 = 20 - 4 = 16$ cm.
 
 Câu 38. [VD] Lò xo có chiều dài tự nhiên 25 cm. Khi bị kéo bởi một lực $F$ thì lò xo dài 28 cm. Nếu thay bằng lực nén có cùng độ lớn $F$ (trong giới hạn đàn hồi) thì lò xo dài bao nhiêu (theo đơn vị cm)?
 Trả lời: [[22]]
@@ -7376,7 +7376,7 @@ D. 7800 g/cm³.
 Lời giải
 $1000$ kg/m³ $= 1$ g/cm³ nên $7800$ kg/m³ $= 7,8$ g/cm³.
 
-Câu 16. [VD] Một vật đặc có khối lượng 540 g và thể tích 200 cm³. Khối lượng riêng của chất làm vật là
+Câu 16. [TH] Một vật đặc có khối lượng 540 g và thể tích 200 cm³. Khối lượng riêng của chất làm vật là
 A. 0,37 g/cm³.
 *B. 2,7 g/cm³.
 C. 2700 g/cm³.
@@ -7384,7 +7384,7 @@ D. 0,27 g/cm³.
 Lời giải
 $\rho = \dfrac{m}{V} = \dfrac{540}{200} = 2,7$ g/cm³ $= 2700$ kg/m³.
 
-Câu 17. [VD] Một vật có trọng lượng 600 N đặt trên mặt bàn nằm ngang, diện tích tiếp xúc với mặt bàn là 0,03 m². Áp suất vật tác dụng lên mặt bàn là
+Câu 17. [TH] Một vật có trọng lượng 600 N đặt trên mặt bàn nằm ngang, diện tích tiếp xúc với mặt bàn là 0,03 m². Áp suất vật tác dụng lên mặt bàn là
 *A. 20000 Pa.
 B. 18 Pa.
 C. 2000 Pa.
