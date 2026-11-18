@@ -172,6 +172,18 @@ Trả lời: [[3]]
 Lời giải
 Các ứng dụng (1), (2), (4) dựa trên thành tựu vật lí; (3) thuộc hóa học, (5) thuộc sinh học.
 
+Câu 29. [TF] [NB] Về đối tượng nghiên cứu và các cấp độ của thế giới tự nhiên:
+*A. Vật lí nghiên cứu các dạng vận động của vật chất và năng lượng.
+B. Thế giới vi mô gồm các vật có kích thước rất lớn như hành tinh, thiên hà.
+*C. Nguyên tử, phân tử thuộc thế giới vi mô.
+D. Vật lí chỉ nghiên cứu các hiện tượng xảy ra trên Trái Đất.
+
+Câu 30. [TF] [NB] Về phương pháp nghiên cứu vật lí và các cuộc cách mạng công nghiệp:
+*A. Trong phương pháp thực nghiệm, nếu thí nghiệm chứng tỏ dự đoán sai thì phải đưa ra dự đoán mới hoặc xác định lại vấn đề.
+B. Phương pháp mô hình không sử dụng mô hình toán học.
+*C. Cuộc cách mạng công nghiệp lần thứ nhất gắn với việc sử dụng máy hơi nước.
+D. Cuộc cách mạng công nghiệp lần thứ ba gắn với sự xuất hiện của máy hơi nước.
+
 @bai 2 | Các quy tắc an toàn trong phòng thực hành vật lí
 @yccd NB | Nêu được các quy tắc an toàn khi sử dụng thiết bị, khi làm việc với điện, nguồn nhiệt, chất phóng xạ; nhận biết được các kí hiệu, biển báo trên thiết bị và trong phòng thực hành.
 @yccd TH | Giải thích được nguy cơ mất an toàn khi không tuân thủ quy tắc trong phòng thực hành.
@@ -276,6 +288,18 @@ B. Nên mở vỏ đồng hồ để tìm nguyên nhân.
 *C. Cần báo cho giáo viên phụ trách phòng thực hành.
 D. Có thể tiếp tục đo nếu kim đồng hồ vẫn còn quay.
 
+Câu 17. [TF] [NB] Về biển báo và kí hiệu cảnh báo trong phòng thực hành:
+*A. Biển báo hình tam giác, nền vàng, viền đen là biển cảnh báo nguy hiểm.
+B. Biển báo hình tròn, viền đỏ, có gạch chéo là biển chỉ dẫn.
+*C. Kí hiệu hình tam giác có tia sét bên trong cảnh báo nguy hiểm về điện.
+D. Kí hiệu hình ngọn lửa cho biết thiết bị chống cháy tốt.
+
+Câu 18. [TF] [NB] Về các quy tắc an toàn khi làm thí nghiệm:
+*A. Cần đọc kĩ hướng dẫn sử dụng và quan sát các chỉ dẫn, kí hiệu trên thiết bị trước khi sử dụng.
+B. Được phép dùng tay ướt để cắm, tháo thiết bị điện.
+*C. Phải tắt công tắc nguồn thiết bị điện trước khi cắm hoặc tháo thiết bị điện.
+D. Có thể làm thí nghiệm khi chưa được giáo viên cho phép.
+
 @bai 3 | Thực hành tính sai số trong phép đo. Ghi kết quả đo
 @yccd NB | Nêu được phép đo trực tiếp, phép đo gián tiếp; các loại sai số (sai số hệ thống, sai số ngẫu nhiên).
 @yccd TH | Tính được giá trị trung bình, sai số tuyệt đối, sai số tỉ đối và viết đúng kết quả phép đo.
@@ -378,12 +402,51 @@ Trả lời: [[3]]
 Lời giải
 $\delta a = 0,1/10,0 = 1\%$; $\delta b = 0,1/5,0 = 2\%$; $\delta S = \delta a + \delta b = 3\%$.
 
+Câu 17. [TF] [NB] Về phép đo các đại lượng vật lí:
+*A. Phép đo trực tiếp là phép đo đọc được giá trị của đại lượng cần đo trực tiếp trên dụng cụ đo.
+B. Đo thể tích một khối hộp bằng cách đo ba cạnh rồi tính là phép đo trực tiếp.
+*C. Dùng thước đo chiều dài chiếc bàn là phép đo trực tiếp.
+*D. Đo ba cạnh của khối hộp rồi tính thể tích là phép đo gián tiếp.
+
+Câu 18. [TF] [NB] Về các loại sai số của phép đo:
+*A. Sai số hệ thống có tính quy luật, lặp lại ở tất cả các lần đo và thường do dụng cụ đo gây ra.
+B. Sai số ngẫu nhiên luôn làm kết quả đo lớn hơn giá trị thực của đại lượng cần đo.
+C. Sai số ngẫu nhiên có thể loại bỏ hoàn toàn bằng cách hiệu chỉnh dụng cụ đo.
+D. Sai số tỉ đối càng lớn thì phép đo càng chính xác.
+
+Câu 19. [NB] Một thước kẹp có độ chia nhỏ nhất là 0,02 mm. Lấy sai số dụng cụ bằng một nửa độ chia nhỏ nhất. Sai số dụng cụ của thước kẹp là bao nhiêu mm?
+Trả lời: [[0,01]]
+
+Câu 20. [NB] Kết quả đo khối lượng một vật được ghi là $m = (250 \pm 2)$ g. Sai số tuyệt đối của phép đo là bao nhiêu gam?
+Trả lời: [[2]]
+
+Câu 21. [VDC] Đo tốc độ theo công thức $v = \dfrac{s}{t}$. Quãng đường đo được với sai số tỉ đối 0,4%; thời gian đo được khoảng 2,00 s bằng đồng hồ có sai số dụng cụ 0,002 s. Để sai số tỉ đối của tốc độ không vượt quá 1% thì sai số ngẫu nhiên (sai số tuyệt đối trung bình của các lần đo thời gian) không được vượt quá
+*A. 0,010 s.
+B. 0,012 s.
+C. 0,014 s.
+D. 0,008 s.
+Lời giải
+$\delta v = \delta s + \delta t \le 1\%$ ⇒ $\delta t \le 0,6\%$ ⇒ $\Delta t \le 0,006 \cdot 2,00 = 0,012$ s.
+$\Delta t = \overline{\Delta t} + \Delta t_{dc}$ ⇒ $\overline{\Delta t} \le 0,012 - 0,002 = 0,010$ s.
+
+Câu 22. [VDC] Đo đường kính một viên bi bằng thước kẹp có độ chia nhỏ nhất 0,02 mm (lấy sai số dụng cụ bằng một nửa độ chia nhỏ nhất), 5 lần đo được: 12,02 mm; 12,06 mm; 12,04 mm; 12,00 mm; 12,08 mm. Sai số tỉ đối của phép đo bằng bao nhiêu phần trăm? (Làm tròn đến hai chữ số thập phân.)
+Trả lời: [[0,28]]
+Lời giải
+$\bar d = 12,04$ mm; sai số tuyệt đối trung bình $\overline{\Delta d} = \dfrac{0,02 + 0,02 + 0 + 0,04 + 0,04}{5} = 0,024$ mm.
+Sai số dụng cụ $0,01$ mm nên $\Delta d = 0,024 + 0,01 = 0,034$ mm; $\delta d = \dfrac{0,034}{12,04} \cdot 100\% \approx 0,28\%$.
+
+Câu 23. [VDC] Gia tốc của một vật được xác định bằng công thức $a = \dfrac{2s}{t^2}$ với $s = (1,000 \pm 0,002)$ m và $t = (0,500 \pm 0,005)$ s. Sai số tuyệt đối của gia tốc là bao nhiêu m/s²? (Làm tròn đến hai chữ số thập phân.)
+Trả lời: [[0,18]]
+Lời giải
+$a = \dfrac{2 \cdot 1,000}{0,500^2} = 8,00$ m/s². Vì $t^2 = t \cdot t$ nên $\delta a = \delta s + 2\delta t = 0,2\% + 2 \cdot 1\% = 2,2\%$.
+$\Delta a = 0,022 \cdot 8,00 \approx 0,18$ m/s².
+
 @chuong II | Động học
 
 @bai 4 | Độ dịch chuyển và quãng đường đi được
 @yccd NB | Phân biệt được độ dịch chuyển (đại lượng vectơ) và quãng đường đi được (đại lượng vô hướng); nêu được điều kiện để độ lớn độ dịch chuyển bằng quãng đường đi được.
 @yccd TH | Xác định được độ dịch chuyển và quãng đường đi được của vật chuyển động thẳng có đổi chiều trên trục toạ độ.
-@yccd VD | –
+@yccd VD | Xác định được độ lớn, hướng của độ dịch chuyển và quãng đường đi được khi vật chuyển động theo nhiều đoạn có hướng khác nhau (đổi chiều, vuông góc) trong tình huống thực tế.
 Câu 1. [NB] Độ dịch chuyển là đại lượng
 *A. vectơ, cho biết độ dài và hướng của sự thay đổi vị trí của vật.
 B. vô hướng, cho biết độ dài quỹ đạo vật đã đi.
@@ -545,6 +608,37 @@ Trả lời: [[1000]]
 
 Câu 28. [TH] Một xe đi thẳng 5 km theo hướng Bắc rồi quay đầu đi 2 km theo hướng Nam. Độ lớn độ dịch chuyển của xe là bao nhiêu km?
 Trả lời: [[3]]
+
+Câu 29. [TF] [NB] Về độ dịch chuyển:
+*A. Độ dịch chuyển có độ dài bằng khoảng cách từ vị trí đầu đến vị trí cuối của vật.
+*B. Độ dịch chuyển có hướng từ vị trí đầu đến vị trí cuối của vật.
+C. Độ dịch chuyển có đơn vị là m/s trong hệ SI.
+D. Khi vật trở về vị trí xuất phát, độ dịch chuyển bằng quãng đường đi được.
+
+Câu 30. [TF] [NB] Về quãng đường đi được:
+*A. Quãng đường đi được cho biết độ dài quỹ đạo mà vật đã đi.
+B. Quãng đường đi được có hướng từ vị trí đầu đến vị trí cuối của vật.
+*C. Trong hệ SI, quãng đường đi được có đơn vị là mét.
+D. Quãng đường đi được bằng không khi vật trở về vị trí xuất phát.
+
+Câu 31. [NB] Một học sinh đi từ nhà đến trường trên một đường thẳng, không đổi chiều, quãng đường đi được là 2 km. Độ lớn độ dịch chuyển của học sinh là bao nhiêu km?
+Trả lời: [[2]]
+
+Câu 32. [NB] Một vận động viên chạy 3 vòng quanh sân rồi dừng lại đúng ở vạch xuất phát. Độ dịch chuyển của vận động viên là bao nhiêu mét?
+Trả lời: [[0]]
+
+Câu 33. [VDC] Một người đi bộ dọc theo cạnh một khu đất hình vuông cạnh 100 m: xuất phát từ góc A, đi hết cạnh AB, hết cạnh BC rồi dừng ở trung điểm cạnh CD. Quãng đường đi được và độ lớn độ dịch chuyển của người đó lần lượt là
+A. 250 m và 100 m.
+B. 250 m và 150 m.
+C. khoảng 112 m và 250 m.
+*D. 250 m và khoảng 112 m.
+Lời giải
+$s = 100 + 100 + 50 = 250$ m. Chọn A là gốc, điểm dừng cách A 50 m theo phương AB và 100 m theo phương vuông góc ⇒ $d = \sqrt{50^2 + 100^2} \approx 112$ m.
+
+Câu 34. [VDC] Một người đi 4 km theo hướng Đông, sau đó đi tiếp 6 km theo hướng Đông Bắc (lệch 45° so với hướng Đông về phía Bắc). Độ lớn độ dịch chuyển của người đó là bao nhiêu km? (Làm tròn đến hàng phần mười.)
+Trả lời: [[9,3]]
+Lời giải
+Theo hướng Đông: $4 + 6\cos 45° \approx 8,24$ km; theo hướng Bắc: $6\sin 45° \approx 4,24$ km ⇒ $d = \sqrt{8,24^2 + 4,24^2} \approx 9,3$ km.
 
 @bai 5 | Tốc độ và vận tốc
 @yccd NB | Nêu được định nghĩa, ý nghĩa của tốc độ trung bình, vận tốc; phân biệt tốc độ và vận tốc.
@@ -712,7 +806,46 @@ Trả lời: [[2]]
 Lời giải
 Ngược dòng: $v = 12 - 3 = 9$ km/h; $t = 18/9 = 2$ giờ.
 
+Câu 29. [TF] [NB] Về tốc độ:
+*A. Tốc độ trung bình bằng quãng đường đi được chia cho thời gian đi hết quãng đường đó.
+B. Tốc độ là đại lượng vectơ.
+*C. Số chỉ của tốc kế trên xe cho biết tốc độ tức thời của xe.
+D. Đơn vị của tốc độ trong hệ SI là km/h.
+
+Câu 30. [TF] [NB] Về vận tốc:
+*A. Vận tốc trung bình bằng độ dịch chuyển chia cho thời gian thực hiện độ dịch chuyển đó.
+B. Vận tốc trung bình luôn có độ lớn bằng tốc độ trung bình.
+*C. Vận tốc là đại lượng vectơ.
+D. Công thức cộng vận tốc là $\vec v_{13} = \vec v_{12} - \vec v_{23}$.
+
+Câu 31. [NB] Tốc kế của một xe máy đang chỉ 40 km/h. Tốc độ tức thời của xe lúc đó là bao nhiêu km/h?
+Trả lời: [[40]]
+
+Câu 32. [NB] Một ô tô chạy thẳng, không đổi chiều với tốc độ trung bình 50 km/h. Độ lớn vận tốc trung bình của ô tô là bao nhiêu km/h?
+Trả lời: [[50]]
+
+Câu 33. [VDC] Một ca nô chạy xuôi dòng từ bến A đến bến B mất 2 giờ, chạy ngược dòng từ B về A mất 3 giờ (tốc độ của ca nô đối với nước không đổi). Nếu tắt máy để ca nô trôi theo dòng nước từ A đến B thì mất
+*A. 12 giờ.
+B. 6 giờ.
+C. 5 giờ.
+D. 2,5 giờ.
+Lời giải
+Gọi $AB = L$: $v + u = \dfrac{L}{2}$; $v - u = \dfrac{L}{3}$ ⇒ $u = \dfrac{L}{12}$ ⇒ thời gian trôi $t = \dfrac{L}{u} = 12$ giờ.
+
+Câu 34. [VDC] Một xe chạy thẳng, không đổi chiều: $\dfrac{1}{3}$ quãng đường đầu với tốc độ 60 km/h, $\dfrac{2}{3}$ quãng đường còn lại với tốc độ 30 km/h. Tốc độ trung bình của xe trên cả quãng đường là bao nhiêu km/h?
+Trả lời: [[36]]
+Lời giải
+$t = \dfrac{s/3}{60} + \dfrac{2s/3}{30} = \dfrac{s}{180} + \dfrac{4s}{180} = \dfrac{s}{36}$ ⇒ $v_{tb} = \dfrac{s}{t} = 36$ km/h.
+
+Câu 35. [VDC] Một con sông rộng 120 m, nước chảy với vận tốc 3 m/s. Một thuyền có vận tốc 4 m/s đối với nước. Muốn thuyền sang thẳng bờ bên kia (điểm đến đối diện điểm xuất phát) thì thời gian qua sông là bao nhiêu giây? (Làm tròn đến hàng đơn vị.)
+Trả lời: [[45]]
+Lời giải
+Mũi thuyền phải hướng chếch ngược dòng để vận tốc tổng hợp vuông góc với bờ: $v = \sqrt{4^2 - 3^2} = \sqrt{7} \approx 2,65$ m/s ⇒ $t = \dfrac{120}{2,65} \approx 45$ s.
+
 @bai 6 | Thực hành: Đo tốc độ của vật chuyển động
+@yccd NB | Nêu được dụng cụ, cách bố trí thí nghiệm đo tốc độ (đồng hồ đo thời gian hiện số, cổng quang điện); nêu được ưu, nhược điểm của một số cách đo tốc độ thông dụng.
+@yccd TH | Giải thích được cách đo tốc độ trung bình và tốc độ tức thời bằng cổng quang điện; tính được tốc độ và sai số từ số liệu đo.
+@yccd VD | Thiết kế hoặc lựa chọn được phương án và thực hiện phương án (hoặc dựa trên số liệu cho trước) đo tốc độ của vật chuyển động bằng dụng cụ thực hành; xử lí số liệu, ghi đúng kết quả đo.
 Câu 1. [NB] Để đo tốc độ trung bình của một vật, cần đo
 A. lực tác dụng lên vật và thời gian chuyển động.
 B. khối lượng của vật và thời gian chuyển động của vật.
@@ -801,8 +934,40 @@ Trả lời: [[2]]
 Câu 16. [TH] Tấm chắn sáng có bề rộng 10 mm đi qua cổng quang điện trong thời gian 0,025 s. Tốc độ của tấm chắn là bao nhiêu m/s?
 Trả lời: [[0,4]]
 
+Câu 17. [TF] [NB] Về dụng cụ đo tốc độ trong phòng thí nghiệm:
+*A. Đồng hồ đo thời gian hiện số kết hợp với cổng quang điện dùng để đo khoảng thời gian chính xác.
+B. Cổng quang điện dùng để đo chiều dài quãng đường vật đi được.
+*C. Để đo tốc độ trung bình cần đo quãng đường và thời gian vật đi hết quãng đường đó.
+D. Dùng đồng hồ bấm giây bằng tay luôn cho kết quả chính xác hơn dùng cổng quang điện.
+
+Câu 18. [TF] [NB] Về các cách đo thời gian và tốc độ:
+*A. Khi dùng đồng hồ bấm giây bằng tay, sai số chủ yếu do thời gian phản xạ của người bấm.
+B. Đồng hồ đo thời gian hiện số chỉ đo được những khoảng thời gian dài hơn 1 phút.
+*C. Khi vật chắn tia sáng của cổng quang điện, cổng gửi tín hiệu đến đồng hồ đo thời gian.
+D. Muốn đo tốc độ tức thời của viên bi tại một điểm, cần đo thời gian viên bi lăn hết cả máng nghiêng.
+
+Câu 19. [NB] Để đo tốc độ tức thời của viên bi khi đi qua một điểm bằng đồng hồ đo thời gian hiện số, cần đặt bao nhiêu cổng quang điện tại điểm đó?
+Trả lời: [[1]]
+
+Câu 20. [NB] Để đo tốc độ trung bình của viên bi khi đi từ điểm A đến điểm B bằng đồng hồ đo thời gian hiện số, cần đặt bao nhiêu cổng quang điện (mỗi điểm một cổng)?
+Trả lời: [[2]]
+
+Câu 21. [VDC] Đo thời gian một xe đi hết quãng đường $s = (0,500 \pm 0,001)$ m ba lần được: 0,498 s; 0,502 s; 0,500 s. Sai số dụng cụ của đồng hồ là 0,001 s. Kết quả đo tốc độ trung bình của xe được ghi đúng là
+A. $v = (1,000 \pm 0,003)$ m/s.
+B. $v = (1,000 \pm 0,002)$ m/s.
+C. $v = (1,00 \pm 0,07)$ m/s.
+*D. $v = (1,000 \pm 0,007)$ m/s.
+Lời giải
+$\bar t = 0,500$ s; $\overline{\Delta t} = \dfrac{0,002 + 0,002 + 0}{3} \approx 0,0013$ s ⇒ $\Delta t \approx 0,0013 + 0,001 = 0,0023$ s.
+$\bar v = \dfrac{0,500}{0,500} = 1,000$ m/s; $\delta v = \dfrac{0,001}{0,500} + \dfrac{0,0023}{0,500} \approx 0,67\%$ ⇒ $\Delta v \approx 0,007$ m/s.
+
+Câu 22. [VDC] Một tấm chắn sáng có bề rộng $d = (10,0 \pm 0,1)$ mm đi qua cổng quang điện trong thời gian $t = (0,0250 \pm 0,0005)$ s. Sai số tuyệt đối của tốc độ đo được là bao nhiêu cm/s? (Làm tròn đến hàng phần mười.)
+Trả lời: [[1,2]]
+Lời giải
+$v = \dfrac{1,00 \text{ cm}}{0,0250 \text{ s}} = 40$ cm/s; $\delta v = \dfrac{0,1}{10,0} + \dfrac{0,0005}{0,0250} = 1\% + 2\% = 3\%$ ⇒ $\Delta v = 0,03 \cdot 40 = 1,2$ cm/s.
+
 @bai 7 | Đồ thị độ dịch chuyển – thời gian
-@yccd NB | –
+@yccd NB | Nhận biết được dạng đồ thị độ dịch chuyển – thời gian của vật đứng yên, vật chuyển động thẳng đều; nêu được độ dốc của đồ thị độ dịch chuyển – thời gian cho biết vận tốc.
 @yccd TH | Mô tả được chuyển động (thẳng đều, đứng yên, đổi chiều) dựa vào đồ thị độ dịch chuyển – thời gian.
 @yccd VD | Xác định được độ dịch chuyển, vận tốc từ đồ thị độ dịch chuyển – thời gian hoặc từ dữ kiện chuyển động thẳng có đổi chiều.
 Câu 1. [NB] Đồ thị độ dịch chuyển – thời gian của chuyển động thẳng đều có dạng
@@ -960,6 +1125,43 @@ Trả lời: [[4]]
 
 Câu 28. [VD] Hai xe có $d_A = 10t$ và $d_B = 120 - 20t$ ($d$ tính bằng m, $t$ tính bằng s). Vị trí hai xe gặp nhau cách gốc tọa độ bao nhiêu mét?
 Trả lời: [[40]]
+
+Câu 29. [TF] [NB] Về đồ thị độ dịch chuyển – thời gian của chuyển động thẳng đều:
+*A. Đồ thị là một đường thẳng.
+*B. Độ dốc của đồ thị cho biết vận tốc của vật.
+C. Trục tung biểu diễn thời gian.
+D. Đồ thị dốc lên cho biết vật chuyển động ngược chiều dương.
+
+Câu 30. [TF] [NB] Khi đọc đồ thị độ dịch chuyển – thời gian của một vật chuyển động thẳng:
+A. Đoạn đồ thị nằm ngang cho biết vật chuyển động với vận tốc lớn nhất.
+*B. Đoạn đồ thị nằm ngang cho biết vật đứng yên.
+*C. Đoạn đồ thị dốc xuống (độ dốc âm) cho biết vật chuyển động ngược chiều dương.
+D. Đồ thị là đường cong cho biết vật chuyển động thẳng đều.
+
+Câu 31. [NB] Trên đồ thị độ dịch chuyển – thời gian của một vật, đoạn từ $t = 2$ s đến $t = 5$ s nằm ngang. Vận tốc của vật trong khoảng thời gian đó là bao nhiêu m/s?
+Trả lời: [[0]]
+
+Câu 32. [NB] Đồ thị độ dịch chuyển – thời gian của một vật chuyển động thẳng đều là đường thẳng có độ dốc bằng 4 m/s. Vận tốc của vật là bao nhiêu m/s?
+Trả lời: [[4]]
+
+Câu 33. [VDC] Lúc 7 giờ, xe thứ nhất xuất phát từ A đi về B với tốc độ 40 km/h. Lúc 8 giờ, xe thứ hai xuất phát từ B đi về A với tốc độ 50 km/h. Biết AB = 150 km, hai xe chuyển động thẳng đều trên cùng một đường thẳng. Hai xe gặp nhau lúc
+A. 9 giờ, tại nơi cách A 80 km.
+B. khoảng 8 giờ 40 phút, tại nơi cách A khoảng 66,7 km.
+C. khoảng 9 giờ 13 phút, tại nơi cách A khoảng 61,1 km.
+*D. khoảng 9 giờ 13 phút, tại nơi cách A khoảng 88,9 km.
+Lời giải
+Gốc tọa độ tại A, chiều dương A → B, gốc thời gian lúc 7 giờ. Vị trí hai xe (tính từ A): $x_1 = 40t$; $x_2 = 150 - 50(t - 1)$ (với $t \ge 1$ h).
+Gặp nhau: $40t = 200 - 50t$ ⇒ $t = \dfrac{20}{9} \approx 2,22$ h ≈ 2 giờ 13 phút ⇒ lúc khoảng 9 giờ 13 phút; cách A $40 \cdot \dfrac{20}{9} \approx 88,9$ km.
+
+Câu 34. [VD] Độ dịch chuyển của một vật chuyển động thẳng: từ $t = 0$ đến $t = 4$ s tăng đều từ 0 đến 20 m; từ $t = 4$ s đến $t = 6$ s không đổi; từ $t = 6$ s đến $t = 10$ s giảm đều từ 20 m đến −10 m. Vận tốc trung bình của vật trong 10 s là bao nhiêu m/s?
+Trả lời: [[-1]]
+Lời giải
+$v_{tb} = \dfrac{d}{t} = \dfrac{-10 - 0}{10} = -1$ m/s (trong khi tốc độ trung bình là $\dfrac{20 + 30}{10} = 5$ m/s).
+
+Câu 35. [VDC] Lúc $t = 0$, xe A xuất phát từ gốc tọa độ O chuyển động thẳng đều theo chiều dương với vận tốc 10 m/s. Xe B ở vị trí cách O 300 m (phía chiều dương), xuất phát chậm hơn xe A 2 s, chuyển động thẳng đều về phía O với tốc độ 15 m/s. Hai xe gặp nhau tại thời điểm $t$ bằng bao nhiêu giây?
+Trả lời: [[13,2]]
+Lời giải
+Vị trí hai xe (tính từ O): $x_A = 10t$; $x_B = 300 - 15(t - 2)$ với $t \ge 2$ s. Gặp nhau: $10t = 330 - 15t$ ⇒ $t = 13,2$ s.
 
 @bai 8 | Chuyển động biến đổi. Gia tốc
 @yccd NB | Nêu được định nghĩa, ý nghĩa, đơn vị của gia tốc; nhận biết chuyển động nhanh dần, chậm dần, thẳng đều qua đồ thị vận tốc – thời gian.
@@ -1124,6 +1326,42 @@ Trả lời: [[5]]
 
 Câu 28. [VD] Một xe giảm tốc từ 72 km/h đến khi dừng hẳn trong 8 s. Chọn chiều dương là chiều chuyển động. Gia tốc của xe là bao nhiêu m/s²?
 Trả lời: [[-2,5]]
+
+Câu 29. [TF] [NB] Về khái niệm và đơn vị của gia tốc:
+*A. Gia tốc đặc trưng cho sự thay đổi nhanh hay chậm của vận tốc.
+B. Đơn vị của gia tốc trong hệ SI là m/s.
+*C. Gia tốc được tính bằng độ biến thiên vận tốc chia cho khoảng thời gian xảy ra sự biến thiên đó.
+D. Vật chuyển động thẳng đều có gia tốc khác không.
+
+Câu 30. [TF] [NB] Về tính chất của chuyển động thẳng biến đổi:
+*A. Vật chuyển động nhanh dần khi gia tốc cùng chiều với vận tốc.
+B. Vật chuyển động chậm dần khi gia tốc cùng chiều với vận tốc.
+*C. Vật chuyển động chậm dần khi gia tốc ngược chiều với vận tốc.
+D. Trong chuyển động thẳng nhanh dần, độ lớn vận tốc giảm theo thời gian.
+
+Câu 31. [NB] Một xe chuyển động thẳng đều với tốc độ 15 m/s. Gia tốc của xe là bao nhiêu m/s²?
+Trả lời: [[0]]
+
+Câu 32. [NB] Một vật chuyển động thẳng nhanh dần với gia tốc có độ lớn 3 m/s². Sau mỗi giây, độ lớn vận tốc của vật tăng thêm bao nhiêu m/s?
+Trả lời: [[3]]
+
+Câu 33. [VDC] Một quả bóng bay theo phương ngang với tốc độ 10 m/s đập vuông góc vào tường rồi bật ngược trở lại với tốc độ 8 m/s. Thời gian bóng tiếp xúc với tường là 0,05 s. Gia tốc trung bình của bóng trong thời gian tiếp xúc có
+*A. độ lớn 360 m/s², hướng ra xa tường.
+B. độ lớn 40 m/s², hướng vào tường.
+C. độ lớn 40 m/s², hướng ra xa tường.
+D. độ lớn 360 m/s², hướng vào tường.
+Lời giải
+Chọn chiều dương là chiều bóng bật ra: $v_0 = -10$ m/s, $v = 8$ m/s ⇒ $a = \dfrac{8 - (-10)}{0,05} = 360$ m/s² > 0: hướng ra xa tường.
+
+Câu 34. [VDC] Vận tốc của một xe chuyển động thẳng: tại $t = 0$ là 6 m/s; $t = 2$ s là 2 m/s; $t = 4$ s là −2 m/s; $t = 6$ s là −6 m/s (vận tốc thay đổi đều). Trong 6 s đó, xe chuyển động chậm dần trong bao nhiêu giây?
+Trả lời: [[3]]
+Lời giải
+$a = \dfrac{-6 - 6}{6} = -2$ m/s²; $v = 0$ khi $t = 3$ s. Từ 0 đến 3 s: $v > 0$, $a < 0$ (ngược chiều) ⇒ chậm dần; từ 3 s đến 6 s: $v < 0$, $a < 0$ (cùng chiều) ⇒ nhanh dần. Vậy chậm dần trong 3 s.
+
+Câu 35. [VD] Một ô tô tăng tốc từ trạng thái nghỉ lên 100 km/h trong 8,0 s; một xe máy tăng tốc từ trạng thái nghỉ lên 60 km/h trong 6,0 s. Tỉ số gia tốc trung bình của ô tô và của xe máy là bao nhiêu?
+Trả lời: [[1,25]]
+Lời giải
+$a_1 = \dfrac{100/3,6}{8,0} \approx 3,47$ m/s²; $a_2 = \dfrac{60/3,6}{6,0} \approx 2,78$ m/s² ⇒ $\dfrac{a_1}{a_2} = \dfrac{100 \cdot 6,0}{60 \cdot 8,0} = 1,25$.
 
 @bai 9 | Chuyển động thẳng biến đổi đều
 @yccd NB | Nêu được các công thức vận tốc, độ dịch chuyển, liên hệ giữa vận tốc – gia tốc – quãng đường của chuyển động thẳng biến đổi đều.
@@ -1299,7 +1537,48 @@ Trả lời: [[11]]
 Lời giải
 $v = \sqrt{v_0^2 + 2ad} = \sqrt{25 + 96} = 11$ m/s.
 
+Câu 29. [TF] [NB] Về các công thức của chuyển động thẳng biến đổi đều:
+*A. $v = v_0 + at$.
+B. $d = v_0t + at$.
+*C. $v^2 - v_0^2 = 2ad$.
+D. $d = v_0 + \dfrac{1}{2}at^2$.
+
+Câu 30. [TF] [NB] Về đặc điểm của chuyển động thẳng biến đổi đều:
+*A. Vận tốc biến thiên những lượng bằng nhau trong những khoảng thời gian bằng nhau.
+*B. Trong chuyển động thẳng chậm dần đều, gia tốc ngược chiều với vận tốc.
+C. Độ dịch chuyển của vật tăng đều theo thời gian.
+D. Diện tích giới hạn bởi đồ thị vận tốc – thời gian và trục thời gian cho biết gia tốc của vật.
+
+Câu 31. [NB] Độ dốc của đồ thị vận tốc – thời gian của một vật chuyển động thẳng biến đổi đều bằng 1,5 m/s². Gia tốc của vật là bao nhiêu m/s²?
+Trả lời: [[1,5]]
+
+Câu 32. [NB] Vận tốc của một vật chuyển động thẳng biến đổi đều là $v = 5 + 2t$ ($v$ tính bằng m/s, $t$ tính bằng s). Vận tốc ban đầu của vật là bao nhiêu m/s?
+Trả lời: [[5]]
+
+Câu 33. [VDC] Một ô tô đang chạy với tốc độ 72 km/h thì người lái phát hiện vật cản phía trước cách xe 55 m. Sau thời gian phản ứng 0,5 s (xe vẫn chạy đều), người lái hãm phanh, xe chuyển động chậm dần đều với gia tốc có độ lớn 5 m/s². Kết luận nào sau đây đúng?
+A. Xe đâm vào vật cản.
+B. Xe dừng lại cách vật cản 15 m.
+*C. Xe dừng lại cách vật cản 5 m.
+D. Xe dừng lại cách vật cản 10 m.
+Lời giải
+$v_0 = 20$ m/s. Trong thời gian phản ứng: $s_1 = 20 \cdot 0,5 = 10$ m. Khi hãm: $s_2 = \dfrac{v_0^2}{2a} = \dfrac{400}{10} = 40$ m. Tổng 50 m < 55 m ⇒ dừng cách vật cản 5 m.
+
+Câu 34. [VDC] Một ô tô đang chạy với tốc độ 72 km/h thì hãm phanh, chuyển động chậm dần đều. Trong giây cuối cùng trước khi dừng hẳn, xe đi được 1 m. Quãng đường xe đi được từ lúc hãm phanh đến lúc dừng là bao nhiêu mét?
+Trả lời: [[100]]
+Lời giải
+Xét ngược thời gian: giây cuối giống giây đầu của chuyển động nhanh dần đều từ nghỉ ⇒ $\dfrac{a \cdot 1^2}{2} = 1$ ⇒ $a = 2$ m/s².
+$s = \dfrac{v_0^2}{2a} = \dfrac{20^2}{2 \cdot 2} = 100$ m.
+
+Câu 35. [VDC] Một vật bắt đầu chuyển động nhanh dần đều từ trạng thái nghỉ. Trong giây thứ 5, vật đi được 4,5 m. Quãng đường vật đi được trong giây thứ 10 là bao nhiêu mét?
+Trả lời: [[9,5]]
+Lời giải
+Quãng đường trong giây thứ $n$: $\Delta s_n = \dfrac{a}{2}\left[n^2 - (n-1)^2\right]$. Giây thứ 5: $\dfrac{a}{2} \cdot 9 = 4,5$ ⇒ $a = 1$ m/s².
+Giây thứ 10: $\dfrac{1}{2}(100 - 81) = 9,5$ m.
+
 @bai 10 | Sự rơi tự do
+@yccd NB | Nêu được khái niệm sự rơi tự do, đặc điểm của chuyển động rơi tự do (phương thẳng đứng, chiều từ trên xuống, nhanh dần đều) và gia tốc rơi tự do; nêu được công thức vận tốc, quãng đường của vật rơi tự do.
+@yccd TH | Giải thích được vì sao trong không khí các vật rơi nhanh, chậm khác nhau; tính được vận tốc, quãng đường, thời gian rơi của vật rơi tự do.
+@yccd VD | Vận dụng được các công thức của sự rơi tự do để giải bài toán thực tế (quãng đường rơi trong giây thứ n, hai vật rơi lệch thời gian, đo độ sâu của giếng…).
 Câu 1. [NB] Sự rơi tự do là sự rơi của vật
 *A. chỉ dưới tác dụng của trọng lực.
 B. dưới tác dụng của lực cản không khí.
@@ -1460,7 +1739,47 @@ Trả lời: [[35]]
 Lời giải
 $s_4 - s_3 = \dfrac{1}{2} \cdot 10 \cdot (16 - 9) = 35$ m.
 
+Câu 29. [TF] [NB] Về đặc điểm của sự rơi tự do:
+*A. Chuyển động rơi tự do có phương thẳng đứng, chiều từ trên xuống dưới.
+*B. Chuyển động rơi tự do là chuyển động thẳng nhanh dần đều.
+C. Khi rơi tự do, vật nặng luôn rơi nhanh hơn vật nhẹ.
+D. Gia tốc rơi tự do là đại lượng vô hướng.
+
+Câu 30. [TF] [NB] Về các công thức của vật rơi tự do (thả không vận tốc đầu):
+*A. $v = gt$.
+B. $s = gt$.
+*C. $s = \dfrac{1}{2}gt^2$.
+D. $v^2 = gs$.
+
+Câu 31. [NB] Gia tốc rơi tự do ở gần mặt đất thường được lấy bằng bao nhiêu m/s²? (Làm tròn đến hàng phần mười.)
+Trả lời: [[9,8]]
+
+Câu 32. [NB] Trong ống Newton đã hút hết không khí, thả cùng lúc một viên bi và một chiếc lông chim từ cùng một độ cao. Thời gian rơi của viên bi gấp bao nhiêu lần thời gian rơi của lông chim?
+Trả lời: [[1]]
+
+Câu 33. [VDC] Từ mái nhà cao 16 m, các giọt nước rơi tự do cách nhau những khoảng thời gian bằng nhau. Khi giọt thứ nhất vừa chạm đất thì giọt thứ năm bắt đầu rơi. Lấy $g = 10$ m/s². Khi đó khoảng cách giữa giọt thứ hai và giọt thứ ba là
+*A. 5 m.
+B. 7 m.
+C. 3 m.
+D. 4 m.
+Lời giải
+Thời gian rơi hết 16 m: $t = \sqrt{\dfrac{2 \cdot 16}{10}}$; giữa giọt 1 và giọt 5 có 4 khoảng ⇒ $\tau = \dfrac{t}{4}$, $\tau^2 = \dfrac{3,2}{16} = 0,2$ s².
+Giọt 2 đã rơi $3\tau$, giọt 3 đã rơi $2\tau$ ⇒ $\Delta s = 5(9 - 4)\tau^2 = 25 \cdot 0,2 = 5$ m.
+
+Câu 34. [VDC] Một vật rơi tự do tại nơi có $g = 10$ m/s². Trong 2 s cuối cùng trước khi chạm đất, vật rơi được 80 m. Độ cao nơi thả vật là bao nhiêu mét?
+Trả lời: [[125]]
+Lời giải
+$\dfrac{g}{2}\left[t^2 - (t-2)^2\right] = 80$ ⇒ $5(4t - 4) = 80$ ⇒ $t = 5$ s ⇒ $h = 5 \cdot 5^2 = 125$ m.
+
+Câu 35. [VDC] Thả một hòn đá rơi tự do xuống một cái giếng cạn. Sau 3,0 s kể từ lúc thả thì nghe thấy tiếng hòn đá chạm đáy giếng. Lấy $g = 10$ m/s², tốc độ truyền âm trong không khí là 340 m/s. Độ sâu của giếng là bao nhiêu mét? (Làm tròn đến hàng phần mười.)
+Trả lời: [[41,4]]
+Lời giải
+Gọi $t_1$ là thời gian rơi: $h = 5t_1^2$ và $t_1 + \dfrac{h}{340} = 3,0$ ⇒ $5t_1^2 + 340t_1 - 1020 = 0$ ⇒ $t_1 \approx 2,878$ s ⇒ $h \approx 41,4$ m.
+
 @bai 11 | Thực hành: Đo gia tốc rơi tự do
+@yccd NB | Nêu được dụng cụ, cách bố trí thí nghiệm đo gia tốc rơi tự do (nam châm điện, cổng quang điện, đồng hồ đo thời gian hiện số, viên bi thép) và công thức $g = \dfrac{2s}{t^2}$.
+@yccd TH | Giải thích được các bước tiến hành và cách giảm sai số; tính được gia tốc rơi tự do và sai số từ bảng số liệu.
+@yccd VD | Thực hiện thí nghiệm (hoặc dựa trên số liệu cho trước) xác định được gia tốc rơi tự do; xử lí số liệu bằng đồ thị $s$ theo $t^2$ và ghi đúng kết quả đo.
 Câu 1. [NB] Dụng cụ nào sau đây KHÔNG cần dùng trong thí nghiệm đo gia tốc rơi tự do bằng cổng quang điện?
 A. Viên bi thép.
 B. Nam châm điện.
@@ -1553,7 +1872,41 @@ Trả lời: [[9,78]]
 Lời giải
 $s = \dfrac{1}{2}gt^2$ nên hệ số góc bằng $g/2$; $g = 2 \cdot 4,89 = 9,78$ m/s².
 
+Câu 17. [TF] [NB] Về dụng cụ thí nghiệm đo gia tốc rơi tự do:
+*A. Nam châm điện dùng để giữ và thả viên bi.
+*B. Cổng quang điện kết hợp với đồng hồ đo thời gian hiện số dùng để đo thời gian rơi của viên bi.
+C. Lực kế dùng để đo trực tiếp gia tốc rơi tự do.
+D. Nên dùng quả bóng bàn thay cho viên bi thép để giảm sai số.
+
+Câu 18. [TF] [NB] Về cách xác định gia tốc rơi tự do trong thí nghiệm:
+*A. Gia tốc rơi tự do được tính theo công thức $g = \dfrac{2s}{t^2}$.
+B. Gia tốc rơi tự do được tính theo công thức $g = \dfrac{s}{t}$.
+*C. Cần đo quãng đường rơi $s$ và thời gian rơi $t$ tương ứng của viên bi.
+D. Với mỗi quãng đường, chỉ cần đo thời gian rơi một lần là đủ.
+
+Câu 19. [NB] Trong thí nghiệm đo gia tốc rơi tự do, viên bi được nam châm điện thả rơi không vận tốc đầu. Vận tốc ban đầu của viên bi khi bắt đầu đo thời gian là bao nhiêu m/s?
+Trả lời: [[0]]
+
+Câu 20. [TH] Đồ thị quãng đường $s$ theo bình phương thời gian $t^2$ của viên bi rơi tự do là đường thẳng qua gốc tọa độ có hệ số góc $k$. Gia tốc rơi tự do bằng $g = n \cdot k$. Giá trị của $n$ là bao nhiêu?
+Trả lời: [[2]]
+
+Câu 21. [VDC] Viên bi rơi không vận tốc đầu được quãng đường $s = (0,700 \pm 0,001)$ m trong thời gian $t = (0,378 \pm 0,002)$ s. Kết quả đo gia tốc rơi tự do được ghi đúng là
+A. $g = (9,8 \pm 1,2)$ m/s².
+B. $g = (9,80 \pm 0,07)$ m/s².
+*C. $g = (9,8 \pm 0,1)$ m/s².
+D. $g = (9,80 \pm 0,01)$ m/s².
+Lời giải
+$g = \dfrac{2 \cdot 0,700}{0,378^2} \approx 9,80$ m/s²; $\delta g = \delta s + 2\delta t = \dfrac{0,001}{0,700} + 2 \cdot \dfrac{0,002}{0,378} \approx 1,2\%$ ⇒ $\Delta g \approx 0,12 \approx 0,1$ m/s² ⇒ $g = (9,8 \pm 0,1)$ m/s².
+
+Câu 22. [VD] Thả viên bi rơi không vận tốc đầu, đo thời gian rơi ứng với các quãng đường: $s = 0,200$ m – $t = 0,202$ s; $s = 0,400$ m – $t = 0,286$ s; $s = 0,600$ m – $t = 0,350$ s; $s = 0,800$ m – $t = 0,404$ s. Giá trị trung bình của gia tốc rơi tự do tính từ 4 lần đo là bao nhiêu m/s²? (Làm tròn đến hai chữ số thập phân.)
+Trả lời: [[9,80]]
+Lời giải
+Mỗi lần đo: $g = \dfrac{2s}{t^2}$ ≈ 9,803; 9,780; 9,796; 9,803 m/s² ⇒ $\bar g \approx 9,80$ m/s².
+
 @bai 12 | Chuyển động ném
+@yccd NB | Nêu được chuyển động ném ngang, ném xiên (bỏ qua sức cản không khí) có thể phân tích thành hai chuyển động thành phần theo phương ngang và phương thẳng đứng; nêu được công thức thời gian rơi, tầm xa của vật ném ngang và tầm xa của vật ném xiên.
+@yccd TH | Mô tả và giải thích được chuyển động khi vật có vận tốc không đổi theo một phương và có gia tốc không đổi theo phương vuông góc với phương này.
+@yccd VD | Vận dụng được các công thức của chuyển động ném để giải bài toán thực tế (thả hàng từ máy bay, ném bóng qua vật cản…).
 Câu 1. [NB] Chuyển động ném ngang có thể phân tích thành
 *A. chuyển động thẳng đều theo phương ngang và rơi tự do theo phương thẳng đứng.
 B. chuyển động thẳng đều theo cả hai phương.
@@ -1719,6 +2072,44 @@ Câu 28. [VD] Một vật được ném ngang từ độ cao 45 m với vận t�
 Trả lời: [[50]]
 Lời giải
 $v_y = gt = 10 \cdot 3 = 30$ m/s; $v = \sqrt{40^2 + 30^2} = 50$ m/s.
+
+Câu 29. [TF] [NB] Về chuyển động của vật ném ngang (bỏ qua sức cản không khí):
+*A. Gia tốc của vật luôn hướng thẳng đứng xuống dưới và có độ lớn bằng $g$.
+B. Tốc độ của vật không đổi trong quá trình chuyển động.
+*C. Tầm xa của vật phụ thuộc vào vận tốc ném ban đầu và độ cao ném.
+D. Quỹ đạo của vật là một đường thẳng.
+
+Câu 30. [TF] [NB] Về các công thức của chuyển động ném (bỏ qua sức cản không khí):
+*A. Thời gian rơi của vật ném ngang từ độ cao $h$ là $t = \sqrt{\dfrac{2h}{g}}$.
+B. Tầm xa của vật ném ngang là $L = v_0 \cdot \dfrac{2h}{g}$.
+*C. Thành phần vận tốc theo phương ngang của vật ném xiên là $v_x = v_0\cos\alpha$.
+D. Tầm xa của vật ném xiên (điểm ném và điểm rơi cùng độ cao) là $L = \dfrac{v_0^2\cos 2\alpha}{g}$.
+
+Câu 31. [NB] Một vật được ném ngang với vận tốc ban đầu 5 m/s, bỏ qua sức cản không khí. Thành phần vận tốc theo phương ngang của vật tại mọi thời điểm là bao nhiêu m/s?
+Trả lời: [[5]]
+
+Câu 32. [TH] Ném xiên các vật từ mặt đất với cùng tốc độ ban đầu, bỏ qua sức cản không khí. Ngoài góc 0°, tầm xa bằng 0 khi góc ném bằng bao nhiêu độ?
+Trả lời: [[90]]
+
+Câu 33. [VDC] Một quả bóng được đá từ mặt đất với vận tốc 20 m/s hợp với phương ngang góc 30°, hướng về một bức tường thẳng đứng cao 5 m đặt cách điểm đá 30 m. Lấy $g = 10$ m/s², bỏ qua sức cản không khí. Kết luận nào sau đây đúng?
+A. Bóng đập vào tường ở độ cao khoảng 5,0 m.
+B. Bóng bay qua tường, cao hơn đỉnh tường khoảng 5 m.
+C. Bóng chạm đất trước khi tới tường.
+*D. Bóng đập vào tường ở độ cao khoảng 2,3 m.
+Lời giải
+$v_x = 20\cos 30° \approx 17,3$ m/s ⇒ thời gian tới tường $t = \dfrac{30}{17,3} \approx 1,73$ s.
+$y = (20\sin 30°)t - 5t^2 = 10 \cdot 1,73 - 5 \cdot 1,73^2 \approx 2,3$ m < 5 m. Tầm xa $L = \dfrac{20^2\sin 60°}{10} \approx 34,6$ m > 30 m nên bóng chưa chạm đất ⇒ đập vào tường ở độ cao khoảng 2,3 m.
+
+Câu 34. [VDC] Một máy bay cứu trợ bay theo phương ngang ở độ cao 500 m với tốc độ 360 km/h. Lấy $g = 10$ m/s², bỏ qua sức cản không khí. Để thùng hàng rơi trúng điểm tiếp nhận trên mặt đất, phi công phải thả thùng hàng khi nhìn thấy điểm tiếp nhận theo hướng hợp với phương ngang một góc bao nhiêu độ? (Làm tròn đến hàng phần mười.)
+Trả lời: [[26,6]]
+Lời giải
+$t = \sqrt{\dfrac{2 \cdot 500}{10}} = 10$ s; $v_0 = 100$ m/s ⇒ khoảng cách theo phương ngang khi thả $L = 100 \cdot 10 = 1000$ m.
+$\tan\alpha = \dfrac{500}{1000} = 0,5$ ⇒ $\alpha \approx 26,6°$.
+
+Câu 35. [VDC] Một vật được ném ngang từ độ cao 20 m. Khi chạm đất, vận tốc của vật hợp với phương ngang góc 60°. Lấy $g = 10$ m/s², bỏ qua sức cản không khí. Vận tốc ném ban đầu là bao nhiêu m/s? (Làm tròn đến hàng phần mười.)
+Trả lời: [[11,5]]
+Lời giải
+$v_y = \sqrt{2gh} = 20$ m/s; $\tan 60° = \dfrac{v_y}{v_0}$ ⇒ $v_0 = \dfrac{20}{\sqrt{3}} \approx 11,5$ m/s.
 
 @chuong III | Động lực học
 @bai 13 | Tổng hợp và phân tích lực. Cân bằng lực
