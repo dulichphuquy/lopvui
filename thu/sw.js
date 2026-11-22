@@ -2,7 +2,7 @@
    Có bản mới thì tải ngầm rồi chờ; app quyết định lúc đổi (src/shell.js setupWebApp): vừa mở/chưa vào trò → tự đổi;
    đang dùng → dải cố định "Có bản Lớp Vui mới – bấm để cập nhật" (không đổi giữa tiết học); link thử → tự đổi luôn. */
 const PREFIX = "lopvui-thu-";            // "lopvui-" bản chính, "lopvui-thu-" bản thử
-const VERSION = PREFIX + "b5173647fffe";
+const VERSION = PREFIX + "ccbedb815a5a";
 // Bản chính không đụng vào bản thử nằm trong thư mục con thu/ (và ngược lại: bản thử có bộ nhớ riêng)
 const THU = new URL("thu/", self.registration.scope).pathname;
 const cuaMinh = k => k.startsWith(PREFIX) && (PREFIX === "lopvui-thu-" || !k.startsWith("lopvui-thu-"));

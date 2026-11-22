@@ -3,9 +3,11 @@
 @chuong I | Mở đầu
 
 @bai 1 | Làm quen với vật lí
-@yccd NB | Nêu được đối tượng nghiên cứu, mục tiêu của môn Vật lí; phân biệt các cấp độ vi mô, vĩ mô; nêu được các giai đoạn phát triển của vật lí và phương pháp nghiên cứu (thực nghiệm, mô hình); nêu được ví dụ về ảnh hưởng của vật lí đối với đời sống, kĩ thuật.
+@yccd NB | Nêu được đối tượng nghiên cứu, mục tiêu của môn Vật lí; nêu được các giai đoạn phát triển của vật lí và phương pháp nghiên cứu (thực nghiệm, mô hình); nêu được ví dụ về ảnh hưởng của vật lí đối với đời sống, kĩ thuật.
 @yccd TH | Phân tích được một số ví dụ về phương pháp nghiên cứu vật lí; vai trò của vật lí với khoa học, kĩ thuật, công nghệ.
 @yccd VD | Lấy được ví dụ chứng tỏ kiến thức, kĩ năng vật lí được sử dụng trong một số lĩnh vực khác nhau.
+
+@muc I | Đối tượng nghiên cứu của Vật lí và mục tiêu của môn Vật lí
 Câu 1. [NB] Đối tượng nghiên cứu của vật lí là
 A. sự hình thành và phát triển của các loài sinh vật.
 *B. các dạng vận động của vật chất và năng lượng.
@@ -20,6 +22,88 @@ B. biết sử dụng thành thạo các thiết bị điện, điện tử tron
 *C. hình thành, phát triển năng lực vật lí và vận dụng vào thực tiễn.
 D. trở thành nhà khoa học chuyên nghiên cứu vật lí trong phòng thí nghiệm.
 
+Câu 9. [TH] Lĩnh vực nào sau đây thuộc phạm vi nghiên cứu của vật lí?
+A. Sự phân chia tế bào.
+B. Lịch sử hình thành các quốc gia.
+*C. Sự truyền ánh sáng qua lăng kính.
+D. Phản ứng giữa axit và bazơ tạo thành muối.
+
+@muc II | Quá trình phát triển của Vật lí
+Câu 29. [TF] [NB] Về đối tượng nghiên cứu và quá trình phát triển của Vật lí:
+*A. [I.NB] Vật lí nghiên cứu các dạng vận động của vật chất và năng lượng.
+B. [II.NB] Giai đoạn Vật lí cổ điển kéo dài từ cuối thế kỉ XIX đến nay.
+*C. [II.NB] Từ thế kỉ XVII, các nhà vật lí dùng phương pháp thực nghiệm để tìm hiểu thế giới tự nhiên.
+D. [I.NB] Vật lí chỉ nghiên cứu các hiện tượng xảy ra trên Trái Đất.
+
+@muc III | Vai trò của Vật lí đối với khoa học, kĩ thuật và công nghệ
+Câu 7. [NB] Phát minh nào sau đây gắn liền với cuộc cách mạng công nghiệp lần thứ nhất?
+*A. Máy hơi nước.
+B. Máy tính điện tử.
+C. Mạng Internet.
+D. Trí tuệ nhân tạo.
+
+Câu 8. [NB] Cuộc cách mạng công nghiệp lần thứ hai gắn liền với
+A. máy hơi nước và cơ giới hóa sản xuất.
+B. trí tuệ nhân tạo, robot, internet toàn cầu và công nghệ nano.
+C. tự động hóa các quá trình sản xuất nhờ máy tính và thiết bị điện tử.
+*D. sự xuất hiện các thiết bị dùng điện trong sản xuất và đời sống.
+
+Câu 13. [TH] Ứng dụng nào sau đây là ứng dụng của vật lí trong y học?
+A. Sản xuất phân bón hóa học.
+*B. Chụp X-quang, chụp cộng hưởng từ.
+C. Lai tạo giống lúa chịu mặn.
+D. Bào chế thuốc kháng sinh.
+
+Câu 14. [TH] Việc sử dụng tấm pin Mặt Trời để cung cấp điện cho gia đình là ứng dụng của vật lí trong lĩnh vực
+*A. năng lượng.
+B. thông tin liên lạc.
+C. nông nghiệp.
+D. y tế.
+
+Câu 15. [TH] Nhận định nào sau đây về vật lí là đúng?
+*A. Các thành tựu vật lí mang lại nhiều lợi ích nhưng có thể gây hại nếu sử dụng không đúng cách.
+B. Các thành tựu vật lí chỉ mang lại lợi ích, không thể gây hại cho con người và môi trường.
+C. Vật lí là một ngành khoa học độc lập, không liên quan đến các ngành khoa học khác.
+D. Vật lí chỉ nghiên cứu các hiện tượng được tạo ra trong phòng thí nghiệm.
+
+Câu 18. [VD] Một nhà máy nhiệt điện thải nhiều khói bụi gây ô nhiễm. Giải pháp phù hợp nhất dựa trên hiểu biết vật lí là
+A. tăng công suất của nhà máy để sản xuất nhiều điện hơn, bù cho phần ô nhiễm.
+*B. phát triển các nguồn năng lượng sạch như điện gió, điện mặt trời để thay thế dần.
+C. di dời toàn bộ người dân sống quanh nhà máy đến nơi khác ở xa hơn.
+D. vận động mọi người ngừng sử dụng điện trong sinh hoạt hằng ngày.
+
+Câu 20. [TF] [TH] Về vai trò của vật lí đối với khoa học, công nghệ và kĩ thuật:
+*A. [III.NB] Máy hơi nước là thành tựu gắn với cuộc cách mạng công nghiệp lần thứ nhất.
+*B. [III.NB] Điện năng được sử dụng rộng rãi trong cuộc cách mạng công nghiệp lần thứ hai.
+C. [III.TH] Máy tính điện tử xuất hiện trong cuộc cách mạng công nghiệp lần thứ nhất.
+*D. [III.NB] Trí tuệ nhân tạo, robot và internet toàn cầu gắn với cuộc cách mạng công nghiệp lần thứ tư.
+Lời giải
+c) Sai: máy tính điện tử, tự động hóa gắn với cuộc cách mạng công nghiệp lần thứ ba.
+
+Câu 22. [TF] [TH] Về ảnh hưởng của vật lí đến đời sống và môi trường:
+*A. [III.NB] Các thiết bị điện tử giúp con người liên lạc nhanh chóng trên toàn thế giới.
+*B. [III.TH] Năng lượng hạt nhân có thể dùng để sản xuất điện nhưng cần kiểm soát an toàn phóng xạ.
+C. [III.NB] Mọi ứng dụng của vật lí đều không gây ảnh hưởng đến môi trường.
+*D. [III.TH] Rác thải điện tử nếu không được xử lí đúng cách có thể gây ô nhiễm môi trường.
+
+Câu 23. [NB] Cuộc cách mạng công nghiệp gắn với máy hơi nước là cuộc cách mạng công nghiệp lần thứ mấy?
+Trả lời: [[1]]
+
+Câu 24. [NB] Cuộc cách mạng công nghiệp gắn với việc sử dụng rộng rãi năng lượng điện là cuộc cách mạng công nghiệp lần thứ mấy?
+Trả lời: [[2]]
+
+Câu 25. [NB] Cuộc cách mạng công nghiệp gắn với máy tính, điện tử và tự động hóa là cuộc cách mạng công nghiệp lần thứ mấy?
+Trả lời: [[3]]
+
+Câu 26. [NB] Cuộc cách mạng công nghiệp gắn với trí tuệ nhân tạo, robot, internet toàn cầu và công nghệ nano là cuộc cách mạng công nghiệp lần thứ mấy?
+Trả lời: [[4]]
+
+Câu 28. [TH] Cho các ứng dụng: (1) chụp X-quang trong y tế; (2) pin Mặt Trời cung cấp điện; (3) phân bón hóa học; (4) điện thoại di động; (5) giống lúa mới chịu mặn. Có bao nhiêu ứng dụng chủ yếu dựa trên thành tựu của vật lí?
+Trả lời: [[3]]
+Lời giải
+Các ứng dụng (1), (2), (4) dựa trên thành tựu vật lí; (3) thuộc hóa học, (5) thuộc sinh học.
+
+@muc IV | Phương pháp nghiên cứu Vật lí
 Câu 3. [NB] Hai phương pháp nghiên cứu chủ yếu của vật lí là
 *A. phương pháp thực nghiệm và phương pháp mô hình.
 B. phương pháp quan sát và phương pháp điều tra xã hội.
@@ -44,24 +128,6 @@ B. Einstein.
 *C. Galilei.
 D. Aristotle.
 
-Câu 7. [NB] Phát minh nào sau đây gắn liền với cuộc cách mạng công nghiệp lần thứ nhất?
-*A. Máy hơi nước.
-B. Máy tính điện tử.
-C. Mạng Internet.
-D. Trí tuệ nhân tạo.
-
-Câu 8. [NB] Cuộc cách mạng công nghiệp lần thứ hai gắn liền với
-A. máy hơi nước và cơ giới hóa sản xuất.
-B. trí tuệ nhân tạo, robot, internet toàn cầu và công nghệ nano.
-C. tự động hóa các quá trình sản xuất nhờ máy tính và thiết bị điện tử.
-*D. sự xuất hiện các thiết bị dùng điện trong sản xuất và đời sống.
-
-Câu 9. [TH] Lĩnh vực nào sau đây thuộc phạm vi nghiên cứu của vật lí?
-A. Sự phân chia tế bào.
-B. Lịch sử hình thành các quốc gia.
-*C. Sự truyền ánh sáng qua lăng kính.
-D. Phản ứng giữa axit và bazơ tạo thành muối.
-
 Câu 10. [TH] Thứ tự các bước của phương pháp thực nghiệm (theo SGK) là
 *A. Xác định vấn đề → Quan sát, thu thập thông tin → Đưa ra dự đoán → Thí nghiệm kiểm tra dự đoán → Kết luận.
 B. Quan sát, thu thập thông tin → Xác định vấn đề → Thí nghiệm kiểm tra dự đoán → Đưa ra dự đoán → Kết luận.
@@ -82,24 +148,6 @@ B. Mô hình nguyên tử bằng các quả cầu và que nối.
 C. Bản vẽ hình dạng một chiếc xe đạp.
 *D. Công thức $s = vt$ mô tả chuyển động thẳng đều.
 
-Câu 13. [TH] Ứng dụng nào sau đây là ứng dụng của vật lí trong y học?
-A. Sản xuất phân bón hóa học.
-*B. Chụp X-quang, chụp cộng hưởng từ.
-C. Lai tạo giống lúa chịu mặn.
-D. Bào chế thuốc kháng sinh.
-
-Câu 14. [TH] Việc sử dụng tấm pin Mặt Trời để cung cấp điện cho gia đình là ứng dụng của vật lí trong lĩnh vực
-*A. năng lượng.
-B. thông tin liên lạc.
-C. nông nghiệp.
-D. y tế.
-
-Câu 15. [TH] Nhận định nào sau đây về vật lí là đúng?
-*A. Các thành tựu vật lí mang lại nhiều lợi ích nhưng có thể gây hại nếu sử dụng không đúng cách.
-B. Các thành tựu vật lí chỉ mang lại lợi ích, không thể gây hại cho con người và môi trường.
-C. Vật lí là một ngành khoa học độc lập, không liên quan đến các ngành khoa học khác.
-D. Vật lí chỉ nghiên cứu các hiện tượng được tạo ra trong phòng thí nghiệm.
-
 Câu 16. [VD] Một học sinh thả cùng lúc, từ cùng độ cao, một tờ giấy phẳng và một tờ giấy giống hệt đã được vo tròn, thấy tờ giấy vo tròn chạm đất trước. Dự đoán hợp lí nhất để kiểm tra là
 A. vật nặng hơn rơi nhanh hơn.
 B. Trái Đất hút tờ giấy vo tròn mạnh hơn.
@@ -116,78 +164,37 @@ D. thả một viên bi từ nhiều độ cao khác nhau, đo thời gian rơi 
 Lời giải
 Cần giữ các yếu tố khác (kích thước, hình dạng, độ cao) như nhau và chỉ thay đổi khối lượng để thấy khối lượng có ảnh hưởng hay không.
 
-Câu 18. [VD] Một nhà máy nhiệt điện thải nhiều khói bụi gây ô nhiễm. Giải pháp phù hợp nhất dựa trên hiểu biết vật lí là
-A. tăng công suất của nhà máy để sản xuất nhiều điện hơn, bù cho phần ô nhiễm.
-*B. phát triển các nguồn năng lượng sạch như điện gió, điện mặt trời để thay thế dần.
-C. di dời toàn bộ người dân sống quanh nhà máy đến nơi khác ở xa hơn.
-D. vận động mọi người ngừng sử dụng điện trong sinh hoạt hằng ngày.
-
 Câu 19. [TF] [TH] Về đối tượng và phương pháp nghiên cứu của vật lí:
-*A. Vật lí nghiên cứu các dạng vận động của vật chất và năng lượng.
-B. Phương pháp mô hình chỉ dùng mô hình vật chất, không dùng mô hình toán học.
-*C. Phương pháp thực nghiệm dùng thí nghiệm để kiểm tra dự đoán.
-D. Mô hình đã xây dựng xong thì không cần kiểm tra sự phù hợp với thí nghiệm, thực tế.
+*A. [I.NB] Vật lí nghiên cứu các dạng vận động của vật chất và năng lượng.
+B. [IV.TH] Phương pháp mô hình chỉ dùng mô hình vật chất, không dùng mô hình toán học.
+*C. [IV.NB] Phương pháp thực nghiệm dùng thí nghiệm để kiểm tra dự đoán.
+D. [IV.TH] Mô hình đã xây dựng xong thì không cần kiểm tra sự phù hợp với thí nghiệm, thực tế.
 Lời giải
 b) Sai: mô hình toán học (công thức, phương trình, đồ thị…) là một loại mô hình. d) Sai: mô hình phải được kiểm tra sự phù hợp với kết quả thí nghiệm, thực tế.
 
-Câu 20. [TF] [TH] Về vai trò của vật lí đối với khoa học, công nghệ và kĩ thuật:
-*A. Máy hơi nước là thành tựu gắn với cuộc cách mạng công nghiệp lần thứ nhất.
-*B. Điện năng được sử dụng rộng rãi trong cuộc cách mạng công nghiệp lần thứ hai.
-C. Máy tính điện tử xuất hiện trong cuộc cách mạng công nghiệp lần thứ nhất.
-*D. Trí tuệ nhân tạo và Internet vạn vật gắn với cuộc cách mạng công nghiệp lần thứ tư.
-Lời giải
-c) Sai: máy tính điện tử, tự động hóa gắn với cuộc cách mạng công nghiệp lần thứ ba.
-
 Câu 21. [TF] [VD] Một nhóm học sinh muốn tìm hiểu xem độ dài dây treo của con lắc có ảnh hưởng đến thời gian con lắc thực hiện một lần đi và về (một dao động) hay không:
-*A. Đây là bài toán có thể nghiên cứu bằng phương pháp thực nghiệm.
-B. Khi làm thí nghiệm, nhóm nên đồng thời thay đổi cả độ dài dây và khối lượng quả nặng.
-*C. Nhóm cần đo thời gian thực hiện một dao động nhiều lần để giảm sai số.
-D. Chỉ cần làm thí nghiệm một lần là đủ để rút ra kết luận chắc chắn.
+*A. [IV.TH] Đây là bài toán có thể nghiên cứu bằng phương pháp thực nghiệm.
+B. [IV.VD] Khi làm thí nghiệm, nhóm nên đồng thời thay đổi cả độ dài dây và khối lượng quả nặng.
+*C. [IV.TH] Nếu kết quả thí nghiệm không phù hợp với dự đoán, nhóm cần đưa ra dự đoán mới và tiếp tục làm thí nghiệm kiểm tra.
+D. [IV.TH] Chỉ cần làm thí nghiệm một lần là đủ để rút ra kết luận chắc chắn.
 Lời giải
 b) Sai: chỉ thay đổi một đại lượng (độ dài), giữ nguyên các đại lượng khác. d) Sai: cần lặp lại thí nghiệm nhiều lần.
-
-Câu 22. [TF] [TH] Về ảnh hưởng của vật lí đến đời sống và môi trường:
-*A. Các thiết bị điện tử giúp con người liên lạc nhanh chóng trên toàn thế giới.
-*B. Năng lượng hạt nhân có thể dùng để sản xuất điện nhưng cần kiểm soát an toàn phóng xạ.
-C. Mọi ứng dụng của vật lí đều không gây ảnh hưởng đến môi trường.
-*D. Rác thải điện tử nếu không được xử lí đúng cách có thể gây ô nhiễm môi trường.
-
-Câu 23. [NB] Cuộc cách mạng công nghiệp gắn với máy hơi nước là cuộc cách mạng công nghiệp lần thứ mấy?
-Trả lời: [[1]]
-
-Câu 24. [NB] Cuộc cách mạng công nghiệp gắn với việc sử dụng rộng rãi năng lượng điện là cuộc cách mạng công nghiệp lần thứ mấy?
-Trả lời: [[2]]
-
-Câu 25. [NB] Cuộc cách mạng công nghiệp gắn với máy tính, điện tử và tự động hóa là cuộc cách mạng công nghiệp lần thứ mấy?
-Trả lời: [[3]]
-
-Câu 26. [NB] Cuộc cách mạng công nghiệp gắn với trí tuệ nhân tạo, robot, internet toàn cầu và công nghệ nano là cuộc cách mạng công nghiệp lần thứ mấy?
-Trả lời: [[4]]
 
 Câu 27. [TH] Phương pháp thực nghiệm gồm các bước: (1) xác định vấn đề cần nghiên cứu; (2) quan sát, thu thập thông tin; (3) đưa ra dự đoán; (4) thí nghiệm kiểm tra dự đoán; (5) kết luận. Bước dùng để kiểm tra dự đoán là bước thứ mấy?
 Trả lời: [[4]]
 
-Câu 28. [TH] Cho các ứng dụng: (1) chụp X-quang trong y tế; (2) pin Mặt Trời cung cấp điện; (3) phân bón hóa học; (4) điện thoại di động; (5) giống lúa mới chịu mặn. Có bao nhiêu ứng dụng chủ yếu dựa trên thành tựu của vật lí?
-Trả lời: [[3]]
-Lời giải
-Các ứng dụng (1), (2), (4) dựa trên thành tựu vật lí; (3) thuộc hóa học, (5) thuộc sinh học.
-
-Câu 29. [TF] [NB] Về đối tượng nghiên cứu và các cấp độ của thế giới tự nhiên:
-*A. Vật lí nghiên cứu các dạng vận động của vật chất và năng lượng.
-B. Thế giới vi mô gồm các vật có kích thước rất lớn như hành tinh, thiên hà.
-*C. Nguyên tử, phân tử thuộc thế giới vi mô.
-D. Vật lí chỉ nghiên cứu các hiện tượng xảy ra trên Trái Đất.
-
 Câu 30. [TF] [NB] Về phương pháp nghiên cứu vật lí và các cuộc cách mạng công nghiệp:
-*A. Trong phương pháp thực nghiệm, nếu thí nghiệm chứng tỏ dự đoán sai thì phải đưa ra dự đoán mới hoặc xác định lại vấn đề.
-B. Phương pháp mô hình không sử dụng mô hình toán học.
-*C. Cuộc cách mạng công nghiệp lần thứ nhất gắn với việc sử dụng máy hơi nước.
-D. Cuộc cách mạng công nghiệp lần thứ ba gắn với sự xuất hiện của máy hơi nước.
+*A. [IV.NB] Trong phương pháp thực nghiệm, nếu thí nghiệm chứng tỏ dự đoán sai thì phải đưa ra dự đoán mới hoặc xác định lại vấn đề.
+B. [IV.NB] Phương pháp mô hình không sử dụng mô hình toán học.
+*C. [III.NB] Cuộc cách mạng công nghiệp lần thứ nhất gắn với việc sử dụng máy hơi nước.
+D. [III.NB] Cuộc cách mạng công nghiệp lần thứ ba gắn với sự xuất hiện của máy hơi nước.
 
 @bai 2 | Các quy tắc an toàn trong phòng thực hành vật lí
 @yccd NB | Nêu được các quy tắc an toàn khi sử dụng thiết bị, khi làm việc với điện, nguồn nhiệt, chất phóng xạ; nhận biết được các kí hiệu, biển báo trên thiết bị và trong phòng thực hành.
 @yccd TH | Giải thích được nguy cơ mất an toàn khi không tuân thủ quy tắc trong phòng thực hành.
 @yccd VD | Đề xuất được cách xử lí một số tình huống mất an toàn trong phòng thực hành.
+
+@muc I | An toàn khi sử dụng thiết bị thí nghiệm
 Câu 1. [NB] Kí hiệu "DC" hoặc "⎓" trên thiết bị điện cho biết
 *A. thiết bị dùng dòng điện một chiều.
 B. thiết bị dùng dòng điện xoay chiều.
@@ -200,32 +207,17 @@ B. thiết bị dễ vỡ.
 C. thiết bị phải tránh ánh nắng.
 *D. thiết bị dùng dòng điện xoay chiều.
 
-Câu 3. [NB] Biển báo có dạng hình tam giác, nền vàng, viền đen là loại biển
-A. cấm.
-B. hiệu lệnh bắt buộc.
-C. chỉ dẫn.
-*D. cảnh báo nguy hiểm.
+Câu 13. [TF] [NB] Về các kí hiệu trên thiết bị thí nghiệm:
+*A. [I.NB] Kí hiệu "DC" chỉ dòng điện một chiều.
+*B. [I.NB] Kí hiệu "AC" chỉ dòng điện xoay chiều.
+C. [I.NB] Kí hiệu "Input" trên thiết bị chỉ đầu ra của thiết bị.
+*D. [I.NB] Dấu "+" chỉ cực dương của nguồn hoặc dụng cụ đo.
+Lời giải
+c) Sai: "Input" là đầu vào, "Output" là đầu ra.
 
-Câu 4. [NB] Biển báo có dạng hình tròn, viền đỏ, có gạch chéo thường là loại biển
-*A. cấm thực hiện một hành động.
-B. cảnh báo nguy hiểm.
-C. chỉ dẫn lối thoát hiểm.
-D. thông tin về thiết bị.
-
-Câu 5. [NB] Việc làm nào sau đây đảm bảo an toàn khi sử dụng thiết bị điện trong phòng thực hành?
-A. Cắm phích điện vào ổ khi tay còn ướt.
-B. Tự ý tháo vỏ thiết bị đang có điện để quan sát.
-*C. Tắt công tắc nguồn trước khi lắp hoặc tháo mạch điện.
-D. Để dây điện chồng chéo trên mặt bàn.
-
-Câu 6. [TH] Trước khi tiến hành thí nghiệm, việc cần làm đầu tiên là
-A. bật ngay nguồn điện để kiểm tra xem các thiết bị có hoạt động hay không.
-*B. đọc kĩ hướng dẫn sử dụng thiết bị và quan sát các kí hiệu, chỉ dẫn trên thiết bị.
-C. vặn thử tất cả các núm điều chỉnh của thiết bị lên mức lớn nhất.
-D. chạm tay vào các bộ phận của thiết bị để kiểm tra nhiệt độ của chúng.
-
+@muc II | Nguy cơ mất an toàn trong sử dụng thiết bị thí nghiệm vật lí
 Câu 7. [TH] Hành động nào sau đây là KHÔNG an toàn trong phòng thực hành?
-A. Đeo kính bảo hộ khi làm thí nghiệm với nguồn sáng mạnh.
+A. Giữ khoảng cách an toàn khi làm thí nghiệm có tia laser.
 B. Báo ngay cho giáo viên khi thiết bị có dấu hiệu bất thường.
 *C. Nhìn trực tiếp vào tia laser để kiểm tra nguồn sáng.
 D. Sắp xếp dụng cụ gọn gàng sau khi làm xong thí nghiệm.
@@ -235,18 +227,6 @@ A. tiếp tục sử dụng nhưng không chạm vào chỗ hở.
 B. dùng băng dính giấy quấn lại rồi dùng tiếp.
 *C. ngừng sử dụng, ngắt nguồn và báo cho giáo viên.
 D. dùng tay giữ chặt chỗ hở để dòng điện không thoát ra.
-
-Câu 9. [TH] Kí hiệu hình ngọn lửa trong khung vuông (như trong SGK) cảnh báo
-A. nơi có điện cao áp.
-B. khu vực có từ trường mạnh.
-C. bề mặt trơn trượt.
-*D. chất dễ cháy.
-
-Câu 10. [TH] Kí hiệu hình tam giác có tia sét bên trong cảnh báo
-*A. nguy hiểm về điện.
-B. chất độc hại.
-C. bề mặt nóng.
-D. vật dễ vỡ.
 
 Câu 11. [VD] Trong giờ thực hành, một nhóm học sinh làm đổ nước lên bàn có ổ cắm điện đang cắm thiết bị. Việc cần làm trước tiên là
 A. dùng khăn hoặc tay lau khô ngay chỗ nước quanh ổ cắm.
@@ -262,48 +242,79 @@ D. chọn bất kì thang đo nào vì ampe kế đều đo được.
 Lời giải
 Chọn thang đo lớn nhất trước để tránh dòng điện vượt quá giới hạn đo làm hỏng ampe kế.
 
-Câu 13. [TF] [NB] Về các kí hiệu trên thiết bị thí nghiệm:
-*A. Kí hiệu "DC" chỉ dòng điện một chiều.
-*B. Kí hiệu "AC" chỉ dòng điện xoay chiều.
-C. Biển báo hình tam giác nền vàng là biển cấm.
-*D. Dấu "+" chỉ cực dương của nguồn hoặc dụng cụ đo.
-Lời giải
-c) Sai: biển tam giác nền vàng là biển cảnh báo.
+Câu 16. [TF] [VD] Trong giờ thực hành, nhóm học sinh nhận thấy đồng hồ đo điện có mùi khét và bốc khói nhẹ:
+*A. [II.TH] Cần ngắt nguồn điện ngay lập tức.
+B. [II.VD] Nên mở vỏ đồng hồ để tìm nguyên nhân.
+*C. [II.TH] Cần báo cho giáo viên phụ trách phòng thực hành.
+D. [II.VD] Có thể tiếp tục đo nếu kim đồng hồ vẫn còn quay.
+
+@muc III | Quy tắc an toàn trong phòng thực hành
+Câu 3. [NB] Trong phòng thực hành, biển báo có kí hiệu phóng xạ (hình ba cánh quạt) cho biết
+A. khu vực có từ trường mạnh.
+B. thiết bị phát tia laser.
+C. nơi cất giữ chất ăn mòn.
+*D. nơi có chất phóng xạ.
+
+Câu 4. [NB] Biển báo hình tròn có gạch chéo trên ngọn lửa trong phòng thực hành cho biết
+*A. nơi cấm lửa.
+B. nơi cất giữ chất dễ cháy.
+C. lối thoát hiểm khi có hoả hoạn.
+D. thiết bị có nhiệt độ cao.
+
+Câu 5. [NB] Việc làm nào sau đây đảm bảo an toàn khi sử dụng thiết bị điện trong phòng thực hành?
+A. Cắm phích điện vào ổ khi tay còn ướt.
+B. Tự ý tháo vỏ thiết bị đang có điện để quan sát.
+*C. Tắt công tắc nguồn trước khi lắp hoặc tháo mạch điện.
+D. Để dây điện chồng chéo trên mặt bàn.
+
+Câu 6. [TH] Trước khi tiến hành thí nghiệm, việc cần làm đầu tiên là
+A. bật ngay nguồn điện để kiểm tra xem các thiết bị có hoạt động hay không.
+*B. đọc kĩ hướng dẫn sử dụng thiết bị và quan sát các kí hiệu, chỉ dẫn trên thiết bị.
+C. vặn thử tất cả các núm điều chỉnh của thiết bị lên mức lớn nhất.
+D. chạm tay vào các bộ phận của thiết bị để kiểm tra nhiệt độ của chúng.
+
+Câu 9. [TH] Kí hiệu hình ngọn lửa trong khung vuông (như trong SGK) cảnh báo
+A. nơi có điện cao áp.
+B. khu vực có từ trường mạnh.
+C. bề mặt trơn trượt.
+*D. chất dễ cháy.
+
+Câu 10. [TH] Kí hiệu hình tam giác có tia sét bên trong cảnh báo
+*A. nguy hiểm về điện.
+B. chất độc hại.
+C. bề mặt nóng.
+D. vật dễ vỡ.
 
 Câu 14. [TF] [TH] Khi làm thí nghiệm với các thiết bị điện:
-*A. Cần tắt nguồn trước khi lắp hoặc tháo mạch điện.
-B. Có thể cắm dây nối vào nguồn khi chưa xác định rõ cực dương, cực âm.
-*C. Cần kiểm tra dây nối, vỏ cách điện trước khi sử dụng.
-D. Có thể để các vật dụng chứa nước gần ổ điện cho tiện thao tác.
+*A. [III.NB] Cần tắt nguồn trước khi lắp hoặc tháo mạch điện.
+B. [I.TH] Có thể cắm dây nối vào nguồn khi chưa xác định rõ cực dương, cực âm.
+*C. [III.TH] Cần kiểm tra dây nối, vỏ cách điện trước khi sử dụng.
+D. [III.TH] Có thể để các vật dụng chứa nước gần ổ điện cho tiện thao tác.
 
 Câu 15. [TF] [TH] Về an toàn khi làm thí nghiệm với nguồn nhiệt và ánh sáng:
-A. Có thể dùng tay để thử độ nóng của bình đang đun.
-*B. Cần dùng kẹp hoặc găng tay cách nhiệt khi cầm vật nóng.
-C. Nhìn trực tiếp vào tia laser trong thời gian ngắn thì không gây hại.
-*D. Không để các chất dễ cháy gần nguồn nhiệt.
-
-Câu 16. [TF] [VD] Trong giờ thực hành, nhóm học sinh nhận thấy đồng hồ đo điện có mùi khét và bốc khói nhẹ:
-*A. Cần ngắt nguồn điện ngay lập tức.
-B. Nên mở vỏ đồng hồ để tìm nguyên nhân.
-*C. Cần báo cho giáo viên phụ trách phòng thực hành.
-D. Có thể tiếp tục đo nếu kim đồng hồ vẫn còn quay.
+A. [I.TH] Có thể dùng tay để thử độ nóng của bình đang đun.
+*B. [III.TH] Cần dùng kẹp hoặc găng tay cách nhiệt khi cầm vật nóng.
+C. [II.TH] Nhìn trực tiếp vào tia laser trong thời gian ngắn thì không gây hại.
+*D. [II.TH] Không để các chất dễ cháy gần nguồn nhiệt.
 
 Câu 17. [TF] [NB] Về biển báo và kí hiệu cảnh báo trong phòng thực hành:
-*A. Biển báo hình tam giác, nền vàng, viền đen là biển cảnh báo nguy hiểm.
-B. Biển báo hình tròn, viền đỏ, có gạch chéo là biển chỉ dẫn.
-*C. Kí hiệu hình tam giác có tia sét bên trong cảnh báo nguy hiểm về điện.
-D. Kí hiệu hình ngọn lửa cho biết thiết bị chống cháy tốt.
+*A. [III.NB] Biển báo có kí hiệu phóng xạ cho biết nơi có chất phóng xạ.
+B. [III.NB] Biển báo "Lối thoát hiểm" chỉ nơi cất giữ chất dễ cháy.
+*C. [III.NB] Kí hiệu hình tam giác có tia sét bên trong cảnh báo nguy hiểm về điện.
+D. [III.NB] Kí hiệu hình ngọn lửa cho biết thiết bị chống cháy tốt.
 
 Câu 18. [TF] [NB] Về các quy tắc an toàn khi làm thí nghiệm:
-*A. Cần đọc kĩ hướng dẫn sử dụng và quan sát các chỉ dẫn, kí hiệu trên thiết bị trước khi sử dụng.
-B. Được phép dùng tay ướt để cắm, tháo thiết bị điện.
-*C. Phải tắt công tắc nguồn thiết bị điện trước khi cắm hoặc tháo thiết bị điện.
-D. Có thể làm thí nghiệm khi chưa được giáo viên cho phép.
+*A. [III.NB] Cần đọc kĩ hướng dẫn sử dụng và quan sát các chỉ dẫn, kí hiệu trên thiết bị trước khi sử dụng.
+B. [III.NB] Được phép dùng tay ướt để cắm, tháo thiết bị điện.
+*C. [III.NB] Phải tắt công tắc nguồn thiết bị điện trước khi cắm hoặc tháo thiết bị điện.
+D. [III.NB] Có thể làm thí nghiệm khi chưa được giáo viên cho phép.
 
 @bai 3 | Thực hành tính sai số trong phép đo. Ghi kết quả đo
 @yccd NB | Nêu được phép đo trực tiếp, phép đo gián tiếp; các loại sai số (sai số hệ thống, sai số ngẫu nhiên).
 @yccd TH | Tính được giá trị trung bình, sai số tuyệt đối, sai số tỉ đối và viết đúng kết quả phép đo.
 @yccd VD | Đề xuất được phương án làm giảm sai số trong phép đo cụ thể.
+
+@muc I | Phép đo trực tiếp và phép đo gián tiếp
 Câu 1. [NB] Phép đo trực tiếp là phép đo
 *A. đọc giá trị của đại lượng cần đo trực tiếp trên dụng cụ đo.
 B. tính giá trị đại lượng cần đo thông qua công thức.
@@ -316,6 +327,13 @@ B. Đo khối lượng quả táo bằng cân điện tử đặt trên mặt b�
 *C. Đo quãng đường và thời gian rồi tính tốc độ $v = s/t$.
 D. Đo thời gian chạy 100 m của một bạn bằng đồng hồ bấm giây.
 
+Câu 17. [TF] [NB] Về phép đo các đại lượng vật lí:
+*A. [I.NB] Phép đo trực tiếp là phép đo đọc được giá trị của đại lượng cần đo trực tiếp trên dụng cụ đo.
+B. [I.TH] Đo thể tích một khối hộp bằng cách đo ba cạnh rồi tính là phép đo trực tiếp.
+*C. [I.NB] Dùng thước đo chiều dài chiếc bàn là phép đo trực tiếp.
+*D. [I.TH] Đo ba cạnh của khối hộp rồi tính thể tích là phép đo gián tiếp.
+
+@muc II | Sai số phép đo
 Câu 3. [NB] Sai số hệ thống là sai số
 *A. có tính quy luật, lặp lại ở mọi lần đo, thường do dụng cụ.
 B. xảy ra ngẫu nhiên, không có quy luật, khác nhau ở mỗi lần đo.
@@ -367,18 +385,18 @@ Lời giải
 Với tích hoặc thương, sai số tỉ đối của kết quả bằng tổng các sai số tỉ đối của các thừa số.
 
 Câu 11. [TF] [TH] Về sai số của phép đo:
-*A. Mọi phép đo đều có sai số.
-B. Sai số hệ thống có thể giảm bằng cách đo nhiều lần rồi lấy trung bình.
-*C. Sai số tỉ đối càng nhỏ thì phép đo càng chính xác.
-D. Kết quả đo được ghi dưới dạng $A = \overline{A} - \Delta A$.
+*A. [II.NB] Mọi phép đo đều có sai số.
+B. [II.TH] Sai số hệ thống có thể giảm bằng cách đo nhiều lần rồi lấy trung bình.
+*C. [II.TH] Sai số tỉ đối càng nhỏ thì phép đo càng chính xác.
+D. [II.TH] Kết quả đo được ghi dưới dạng $A = \overline{A} - \Delta A$.
 Lời giải
 b) Sai: đo nhiều lần lấy trung bình làm giảm sai số ngẫu nhiên; sai số hệ thống cần hiệu chỉnh dụng cụ. d) Sai: ghi $A = \overline{A} \pm \Delta A$.
 
 Câu 12. [TF] [VD] Đo thời gian rơi của một viên bi 3 lần được kết quả: 0,404 s; 0,406 s; 0,405 s. Bỏ qua sai số dụng cụ.
-*A. Giá trị trung bình của thời gian rơi là 0,405 s.
-*B. Sai số tuyệt đối của lần đo thứ nhất là 0,001 s.
-C. Sai số tuyệt đối trung bình là 0,002 s.
-D. Kết quả đo được ghi là $t = (0,405 \pm 0,010)$ s.
+*A. [II.TH] Giá trị trung bình của thời gian rơi là 0,405 s.
+*B. [II.TH] Sai số tuyệt đối của lần đo thứ nhất là 0,001 s.
+C. [II.VD] Sai số tuyệt đối trung bình là 0,002 s.
+D. [II.VD] Kết quả đo được ghi là $t = (0,405 \pm 0,010)$ s.
 Lời giải
 $\overline{t} = (0,404 + 0,406 + 0,405)/3 = 0,405$ s. Các sai số tuyệt đối: 0,001; 0,001; 0 s → trung bình ≈ 0,0007 s ≈ 0,001 s. Kết quả $t = (0,405 \pm 0,001)$ s.
 
@@ -402,17 +420,11 @@ Trả lời: [[3]]
 Lời giải
 $\delta a = 0,1/10,0 = 1\%$; $\delta b = 0,1/5,0 = 2\%$; $\delta S = \delta a + \delta b = 3\%$.
 
-Câu 17. [TF] [NB] Về phép đo các đại lượng vật lí:
-*A. Phép đo trực tiếp là phép đo đọc được giá trị của đại lượng cần đo trực tiếp trên dụng cụ đo.
-B. Đo thể tích một khối hộp bằng cách đo ba cạnh rồi tính là phép đo trực tiếp.
-*C. Dùng thước đo chiều dài chiếc bàn là phép đo trực tiếp.
-*D. Đo ba cạnh của khối hộp rồi tính thể tích là phép đo gián tiếp.
-
 Câu 18. [TF] [NB] Về các loại sai số của phép đo:
-*A. Sai số hệ thống có tính quy luật, lặp lại ở tất cả các lần đo và thường do dụng cụ đo gây ra.
-B. Sai số ngẫu nhiên luôn làm kết quả đo lớn hơn giá trị thực của đại lượng cần đo.
-C. Sai số ngẫu nhiên có thể loại bỏ hoàn toàn bằng cách hiệu chỉnh dụng cụ đo.
-D. Sai số tỉ đối càng lớn thì phép đo càng chính xác.
+*A. [II.NB] Sai số hệ thống có tính quy luật, lặp lại ở tất cả các lần đo và thường do dụng cụ đo gây ra.
+B. [II.NB] Sai số ngẫu nhiên luôn làm kết quả đo lớn hơn giá trị thực của đại lượng cần đo.
+C. [II.NB] Sai số ngẫu nhiên có thể loại bỏ hoàn toàn bằng cách hiệu chỉnh dụng cụ đo.
+D. [II.NB] Sai số tỉ đối càng lớn thì phép đo càng chính xác.
 
 Câu 19. [NB] Một thước kẹp có độ chia nhỏ nhất là 0,02 mm. Lấy sai số dụng cụ bằng một nửa độ chia nhỏ nhất. Sai số dụng cụ của thước kẹp là bao nhiêu mm?
 Trả lời: [[0,01]]
