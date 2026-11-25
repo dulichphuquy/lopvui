@@ -2,7 +2,7 @@
 
 @chuong I | Mở đầu
 
-@bai 1 | Làm quen với vật lí
+@bai 1 | Làm quen với vật lí | 1 tiết
 @yccd NB | Nêu được đối tượng nghiên cứu, mục tiêu của môn Vật lí; nêu được các giai đoạn phát triển của vật lí và phương pháp nghiên cứu (thực nghiệm, mô hình); nêu được ví dụ về ảnh hưởng của vật lí đối với đời sống, kĩ thuật.
 @yccd TH | Phân tích được một số ví dụ về phương pháp nghiên cứu vật lí; vai trò của vật lí với khoa học, kĩ thuật, công nghệ.
 @yccd VD | Lấy được ví dụ chứng tỏ kiến thức, kĩ năng vật lí được sử dụng trong một số lĩnh vực khác nhau.
@@ -189,7 +189,7 @@ B. [IV.NB] Phương pháp mô hình không sử dụng mô hình toán học.
 *C. [III.NB] Cuộc cách mạng công nghiệp lần thứ nhất gắn với việc sử dụng máy hơi nước.
 D. [III.NB] Cuộc cách mạng công nghiệp lần thứ ba gắn với sự xuất hiện của máy hơi nước.
 
-@bai 2 | Các quy tắc an toàn trong phòng thực hành vật lí
+@bai 2 | Các quy tắc an toàn trong phòng thực hành vật lí | 1 tiết
 @yccd NB | Nêu được các quy tắc an toàn khi sử dụng thiết bị, khi làm việc với điện, nguồn nhiệt, chất phóng xạ; nhận biết được các kí hiệu, biển báo trên thiết bị và trong phòng thực hành.
 @yccd TH | Giải thích được nguy cơ mất an toàn khi không tuân thủ quy tắc trong phòng thực hành.
 @yccd VD | Đề xuất được cách xử lí một số tình huống mất an toàn trong phòng thực hành.
@@ -309,7 +309,7 @@ B. [III.NB] Được phép dùng tay ướt để cắm, tháo thiết bị đi�
 *C. [III.NB] Phải tắt công tắc nguồn thiết bị điện trước khi cắm hoặc tháo thiết bị điện.
 D. [III.NB] Có thể làm thí nghiệm khi chưa được giáo viên cho phép.
 
-@bai 3 | Thực hành tính sai số trong phép đo. Ghi kết quả đo
+@bai 3 | Thực hành tính sai số trong phép đo. Ghi kết quả đo | 1 tiết
 @yccd NB | Nêu được phép đo trực tiếp, phép đo gián tiếp; các loại sai số (sai số hệ thống, sai số ngẫu nhiên).
 @yccd TH | Tính được giá trị trung bình, sai số tuyệt đối, sai số tỉ đối và viết đúng kết quả phép đo.
 @yccd VD | Đề xuất được phương án làm giảm sai số trong phép đo cụ thể.
@@ -455,10 +455,10 @@ $\Delta a = 0,022 \cdot 8,00 \approx 0,18$ m/s².
 
 @chuong II | Động học
 
-@bai 4 | Độ dịch chuyển và quãng đường đi được
-@yccd NB | Phân biệt được độ dịch chuyển (đại lượng vectơ) và quãng đường đi được (đại lượng vô hướng); nêu được điều kiện để độ lớn độ dịch chuyển bằng quãng đường đi được.
+@bai 4 | Độ dịch chuyển và quãng đường đi được | 2 tiết
+@yccd NB | Nêu được định nghĩa độ dịch chuyển; phân biệt được độ dịch chuyển (đại lượng vectơ) và quãng đường đi được (đại lượng vô hướng); nêu được điều kiện để độ lớn độ dịch chuyển bằng quãng đường đi được.
 @yccd TH | Xác định được độ dịch chuyển và quãng đường đi được của vật chuyển động thẳng có đổi chiều trên trục toạ độ.
-@yccd VD | Xác định được độ lớn, hướng của độ dịch chuyển và quãng đường đi được khi vật chuyển động theo nhiều đoạn có hướng khác nhau (đổi chiều, vuông góc) trong tình huống thực tế.
+@yccd VD | Xác định được độ lớn, hướng của độ dịch chuyển tổng hợp và quãng đường đi được khi vật chuyển động theo nhiều đoạn có hướng khác nhau (đổi chiều, vuông góc), kể cả đọc trên bản đồ, trong tình huống thực tế.
 Câu 1. [NB] Độ dịch chuyển là đại lượng
 *A. vectơ, cho biết độ dài và hướng của sự thay đổi vị trí của vật.
 B. vô hướng, cho biết độ dài quỹ đạo vật đã đi.
@@ -652,7 +652,71 @@ Trả lời: [[9,3]]
 Lời giải
 Theo hướng Đông: $4 + 6\cos 45° \approx 8,24$ km; theo hướng Bắc: $6\sin 45° \approx 4,24$ km ⇒ $d = \sqrt{8,24^2 + 4,24^2} \approx 9,3$ km.
 
-@bai 5 | Tốc độ và vận tốc
+Câu 35. [NB] Một bạn đạp xe từ A đến B rồi từ B đến C theo sơ đồ như hình. ![Sơ đồ đường đi A – B – C](img:kho-ly10-b4-h1) Độ dịch chuyển của bạn đó được biểu diễn bằng
+A. mũi tên từ A đến B.
+B. mũi tên từ B đến C.
+*C. mũi tên từ A đến C.
+D. đường gấp khúc ABC.
+Lời giải
+Độ dịch chuyển nối vị trí đầu (A) với vị trí cuối (C), có hướng từ A đến C.
+
+Câu 36. [TH] Một bạn đạp xe từ A đến B rồi từ B đến C theo sơ đồ như hình. ![Sơ đồ đường đi A – B – C](img:kho-ly10-b4-h1) Độ lớn độ dịch chuyển của bạn đó là
+A. 14 km.
+*B. 10 km.
+C. 2 km.
+D. 7 km.
+Lời giải
+AB = 6 km (hướng Đông) vuông góc với BC = 8 km (hướng Bắc) nên $d = \sqrt{6^2 + 8^2} = 10$ km.
+
+Câu 37. [TH] Các địa điểm nằm trên một đường thẳng như hình. ![Bến xe, Bưu điện, Công viên, Thư viện trên một đường thẳng](img:kho-ly10-b4-h2) Bạn Hòa đi từ Bưu điện đến Thư viện rồi quay lại Công viên. Quãng đường Hòa đi được là
+A. 400 m.
+B. 700 m.
+*C. 1000 m.
+D. 300 m.
+Lời giải
+s = (1000 − 300) + (1000 − 700) = 700 + 300 = 1000 m.
+
+Câu 38. [VD] Một người đi bộ từ M đến N, từ N đến P rồi từ P đến Q theo sơ đồ như hình. ![Sơ đồ đường đi M – N – P – Q](img:kho-ly10-b4-h3) Độ dịch chuyển của người đó là
+*A. 4 km, hướng Bắc.
+B. 10 km, hướng Bắc.
+C. 4 km, hướng Nam.
+D. 3 km, hướng Đông.
+Lời giải
+Hai đoạn 3 km hướng Đông và 3 km hướng Tây triệt tiêu nhau, còn lại 4 km hướng Bắc: Q nằm ngay phía Bắc M, cách M 4 km.
+
+Câu 39. [TF] [TH] Bạn An đạp xe từ A đến B rồi từ B đến C theo sơ đồ như hình. ![Sơ đồ đường đi A – B – C](img:kho-ly10-b4-h1)
+*A. Quãng đường An đi được là 14 km.
+*B. Nếu An đi thẳng từ A đến C thì quãng đường giảm được 4 km so với đi theo đường A – B – C.
+C. Độ dịch chuyển của An có hướng 45° Đông – Bắc.
+D. Độ lớn độ dịch chuyển của An bằng quãng đường An đi được.
+Lời giải
+a) Đúng: s = 6 + 8 = 14 km.
+b) Đúng: đi thẳng từ A đến C thì quãng đường bằng $\sqrt{6^2 + 8^2} = 10$ km, ngắn hơn 14 km là 4 km.
+c) Sai: hướng 45° Đông – Bắc chỉ khi đi về phía Đông và phía Bắc bằng nhau; ở đây 6 km khác 8 km.
+d) Sai: An đổi hướng tại B nên độ lớn độ dịch chuyển (10 km) nhỏ hơn quãng đường (14 km).
+
+Câu 40. [TF] [VD] Các địa điểm nằm trên một đường thẳng như hình. ![Bến xe, Bưu điện, Công viên, Thư viện trên một đường thẳng](img:kho-ly10-b4-h2) Bạn Hòa đi từ Bưu điện đến Thư viện rồi quay lại Công viên.
+*A. Độ dịch chuyển của Hòa có độ lớn 400 m, hướng từ Bưu điện về phía Thư viện.
+*B. Quãng đường Hòa đi được gấp 2,5 lần độ lớn độ dịch chuyển.
+C. Trên đoạn từ Thư viện về Công viên, độ dịch chuyển của Hòa hướng từ Bến xe về phía Thư viện.
+*D. Nếu Hòa đi tiếp từ Công viên về Bưu điện thì độ dịch chuyển của cả chuyến đi bằng 0.
+Lời giải
+a) Đúng: vị trí đầu là Bưu điện (300 m), vị trí cuối là Công viên (700 m): độ dịch chuyển dài 400 m, hướng về phía Thư viện.
+b) Đúng: s = 700 + 300 = 1000 m = 2,5 × 400 m.
+c) Sai: đoạn này Hòa đi từ Thư viện về Công viên, độ dịch chuyển hướng về phía Bến xe.
+d) Đúng: Hòa trở về đúng vị trí xuất phát (Bưu điện) nên độ dịch chuyển bằng 0.
+
+Câu 41. [TH] Một người đi bộ từ M đến N, từ N đến P rồi từ P đến Q theo sơ đồ như hình. ![Sơ đồ đường đi M – N – P – Q](img:kho-ly10-b4-h3) Quãng đường người đó đi được là bao nhiêu km?
+Trả lời: [[10]]
+Lời giải
+s = 3 + 4 + 3 = 10 km.
+
+Câu 42. [VD] Trên một bản đồ có tỉ lệ 1 : 50 000, nhà của Lan và trường học cách nhau 12 cm theo đường thẳng. Độ lớn độ dịch chuyển từ nhà Lan đến trường là bao nhiêu km?
+Trả lời: [[6]]
+Lời giải
+Khoảng cách thực theo đường thẳng: 12 cm × 50 000 = 600 000 cm = 6 km; đó là độ lớn độ dịch chuyển.
+
+@bai 5 | Tốc độ và vận tốc | 2 tiết
 @yccd NB | Nêu được định nghĩa, ý nghĩa của tốc độ trung bình, vận tốc; phân biệt tốc độ và vận tốc.
 @yccd TH | Tính được tốc độ trung bình và vận tốc trung bình (có xét dấu) của vật chuyển động thẳng.
 @yccd VD | Vận dụng công thức tốc độ trung bình, vận tốc trung bình để giải bài toán thực tế (chuyển động trên nhiều đoạn đường, nhiều khoảng thời gian).
@@ -854,7 +918,7 @@ Trả lời: [[45]]
 Lời giải
 Mũi thuyền phải hướng chếch ngược dòng để vận tốc tổng hợp vuông góc với bờ: $v = \sqrt{4^2 - 3^2} = \sqrt{7} \approx 2,65$ m/s ⇒ $t = \dfrac{120}{2,65} \approx 45$ s.
 
-@bai 6 | Thực hành: Đo tốc độ của vật chuyển động
+@bai 6 | Thực hành: Đo tốc độ của vật chuyển động | 2 tiết
 @yccd NB | Nêu được dụng cụ, cách bố trí thí nghiệm đo tốc độ (đồng hồ đo thời gian hiện số, cổng quang điện); nêu được ưu, nhược điểm của một số cách đo tốc độ thông dụng.
 @yccd TH | Giải thích được cách đo tốc độ trung bình và tốc độ tức thời bằng cổng quang điện; tính được tốc độ và sai số từ số liệu đo.
 @yccd VD | Thiết kế hoặc lựa chọn được phương án và thực hiện phương án (hoặc dựa trên số liệu cho trước) đo tốc độ của vật chuyển động bằng dụng cụ thực hành; xử lí số liệu, ghi đúng kết quả đo.
@@ -978,7 +1042,7 @@ Trả lời: [[1,2]]
 Lời giải
 $v = \dfrac{1,00 \text{ cm}}{0,0250 \text{ s}} = 40$ cm/s; $\delta v = \dfrac{0,1}{10,0} + \dfrac{0,0005}{0,0250} = 1\% + 2\% = 3\%$ ⇒ $\Delta v = 0,03 \cdot 40 = 1,2$ cm/s.
 
-@bai 7 | Đồ thị độ dịch chuyển – thời gian
+@bai 7 | Đồ thị độ dịch chuyển – thời gian | 2 tiết
 @yccd NB | Nhận biết được dạng đồ thị độ dịch chuyển – thời gian của vật đứng yên, vật chuyển động thẳng đều; nêu được độ dốc của đồ thị độ dịch chuyển – thời gian cho biết vận tốc.
 @yccd TH | Mô tả được chuyển động (thẳng đều, đứng yên, đổi chiều) dựa vào đồ thị độ dịch chuyển – thời gian.
 @yccd VD | Xác định được độ dịch chuyển, vận tốc từ đồ thị độ dịch chuyển – thời gian hoặc từ dữ kiện chuyển động thẳng có đổi chiều.
@@ -1175,7 +1239,85 @@ Trả lời: [[13,2]]
 Lời giải
 Vị trí hai xe (tính từ O): $x_A = 10t$; $x_B = 300 - 15(t - 2)$ với $t \ge 2$ s. Gặp nhau: $10t = 330 - 15t$ ⇒ $t = 13,2$ s.
 
-@bai 8 | Chuyển động biến đổi. Gia tốc
+Câu 36. [NB] Đồ thị độ dịch chuyển – thời gian của một vật chuyển động thẳng như hình. ![Đồ thị d – t gồm ba đoạn (1), (2), (3)](img:kho-ly10-b7-h1) Trên đoạn nào vật đứng yên?
+A. Đoạn (1).
+*B. Đoạn (2).
+C. Đoạn (3).
+D. Không có đoạn nào.
+Lời giải
+Đoạn (2) nằm ngang: độ dịch chuyển không đổi nên vật đứng yên.
+
+Câu 37. [NB] Đồ thị độ dịch chuyển – thời gian của một vật chuyển động thẳng như hình. ![Đồ thị d – t gồm ba đoạn (1), (2), (3)](img:kho-ly10-b7-h1) Trên đoạn (3), vật
+A. đứng yên.
+B. chuyển động thẳng đều theo chiều dương.
+*C. chuyển động thẳng đều ngược chiều dương.
+D. chuyển động nhanh dần theo chiều dương.
+Lời giải
+Đoạn (3) là đoạn thẳng dốc xuống: vận tốc không đổi và âm, vật chuyển động thẳng đều ngược chiều dương.
+
+Câu 38. [TH] Đồ thị độ dịch chuyển – thời gian của một vật chuyển động thẳng như hình. ![Đồ thị d – t gồm ba đoạn (1), (2), (3)](img:kho-ly10-b7-h1) Vận tốc của vật trên đoạn (1) là
+*A. 15 m/s.
+B. 30 m/s.
+C. 7,5 m/s.
+D. 60 m/s.
+Lời giải
+Độ dốc đoạn (1): $v = \dfrac{30 - 0}{2 - 0} = 15$ m/s.
+
+Câu 39. [TH] Đồ thị độ dịch chuyển – thời gian của hai vật (1) và (2) chuyển động thẳng như hình. ![Đồ thị d – t của hai vật (1) và (2)](img:kho-ly10-b7-h2) Gọi $v_1$, $v_2$ là vận tốc của vật (1), vật (2). Kết luận đúng là
+A. $v_1 = v_2$.
+*B. $v_1 = 4v_2$.
+C. $v_2 = 4v_1$.
+D. $v_1 = 2v_2$.
+Lời giải
+$v_1 = \dfrac{40 - 0}{5} = 8$ m/s; $v_2 = \dfrac{30 - 20}{5} = 2$ m/s nên $v_1 = 4v_2$.
+
+Câu 40. [TH] Đồ thị độ dịch chuyển – thời gian của một vật chuyển động thẳng như hình. ![Đồ thị d – t: đi lên, dừng rồi đi ngược lại](img:kho-ly10-b7-h3) Độ dịch chuyển của vật trong 9 s đầu là
+*A. −4 m.
+B. 28 m.
+C. 12 m.
+D. 4 m.
+Lời giải
+Tại t = 9 s đồ thị chỉ d = −4 m (lúc đầu d = 0) nên độ dịch chuyển là −4 m.
+
+Câu 41. [TF] [TH] Đồ thị độ dịch chuyển – thời gian của một vật chuyển động thẳng như hình. ![Đồ thị d – t gồm ba đoạn (1), (2), (3)](img:kho-ly10-b7-h1)
+*A. Từ 0 đến 2 s, vật chuyển động thẳng đều theo chiều dương.
+B. Từ 2 s đến 4 s, vận tốc của vật là 30 m/s.
+*C. Từ 4 s đến 5 s, vận tốc của vật là −20 m/s.
+*D. Tại thời điểm 5 s, vật ở cách vị trí xuất phát 10 m theo chiều dương.
+Lời giải
+a) Đúng: đoạn thẳng dốc lên, v = 15 m/s.
+b) Sai: đoạn nằm ngang, vật đứng yên (v = 0); 30 m là độ dịch chuyển chứ không phải vận tốc.
+c) Đúng: $v = \dfrac{10 - 30}{5 - 4} = -20$ m/s.
+d) Đúng: tại t = 5 s, d = 10 m.
+
+Câu 42. [TF] [VD] Đồ thị độ dịch chuyển – thời gian của một vật chuyển động thẳng như hình. ![Đồ thị d – t: đi lên, dừng rồi đi ngược lại](img:kho-ly10-b7-h3)
+*A. Từ 3 s đến 5 s, vật đứng yên.
+B. Từ 0 đến 3 s, vận tốc của vật là 3 m/s.
+*C. Từ 5 s đến 9 s, vận tốc của vật là −4 m/s.
+D. Vật đổi chiều chuyển động tại thời điểm 8 s.
+Lời giải
+a) Đúng: đoạn từ 3 s đến 5 s nằm ngang, độ dịch chuyển không đổi.
+b) Sai: $v = \dfrac{12 - 0}{3 - 0} = 4$ m/s.
+c) Đúng: $v = \dfrac{-4 - 12}{9 - 5} = -4$ m/s.
+d) Sai: tại t = 8 s vật chỉ đi qua vị trí xuất phát (d = 0); vật bắt đầu đi ngược lại từ t = 5 s.
+
+Câu 43. [TH] Đồ thị độ dịch chuyển – thời gian của hai vật (1) và (2) chuyển động thẳng như hình. ![Đồ thị d – t của hai vật (1) và (2)](img:kho-ly10-b7-h2) Vận tốc của vật (2) là bao nhiêu m/s?
+Trả lời: [[2]]
+Lời giải
+$v_2 = \dfrac{30 - 20}{5 - 0} = 2$ m/s.
+
+Câu 44. [VD] Đồ thị độ dịch chuyển – thời gian của một vật chuyển động thẳng như hình. ![Đồ thị d – t: đi lên, dừng rồi đi ngược lại](img:kho-ly10-b7-h3) Quãng đường vật đi được trong 9 s đầu là bao nhiêu mét?
+Trả lời: [[28]]
+Lời giải
+s = 12 + 0 + |−4 − 12| = 12 + 16 = 28 m.
+
+Câu 45. [VDC] Đồ thị độ dịch chuyển – thời gian của một vật chuyển động thẳng như hình. ![Đồ thị d – t: đi lên, dừng rồi đi ngược lại](img:kho-ly10-b7-h3) Tốc độ trung bình của vật trong khoảng thời gian từ t = 2 s đến t = 8 s là bao nhiêu m/s (làm tròn đến hàng phần trăm)?
+Trả lời: [[2,67]]
+Lời giải
+Từ 0 đến 3 s, v = 4 m/s nên tại t = 2 s vật ở d = 8 m. Từ 2 s đến 3 s đi 4 m (lên 12 m); từ 3 s đến 5 s đứng yên; từ 5 s đến 8 s đi ngược lại với tốc độ 4 m/s được 12 m (về 0 m).
+s = 4 + 12 = 16 m; tốc độ trung bình = 16 : 6 ≈ 2,67 m/s.
+
+@bai 8 | Chuyển động biến đổi. Gia tốc | 2 tiết
 @yccd NB | Nêu được định nghĩa, ý nghĩa, đơn vị của gia tốc; nhận biết chuyển động nhanh dần, chậm dần, thẳng đều qua đồ thị vận tốc – thời gian.
 @yccd TH | Xác định được dấu, tính chất của gia tốc (cùng chiều, ngược chiều vận tốc) dựa vào đồ thị vận tốc – thời gian.
 @yccd VD | Tính được gia tốc từ số liệu vận tốc và thời gian.
@@ -1375,7 +1517,52 @@ Trả lời: [[1,25]]
 Lời giải
 $a_1 = \dfrac{100/3,6}{8,0} \approx 3,47$ m/s²; $a_2 = \dfrac{60/3,6}{6,0} \approx 2,78$ m/s² ⇒ $\dfrac{a_1}{a_2} = \dfrac{100 \cdot 6,0}{60 \cdot 8,0} = 1,25$.
 
-@bai 9 | Chuyển động thẳng biến đổi đều
+Câu 36. [NB] Đồ thị vận tốc – thời gian của một ô tô chuyển động thẳng như hình. ![Đồ thị v – t của ô tô gồm ba đoạn](img:kho-ly10-b8-h1) Trong khoảng thời gian nào ô tô chuyển động thẳng đều?
+A. Từ 0 đến 4 s.
+*B. Từ 4 s đến 10 s.
+C. Từ 10 s đến 14 s.
+D. Từ 0 đến 14 s.
+Lời giải
+Từ 4 s đến 10 s vận tốc không đổi (12 m/s): ô tô chuyển động thẳng đều.
+
+Câu 37. [TH] Đồ thị vận tốc – thời gian của một ô tô chuyển động thẳng như hình. ![Đồ thị v – t của ô tô gồm ba đoạn](img:kho-ly10-b8-h1) Gia tốc của ô tô trong khoảng thời gian từ 0 đến 4 s là
+*A. 2 m/s².
+B. 3 m/s².
+C. 0,5 m/s².
+D. 12 m/s².
+Lời giải
+$a = \dfrac{\Delta v}{\Delta t} = \dfrac{12 - 4}{4 - 0} = 2$ m/s².
+
+Câu 38. [VD] Đồ thị vận tốc – thời gian của một vật chuyển động thẳng như hình. ![Đồ thị v – t: vận tốc tăng đều từ −6 m/s đến 6 m/s](img:kho-ly10-b8-h2) Trong khoảng thời gian từ 0 đến 3 s, vật
+A. chuyển động nhanh dần vì gia tốc dương.
+*B. chuyển động chậm dần dù gia tốc dương.
+C. chuyển động chậm dần vì gia tốc âm.
+D. chuyển động thẳng đều.
+Lời giải
+a = (0 − (−6)) : 3 = 2 m/s² > 0, nhưng v < 0 nên a.v < 0: vật chuyển động chậm dần (độ lớn vận tốc giảm từ 6 m/s về 0).
+
+Câu 39. [TF] [VD] Đồ thị vận tốc – thời gian của một vật chuyển động thẳng như hình. ![Đồ thị v – t: vận tốc tăng đều từ −6 m/s đến 6 m/s](img:kho-ly10-b8-h2)
+*A. Từ 0 đến 3 s, vật chuyển động ngược chiều dương.
+B. Tại thời điểm 3 s, vận tốc của vật bằng 0 nên gia tốc của vật bằng 0.
+*C. Từ 3 s đến 6 s, vật chuyển động nhanh dần với gia tốc 2 m/s².
+*D. Gia tốc của vật không đổi trong cả 6 s.
+Lời giải
+a) Đúng: v < 0 trong khoảng này.
+b) Sai: v = 0 tại t = 3 s nhưng vận tốc vẫn đang thay đổi đều; gia tốc vẫn là 2 m/s² (độ dốc của đồ thị).
+c) Đúng: v tăng từ 0 đến 6 m/s, a = 6 : 3 = 2 m/s², a.v > 0.
+d) Đúng: đồ thị là một đoạn thẳng, độ dốc không đổi bằng 2 m/s².
+
+Câu 40. [TH] Đồ thị vận tốc – thời gian của một ô tô chuyển động thẳng như hình. ![Đồ thị v – t của ô tô gồm ba đoạn](img:kho-ly10-b8-h1) Độ lớn gia tốc của ô tô trong khoảng thời gian từ 10 s đến 14 s là bao nhiêu m/s²?
+Trả lời: [[3]]
+Lời giải
+$a = \dfrac{0 - 12}{14 - 10} = -3$ m/s²; độ lớn 3 m/s².
+
+Câu 41. [VD] Đồ thị vận tốc – thời gian của một ô tô chuyển động thẳng như hình. ![Đồ thị v – t của ô tô gồm ba đoạn](img:kho-ly10-b8-h1) Gia tốc trung bình của ô tô trong khoảng thời gian từ 0 đến 14 s là bao nhiêu m/s² (làm tròn đến hàng phần trăm)?
+Trả lời: [[-0,29]]
+Lời giải
+$a = \dfrac{v - v_0}{t - t_0} = \dfrac{0 - 4}{14 - 0} \approx -0,29$ m/s².
+
+@bai 9 | Chuyển động thẳng biến đổi đều | 2 tiết
 @yccd NB | Nêu được các công thức vận tốc, độ dịch chuyển, liên hệ giữa vận tốc – gia tốc – quãng đường của chuyển động thẳng biến đổi đều.
 @yccd TH | Nhận biết được tính chất chuyển động (nhanh dần đều, chậm dần đều) từ dấu của a và v hoặc từ đồ thị vận tốc – thời gian.
 @yccd VD | Vận dụng các công thức của chuyển động thẳng biến đổi đều để tính vận tốc, gia tốc, quãng đường.
@@ -1587,7 +1774,69 @@ Lời giải
 Quãng đường trong giây thứ $n$: $\Delta s_n = \dfrac{a}{2}\left[n^2 - (n-1)^2\right]$. Giây thứ 5: $\dfrac{a}{2} \cdot 9 = 4,5$ ⇒ $a = 1$ m/s².
 Giây thứ 10: $\dfrac{1}{2}(100 - 81) = 9,5$ m.
 
-@bai 10 | Sự rơi tự do
+Câu 36. [NB] Đồ thị vận tốc – thời gian của một vật chuyển động thẳng như hình. ![Đồ thị v – t: vận tốc tăng đều từ 2 m/s đến 8 m/s](img:kho-ly10-b9-h3) Độ lớn độ dịch chuyển của vật trong 6 s bằng
+*A. diện tích dưới đồ thị từ t = 0 đến t = 6 s.
+B. độ dốc của đồ thị từ t = 0 đến t = 6 s.
+C. tích của vận tốc lúc t = 6 s với 6 s.
+D. độ biến thiên vận tốc trong 6 s đầu.
+Lời giải
+Độ lớn độ dịch chuyển bằng diện tích giới hạn bởi đồ thị v – t, trục thời gian và hai đường t = 0, t = 6 s.
+
+Câu 37. [TH] Đồ thị vận tốc – thời gian của một vật chuyển động thẳng như hình. ![Đồ thị v – t: vận tốc tăng đều từ 2 m/s đến 8 m/s](img:kho-ly10-b9-h3) Độ dịch chuyển của vật trong 6 s là
+*A. 30 m.
+B. 48 m.
+C. 12 m.
+D. 36 m.
+Lời giải
+Diện tích hình thang: $d = \dfrac{(2 + 8) \cdot 6}{2} = 30$ m.
+
+Câu 38. [VD] Đồ thị vận tốc – thời gian của một vật chuyển động thẳng như hình. ![Đồ thị v – t gồm ba đoạn: tăng, không đổi, giảm](img:kho-ly10-b9-h1) Độ dịch chuyển của vật trong 12 s là
+*A. 72 m.
+B. 96 m.
+C. 64 m.
+D. 80 m.
+Lời giải
+d = ½.4.8 + 8.6 + ½.2.8 = 16 + 48 + 8 = 72 m (diện tích hình thang dưới đồ thị).
+
+Câu 39. [TF] [TH] Đồ thị vận tốc – thời gian của một vật chuyển động thẳng như hình. ![Đồ thị v – t gồm ba đoạn: tăng, không đổi, giảm](img:kho-ly10-b9-h1)
+*A. Từ 0 đến 4 s, vật chuyển động nhanh dần đều với gia tốc 2 m/s².
+B. Từ 4 s đến 10 s, vật đứng yên.
+*C. Độ dịch chuyển của vật từ 0 đến 4 s là 16 m.
+*D. Từ 10 s đến 12 s, gia tốc của vật là −4 m/s².
+Lời giải
+a) Đúng: a = 8 : 4 = 2 m/s², v tăng đều.
+b) Sai: vận tốc không đổi 8 m/s, vật chuyển động thẳng đều.
+c) Đúng: d = ½.4.8 = 16 m.
+d) Đúng: a = (0 − 8) : (12 − 10) = −4 m/s².
+
+Câu 40. [TF] [VD] Đồ thị vận tốc – thời gian của một vật chuyển động thẳng như hình. ![Đồ thị v – t: vận tốc giảm từ 12 m/s qua 0 đến −6 m/s rồi giữ nguyên](img:kho-ly10-b9-h2)
+*A. Vật đổi chiều chuyển động tại thời điểm 4 s.
+*B. Từ 0 đến 6 s, gia tốc của vật không đổi và bằng −3 m/s².
+C. Từ 4 s đến 6 s, vật chuyển động chậm dần.
+*D. Quãng đường vật đi được trong 8 s là 42 m.
+Lời giải
+a) Đúng: tại t = 4 s, v đổi dấu từ dương sang âm.
+b) Đúng: đồ thị từ 0 đến 6 s là một đoạn thẳng, a = (−6 − 12) : 6 = −3 m/s².
+c) Sai: độ lớn vận tốc tăng từ 0 đến 6 m/s (a.v > 0) nên vật chuyển động nhanh dần.
+d) Đúng: s = ½.4.12 + ½.2.6 + 2.6 = 24 + 6 + 12 = 42 m.
+
+Câu 41. [TH] Đồ thị vận tốc – thời gian của một vật chuyển động thẳng như hình. ![Đồ thị v – t: vận tốc tăng đều từ 2 m/s đến 8 m/s](img:kho-ly10-b9-h3) Gia tốc của vật là bao nhiêu m/s²?
+Trả lời: [[1]]
+Lời giải
+$a = \dfrac{8 - 2}{6 - 0} = 1$ m/s².
+
+Câu 42. [VD] Đồ thị vận tốc – thời gian của một vật chuyển động thẳng như hình. ![Đồ thị v – t gồm ba đoạn: tăng, không đổi, giảm](img:kho-ly10-b9-h1) Tốc độ trung bình của vật trong 12 s là bao nhiêu m/s?
+Trả lời: [[6]]
+Lời giải
+Vật đi một chiều nên s = d = 72 m; tốc độ trung bình = 72 : 12 = 6 m/s.
+
+Câu 43. [VDC] Đồ thị vận tốc – thời gian của một vật chuyển động thẳng như hình. ![Đồ thị v – t: vận tốc giảm từ 12 m/s qua 0 đến −6 m/s rồi giữ nguyên](img:kho-ly10-b9-h2) Độ dịch chuyển của vật trong 8 s là bao nhiêu mét?
+Trả lời: [[6]]
+Lời giải
+Phần diện tích phía trên trục Ot (0 – 4 s): +½.4.12 = +24 m. Phần phía dưới: 4 – 6 s: −½.2.6 = −6 m; 6 – 8 s: −2.6 = −12 m.
+d = 24 − 6 − 12 = 6 m.
+
+@bai 10 | Sự rơi tự do | 1 tiết
 @yccd NB | Nêu được khái niệm sự rơi tự do, đặc điểm của chuyển động rơi tự do (phương thẳng đứng, chiều từ trên xuống, nhanh dần đều) và gia tốc rơi tự do; nêu được công thức vận tốc, quãng đường của vật rơi tự do.
 @yccd TH | Giải thích được vì sao trong không khí các vật rơi nhanh, chậm khác nhau; tính được vận tốc, quãng đường, thời gian rơi của vật rơi tự do.
 @yccd VD | Vận dụng được các công thức của sự rơi tự do để giải bài toán thực tế (quãng đường rơi trong giây thứ n, hai vật rơi lệch thời gian, đo độ sâu của giếng…).
@@ -1788,7 +2037,7 @@ Trả lời: [[41,4]]
 Lời giải
 Gọi $t_1$ là thời gian rơi: $h = 5t_1^2$ và $t_1 + \dfrac{h}{340} = 3,0$ ⇒ $5t_1^2 + 340t_1 - 1020 = 0$ ⇒ $t_1 \approx 2,878$ s ⇒ $h \approx 41,4$ m.
 
-@bai 11 | Thực hành: Đo gia tốc rơi tự do
+@bai 11 | Thực hành: Đo gia tốc rơi tự do | 1 tiết
 @yccd NB | Nêu được dụng cụ, cách bố trí thí nghiệm đo gia tốc rơi tự do (nam châm điện, cổng quang điện, đồng hồ đo thời gian hiện số, viên bi thép) và công thức $g = \dfrac{2s}{t^2}$.
 @yccd TH | Giải thích được các bước tiến hành và cách giảm sai số; tính được gia tốc rơi tự do và sai số từ bảng số liệu.
 @yccd VD | Thực hiện thí nghiệm (hoặc dựa trên số liệu cho trước) xác định được gia tốc rơi tự do; xử lí số liệu bằng đồ thị $s$ theo $t^2$ và ghi đúng kết quả đo.
@@ -1915,7 +2164,7 @@ Trả lời: [[9,80]]
 Lời giải
 Mỗi lần đo: $g = \dfrac{2s}{t^2}$ ≈ 9,803; 9,780; 9,796; 9,803 m/s² ⇒ $\bar g \approx 9,80$ m/s².
 
-@bai 12 | Chuyển động ném
+@bai 12 | Chuyển động ném | 2 tiết
 @yccd NB | Nêu được chuyển động ném ngang, ném xiên (bỏ qua sức cản không khí) có thể phân tích thành hai chuyển động thành phần theo phương ngang và phương thẳng đứng; nêu được công thức thời gian rơi, tầm xa của vật ném ngang và tầm xa của vật ném xiên.
 @yccd TH | Mô tả và giải thích được chuyển động khi vật có vận tốc không đổi theo một phương và có gia tốc không đổi theo phương vuông góc với phương này.
 @yccd VD | Vận dụng được các công thức của chuyển động ném để giải bài toán thực tế (thả hàng từ máy bay, ném bóng qua vật cản…).
@@ -2124,7 +2373,7 @@ Lời giải
 $v_y = \sqrt{2gh} = 20$ m/s; $\tan 60° = \dfrac{v_y}{v_0}$ ⇒ $v_0 = \dfrac{20}{\sqrt{3}} \approx 11,5$ m/s.
 
 @chuong III | Động lực học
-@bai 13 | Tổng hợp và phân tích lực. Cân bằng lực
+@bai 13 | Tổng hợp và phân tích lực. Cân bằng lực | 1 tiết
 Câu 1. [NB] Lực là đại lượng
 A. vô hướng, chỉ được đặc trưng bởi độ lớn.
 *B. vectơ, có điểm đặt, phương, chiều và độ lớn.
@@ -2386,7 +2635,7 @@ Trả lời: [[25]]
 Lời giải
 Lực thứ ba cân bằng với hợp lực của hai lực kia: $F_3 = \sqrt{15^2 + 20^2} = 25$ N.
 
-@bai 14 | Định luật 1 Newton
+@bai 14 | Định luật 1 Newton | 2 tiết
 Câu 1. [NB] Nếu một vật không chịu tác dụng của lực nào hoặc chịu tác dụng của các lực có hợp lực bằng 0 thì vật
 A. chuyển động nhanh dần đều theo hướng chuyển động ban đầu của vật.
 B. chuyển động chậm dần đều rồi dừng lại sau một khoảng thời gian.
@@ -2664,7 +2913,7 @@ Trả lời: [[200]]
 Lời giải
 Khí cầu chuyển động thẳng đều nên hợp lực bằng 0: $F_{đẩy} = P + F_{cản}$, suy ra $F_{cản} = 6200 - 600 \cdot 10 = 200$ N.
 
-@bai 15 | Định luật 2 Newton
+@bai 15 | Định luật 2 Newton | 2 tiết
 Câu 1. [NB] Biểu thức của định luật 2 Newton là
 A. $\vec{F} = \dfrac{\vec{a}}{m}$.
 B. $m = \vec{F} \cdot \vec{a}$.
@@ -2942,7 +3191,7 @@ Trả lời: [[9000]]
 Lời giải
 $v = 15$ m/s. $a = \dfrac{v^2}{2s} = \dfrac{15^2}{2 \cdot 25} = 4,5$ m/s². $F = ma = 2000 \cdot 4,5 = 9000$ N.
 
-@bai 16 | Định luật 3 Newton
+@bai 16 | Định luật 3 Newton | 1 tiết
 Câu 1. [NB] Khi vật A tác dụng lên vật B một lực thì vật B cũng tác dụng lại vật A một lực. Theo định luật 3 Newton, hai lực này
 A. cùng giá, cùng chiều, độ lớn khác nhau.
 *B. cùng giá, cùng độ lớn, ngược chiều.
@@ -3220,7 +3469,7 @@ Trả lời: [[1000]]
 Lời giải
 Gia tốc của búa có độ lớn $a = \dfrac{5}{0,01} = 500$ m/s² nên đinh tác dụng lên búa lực $F = ma = 2 \cdot 500 = 1000$ N. Theo định luật 3 Newton, búa tác dụng lên đinh lực cũng có độ lớn 1000 N.
 
-@bai 17 | Trọng lực và lực căng
+@bai 17 | Trọng lực và lực căng | 2 tiết
 Câu 1. [NB] Trọng lực tác dụng lên một vật là lực
 A. đẩy của Trái Đất tác dụng lên vật.
 B. do vật tác dụng lên mặt đất.
@@ -3498,7 +3747,7 @@ Trả lời: [[80]]
 Lời giải
 Theo phương thẳng đứng: $T_2\sin 37° = P = 60$ N nên $T_2 = 100$ N. Theo phương ngang: $T_1 = T_2\cos 37° = 100 \cdot 0,8 = 80$ N.
 
-@bai 18 | Lực ma sát
+@bai 18 | Lực ma sát | 2 tiết
 Câu 1. [NB] Lực ma sát nghỉ xuất hiện khi
 *A. vật có xu hướng chuyển động nhưng chưa trượt.
 B. vật trượt trên bề mặt tiếp xúc của vật khác.
@@ -3776,7 +4025,7 @@ Trả lời: [[3,52]]
 Lời giải
 Theo phương thẳng đứng: $N = P - F\sin 37° = 50 - 18 = 32$ N nên $F_{ms} = 0,2 \cdot 32 = 6,4$ N. Theo phương ngang: $a = \dfrac{F\cos 37° - F_{ms}}{m} = \dfrac{24 - 6,4}{5} = 3,52$ m/s².
 
-@bai 19 | Lực cản và lực nâng
+@bai 19 | Lực cản và lực nâng | 2 tiết
 Câu 1. [NB] Lực cản của không khí hoặc của nước tác dụng lên vật đang chuyển động trong nó có hướng
 A. cùng với hướng chuyển động của vật.
 B. thẳng đứng, hướng lên.
@@ -4054,7 +4303,7 @@ Trả lời: [[1500]]
 Lời giải
 $F_A = \rho gV = 1,2 \cdot 10 \cdot 500 = 6000$ N, $P = 450 \cdot 10 = 4500$ N nên hợp lực $F = 6000 - 4500 = 1500$ N hướng lên.
 
-@bai 20 | Một số ví dụ về cách giải các bài toán thuộc phần động lực học
+@bai 20 | Một số ví dụ về cách giải các bài toán thuộc phần động lực học | 2 tiết
 Câu 1. [NB] Bước đầu tiên khi giải một bài toán động lực học là
 *A. xác định vật khảo sát và vẽ các lực tác dụng lên vật.
 B. viết ngay công thức tính gia tốc rồi thay số.
@@ -4332,7 +4581,7 @@ Trả lời: [[5]]
 Lời giải
 Khi đi lên: $a = g(\sin 37° + \mu\cos 37°) = 10 \cdot (0,6 + 0,4) = 10$ m/s² (chậm dần). $s = \dfrac{v_0^2}{2a} = \dfrac{100}{20} = 5$ m.
 
-@bai 21 | Moment lực. Cân bằng của vật rắn
+@bai 21 | Moment lực. Cân bằng của vật rắn | 2 tiết
 Câu 1. [NB] Moment của lực đối với một trục quay là đại lượng đặc trưng cho
 A. tác dụng làm vật chuyển động tịnh tiến của lực.
 B. độ lớn của khối lượng vật.
@@ -4610,7 +4859,7 @@ Trả lời: [[20]]
 Lời giải
 Moment đối với A: $T \cdot 1 = 20 \cdot 0,5 + 10 \cdot 1 = 20$ nên $T = 20$ N.
 
-@bai 22 | Thực hành: Tổng hợp lực
+@bai 22 | Thực hành: Tổng hợp lực | 2 tiết
 Câu 1. [NB] Bài thực hành tổng hợp lực nhằm
 A. đo gia tốc rơi tự do tại nơi làm thí nghiệm.
 B. đo hệ số ma sát trượt giữa hai bề mặt tiếp xúc.
@@ -4728,7 +4977,7 @@ Lời giải
 Độ lớn hợp lực là 6 N nên $F_2 = \sqrt{6^2 - 3,6^2} = 4,8$ N.
 
 @chuong IV | Năng lượng, công, công suất
-@bai 23 | Năng lượng. Công cơ học
+@bai 23 | Năng lượng. Công cơ học | 2 tiết
 Câu 1. [NB] Phát biểu nào sau đây đúng với định luật bảo toàn năng lượng?
 A. Năng lượng của mỗi vật luôn giữ nguyên, không bao giờ thay đổi dù có tương tác.
 *B. Năng lượng chỉ truyền hoặc chuyển hoá, không tự sinh ra hay mất đi.
@@ -5006,7 +5255,7 @@ Trả lời: [[75]]
 Lời giải
 Thời gian rơi $t = \sqrt{2h/g} = 2$ s. Trong 1 s đầu rơi $\tfrac{1}{2} g \cdot 1^2 = 5$ m nên quãng đường giây cuối là $20 - 5 = 15$ m. $A = mg \cdot 15 = 0,5 \cdot 10 \cdot 15 = 75$ J.
 
-@bai 24 | Công suất
+@bai 24 | Công suất | 2 tiết
 Câu 1. [NB] Công suất là đại lượng đặc trưng cho
 A. độ lớn của lực tác dụng lên vật.
 B. khả năng chịu lực tối đa của máy.
@@ -5284,7 +5533,7 @@ Trả lời: [[24]]
 Lời giải
 Điện năng $A = 1,5 \cdot 8 = 12$ kW·h. Tiền điện $= 12 \cdot 2000 = 24000$ đồng $= 24$ nghìn đồng.
 
-@bai 25 | Động năng, thế năng
+@bai 25 | Động năng, thế năng | 2 tiết
 Câu 1. [NB] Động năng của một vật là năng lượng mà vật có được do
 A. vị trí của vật so với mặt đất trong trọng trường.
 B. bị biến dạng đàn hồi dưới tác dụng của lực.
@@ -5562,7 +5811,7 @@ Trả lời: [[3]]
 Lời giải
 $m = \dfrac{2 W_{đ}}{v^2} = \dfrac{2 \cdot 54}{6^2} = 3$ kg.
 
-@bai 26 | Cơ năng và định luật bảo toàn cơ năng
+@bai 26 | Cơ năng và định luật bảo toàn cơ năng | 2 tiết
 Câu 1. [NB] Cơ năng của vật là tổng của
 A. động năng và nhiệt năng của vật.
 B. thế năng và công của lực cản.
@@ -5840,7 +6089,7 @@ Trả lời: [[10]]
 Lời giải
 Bảo toàn cơ năng: $\dfrac{1}{2}mv_0^2 + mgh = \dfrac{1}{2}mv^2$ nên $v = \sqrt{v_0^2 + 2gh} = \sqrt{64 + 36} = 10$ m/s.
 
-@bai 27 | Hiệu suất
+@bai 27 | Hiệu suất | 2 tiết
 Câu 1. [NB] Hiệu suất của một máy là tỉ số giữa
 *A. năng lượng có ích và năng lượng toàn phần.
 B. năng lượng toàn phần và năng lượng có ích.
@@ -6119,7 +6368,7 @@ Lời giải
 $W_{tp} = \dfrac{W_{ci}}{H} = \dfrac{100}{0,2} = 500$ J.
 
 @chuong V | Động lượng
-@bai 28 | Động lượng
+@bai 28 | Động lượng | 2 tiết
 Câu 1. [NB] Động lượng của một vật có khối lượng $m$ đang chuyển động với vận tốc $v$ được xác định bằng công thức
 A. $p = mv^2$.
 *B. $p = mv$.
@@ -6397,7 +6646,7 @@ Trả lời: [[175]]
 Lời giải
 Tốc độ ngay trước va chạm: $v = \sqrt{2gh} = \sqrt{2 \cdot 10 \cdot 3,2} = 8$ m/s. Chọn chiều dương hướng lên: $\Delta p = 0,25 \cdot (6 - (-8)) = 3,5$ kg.m/s nên $F = \dfrac{3,5}{0,02} = 175$ N.
 
-@bai 29 | Định luật bảo toàn động lượng
+@bai 29 | Định luật bảo toàn động lượng | 2 tiết
 Câu 1. [NB] Một hệ nhiều vật được gọi là hệ kín khi
 A. hệ gồm hai vật chuyển động ngược chiều và va chạm với nhau.
 B. hệ chịu tác dụng của các ngoại lực có hợp lực khác 0 trong suốt quá trình.
@@ -6675,7 +6924,7 @@ Trả lời: [[1]]
 Lời giải
 Động lượng theo phương ngang được bảo toàn: $(50 + 100) \cdot 2 = 50 \cdot 4 + 100v$ nên $v = \dfrac{300 - 200}{100} = 1$ m/s, xe vẫn chuyển động cùng chiều ban đầu.
 
-@bai 30 | Thực hành: Xác định động lượng của vật trước và sau va chạm
+@bai 30 | Thực hành: Xác định động lượng của vật trước và sau va chạm | 2 tiết
 Câu 1. [NB] Trong thí nghiệm xác định động lượng của hai xe trước và sau va chạm, băng đệm khí được dùng để
 A. tăng lực ma sát giữa xe và băng để xe dừng nhanh.
 *B. giảm lực ma sát giữa xe và băng đến mức rất nhỏ.
@@ -6822,7 +7071,7 @@ Lời giải
 $v' = \dfrac{0,40 \cdot 0,50}{0,50} = 0,40$ m/s nên $t' = \dfrac{d}{v'} = \dfrac{0,020}{0,40} = 0,050$ s $= 50$ ms.
 
 @chuong VI | Chuyển động tròn
-@bai 31 | Động học của chuyển động tròn đều
+@bai 31 | Động học của chuyển động tròn đều | 2 tiết
 Câu 1. [NB] Chuyển động tròn đều là chuyển động có
 A. quỹ đạo là đường tròn và vận tốc không đổi.
 *B. quỹ đạo là đường tròn và tốc độ không đổi.
@@ -7100,7 +7349,7 @@ Trả lời: [[327]]
 Lời giải
 $T = 24 \cdot 3600 = 86400$ s nên $v = \dfrac{2\pi r}{T} = \dfrac{2\pi \cdot 4,5 \cdot 10^6}{86400} \approx 327$ m/s.
 
-@bai 32 | Lực hướng tâm và gia tốc hướng tâm
+@bai 32 | Lực hướng tâm và gia tốc hướng tâm | 2 tiết
 Câu 1. [NB] Gia tốc hướng tâm của chất điểm chuyển động tròn đều có phương chiều
 *A. hướng vào tâm quỹ đạo.
 B. cùng hướng với vectơ vận tốc.
@@ -7380,7 +7629,7 @@ Khi lực căng bằng 0, chỉ có trọng lực đóng vai trò lực hướng
 
 
 @chuong VII | Biến dạng của vật rắn. Áp suất chất lỏng
-@bai 33 | Biến dạng của vật rắn
+@bai 33 | Biến dạng của vật rắn | 2 tiết
 Câu 1. [NB] Biến dạng của vật rắn là hiện tượng
 A. vật bị thay đổi màu sắc hoặc mùi vị khi chịu tác dụng của lực.
 B. vật chuyển từ thể rắn sang thể lỏng khi chịu tác dụng của lực.
@@ -7658,7 +7907,7 @@ Trả lời: [[22]]
 Lời giải
 Cùng độ lớn lực thì độ biến dạng như nhau: khi kéo dãn $28 - 25 = 3$ cm nên khi nén ngắn đi 3 cm. Chiều dài $= 25 - 3 = 22$ cm.
 
-@bai 34 | Khối lượng riêng. Áp suất chất lỏng
+@bai 34 | Khối lượng riêng. Áp suất chất lỏng | 2 tiết
 Câu 1. [NB] Khối lượng riêng của một chất được xác định bằng
 *A. thương số giữa khối lượng và thể tích của vật làm bằng chất đó.
 B. tích số giữa khối lượng và thể tích của vật làm bằng chất đó.
