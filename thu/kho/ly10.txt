@@ -432,7 +432,7 @@ Trả lời: [[0,01]]
 Câu 20. [NB] Kết quả đo khối lượng một vật được ghi là $m = (250 \pm 2)$ g. Sai số tuyệt đối của phép đo là bao nhiêu gam?
 Trả lời: [[2]]
 
-Câu 21. [VDC] Đo tốc độ theo công thức $v = \dfrac{s}{t}$. Quãng đường đo được với sai số tỉ đối 0,4%; thời gian đo được khoảng 2,00 s bằng đồng hồ có sai số dụng cụ 0,002 s. Để sai số tỉ đối của tốc độ không vượt quá 1% thì sai số ngẫu nhiên (sai số tuyệt đối trung bình của các lần đo thời gian) không được vượt quá
+Câu 21. [VD] Đo tốc độ theo công thức $v = \dfrac{s}{t}$. Quãng đường đo được với sai số tỉ đối 0,4%; thời gian đo được khoảng 2,00 s bằng đồng hồ có sai số dụng cụ 0,002 s. Để sai số tỉ đối của tốc độ không vượt quá 1% thì sai số ngẫu nhiên (sai số tuyệt đối trung bình của các lần đo thời gian) không được vượt quá
 *A. 0,010 s.
 B. 0,012 s.
 C. 0,014 s.
@@ -639,7 +639,7 @@ Trả lời: [[2]]
 Câu 32. [NB] Một vận động viên chạy 3 vòng quanh sân rồi dừng lại đúng ở vạch xuất phát. Độ dịch chuyển của vận động viên là bao nhiêu mét?
 Trả lời: [[0]]
 
-Câu 33. [VDC] Một người đi bộ dọc theo cạnh một khu đất hình vuông cạnh 100 m: xuất phát từ góc A, đi hết cạnh AB, hết cạnh BC rồi dừng ở trung điểm cạnh CD. Quãng đường đi được và độ lớn độ dịch chuyển của người đó lần lượt là
+Câu 33. [VD] Một người đi bộ dọc theo cạnh một khu đất hình vuông cạnh 100 m: xuất phát từ góc A, đi hết cạnh AB, hết cạnh BC rồi dừng ở trung điểm cạnh CD. Quãng đường đi được và độ lớn độ dịch chuyển của người đó lần lượt là
 A. 250 m và 100 m.
 B. 250 m và 150 m.
 C. khoảng 112 m và 250 m.
@@ -836,7 +836,7 @@ Trả lời: [[40]]
 Câu 32. [NB] Một ô tô chạy thẳng, không đổi chiều với tốc độ trung bình 50 km/h. Độ lớn vận tốc trung bình của ô tô là bao nhiêu km/h?
 Trả lời: [[50]]
 
-Câu 33. [VDC] Một ca nô chạy xuôi dòng từ bến A đến bến B mất 2 giờ, chạy ngược dòng từ B về A mất 3 giờ (tốc độ của ca nô đối với nước không đổi). Nếu tắt máy để ca nô trôi theo dòng nước từ A đến B thì mất
+Câu 33. [VD] Một ca nô chạy xuôi dòng từ bến A đến bến B mất 2 giờ, chạy ngược dòng từ B về A mất 3 giờ (tốc độ của ca nô đối với nước không đổi). Nếu tắt máy để ca nô trôi theo dòng nước từ A đến B thì mất
 *A. 12 giờ.
 B. 6 giờ.
 C. 5 giờ.
@@ -964,7 +964,7 @@ Trả lời: [[1]]
 Câu 20. [NB] Để đo tốc độ trung bình của viên bi khi đi từ điểm A đến điểm B bằng đồng hồ đo thời gian hiện số, cần đặt bao nhiêu cổng quang điện (mỗi điểm một cổng)?
 Trả lời: [[2]]
 
-Câu 21. [VDC] Đo thời gian một xe đi hết quãng đường $s = (0,500 \pm 0,001)$ m ba lần được: 0,498 s; 0,502 s; 0,500 s. Sai số dụng cụ của đồng hồ là 0,001 s. Kết quả đo tốc độ trung bình của xe được ghi đúng là
+Câu 21. [VD] Đo thời gian một xe đi hết quãng đường $s = (0,500 \pm 0,001)$ m ba lần được: 0,498 s; 0,502 s; 0,500 s. Sai số dụng cụ của đồng hồ là 0,001 s. Kết quả đo tốc độ trung bình của xe được ghi đúng là
 A. $v = (1,000 \pm 0,003)$ m/s.
 B. $v = (1,000 \pm 0,002)$ m/s.
 C. $v = (1,00 \pm 0,07)$ m/s.
@@ -1156,7 +1156,7 @@ Trả lời: [[0]]
 Câu 32. [NB] Đồ thị độ dịch chuyển – thời gian của một vật chuyển động thẳng đều là đường thẳng có độ dốc bằng 4 m/s. Vận tốc của vật là bao nhiêu m/s?
 Trả lời: [[4]]
 
-Câu 33. [VDC] Lúc 7 giờ, xe thứ nhất xuất phát từ A đi về B với tốc độ 40 km/h. Lúc 8 giờ, xe thứ hai xuất phát từ B đi về A với tốc độ 50 km/h. Biết AB = 150 km, hai xe chuyển động thẳng đều trên cùng một đường thẳng. Hai xe gặp nhau lúc
+Câu 33. [VD] Lúc 7 giờ, xe thứ nhất xuất phát từ A đi về B với tốc độ 40 km/h. Lúc 8 giờ, xe thứ hai xuất phát từ B đi về A với tốc độ 50 km/h. Biết AB = 150 km, hai xe chuyển động thẳng đều trên cùng một đường thẳng. Hai xe gặp nhau lúc
 A. 9 giờ, tại nơi cách A 80 km.
 B. khoảng 8 giờ 40 phút, tại nơi cách A khoảng 66,7 km.
 C. khoảng 9 giờ 13 phút, tại nơi cách A khoảng 61,1 km.
@@ -1357,7 +1357,7 @@ Trả lời: [[0]]
 Câu 32. [NB] Một vật chuyển động thẳng nhanh dần với gia tốc có độ lớn 3 m/s². Sau mỗi giây, độ lớn vận tốc của vật tăng thêm bao nhiêu m/s?
 Trả lời: [[3]]
 
-Câu 33. [VDC] Một quả bóng bay theo phương ngang với tốc độ 10 m/s đập vuông góc vào tường rồi bật ngược trở lại với tốc độ 8 m/s. Thời gian bóng tiếp xúc với tường là 0,05 s. Gia tốc trung bình của bóng trong thời gian tiếp xúc có
+Câu 33. [VD] Một quả bóng bay theo phương ngang với tốc độ 10 m/s đập vuông góc vào tường rồi bật ngược trở lại với tốc độ 8 m/s. Thời gian bóng tiếp xúc với tường là 0,05 s. Gia tốc trung bình của bóng trong thời gian tiếp xúc có
 *A. độ lớn 360 m/s², hướng ra xa tường.
 B. độ lớn 40 m/s², hướng vào tường.
 C. độ lớn 40 m/s², hướng ra xa tường.
@@ -1567,7 +1567,7 @@ Trả lời: [[1,5]]
 Câu 32. [NB] Vận tốc của một vật chuyển động thẳng biến đổi đều là $v = 5 + 2t$ ($v$ tính bằng m/s, $t$ tính bằng s). Vận tốc ban đầu của vật là bao nhiêu m/s?
 Trả lời: [[5]]
 
-Câu 33. [VDC] Một ô tô đang chạy với tốc độ 72 km/h thì người lái phát hiện vật cản phía trước cách xe 55 m. Sau thời gian phản ứng 0,5 s (xe vẫn chạy đều), người lái hãm phanh, xe chuyển động chậm dần đều với gia tốc có độ lớn 5 m/s². Kết luận nào sau đây đúng?
+Câu 33. [VD] Một ô tô đang chạy với tốc độ 72 km/h thì người lái phát hiện vật cản phía trước cách xe 55 m. Sau thời gian phản ứng 0,5 s (xe vẫn chạy đều), người lái hãm phanh, xe chuyển động chậm dần đều với gia tốc có độ lớn 5 m/s². Kết luận nào sau đây đúng?
 A. Xe đâm vào vật cản.
 B. Xe dừng lại cách vật cản 15 m.
 *C. Xe dừng lại cách vật cản 5 m.
@@ -1769,7 +1769,7 @@ Trả lời: [[9,8]]
 Câu 32. [NB] Trong ống Newton đã hút hết không khí, thả cùng lúc một viên bi và một chiếc lông chim từ cùng một độ cao. Thời gian rơi của viên bi gấp bao nhiêu lần thời gian rơi của lông chim?
 Trả lời: [[1]]
 
-Câu 33. [VDC] Từ mái nhà cao 16 m, các giọt nước rơi tự do cách nhau những khoảng thời gian bằng nhau. Khi giọt thứ nhất vừa chạm đất thì giọt thứ năm bắt đầu rơi. Lấy $g = 10$ m/s². Khi đó khoảng cách giữa giọt thứ hai và giọt thứ ba là
+Câu 33. [VD] Từ mái nhà cao 16 m, các giọt nước rơi tự do cách nhau những khoảng thời gian bằng nhau. Khi giọt thứ nhất vừa chạm đất thì giọt thứ năm bắt đầu rơi. Lấy $g = 10$ m/s². Khi đó khoảng cách giữa giọt thứ hai và giọt thứ ba là
 *A. 5 m.
 B. 7 m.
 C. 3 m.
@@ -1902,7 +1902,7 @@ Trả lời: [[0]]
 Câu 20. [TH] Đồ thị quãng đường $s$ theo bình phương thời gian $t^2$ của viên bi rơi tự do là đường thẳng qua gốc tọa độ có hệ số góc $k$. Gia tốc rơi tự do bằng $g = n \cdot k$. Giá trị của $n$ là bao nhiêu?
 Trả lời: [[2]]
 
-Câu 21. [VDC] Viên bi rơi không vận tốc đầu được quãng đường $s = (0,700 \pm 0,001)$ m trong thời gian $t = (0,378 \pm 0,002)$ s. Kết quả đo gia tốc rơi tự do được ghi đúng là
+Câu 21. [VD] Viên bi rơi không vận tốc đầu được quãng đường $s = (0,700 \pm 0,001)$ m trong thời gian $t = (0,378 \pm 0,002)$ s. Kết quả đo gia tốc rơi tự do được ghi đúng là
 A. $g = (9,8 \pm 1,2)$ m/s².
 B. $g = (9,80 \pm 0,07)$ m/s².
 *C. $g = (9,8 \pm 0,1)$ m/s².
@@ -2103,7 +2103,7 @@ Trả lời: [[5]]
 Câu 32. [TH] Ném xiên các vật từ mặt đất với cùng tốc độ ban đầu, bỏ qua sức cản không khí. Ngoài góc 0°, tầm xa bằng 0 khi góc ném bằng bao nhiêu độ?
 Trả lời: [[90]]
 
-Câu 33. [VDC] Một quả bóng được đá từ mặt đất với vận tốc 20 m/s hợp với phương ngang góc 30°, hướng về một bức tường thẳng đứng cao 5 m đặt cách điểm đá 30 m. Lấy $g = 10$ m/s², bỏ qua sức cản không khí. Kết luận nào sau đây đúng?
+Câu 33. [VD] Một quả bóng được đá từ mặt đất với vận tốc 20 m/s hợp với phương ngang góc 30°, hướng về một bức tường thẳng đứng cao 5 m đặt cách điểm đá 30 m. Lấy $g = 10$ m/s², bỏ qua sức cản không khí. Kết luận nào sau đây đúng?
 A. Bóng đập vào tường ở độ cao khoảng 5,0 m.
 B. Bóng bay qua tường, cao hơn đỉnh tường khoảng 5 m.
 C. Bóng chạm đất trước khi tới tường.
@@ -3309,7 +3309,7 @@ D. luôn bằng trọng lượng của vật treo.
 Lời giải
 Dây nhẹ nên khối lượng của dây không đáng kể, lực căng có cùng độ lớn tại mọi điểm trên dây.
 
-Câu 12. [VDC] Một vật có trọng lượng lớn nhất khi được đặt ở
+Câu 12. [VD] Một vật có trọng lượng lớn nhất khi được đặt ở
 *A. cực của Trái Đất.
 B. xích đạo của Trái Đất.
 C. đỉnh núi cao.
@@ -3945,7 +3945,7 @@ D. 8000 N.
 Lời giải
 Rơi đều nên hợp lực bằng 0: $F_c = P = mg = 800$ N.
 
-Câu 22. [VDC] Giả sử lực cản của không khí tác dụng lên ô tô tỉ lệ với bình phương tốc độ. Khi xe chạy với tốc độ 10 m/s lực cản là 50 N. Khi xe chạy với tốc độ 20 m/s thì lực cản là
+Câu 22. [VD] Giả sử lực cản của không khí tác dụng lên ô tô tỉ lệ với bình phương tốc độ. Khi xe chạy với tốc độ 10 m/s lực cản là 50 N. Khi xe chạy với tốc độ 20 m/s thì lực cản là
 A. 100 N.
 *B. 200 N.
 C. 400 N.
@@ -4143,7 +4143,7 @@ D. bằng 0.
 Lời giải
 Chỉ một phần lực kéo làm vật 2 chuyển động: $T = m_2a < F$ (vì $F = (m_1 + m_2)a$).
 
-Câu 12. [VDC] Hai vật có khối lượng $m_1 > m_2$ nối bằng dây nhẹ, không dãn, vắt qua ròng rọc cố định nhẹ, bỏ qua ma sát. Khi thả cho hệ chuyển động thì
+Câu 12. [VD] Hai vật có khối lượng $m_1 > m_2$ nối bằng dây nhẹ, không dãn, vắt qua ròng rọc cố định nhẹ, bỏ qua ma sát. Khi thả cho hệ chuyển động thì
 A. vật $m_1$ đi lên, vật $m_2$ đi xuống.
 B. hai vật đứng yên vì lực căng cân bằng.
 C. hai vật chuyển động cùng chiều với gia tốc khác nhau.
@@ -4159,7 +4159,7 @@ D. $\cos\alpha > \mu$.
 Lời giải
 Vật trượt khi $mg\sin\alpha > \mu mg\cos\alpha$, tức $\tan\alpha > \mu$.
 
-Câu 14. [VDC] Người đứng trên sàn thang máy đang đi xuống nhanh dần đều. So với trọng lượng $P$ của người, lực $N$ của sàn tác dụng lên người
+Câu 14. [VD] Người đứng trên sàn thang máy đang đi xuống nhanh dần đều. So với trọng lượng $P$ của người, lực $N$ của sàn tác dụng lên người
 A. lớn hơn $P$.
 *B. nhỏ hơn $P$.
 C. bằng $P$.
@@ -4207,7 +4207,7 @@ C. 5 N.
 Lời giải
 Gia tốc chung $a = \dfrac{10}{2 + 3} = 2$ m/s². Dây kéo vật $m_2$ nên $T = m_2a = 3 \cdot 2 = 6$ N.
 
-Câu 20. [VDC] Hai vật khối lượng 4 kg và 1 kg nối với nhau bằng dây nhẹ, không dãn vắt qua ròng rọc cố định nhẹ, bỏ qua ma sát. Lấy $g = 10$ m/s². Gia tốc của mỗi vật có độ lớn
+Câu 20. [VD] Hai vật khối lượng 4 kg và 1 kg nối với nhau bằng dây nhẹ, không dãn vắt qua ròng rọc cố định nhẹ, bỏ qua ma sát. Lấy $g = 10$ m/s². Gia tốc của mỗi vật có độ lớn
 A. 10 m/s².
 *B. 6 m/s².
 C. 7,5 m/s².
@@ -4223,7 +4223,7 @@ D. 2 m/s².
 Lời giải
 $a = g(\sin 37° - \mu\cos 37°) = 10 \cdot (0,6 - 0,25 \cdot 0,8) = 4$ m/s².
 
-Câu 22. [VDC] Người khối lượng 50 kg đứng trên sàn thang máy đang đi xuống nhanh dần đều với gia tốc 2 m/s². Lấy $g = 10$ m/s². Lực của sàn tác dụng lên người có độ lớn
+Câu 22. [VD] Người khối lượng 50 kg đứng trên sàn thang máy đang đi xuống nhanh dần đều với gia tốc 2 m/s². Lấy $g = 10$ m/s². Lực của sàn tác dụng lên người có độ lớn
 *A. 400 N.
 B. 600 N.
 C. 500 N.
@@ -4263,7 +4263,7 @@ Câu 26. [TF] [VD] Vật khối lượng 2 kg trượt từ trạng thái nghỉ
 Lời giải
 $N = mg\cos 37° = 16$ N; $F_{ms} = 0,5 \cdot 16 = 8$ N; $a = \dfrac{mg\sin 37° - F_{ms}}{m} = \dfrac{12 - 8}{2} = 2$ m/s²; $s = \dfrac{1}{2} \cdot 2 \cdot 3^2 = 9$ m.
 
-Câu 27. [TF] [VDC] Hai vật khối lượng 1 kg và 3 kg nối với nhau bằng dây nhẹ, không dãn vắt qua ròng rọc cố định nhẹ, bỏ qua ma sát, lấy $g = 10$ m/s²:
+Câu 27. [TF] [VD] Hai vật khối lượng 1 kg và 3 kg nối với nhau bằng dây nhẹ, không dãn vắt qua ròng rọc cố định nhẹ, bỏ qua ma sát, lấy $g = 10$ m/s²:
 *A. Gia tốc của mỗi vật có độ lớn 5 m/s².
 B. Lực căng của dây có độ lớn 30 N.
 *C. Lực căng của dây có độ lớn 15 N.
@@ -4271,7 +4271,7 @@ D. Lực căng của dây có độ lớn 10 N.
 Lời giải
 $a = \dfrac{(3 - 1) \cdot 10}{4} = 5$ m/s². Với vật 1 kg: $T - 10 = 1 \cdot 5$ nên $T = 15$ N (kiểm tra với vật 3 kg: $30 - T = 3 \cdot 5$, $T = 15$ N).
 
-Câu 28. [TF] [VDC] Người khối lượng 60 kg đứng trên sàn thang máy đang đi lên chậm dần đều với gia tốc 2 m/s², lấy $g = 10$ m/s²:
+Câu 28. [TF] [VD] Người khối lượng 60 kg đứng trên sàn thang máy đang đi lên chậm dần đều với gia tốc 2 m/s², lấy $g = 10$ m/s²:
 *A. Hợp lực tác dụng lên người hướng xuống.
 *B. Lực của sàn tác dụng lên người có độ lớn 480 N.
 *C. Lực của sàn tác dụng lên người nhỏ hơn trọng lượng của người.
@@ -7245,7 +7245,7 @@ D. $1,5 \cdot 10^{-2}$ m/s².
 Lời giải
 $T = 365 \cdot 86400 \approx 3,15 \cdot 10^7$ s nên $a_{ht} = \dfrac{4\pi^2 r}{T^2} = \dfrac{4\pi^2 \cdot 1,5 \cdot 10^{11}}{(3,15 \cdot 10^7)^2} \approx 6,0 \cdot 10^{-3}$ m/s².
 
-Câu 19. [VDC] Buộc một quả cầu khối lượng 0,3 kg vào đầu sợi dây dài 1,0 m rồi quay trong mặt phẳng thẳng đứng. Khi quả cầu qua điểm thấp nhất với tốc độ 4 m/s, lấy $g = 10$ m/s², lực căng của dây khi đó là
+Câu 19. [VD] Buộc một quả cầu khối lượng 0,3 kg vào đầu sợi dây dài 1,0 m rồi quay trong mặt phẳng thẳng đứng. Khi quả cầu qua điểm thấp nhất với tốc độ 4 m/s, lấy $g = 10$ m/s², lực căng của dây khi đó là
 A. 1,8 N.
 B. 3,0 N.
 C. 4,8 N.

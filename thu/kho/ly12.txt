@@ -147,7 +147,7 @@ C. Không đổi vì khối lượng không đổi.
 Lời giải
 $V_đ/V_n = \dfrac{\rho_n}{\rho_đ} = \dfrac{1000}{920} \approx 1,087$, tức thể tích tăng khoảng 8,7 %. Vì vậy chai kín đầy nước có thể bị nứt.
 
-Câu 19. [VDC] Một khối nước đá nổi trong nước. Cho khối lượng riêng của nước đá là 920 kg/m³ và của nước là 1000 kg/m³. Phần trăm thể tích khối nước đá chìm trong nước là
+Câu 19. [VD] Một khối nước đá nổi trong nước. Cho khối lượng riêng của nước đá là 920 kg/m³ và của nước là 1000 kg/m³. Phần trăm thể tích khối nước đá chìm trong nước là
 A. 8 %.
 B. 50 %.
 *C. 92 %.
